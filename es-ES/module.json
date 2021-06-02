@@ -1,0 +1,27 @@
+{
+  "name": "translation-D35E-compendium-es",
+  "title": "Translation: Spanish [D&D 3.5] Compendiums",
+  "description": "Add Spanish language translations to D35E compendiums for FoundryVTT.",
+  "version": "0.0.1",
+  "minimumCoreVersion" : "0.7.9",
+  "compatibleCoreVersion": "0.8.6",
+
+  "systems": [
+    "D35E"
+  ],
+
+  "dependencies": [{
+    "name": "babele",
+    "type": "module"
+  }],
+
+  "author": "Several authors",
+  "esmodules": ["babele-register.js"],
+  "scripts": [],
+
+  "packs": [],
+
+  "url": "https://github.com/irbian/foundryvtt-D35E-lang-es-es",
+  "manifest": "https://raw.githubusercontent.com/irbian/foundryvtt-D35E-lang-es-es/master/es-ES/module.json",
+  "download": "https://github.com/irbian/foundryvtt-dnd35e-lang-es-es/archive/refs/heads/master.zip"
+}
