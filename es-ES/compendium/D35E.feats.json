@@ -74,7 +74,7 @@
         "Multiattack": {
             "name": "Ataque Múltiple (Multiattack)",
             "original": "Multiattack",
-            "description": "<i><p>Esta criatura es particularmente hábil haciendo ataques con sus armas naturales. Prerrequisitos: tres o más ataques naturales.</p></i><h4><b>Beneficio:</b></h4><p>Los ataques secundarios de la criatura con armas naturales sólo tienen un penalizador -2.</p><h4><b>Normal:</b></h4><p>Sin esta dote, los ataques naturales de la criatura tienen un penalizador -5.</p>"
+            "description": "<i><p>Esta criatura es particularmente hábil haciendo ataques con sus armas naturales. </p></i><h4><b>Prerrequisitos</b></h4><p>Tres o más ataques naturales.</p><h4><b>Beneficio:</b></h4><p>Los ataques secundarios de la criatura con armas naturales sólo tienen un penalizador -2.</p><h4><b>Normal:</b></h4><p>Sin esta dote, los ataques naturales de la criatura tienen un penalizador -5.</p>"
         },
         "Still Spell": {
             "name": "Conjurar Sin Moverse (Still Spell)",
@@ -329,7 +329,7 @@
         "Flyby Attack": {
             "name": "Ataque En Vuelo (Flyby Attack)",
             "original": "Flyby Attack",
-            "description": "<i><p>La criatura puede hacer un ataque antes y después de su movimiento mientras vuela.</p></i><h4><b>Prerrequisitos</b></h4><p>Velocidad de vuelo.</p><h4><b>Beneficio:</b></h4><p>Cuando vuela, la criatura puede hacer una acción de movimiento y otra acción estándar en cualquier punto durante su movimiento. La criatura no puede hacer una segunda acción de movimiento durante un asalto en el que hace un ataque en vuelo</p><h4><b>Normal:</b></h4><p>Sin esta dote, la criatura hace una acción estándar antes o después de su movimiento.</p>"
+            "description": "<i><p>La criatura puede hacer un ataque antes y después de su movimiento mientras vuela.</p></i><h4><b>Prerrequisitos</b></h4><p>Velocidad de vuelo.</p><h4><b>Beneficio:</b></h4><p>Cuando vuela, la criatura puede hacer una acción de movimiento y otra acción estándar en cualquier punto durante su movimiento. La criatura no puede hacer una segunda acción de movimiento durante un asalto en el que hace un ataque en vuelo.</p><h4><b>Normal:</b></h4><p>Sin esta dote, la criatura hace una acción estándar antes o después de su movimiento.</p>"
         },
         "Improved Favored Enemy": {
             "name": "Enemigo Predilecto Mejorado (Improved Favored Enemy)",
@@ -434,7 +434,7 @@
         "Animal Affinity": {
             "name": "Afinidad Animal (Animal Affinity)",
             "original": "Animal Affinity",
-            "description": "<i><p>Eres hábil trabajando con animales y monturas.</p></i><h4><b>Beneficio:</b></h4><p>Obtienes un bonificador +2 a todas las pruebas de Trato con</p><p>Animales y Montar. Si tienes 10 o más rangos en una de esas habilidades, el bonificador se incrementa a +4 en esa habilidad.</p>"
+            "description": "<i><p>Eres hábil trabajando con animales y monturas.</p></i><h4><b>Beneficio:</b></h4><p>Obtienes un bonificador +2 a todas las pruebas de Trato con Animales y Montar. Si tienes 10 o más rangos en una de esas habilidades, el bonificador se incrementa a +4 en esa habilidad.</p>"
         },
         "Enlarge Spell": {
             "name": "Ampliar Conjuro (Enlarge Spell)",
@@ -539,7 +539,7 @@
         "Improved Overrun": {
             "name": "Arrollar Mejorado (Improved Overrun)",
             "original": "Improved Overrun",
-            "description": "<i><p>Eres experto en pasar por encima a tus enemigos.</p></i><h4><b>Prerrequisitos</b></h4><p>Fuerza 13, Ataque poderoso, ataque base +1.</p><h4><b>Beneficio:</b></h4><p>No provocas un ataque de oportunidad cuando realizas una maniobra de combate de arrollar. Además, recibes un bonificador +2 a las pruebas para arrollar a un enemigo. También recibes un bonificador +2 a tu</p><p>Defensa contra Maniobras de Combate cada vez que un oponente intente arrollarte. Los objetivos de tu intento de arrollar no pueden elegir evitarte.</p><h4><b>Normal:</b></h4><p>Provocas un ataque de oportunidad cuando realizas una maniobra de combate de arrollar.</p>"
+            "description": "<i><p>Eres experto en pasar por encima a tus enemigos.</p></i><h4><b>Prerrequisitos</b></h4><p>Fuerza 13, Ataque poderoso, ataque base +1.</p><h4><b>Beneficio:</b></h4><p>No provocas un ataque de oportunidad cuando realizas una maniobra de combate de arrollar. Además, recibes un bonificador +2 a las pruebas para arrollar a un enemigo. También recibes un bonificador +2 a t efensa contra Maniobras de Combate cada vez que un oponente intente arrollarte. Los objetivos de tu intento de arrollar no pueden elegir evitarte.</p><h4><b>Normal:</b></h4><p>Provocas un ataque de oportunidad cuando realizas una maniobra de combate de arrollar.</p>"
         },
         "Power Attack": {
             "name": "Ataque Poderoso (Power Attack)",
@@ -639,7 +639,7 @@
         "Armor Proficiency (Light)": {
             "name": "Competencia Con Armadura (Armor Proficiency (Light))",
             "original": "Armor Proficiency (Light)",
-            "description": "<i><p>Eres competente en el uso de armaduras ligeras.</p></i><h4><b>Beneficio:</b></h4><p>Cuando llevas un tipo de armadura con el que eres competente, el penalizador de armadura sólo se aplica a las pruebas de Abrir cerraduras,</p><p>Equilibrio, Escapismo, Esconderse, juego de manos, Moverse sigilosamente,</p><p>Piruetas, Saltar y Trepar.</p><h4><b>Normal:</b></h4><p>Un personaje que vista armadura en cuyo uso no es competente sufre el correspondiente penalizador de armadura en las tiradas de ataque, y en todas las pruebas de habilidad que impliquen movimiento incluidas las de Montar.</p><h4><b>Especial:</b></h4><p>Todas las clases de personaje, excepto los hechiceros, magos y monjes, obtienen Competencia con armadura (ligera) como dote adicional, por lo que no necesitan elegirla.</p>"
+            "description": "<i><p>Eres competente en el uso de armaduras ligeras.</p></i><h4><b>Beneficio:</b></h4><p>Cuando llevas un tipo de armadura con el que eres competente, el penalizador de armadura sólo se aplica a las pruebas de Abrir cerraduras, Equilibrio, Escapismo, Esconderse, juego de manos, Moverse sigilosamente, Piruetas, Saltar y Trepar.</p><h4><b>Normal:</b></h4><p>Un personaje que vista armadura en cuyo uso no es competente sufre el correspondiente penalizador de armadura en las tiradas de ataque, y en todas las pruebas de habilidad que impliquen movimiento incluidas las de Montar.</p><h4><b>Especial:</b></h4><p>Todas las clases de personaje, excepto los hechiceros, magos y monjes, obtienen Competencia con armadura (ligera) como dote adicional, por lo que no necesitan elegirla.</p>"
         },
         "Improved Unarmed Strike": {
             "name": "Impacto Sin Arma Mejorado (Improved Unarmed Strike)",
@@ -714,7 +714,7 @@
         "Combat Casting": {
             "name": "Conjurar En Combate (Combat Casting)",
             "original": "Combat Casting",
-            "description": "<i><p>Eres experto en el lanzamiento de conjuros cuando estás amenazado o distraído</p></i><h4><b>Beneficio:</b></h4><p>Obtienes un bonificador de +4 a las pruebas de concentración al lanzar conjuros o usar aptitudes sortílegas cuando conjures a la defensiva o mientras esté apresado.</p>"
+            "description": "<i><p>Eres experto en el lanzamiento de conjuros cuando estás amenazado o distraído.</p></i><h4><b>Beneficio:</b></h4><p>Obtienes un bonificador de +4 a las pruebas de concentración al lanzar conjuros o usar aptitudes sortílegas cuando conjures a la defensiva o mientras esté apresado.</p>"
         }
     }
 }
