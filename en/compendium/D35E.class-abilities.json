@@ -1,11 +1,5 @@
 {
 	"label": "Class Abilities",
-	"mapping": {
-        "name": {
-            "path": "name",
-            "converter": "nameWithOriginal"
-        }
-    },
 	"entries": {
 		"Abundant Step": {
 			"name": "Abundant Step",
