@@ -8,7 +8,7 @@ Hooks.on('init', () => {
         });
 
         Babele.get().registerConverters({
-            "nameWithOriginal": (original, translation) => { return original !== translation ? `${original} (${translation})` : translation; }
+            "nameWithOriginal": (original, translation) => { return original !== translation ? `${translation} (${original})` : translation; }
         });   
     }
 });

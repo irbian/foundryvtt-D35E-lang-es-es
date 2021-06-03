@@ -1,5 +1,11 @@
 {
 	"label": "Armas y munición (Weapons and Ammo)",
+	"mapping": {
+		"name": {
+			"path": "name",
+			"converter": "nameWithOriginal"
+		}
+	},
 	"entries": {
 		"Punching Dagger": {
 			"name": "Daga perforadora",
