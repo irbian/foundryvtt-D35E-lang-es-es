@@ -1,11 +1,5 @@
 {
 	"label": "Items",
-	"mapping": {
-        "name": {
-            "path": "name",
-            "converter": "nameWithOriginal"
-        }
-    },
 	"entries": {
 		"Acid": {
 			"name": "Acid",
