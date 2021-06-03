@@ -1,11 +1,5 @@
 {
 	"label": "Spells",
-	"mapping": {
-        "name": {
-            "path": "name",
-            "converter": "nameWithOriginal"
-        }
-    },
 	"entries": {
 		"Acid Arrow": {
 			"name": "Acid Arrow",
