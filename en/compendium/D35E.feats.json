@@ -1,5 +1,11 @@
 {
 	"label": "Feats",
+	"mapping": {
+        "name": {
+            "path": "name",
+            "converter": "nameWithOriginal"
+        }
+    },
 	"entries": {
 		"Ability Focus": {
 			"name": "Ability Focus",

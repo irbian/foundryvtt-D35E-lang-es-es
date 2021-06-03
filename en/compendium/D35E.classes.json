@@ -1,5 +1,11 @@
 {
 	"label": "Classes",
+	"mapping": {
+        "name": {
+            "path": "name",
+            "converter": "nameWithOriginal"
+        }
+    },
 	"entries": {
 		"Adept (NPC)": {
 			"name": "Adept (NPC)",

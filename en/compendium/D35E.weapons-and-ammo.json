@@ -1,5 +1,11 @@
 {
 	"label": "Weapons and Ammo",
+	"mapping": {
+        "name": {
+            "path": "name",
+            "converter": "nameWithOriginal"
+        }
+    },
 	"entries": {
 		"Armor Spikes": {
 			"name": "Armor Spikes",

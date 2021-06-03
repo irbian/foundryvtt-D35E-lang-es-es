@@ -6,5 +6,9 @@ Hooks.on('init', () => {
             lang: 'es',
             dir: 'compendium'
         });
+
+        Babele.get().registerConverters({
+            "nameWithOriginal": (original, translation) => { return original !== translation ? `${original} (${translation})` : translation; }
+        });   
     }
 });
