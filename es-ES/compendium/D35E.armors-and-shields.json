@@ -1,11 +1,11 @@
 {
 	"label": "Armor and Shields",
 	"mapping": {
-        "name": {
-            "path": "name",
-            "converter": "nameWithOriginal"
-        }
-    },
+		"name": {
+			"path": "name",
+			"converter": "nameWithOriginal"
+		}
+	},
 	"entries": {
 		"Banded Mail": {
 			"name": "Banded Mail",
