@@ -1,0 +1,3 @@
+files:
+  - source: /en/compendium/*.json
+    translation: /%locale%/compendium/%original_file_name%
