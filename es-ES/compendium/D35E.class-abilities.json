@@ -24,15 +24,15 @@
 			"description": "<div class=\"spell-description\">\n  <p>\n    <strong>School</strong>&nbsp;miscellaneous;\n    <strong>Level</strong>&nbsp;Sorcerer 7, Wizard 7;\n    \n    \n    \n    \n  </p>\n  <p>\n    \n    \n  </p>\n  <p>\n    \n    \n    \n    \n    \n    \n    \n    <strong>Saving Throw</strong>&nbsp;none;&nbsp;<strong>Spell Resistance</strong>&nbsp;yes<br>\n  </p>\n  <h2>Description</h2>\n  <p>The archmage can use spells with a range of touch on a target up to 30 feet away. The archmage must make a ranged touch attack.&nbsp;Arcane reach can be selected a second time as a special ability, in which case the range increases to 60 feet. This ability costs one 7th-level spell slot.</p>\n</div>\n"
 		},
 		"Armor Proficiency (Heavy)": {
-			"name": "Armor Proficiency (Heavy)",
+			"name": "Competencia Con Armadura",
 			"description": "<p>When you wear a type of armor with which you are proficient, the armor check penalty for that armor applies only to Balance, Climb, Escape Artist, Hide, Jump, Move Silently, Sleight of Hand, and Tumble checks.</p>"
 		},
 		"Armor Proficiency (Light)": {
-			"name": "Armor Proficiency (Light)",
+			"name": "Competencia Con Armadura",
 			"description": "<p>When you wear a type of armor with which you are proficient, the armor check penalty for that armor applies only to Balance, Climb, Escape Artist, Hide, Jump, Move Silently, Sleight of Hand, and Tumble checks.</p>"
 		},
 		"Armor Proficiency (Medium)": {
-			"name": "Armor Proficiency (Medium)",
+			"name": "Competencia Con Armadura",
 			"description": "<p>When you wear a type of armor with which you are proficient, the armor check penalty for that armor applies only to Balance, Climb, Escape Artist, Hide, Jump, Move Silently, Sleight of Hand, and Tumble checks.</p>"
 		},
 		"Arrow of Death": {
@@ -176,7 +176,7 @@
 			"description": ""
 		},
 		"Endurance": {
-			"name": "Endurance",
+			"name": "Aguante",
 			"description": "<h3><span id=\"Benefit\" class=\"mw-headline\">Benefit</span></h3>\n<p>You gain a +4 bonus on the following checks and saves: Swim checks made to resist nonlethal damage, Constitution checks made to continue running, Constitution checks made to avoid nonlethal damage from a forced march, Constitution checks made to hold your breath, Constitution checks made to avoid nonlethal damage from starvation or thirst, Fortitude saves made to avoid nonlethal damage from hot or cold environments, and Fortitude saves made to resist damage from suffocation. Also, you may sleep in light or medium armor without becoming fatigued.</p>\n<h3><span id=\"Normal\" class=\"mw-headline\">Normal</span></h3>\n<p>A character without this feat who sleeps in medium or heavier armor is automatically fatigued the next day.</p>\n<h3><span id=\"Special\" class=\"mw-headline\">Special</span></h3>\n<p>A ranger automatically gains Endurance as a bonus feat at 3rd level. He need not select it.</p>\n<p>&nbsp;</p>"
 		},
 		"Enhance Arrow": {
@@ -292,7 +292,7 @@
 			"description": "<p>This is a&nbsp;&nbsp;semisolid blade composed of psychic energy distilled from Soulknife mind. It functions as a short sword.</p>\n<p>This attack has Weapon Focus and Greater Weapon Focus (if Soulknife is at level 8+) applied.&nbsp;</p>"
 		},
 		"Multiattack": {
-			"name": "Multiattack",
+			"name": "Ataque Múltiple",
 			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Prerequisite\">Prerequisite</span></h3>\n<p>Three or more natural attacks.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>The creature’s secondary attacks with natural weapons take only a –2 penalty.\n</p>\n<h3><span class=\"mw-headline\" id=\"Normal\">Normal</span></h3>\n<p>Without this feat, the creature’s secondary attacks with natural weapons take a –5 penalty.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Nature Sense": {
@@ -360,7 +360,7 @@
 			"description": "<p>The assassin gains a natural saving throw bonus to all poisons gained at 2nd level that increases by +1 for every two additional levels the assassin gains.</p>"
 		},
 		"Scribe Scroll": {
-			"name": "Scribe Scroll",
+			"name": "Inscribir Rollo De Pergamino",
 			"description": "<h3><span id=\"Prerequisite\" class=\"mw-headline\">Prerequisite</span></h3>\n<p>Caster level 1st.</p>\n<h3><span id=\"Benefit\" class=\"mw-headline\">Benefit</span></h3>\n<p>You can create a scroll of any spell that you know. Scribing a scroll takes one day for each 1,000 gp in its base price. The base price of a scroll is its spell level × its caster level × 25 gp. To scribe a scroll, you must spend 1/25 of this base price in XP and use up raw materials costing one-half of this base price.</p>\n<p>Any scroll that stores a spell with a costly material component or an XP cost also carries a commensurate cost. In addition to the costs derived from the base price, you must expend the material component or pay the XP when scribing the scroll.</p>\n<p>&nbsp;</p>"
 		},
 		"Seeker Arrow": {
@@ -380,11 +380,11 @@
 			"description": "<p>At the master&rsquo;s option, he may have any spell (but not any spell-like ability) he casts on himself also affect his familiar. The familiar must be within 5 feet at the time of casting to receive the benefit.</p>\n<p>If the spell or effect has a duration other than instantaneous, it stops affecting the familiar if it moves farther than 5 feet away and will not affect the familiar again even if it returns to the master before the duration expires. Additionally, the master may cast a spell with a target of &ldquo;You&rdquo; on his familiar (as a touch range spell) instead of on himself.</p>\n<p>A master and his familiar can share spells even if the spells normally do not affect creatures of the familiar&rsquo;s type (magical beast).</p>"
 		},
 		"Shield Proficiency": {
-			"name": "Shield Proficiency",
+			"name": "Competencia Con Escudo",
 			"description": "<p>You can use a shield and take only the standard penalties. When you are using a shield with which you are not proficient, you take the shield&rsquo;s armor check penalty on attack rolls and on all skill checks that involve moving, including Ride checks.</p>"
 		},
 		"Simple Weapon Proficiency": {
-			"name": "Simple Weapon Proficiency",
+			"name": "Competencia Con Armas Sencillas",
 			"description": "<p>You make attack rolls with simple weapons normally. When using a weapon with which you are not proficient, you take a –4 penalty on attack rolls.</p>"
 		},
 		"Skill Mastery": {
@@ -460,11 +460,11 @@
 			"description": "<p>At 13th level, a druid gains the ability to change her appearance at will, as if using the @Compendium[D35E.spells.q1oxGkhKHoXO1uBb]{Alter Self} spell, but only while in her normal form.</p>"
 		},
 		"Tower Shield Proficiency": {
-			"name": "Tower Shield Proficiency",
+			"name": "Competencia Con Escudo Pavés",
 			"description": "<p>You can use a tower shield and suffer only the standard penalties.When you are using a shield with which you are not proficient, you take the shield’s armor check penalty on attack rolls and on all skill checks that involve moving, including Ride checks.</p>\n<p>&nbsp;</p>"
 		},
 		"Track": {
-			"name": "Track",
+			"name": "Rastrear",
 			"description": "<h3><span id=\"Benefit\" class=\"mw-headline\">Benefit</span></h3>\n<p>To find tracks or to follow them for 1 mile requires a successful Survival check. You must make another Survival check every time the tracks become difficult to follow.</p>\n<p>You move at half your normal speed (or at your normal speed with a –5 penalty on the check, or at up to twice your normal speed with a –20 penalty on the check). The DC depends on the surface and the prevailing conditions, as given on the table below:</p>\n<table class=\"d20\">\n<tbody>\n<tr>\n<th>Surface</th>\n<th>Survival DC</th>\n</tr>\n<tr class=\"odd\">\n<td>Very soft ground</td>\n<td>5</td>\n</tr>\n<tr class=\"even\">\n<td>Firm ground</td>\n<td>15</td>\n</tr>\n<tr class=\"odd\">\n<td>Soft ground</td>\n<td>10</td>\n</tr>\n<tr class=\"even\">\n<td>Hard ground</td>\n<td>20</td>\n</tr>\n</tbody>\n</table>\n<p><em><span id=\"Very_Soft_Ground\" class=\"mw-headline\">Very Soft Ground</span></em></p>\n<p>Any surface (fresh snow, thick dust, wet mud) that holds deep, clear impressions of footprints.</p>\n<p><em><span id=\"Soft_Ground\" class=\"mw-headline\">Soft Ground</span></em></p>\n<p>Any surface soft enough to yield to pressure, but firmer than wet mud or fresh snow, in which a creature leaves frequent but shallow footprints.</p>\n<p><em><span id=\"Firm_Ground\" class=\"mw-headline\">Firm Ground</span></em></p>\n<p>Most normal outdoor surfaces (such as lawns, fields, woods, and the like) or exceptionally soft or dirty indoor surfaces (thick rugs and very dirty or dusty floors). The creature might leave some traces (broken branches or tufts of hair), but it leaves only occasional or partial footprints.</p>\n<p><em><span id=\"Hard_Ground\" class=\"mw-headline\">Hard Ground</span></em></p>\n<p>Any surface that doesn’t hold footprints at all, such as bare rock or an indoor floor. Most streambeds fall into this category, since any footprints left behind are obscured or washed away. The creature leaves only traces (scuff marks or displaced pebbles).</p>\n<p>Several modifiers may apply to the Survival check, as given on the table below.</p>\n<table class=\"d20 minimize\">\n<tbody>\n<tr>\n<th align=\"left\">Condition</th>\n<th>Survival<br>DC Modifier</th>\n</tr>\n<tr>\n<td align=\"left\">Every three creatures in the group being tracked</td>\n<td>–1</td>\n</tr>\n<tr class=\"even\">\n<td align=\"left\">Size of creature or creatures being tracked:<sup>1</sup></td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Fine</td>\n<td>+8</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Diminutive</td>\n<td>+4</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Tiny</td>\n<td>+2</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Small</td>\n<td>+1</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Medium</td>\n<td>+0</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Large</td>\n<td>–1</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Huge</td>\n<td>–2</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Gargantuan</td>\n<td>–4</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Colossal</td>\n<td>–8</td>\n</tr>\n<tr class=\"even\">\n<td align=\"left\">Every 24 hours since the trail was made</td>\n<td>+1</td>\n</tr>\n<tr>\n<td align=\"left\">Every hour of rain since the trail was made</td>\n<td>+1</td>\n</tr>\n<tr class=\"even\">\n<td align=\"left\">Fresh snow cover since the trail was made</td>\n<td>+10</td>\n</tr>\n<tr>\n<td align=\"left\">Poor visibility:<sup>2</sup></td>\n<td>&nbsp;</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Overcast or moonless night</td>\n<td>+6</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Moonlight</td>\n<td>+3</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Fog or precipitation</td>\n<td>+3</td>\n</tr>\n<tr>\n<td align=\"left\">Tracked party hides trail (and moves at half speed)</td>\n<td>+5</td>\n</tr>\n<tr>\n<td class=\"foot\" colspan=\"2\">\n<ol>\n<li>For a group of mixed sizes, apply only the modifier for the largest size category.</li>\n<li>Apply only the largest modifier from this category.</li>\n</ol>\n</td>\n</tr>\n</tbody>\n</table>\n<p>If you fail a Survival check, you can retry after 1 hour (outdoors) or 10 minutes (indoors) of searching.</p>\n<h3><span id=\"Normal\" class=\"mw-headline\">Normal</span></h3>\n<p>Without this feat, you can use the Survival skill to find tracks, but you can follow them only if the DC for the task is 10 or lower. Alternatively, you can use the Search skill to find a footprint or similar sign of a creature’s passage using the DCs given above, but you can’t use Search to follow tracks, even if someone else has already found them.</p>\n<h3><span id=\"Special\" class=\"mw-headline\">Special</span></h3>\n<p>A ranger automatically has Track as a bonus feat. He need not select it.</p>\n<p>This feat does not allow you to find or follow the tracks made by a subject of a <em>pass without trace </em>spell.</p>\n<p>&nbsp;</p>"
 		},
 		"Trackless Step": {
