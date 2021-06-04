@@ -2,7 +2,7 @@
 	"label": "Dotes (Feats)",
 	"mapping": {
 		"name": {
-			"path": "name",
+			"path": "nombre",
 			"converter": "nameWithOriginal"
 		}
 	},
@@ -16,8 +16,8 @@
 			"description": "<i><p>Eres un experto en saltar, brincar y volar.</p></i><h4><b>Beneficio:</b></h4><p>Obtienes un bonificador de +2 en todas las pruebas de Acrobacias y Volar. Si tienes 10 o más rangos en una de estas habilidades, el bonificador se incrementa a +4 en esa habilidad.</p>"
 		},
 		"Additional Magic Item Space": {
-			"name": "Additional Magic Item Space",
-			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>Choose one type of magic item that has a limit on the number a character can simultaneously wear and gain its benefit. The character can now wear one more magic item of this type and also gain its benefit.\n</p>\n<h3><span class=\"mw-headline\" id=\"Normal\">Normal</span></h3>\n<p>Without this feat, a character is limited to one headband, hat, or helmet; one pair of eye lenses or goggles; one cloak, cape, or mantle; one amulet, brooch, medallion, necklace, periapt, or scarab; one suit of armor; one robe; one vest, vestment, or shirt; one pair of bracers or bracelets; one pair of gloves or gauntlets; two rings; one belt; and one pair of boots.\n</p>\n<h3><span class=\"mw-headline\" id=\"Special\">Special</span></h3>\n<p>A character can gain this feat multiple times. Each time the character takes the feat, it applies to a new type of wearable magic item.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
+			"name": "Espacio adicional de objetos mágicos",
+			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Benefit\">Beneficio</span></h3>\n<p>Elige un tipo de objeto mágico que tenga un límite en el número que un personaje puede usar simultáneamente y obtener sus beneficios. El personaje ahora puede usar un objeto mágico más de este tipo y también obtener su beneficio.\n</p>\n<h3><span class=\"mw-headline\" id=\"Normal\">Normal</span></h3>\n<p>Sin esta dote, un personaje está limitado a una diadema, sombrero o casco; un par de lentes para los ojos o gafas protectoras; una capa, capa o manto; un amuleto, broche, medallón, collar, periapt o escarabajo; una armadura; una túnica un chaleco, vestimenta o camisa; un par de brazales o brazaletes; un par de guantes o guanteletes; dos anillos; un cinturón y un par de botas.\n</p>\n<h3><span class=\"mw-headline\" id=\"Special\">Especial</span></h3>\n<p>Un personaje puede obtener esta dote varias veces. Cada vez que el personaje realiza la dote, se aplica a un nuevo tipo de objeto mágico portátil.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Agile": {
 			"name": "Ágil",
@@ -28,16 +28,16 @@
 			"description": "<i><p>A menudo te das cuenta de cosas que los demás pasan por alto.</p></i><h4><b>Beneficio:</b></h4><p>Obtienes un bonificador de +2 a la Percepción y Averiguar</p><p>Intenciones. Si tienes 10 o más rangos en una de esas habilidades, el bonificador se incrementa a +4 en esa habilidad.</p>"
 		},
 		"Aligned Attack": {
-			"name": "Aligned Attack",
-			"description": "\n\n\n<p>Your melee or ranged attack overcomes your opponent’s alignment-based damage reduction and deals additional damage.\n</p>\n<h3><span class=\"mw-headline\" id=\"Prerequisite\">Prerequisite</span></h3>\n<p>Base attack bonus +6.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>When you take this feat, choose either chaos, good, evil or law. (Your choice must match one of your alignment components. Once you’ve made this alignment choice, it cannot be changed.\n</p><p>To use this feat, you must expend your psionic focus. When you make a successful melee or ranged attack, you deal an extra 1d6 points of damage, and your attack is treated as either a good, evil, chaotic, or lawful attack (depending on your original choice) for the purpose of overcoming damage reduction.\n</p><p>You must decide whether or not to use this feat prior to making an attack. If your attack misses, you still expend your psionic focus.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
+			"name": "Ataque Alineado",
+			"description": "\n\n\n<p>Tu ataque cuerpo a cuerpo o a distancia supera la reducción de daño basado en el alineamiento del oponente e inflige daño adicional.\n</p>\n<h3><span class=\"mw-headline\" id=\"Prerequisite\">Prerrequisito</span></h3>\n<p>Bono de Ataque Base +6.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Beneficios</span></h3>\n<p>Cuando tome esta función, elegir entre el caos, el bien, el mal o la ley. (Su elección debe coincidir con uno de sus componentes de alineación. Una vez que haya hecho esta opción de alineación, no se puede cambiar.\n</p><p>Para usar esta función, debe añadir su enfoque psiónico. Cuando hagas un ataque cuerpo a cuerpo o a distancia exitoso, infliges un 1d6 puntos de daño extra y tu ataque es tratado como un ataque bien, ataque malvado, caótico o legal (dependiendo de su elección original) con el propósito de superar la reducción de daño.\n</p><p>Debes decidir si usar o no esta dote antes de hacer un ataque. Si el ataque no se produce, todavía se emplea el enfoque psiónico.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Animal Affinity": {
 			"name": "Afinidad Animal",
 			"description": "<i><p>Eres hábil trabajando con animales y monturas.</p></i><h4><b>Beneficio:</b></h4><p>Obtienes un bonificador +2 a todas las pruebas de Trato con Animales y Montar. Si tienes 10 o más rangos en una de esas habilidades, el bonificador se incrementa a +4 en esa habilidad.</p>"
 		},
 		"Antipsionic Magic": {
-			"name": "Antipsionic Magic",
-			"description": "\n\n\n<p>Your spells are more potent when used against psionic characters and creatures.\n</p>\n<h3><span class=\"mw-headline\" id=\"Prerequisite\">Prerequisite</span></h3>\n<p>Spellcraft 5 ranks.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>You get a get a +2 bonus on caster level checks made to overcome a psionic creature’s power resistance.\n</p><p>This bonus stacks with the bonus conferred by Spell Penetration and Greater Spell Penetration. Moreover, whenever a psionic creature attempts to dispel a spell you cast, it makes its manifester level check against a DC of 13 + its manifester level.\n</p><p>The benefits of this feat apply only to power resistance.\n</p><p>The bonus does not apply to spell resistance. This is an exception to the psionics–magic transparency rule.\n</p>\n<h3><span class=\"mw-headline\" id=\"Special\">Special</span></h3>\n<p>You cannot take or use this feat if you have the ability to use powers (if you have a power point reserve or psi-like abilities).\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
+			"name": "Magia Antipsiónica",
+			"description": "\n\n\n<p>Tus hechizos son más potentes cuando se usan contra personajes o criaturas pshiónicas.\n</p>\n<h3><span class=\"mw-headline\" id=\"Prerequisite\">Prerrequisitos</span></h3>\n<p>Espellcraft 5 rangos.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Beneficios</span></h3>\n<p>Obtienes un bono de +2 en las comprobaciones de nivel de lanzador hechas para superar la resistencia de poder de una criatura psiónica.\n</p><p>Este bono se acumula con el bono conferido por Penetración de Hechizo y Penetración de Hechizo Grande. Además, cada vez que una criatura psiónica intenta disipar un hechizo que lanzas, hace que su nivel de manifiesto contra un DC de 13 + su nivel manifiesto.\n</p><p>Los beneficios de esta dote sólo se aplican a la resistencia a la energía.\n</p><p>El bono no se aplica a la resistencia a hechizos. Esta es una excepción a la regla de transparencia psiónica-mágica.\n</p>\n<h3><span class=\"mw-headline\" id=\"Special\">Especial</span></h3>\n<p>No puedes tomar o usar esta dote si tienes la habilidad de usar poderes (si tienes una reserva de puntos de energía o habilidades de tipo psi).\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Armor Proficiency (Heavy)": {
 			"name": "Competencia Con Armadura",
