@@ -89,74 +89,74 @@
 		},
 		"Caltrops": {
 			"name": "Abrojos",
-			"description": "<p>Un abrojo es una púa de hierro de cuatro puntas elaborada de modo que una de las puntas quede hacia arriba sin importar cómo se detenga el abrojo. Esparces abrojos por el suelo con la esperanza de que tus enemigos los pisen o al menos se vean obligados a reducir la velocidad para evitarlos. Una bolsa de 2 libras de abrojos cubre un área de 5 pies cuadrados. Cada vez que una criatura se mueve a un área cubierta por abrojos (o pasa una ronda luchando mientras está parada en ese área), puede pisar uno. Los abrojos hacen una tirada de ataque (bonificación de ataque base +0) contra la criatura. Para este ataque, las bonificaciones de escudo, armadura y deflexión de&rsquo;(La desviación evita los golpes cuando se acercan, pero no evita que una criatura toque algo peligroso.) Si la criatura lleva zapatos u otro calzado, obtiene un bonificador de armadura de +2 a la CA. Si los abrojos tienen éxito en el ataque, la criatura ha pisado uno. El abrojo inflige 1 punto de daño y la&rsquo;s se reduce a la mitad porque su pie está herido. Esta penalización de movimiento dura 24 horas, o hasta que la criatura sea tratada con éxito con una prueba de Curación CD 15, o hasta que reciba al menos 1 punto de curación mágica. Una criatura que carga o corre debe detenerse inmediatamente si pisa un abrojo. Cualquier criatura que se mueva a la mitad de la velocidad o menos puede abrirse camino a través de un lecho de abrojos sin problemas. El DJ juzga la efectividad de los abrojos contra oponentes inusuales. Un pequeño ciempiés monstruoso, por ejemplo, puede deslizarse a través de un área que contiene abrojos sin posibilidad de lastimarse, y un gigante de fuego con botas de tamaño gigante de fuego es inmune a abrojos de tamaño normal. (Sólo se atascan en las suelas de sus botas.)</p>"
+			"description": "<p>un abrojo es una pieza de metal en forma de estrella con cuatro brazos terminados en punta. Básicamente, se trata de objetos diseñados para que una de sus púas siempre apunte hacia arriba. Se dejan caer al suelo con la esperanza de que los enemigos los pisen o se vean obligados a frenar su carrera, lo cual permitiría dejarlos atrás. Una bolsa de aborjos de 2 libras cubre un área cuadrada de 5' de lado. \\n Cada vez que una criatura se meta en una zona en la que haya aborjos (o cada asalto que combata en ella), tendrá posibilidad de pisar uno de ellos. Se efectuará una tirada de ataque por los abrojos (ataque base +0) contra la criatura. En lo que se refiere a este ataque no contarán el escudo, ni la armadura, ni los bonificadores de desvio de la víctima (el desvio evita los ataques que se dirigen hacia tí, pero no te impide tocar las cosas peligrosas). Si la criatura lleva zapatos o algún otro tipo de calzado, obtendrá un bonificador de +2 de armadura a la CA. Si el ataque de los abrojos tiene éxito, la víctima habrá pisado uno de llos. El objeto infligirá 1 punto de daño, y la velocidad de la criatura quedará reducida a la mitad por tener herida la planta del pie. Esta penalizadión al movimiento dura 24 horas, hata que la criatura sea tratada con éxio con la habilidad de Sanar (CD 15) o hasta que reciba, como mínimo, 1 punto de curación mágica. una criatura que esté corriendo o cargando deberá detenerse inmediatamente en caso de pisar un abrojo. Toda criatura que se mueva a la mitad (o menos) de su velocidad normal, podrá salvar sin peligro una zona cubierta de abrojos. \\n El DM decidirá cual es la eficacia de estos objetos cuando se utilicen contra oponentes insólitos.. Un ciempiés monstruoso Pequeño, por ejemplo, pdoría psar entre los abrojos sin surir dañoalguno, y un gigante de fuego que llevara botas de tsu tampño pod´ria resultar inmunea a los abrojos de tamaño normal (simplemente, los objetos quedarían enganchados a la suelas.</p>"
 		},
 		"Candle": {
-			"name": "Cándalo",
+			"name": "Vela",
 			"description": "<p>Una vela ilumina un radio de 5 pies y se quema durante 1 hora. Vea la página 164 para más reglas sobre la iluminación.</p>"
 		},
 		"Canvas": {
 			"name": "Lona",
-			"description": "<p>Un yarda cuadrado de tela de lienzo. Se puede hacer en un saco o gurney impropio</p>"
+			"description": "<p>Un metro cuadrado de tela de lona. Potencialmente se puede convertir en un saco o camilla improvisados</p>"
 		},
 		"Case, map or scroll": {
-			"name": "Caso, mapa o desplazamiento",
-			"description": "<p>Este cuero tapizado o estaño contiene trozos de pergamino o papel.</p>"
+			"name": "Estuche para mapas o pergaminos",
+			"description": "<p>Este tubo de cuero o estaño cubierto contiene piezas enrolladas de pergamino o papel.</p>"
 		},
 		"Chain, 10 ft.": {
-			"name": "Chain, 10 pies.",
-			"description": "<p>La cadena tiene dureza 10 y 5 puntos de golpe. Puede ser estallada con una revisión de Fuerza de C2C.</p>"
+			"name": "Cadena, 10 pies.",
+			"description": "<p>La cadena tiene dureza 10 y 5 puntos de golpe. Puede ser estallada con una revisión de Fuerza de CD 26.</p>"
 		},
 		"Chalk": {
-			"name": "Calabaza",
-			"description": "<p>Una sola pieza de talla utilizada para gritar en superficies como roca o madera</p>"
+			"name": "Tiza",
+			"description": "<p>Un solo trozo de tiza que se usa para pintar en superficies como rocas o madera</p>"
 		},
 		"Chest": {
 			"name": "Cofre",
-			"description": "<p>Un cofre robusto para proteger las pertenencias no viene con un bloqueo.</p>"
+			"description": "<p>Un cofre resistente para guardar sus pertenencias, no viene con candado.</p>"
 		},
 		"Cleric’s vestments": {
-			"name": "Los vestidos de Cleric",
-			"description": "<p>Estas prendas eclesiásticas son para realizar funciones sacerdotales, no para aventurarse.</p>"
+			"name": "Vestimentas de clérigo",
+			"description": "<p>Estas ropas eclesiásticas son para realizar funciones sacerdotales, no para aventuras.</p>"
 		},
 		"Climber’s kit": {
 			"name": "Kit de escalador",
-			"description": "<p>El kit de un escalador incluye pitones especiales, consejos de bota, guantes y un arnés que ayuda en todo tipo de escalada. Esta es la herramienta perfecta para escalar y te da una bonificación de +2 en las comprobaciones de escalada.</p>"
+			"description": "<p>El kit de un escalador incluye pitones especiales, clavos para las botas, guantes y un arnés que resultarán de ayuda en todo tipo de escalada. Esta es la herramienta perfecta para escalar y te da una bonificación de +2 de circunstancia en las pruebas de trepar.</p>"
 		},
 		"Cold weather outfit": {
 			"name": "Atuendo de clima frío",
-			"description": "<p>Un traje de clima frío incluye un abrigo de lana, una camisa de lino, una gorra de lana, una capa pesada, pantalones gruesos o una desliz y botas. Este traje otorga un bono de +5 en los lanzamientos de ahorro de fortaleza contra la exposición al clima frío (vea la Guía del Maestro de la Mazmorra para obtener información sobre los peligros en frío).</p>"
+			"description": "<p>Un traje de clima frío incluye un abrigo de lana, una camisa de lino, una gorra de lana, una capa pesada, pantalones gruesos o una falda y botas. Este traje otorga un bono de circunstancia de +5 en los Tiros de salvación de fortaleza contra la exposición al clima frío (vea la Guía del Maestro de la Mazmorra para obtener información sobre los peligros del frío).</p>"
 		},
 		"Courtier’s outfit": {
-			"name": "Atuendo de Courtier",
-			"description": "<p>Este traje incluye ropa elegante y hecha a medida de la manera que resulte ser el estilo actual en las cortes de los nobles. Cualquiera que trate de influir en nobles o cortesanos mientras usa el vestuario de la calle tendrá un tiempo difícil (-2 sanciones sobre las comprobaciones de habilidades basadas en Charisma para influir en tales individuos). Si llevas este atuendo sin joyas (costando 50 gp adicional), parecerás un común fuera de lugar.</p>"
+			"name": "Muda de cortesano",
+			"description": "<p>prendas de lujo, hechas a medida y a la moda que se estile en las cortes de la nobleza. Influir en nobles o cortesanos es una tarea\ncomplicada cuando se lleva ropa de calle (-2 en las pruebas basadas en el Carisma para influenciar a esta clase de individuos). Sin joyas (que cuestan unas 50 po adicionales) esta indumentaria te haría parecer un plebeyo fuera de lugar</p>"
 		},
 		"Crowbar": {
-			"name": "Barra",
-			"description": "<p>Esta barra de hierro está hecha para aguantar objetos cerrados abiertos. Una barra de cruces es la herramienta perfecta para infundir puertas o cofres abiertos, destrozando cadenas, y cosas por el estilo, y otorga una bonificación de +2 en los controles de Fuerza realizados para tales fines. Si se usa en combate, tratar a una barra de vaivén como un arma impropiada a una mano (ver página 113) que causa un daño ruidoso igual al de un club de su tamaño.</p>"
+			"name": "Palanqueta",
+			"description": "<p>Esta barra de hierro está fabricada para abrir cosas haciendo palanca. Una palanqueta es la herramienta perfecta para abrir, puertas o cofres, romper cadenas y maniobras similares, y proporciona un bonificador de +2 de circunstancia a las pruebas de fuerza realizadas con esa intención. Si se utiliza en combte, la palanqueta es un arma improvisada a una mano (ver página 113) que causa daño contundente igual que una clava de su tamaño</p>"
 		},
 		"Disguise kit": {
-			"name": "Kit disfrazado",
-			"description": "<p>Esta bolsa contiene cosméticos, tintes de pelo y pequeños accesorios físicos. El kit es la herramienta perfecta para disfrazarse y proporciona un bono de +2 en los controles de disfraz. Un kit disfrazado se agota después de diez usos.</p>"
+			"name": "Material de disfraz",
+			"description": "<p>una bolsa con maquillaje, tinte para el pelo y pequeños postizos. Es la herramienta perfecta para cumplir con su función, y da un bonificador de +2 de circunstancia en las pruebas de Disfrazarse. Se gasta al cabo de diez usos</p>"
 		},
 		"Dog, guard": {
 			"name": "Perro, guardia",
 			"description": "<p>Un perro entrenado para proteger a su dueño y asustar a los extraños.</p>"
 		},
 		"Dog, riding": {
-			"name": "Perro montando",
+			"name": "Perro de montar",
 			"description": "<p>Este perro medio está especialmente capacitado para llevar a un pequeño jinete humanoide. Es valiente en combate como un caballo de guerra. No recibes daño cuando caes de un perro montando.</p>"
 		},
 		"Donkey or mule": {
-			"name": "burro o mulo",
-			"description": "<p>Los mejores tipos de animales de manada, burros y mulas son robados ante el peligro, resistente, seguro y capaz de transportar cargas pesadas a grandes distancias. A diferencia de un caballo, un burro o una mula, está dispuesto (aunque no el ácaro) a entrar en mazmorras y otros lugares extraños o amenazantes.</p>"
+			"name": "Burro o mulo",
+			"description": "<p>Los burros y mulos somias mejores bestias de carga. Se muestran impasibles ante el peligro, son resistentes, de pie firme y capaces de cubrir largas distancias llevando cargas pesadas. Al contrario que los caballos, no se niegan a entrar en subterráneos y demás lugares extraños y amenazadores (aunque la idea tampoco les hace mucha gracia). Consulta el Manual de monstruos para encontrar información adicional sobre los burros y los mulos.</p>"
 		},
 		"Entertainer’s outfit": {
-			"name": "Atuendo del empresario",
-			"description": "<p>Este conjunto de ropa parpadeante, quizás incluso gaudante, es para entretener. Mientras el atuendo se ve caprichoso, su práctico diseño te permite tropezar, bailar, camina una cuerda, o simplemente corre (si la audiencia se vuelve fea)&nbsp;</p>"
+			"name": "Muda de artista",
+			"description": "<p>ropas. de artista, estrafalarias y tal vez chillonas. Aunque la ropa tenga aspecto caprichoso, su práctico diseño te permitirá hacer piruetas,, bailar, caminar sobre la cuerda floja o, simplemente, correr (por si el público se pone desagradable).</p>"
 		},
 		"Exotic Saddle, Military": {
-			"name": "Capacidad exótica, Militar",
+			"name": "Silla de montar exótica",
 			"description": "<p>Una silla exótica es como una silla normal de&nbsp;del mismo tipo excepto que está diseñada para una montura inusual, como un&nbsp;hipogriff. Las monturas exóticas vienen en forma militar, empacada y de equitación.</p>\n<p>Una montura militar braza al jinete proporcionando una bonificación de +2 en los cheques de viaje relacionados con permanecer en la silla. Si eres golpeado inconsciente mientras estás en una silla militar, tienes un 75% de probabilidades de permanecer en la silla (comparado con el 50% de una silla de montura).</p>"
 		},
 		"Exotic Saddle, Pack": {
