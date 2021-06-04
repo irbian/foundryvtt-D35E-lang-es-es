@@ -8,19 +8,19 @@
 	},
 	"entries": {
 		"Banded Mail": {
-			"name": "Correo de banda",
-			"description": "<p>Esta armadura está hecha de tiras de metal superpuestas cocidas a un respaldo de cuero y cainmail. Las tiras cubren zonas vulnerables, mientras que la cadena y el cuero protegen las juntas y proporcionan libertad de movimiento. Las correas y los cubos distribuyen el peso de manera uniforme. El traje incluye gauntlets.</p>"
+			"name": "Banded Mail",
+			"description": "<p>Esta armadura está hecha de tiras de metal superpuestas cocidas a un respaldo de cuero y cainmail. Las tiras cubren zonas vulnerables, mientras que la cadena y el cuero protegen las juntas y proporcionan libertad de movimiento. Las correas y los cubos distribuyen el peso de manera uniforme. El traje incluye guanteletes.</p>"
 		},
 		"Breastplate": {
-			"name": "Peto",
-			"description": "<p>Una coraza cubre tu frente y tu espalda. Viene con un casco y greaves (placas para cubrir tus piernas inferiores). Un traje ligero o una gota de cuero repleto debajo del pectoral protege tus extremidades sin restringir mucho el movimiento.</p>"
+			"name": "Coraza",
+			"description": "<p>Una coraza cubre tu frente y tu espalda. Viene con un casco y grebas (placas para cubrir tus piernas inferiores). Un traje ligero o una gota de cuero repleto debajo del pectoral protege tus extremidades sin restringir mucho el movimiento.</p>"
 		},
 		"Buckler": {
-			"name": "Cucharón",
-			"description": "<p>Este pequeño escudo metálico está atrapado a tu espera. Puedes usar un arco o ballesta sin penalización mientras lo llevas. También puedes usar tu brazo escudo para usar un arma (ya sea que estés usando un arma fuera de mano o usando tu mano apagada para ayudar a usar un arma a dos manos), pero usted toma una penalización –1 en tiradas de ataque mientras lo hace debido al peso extra en su brazo. Esta penalización se acumula con aquellos que pueden aplicarse para luchar con tu mano apagada y para luchar con dos armas. En cualquier caso, si usas un arma en tu mano, no obtendrás el bono de AC del buckler para el resto de la ronda.</p>"
+			"name": "Rodela",
+			"description": "<p>Este pequeño escudo de metal se lleva atado a su antebrazo. Usted puede usar un arco o ballesta sin sanción mientras lo lleva. También puedes usar su escudo de brazo para manejar un arma (Si usted está usando un arma de mano o usando su mano para ayudar a empuñar un arma de dos manos), pero usted toma un -1 de penalización en rollos de ataque mientras lo hace debido al peso extra en su brazo. \nEsta pena se acumula con aquellos que pueden aplicar para luchar con su mano fuera y para luchar con dos armas. En cualquier caso, si usted usa un arma en su mano, usted no obtendrá el bonificador AC de la hebilla para el resto de la ronda.</p>"
 		},
 		"Chain Shirt": {
-			"name": "Camisa de Chain",
+			"name": "Camisote de mallas",
 			"description": "<p>Una camisa de cadena protege tu torso dejando tus miembros libres y móviles. Incluye una capa de tela acolchada que se usa debajo para prevenir el chafing y amortiguar el impacto de los golpes. Una camisa de cadena viene con una tapa de acero.</p>"
 		},
 		"Chainmail": {
