@@ -157,11 +157,11 @@
 		},
 		"Exotic Saddle, Military": {
 			"name": "Silla de montar exótica",
-			"description": "<p>Una silla exótica es como una silla normal de&nbsp;del mismo tipo excepto que está diseñada para una montura inusual, como un&nbsp;hipogriff. Las monturas exóticas vienen en forma militar, empacada y de equitación.</p>\n<p>Una montura militar braza al jinete proporcionando una bonificación de +2 en los cheques de viaje relacionados con permanecer en la silla. Si eres golpeado inconsciente mientras estás en una silla militar, tienes un 75% de probabilidades de permanecer en la silla (comparado con el 50% de una silla de montura).</p>"
+			"description": "<p>una silla exótica es igual que una normal del mismo tipo, pero está diseñada para una montura insólita, como un hipogrifo. Existen sillas de montar exóticas (tanto normales como militares) y albardas exóticas</p>\n<p>Una silla sujeta al jinete concediéndole un bonificador +2 de circunstancia en las pruebas de Montar relacionadas con seguir a lomos de la montura. Si quedaras inconsciente yendo en una silla militar tendrías un 75% de posibilidades de permanecer sobre ella (en\ncomparación con el 50% de las sillas de montar normales)</p>"
 		},
 		"Exotic Saddle, Pack": {
 			"name": "Chapa exótica, Pack",
-			"description": "<p>Una montura exótica es como una montura normal de la misma clase, excepto que está diseñada para una montura inusual, como un hipogriff. Las monturas exóticas vienen en forma militar, empacada y de equitación.</p>\n<p>Un montura de un paquete contiene equipo y suministros, pero no un jinete. Posee la misma cantidad de equipo que la montura puede transportar.</p>"
+			"description": "<p>Una silla exótica es como una silla normal del mismo tipo, excepto que está diseñada para una montura inusual, como un hipogrifo. Los sillines exóticos vienen en estilos militares, de mochila y de carrera.</p>\n<p>Una silla de montar sostiene el equipo y los suministros, pero no al jinete. Sostiene todo el equipo que puede llevar la montura.</p>"
 		},
 		"Exotic Saddle, Riding": {
 			"name": "Montura exótica",
