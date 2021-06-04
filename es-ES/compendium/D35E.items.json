@@ -20,39 +20,39 @@
 			"description": "<p>Este conjunto de equipos incluye despejadores, botellas, recipientes de mezcla y medida y una variedad de sustancias y sustancias químicas. El laboratorio de un alquimista siempre tiene la herramienta perfecta para hacer objetos alquímicos, por lo que proporciona un bono de +2 en los controles de fabricación (alquimia). No tiene ninguna relación con los costos relacionados con la habilidad de la Fabricación (alquimia) (página 70). Sin este laboratorio, se asume que un personaje con la habilidad de Fabricar (alquimia) tiene suficientes herramientas para usar la habilidad pero no suficiente para obtener el bono +2 que proporciona el laboratorio.</p>"
 		},
 		"Antitoxin": {
-			"name": "Antitoxin",
-			"description": "<p>Si bebes antitoxina, obtendrás una bonificación alquímica de +5 en el ahorro de Fortaleza contra el veneno durante 1 hora.</p>"
+			"name": "Antitoxina",
+			"description": "<p>Si bebes antitoxina, obtendrás una bonificación alquímica de +5 en las tiradas de salvación de Fortaleza contra el veneno durante 1 hora.</p>"
 		},
 		"Artisan’s outfit": {
-			"name": "Artisan’s outfit",
-			"description": "<p>Este atuendo incluye una camisa con botones, una cabina o pantalones con un cordón de dibujo, zapatos y tal vez un gorro o un gorro. También puede incluir un cinturón o un cuero o tela para las herramientas de transporte.</p>"
+			"name": "Atuendo de artesano",
+			"description": "<p>Este atuendo incluye una camisa con botones, una falda o un pantalón con un cordón ciiñendo el talle, unos zapatos y puede que una gorra o sombrero. También puede incluir un cinturón o un mandil (de cuero o tela) para transportar las herramientas.</p>"
 		},
 		"Artisan’s tools": {
 			"name": "Herramientas de artesano",
-			"description": "<p>Estas herramientas especiales incluyen los objetos necesarios para llevar a cabo cualquier fabricación. Sin ellos, tienes que usar herramientas inapropiadas (&ndash; 2 penalización en las comprobaciones de Fabricación), si puedes hacer el trabajo en absoluto.</p>"
+			"description": "<p>Estas herramientas especiales incluyen los objetos necesarios para llevar a cabo cualquier Artesanía. Sin ellas, tienes que usar herramientas inapropiadas (Penalizador de &ndash; 2 en las pruebas de Arteanía), si llegas a fabricar los que deseas.</p>"
 		},
 		"Artisan’s tools, masterworked": {
-			"name": "Herramientas de artesano trabajadas",
-			"description": "<p>Estas herramientas tienen el mismo propósito que las herramientas de artesano (arriba), pero las herramientas de maestría artesana son las herramientas perfectas para el trabajo, por lo que obtienes una bonificación de +2 en los cheques de Fabricación hechos con ellos.</p>"
+			"name": "Herramientas de artesano de gran calidad",
+			"description": "<p>Estas herramientas tienen el mismo propósito que las herramientas de artesano (arriba), pero las herramientas de gran calidad son las herramientas perfectas para el trabajo, por lo que obtienes una bonificación de +2 de circunstancia en las pruebas de Artesanía (Fabricación) hechos con ellos.</p>"
 		},
 		"Backpack, Common": {
 			"name": "Mochila, común",
 			"description": "<p>Una mochila es un paquete de cuero llevado en la espalda, normalmente con correas para protegerla.</p>"
 		},
 		"Backpack, Masterwork": {
-			"name": "Mochila, maestría",
-			"description": "<p>Una mochila es un paquete de cuero llevado en la espalda, normalmente con correas para protegerla.&nbsp;</p>\n<p>La mochila maestra trabaja hace que la puntuación de fuerza de los jugadores cuente como si fuera una más alta.</p>"
+			"name": "Mochila de calidad",
+			"description": "<p>Una mochila es un paquete de cuero llevado en la espalda, normalmente con correas para protegerla.&nbsp;</p>\n<p>La mochila de calidad hace que la puntuación de fuerza de los jugadores cuente como si fuera una más alta.</p>"
 		},
 		"Barding, Large creature": {
-			"name": "Barrio, criatura grande",
-			"description": "<p>Peso: x2</p>\n<p>Precio: x4</p>\n<p>barda es un tipo de armadura que cubre la cabeza, el cuello, el pecho, el cuerpo y posiblemente las piernas de un caballo u otra montura. Las bardas hechas de armadura media o pesada proporcionan una mejor protección que las bardas ligeras, pero a expensas de la velocidad. La barda se puede hacer con cualquiera de los tipos de armadura que se encuentran en la Tabla 7&ndash;6: Armadura y escudos. La armadura para un caballo (una criatura grande no humanoide) cuesta cuatro veces más que la armadura para un humano (una criatura humanoide mediana) y también pesa el doble que la armadura que se encuentra en la Tabla 7&ndash;6 (ver Armadura para criaturas inusuales, página 123). ). Si la barda es para un pony u otra montura mediana, el costo es solo el doble y el peso es el mismo que para la armadura mediana que usa un humanoide. La barda media o pesada ralentiza una montura que la usa, como se muestra en la tabla a continuación.</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ----------- Velocidad base ---- -------</p>\n<table style=\"height: 51px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"width: 160px; height: 17px;\">Barda</td>\n<td style=\"width: 69px; height: 17px;\">40ft.</td>\n<td style=\"width: 69px; height: 17px;\">50 pies.</td>\n<td style=\"width: 76px; height: 17px;\">60 pies.</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 160px; height: 17px;\">Medio</td>\n<td style=\"width: 69px; height: 17px;\">30 pies.</td>\n<td style=\"width: 69px; height: 17px;\">35 pies.</td>\n<td style=\"width: 76px; height: 17px;\">40 pies.</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 160px; height: 17px;\">Pesado</td>\n<td style=\"width: 69px; height: 17px;\">30 pies.&sup1;</td>\n<td style=\"width: 69px; height: 17px;\">30 pies.&sup1;</td>\n<td style=\"width: 76px; height: 17px;\">40 pies.&sup1;</td>\n</tr>\n</tbody>\n</table>\n<p>&sup1;Una montura con armadura pesada se mueve solo al triple de su velocidad normal cuando corre en lugar de cuadriplicar.</p>"
+			"name": "Barda para criaturas medians y Grandes",
+			"description": "<p>Peso: x2</p>\n<p>Precio: x4</p>\n<p>La barda es un tipo de armadura que cubre la cabeza, el cuello, el pecho, los lomos y posiblemente las patas de un caballo u otra montura. Las bardas hechas de armadura media o pesada proporcionan una mejor protección que las bardas ligeras, pero a expensas de la velocidad. Las bardas se puede hacer con cualquiera de los tipos de armadura que se encuentran en la Tabla 7&ndash;6: Armadura y escudos. La armadura para un caballo (una criatura grande no humanoide) cuesta cuatro veces más que la armadura para un humano (una criatura humanoide mediana) y también pesa el doble que la armadura que se encuentra en la Tabla 7&ndash;6 (ver Armadura para criaturas inusuales, página 123).). Si la barda es para un pony u otra montura mediana, el costo es solo el doble y el peso es el mismo que para la armadura mediana que usa un humanoide. La barda media o pesada ralentiza una montura que la usa, como se muestra en la tabla a continuación.</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ----------- Velocidad base ---- -------</p>\n<table style=\"height: 51px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"width: 160px; height: 17px;\">Barda</td>\n<td style=\"width: 69px; height: 17px;\">40ft.</td>\n<td style=\"width: 69px; height: 17px;\">50 pies.</td>\n<td style=\"width: 76px; height: 17px;\">60 pies.</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 160px; height: 17px;\">Medio</td>\n<td style=\"width: 69px; height: 17px;\">30 pies.</td>\n<td style=\"width: 69px; height: 17px;\">35 pies.</td>\n<td style=\"width: 76px; height: 17px;\">40 pies.</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 160px; height: 17px;\">Pesado</td>\n<td style=\"width: 69px; height: 17px;\">30 pies.&sup1;</td>\n<td style=\"width: 69px; height: 17px;\">30 pies.&sup1;</td>\n<td style=\"width: 76px; height: 17px;\">40 pies.&sup1;</td>\n</tr>\n</tbody>\n</table>\n<p>&sup1;Una montura con armadura pesada se mueve solo al triple de su velocidad normal cuando corre en lugar de cuadriplicar.</p>"
 		},
 		"Barding, Medium creature": {
 			"name": "Barrio, criatura media",
 			"description": "<p>Peso: x1</p>\n<p>Precio: x2</p>\n<p>barda es un tipo de armadura que cubre la cabeza, el cuello, el pecho, el cuerpo y posiblemente las piernas de un caballo u otra montura. Las bardas hechas de armadura media o pesada proporcionan una mejor protección que las bardas ligeras, pero a expensas de la velocidad. La barda se puede hacer con cualquiera de los tipos de armadura que se encuentran en la Tabla 7&ndash;6: Armadura y escudos. La armadura para un caballo (una criatura grande no humanoide) cuesta cuatro veces más que la armadura para un humano (una criatura humanoide mediana) y también pesa el doble que la armadura que se encuentra en la Tabla 7&ndash;6 (ver Armadura para criaturas inusuales, página 123). ). Si la barda es para un pony u otra montura mediana, el costo es solo el doble y el peso es el mismo que para la armadura mediana que usa un humanoide. La barda media o pesada ralentiza una montura que la usa, como se muestra en la tabla a continuación.</p>\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ----------- Velocidad base ---- -------</p>\n<table style=\"height: 51px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"width: 160px; height: 17px;\">Barda</td>\n<td style=\"width: 69px; height: 17px;\">40ft.</td>\n<td style=\"width: 69px; height: 17px;\">50 pies.</td>\n<td style=\"width: 76px; height: 17px;\">60 pies.</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 160px; height: 17px;\">Medio</td>\n<td style=\"width: 69px; height: 17px;\">30 pies.</td>\n<td style=\"width: 69px; height: 17px;\">35 pies.</td>\n<td style=\"width: 76px; height: 17px;\">40 pies.</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 160px; height: 17px;\">Pesado</td>\n<td style=\"width: 69px; height: 17px;\">30 pies.&sup1;</td>\n<td style=\"width: 69px; height: 17px;\">30 pies.&sup1;</td>\n<td style=\"width: 76px; height: 17px;\">40 pies.&sup1;</td>\n</tr>\n</tbody>\n</table>\n<p>&sup1;Una montura con armadura pesada se mueve solo al triple de su velocidad normal cuando corre en lugar de cuadriplicar.</p>"
 		},
 		"Barrel": {
-			"name": "Cañón",
+			"name": "Barril",
 			"description": "<p>Vaciar</p>"
 		},
 		"Basket": {
@@ -60,7 +60,7 @@
 			"description": "<p>Vaciar</p>"
 		},
 		"Bedroll": {
-			"name": "Rollo",
+			"name": "Petate (Saco de dormir)",
 			"description": "<p>Nunca sabes dónde vas a dormir, y un rollo de cama le ayudará a dormir mejor en un poquito o en el suelo frío. Un rollo de cama consiste en ropa de cama y un agujero lo suficientemente fino para enrollarse y atarse. En caso de emergencia, puede doblar como estirador.</p>"
 		},
 		"Bell": {
@@ -68,28 +68,28 @@
 			"description": "<p>Una pequeña campana de latón</p>"
 		},
 		"Bit and bridle": {
-			"name": "Bit y puentes",
+			"name": "Boca y bridas",
 			"description": "<p>El equipamiento facial para un caballo para ayudar al jinete a controlar la montura</p>"
 		},
 		"Blanket, winter": {
-			"name": "Invierno",
-			"description": "<p>Un grueso y colchón de lana hecho para mantenerte caliente durante el frío.</p>"
+			"name": "Manta de inviertno",
+			"description": "<p>Una manta de lana gruesa y acolchada hecha para mantenerte caliente en climas fríos.</p>"
 		},
 		"Block and tackle": {
-			"name": "Bloquear y abordar",
+			"name": "Bloquear y maniobrar",
 			"description": "<p>Un bloque y maniobra utilizados para obtener una enorme bonificación mecánica de fuerza. Se utiliza fácilmente para levantar o tensar objetos entre sí.</p>"
 		},
 		"Bottle, wine, glass": {
-			"name": "Botel, vino, vaso",
-			"description": "<p>Una botella de vino sencilla, viene con alcornoques y sin contenido.</p>"
+			"name": "Botella de cristal de vino",
+			"description": "<p>Una botella de vino sencilla, viene con corcho y sin contenido.</p>"
 		},
 		"Bucket": {
 			"name": "Cubo",
 			"description": "<p>Vaciar</p>"
 		},
 		"Caltrops": {
-			"name": "Caltrops",
-			"description": "<p>Un calabaza es una pica de hierro de cuatro puntas fabricada para que una púa se enfrente sin importar cómo llegue el calabazo. Dispersiones sobre el terreno con la esperanza de que tus enemigos pisen sobre ellos o al menos se vean obligados a ralentizar para evitarlos. Una bolsa de 2 libras de callejones cubre un área cuadrada de 5 pies. Cada vez que una criatura se mueve a un área cubierta por pantalones (o pasa una ronda luchando mientras está en pie en un área así), podría dar un paso en uno. Los caltrops hacen un lanzamiento de ataque (bono de ataque base +0) contra la criatura. Para este ataque, las bonificaciones de escudo, armadura y deflexión de la criatura&rsquo;s no cuentan. (La deflación evita que se acerquen a los golpes, pero no impide que una criatura toque algo peligroso. Si la criatura lleva zapatos u otro calzado, obtiene un bono de blindaje +2 a AC. Si los calabozos tienen éxito en el ataque, la criatura ha pisado uno. El caltrop inflige 1 punto de daño, y la criatura&rsquo;s velocidad se reduce a una mitad, porque su pie está herido. Esta penalización de movimiento dura 24 horas, o hasta que la criatura sea tratada con éxito con un cheque de curación DC 15, o hasta que reciba al menos 1 punto de curado mágico. Una criatura que esté cargando o corriendo debe detenerse inmediatamente si pisa un caltro. Cualquier criatura que se mueva a la mitad de velocidad o más lenta puede cruzar un lecho de calabazas sin problemas. El MG juzga la efectividad de los caltrops contra oponentes inusuales. Un pequeño centímetro monstruoso, por ejemplo, puede deslizarse a través de una zona que contiene calambres sin posibilidad de dañarse. y un gigante de fuego que lleva botas gigantes de fuego es inmune a calabazas de tamaño normal. (Simplemente se atascan en las plantas de sus botas.)</p>"
+			"name": "Abrojos",
+			"description": "<p>Un abrojo es una púa de hierro de cuatro puntas elaborada de modo que una de las puntas quede hacia arriba sin importar cómo se detenga el abrojo. Esparces abrojos por el suelo con la esperanza de que tus enemigos los pisen o al menos se vean obligados a reducir la velocidad para evitarlos. Una bolsa de 2 libras de abrojos cubre un área de 5 pies cuadrados. Cada vez que una criatura se mueve a un área cubierta por abrojos (o pasa una ronda luchando mientras está parada en ese área), puede pisar uno. Los abrojos hacen una tirada de ataque (bonificación de ataque base +0) contra la criatura. Para este ataque, las bonificaciones de escudo, armadura y deflexión de&rsquo;(La desviación evita los golpes cuando se acercan, pero no evita que una criatura toque algo peligroso.) Si la criatura lleva zapatos u otro calzado, obtiene un bonificador de armadura de +2 a la CA. Si los abrojos tienen éxito en el ataque, la criatura ha pisado uno. El abrojo inflige 1 punto de daño y la&rsquo;s se reduce a la mitad porque su pie está herido. Esta penalización de movimiento dura 24 horas, o hasta que la criatura sea tratada con éxito con una prueba de Curación CD 15, o hasta que reciba al menos 1 punto de curación mágica. Una criatura que carga o corre debe detenerse inmediatamente si pisa un abrojo. Cualquier criatura que se mueva a la mitad de la velocidad o menos puede abrirse camino a través de un lecho de abrojos sin problemas. El DJ juzga la efectividad de los abrojos contra oponentes inusuales. Un pequeño ciempiés monstruoso, por ejemplo, puede deslizarse a través de un área que contiene abrojos sin posibilidad de lastimarse, y un gigante de fuego con botas de tamaño gigante de fuego es inmune a abrojos de tamaño normal. (Sólo se atascan en las suelas de sus botas.)</p>"
 		},
 		"Candle": {
 			"name": "Cándalo",
