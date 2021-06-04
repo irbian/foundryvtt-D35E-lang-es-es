@@ -9,7 +9,7 @@
 	"entries": {
 		"Banded Mail": {
 			"name": "Banded Mail",
-			"description": "<p>Esta armadura está hecha de tiras de metal superpuestas cocidas a un respaldo de cuero y cainmail. Las tiras cubren zonas vulnerables, mientras que la cadena y el cuero protegen las juntas y proporcionan libertad de movimiento. Las correas y los cubos distribuyen el peso de manera uniforme. El traje incluye guanteletes.</p>"
+			"description": "<p>Esta armadura está hecha de tiras de metal superpuestas cosidas a un respaldo de cuero y cota de malla. Las tiras cubren zonas vulnerables, mientras que la cadena y el cuero protegen las juntas y proporcionan libertad de movimiento. Las correas y hebillas distribuyen el peso de manera uniforme. El traje incluye guanteletes.</p>"
 		},
 		"Breastplate": {
 			"name": "Coraza",
@@ -37,7 +37,7 @@
 		},
 		"Heavy Steel Shield": {
 			"name": "Escudo de acero pesado",
-			"description": "<p>You strap a shield to your forearm and grip it with your hand. A heavy shield is so heavy that you can’t use your shield hand for anything else.</p>\n<p><strong>Wooden or Steel:</strong> Wooden and steel shields offer the same basic protection, though they respond differently to special attacks (such as warp wood and heat metal).</p>\n<p><strong>Shield Bash Attacks:</strong> You can bash an opponent with a heavy shield, using it as an off-hand weapon. See Table 7–5: Weapons for the damage dealt by a shield bash. Used this way, a heavy shield is a martial bludgeoning weapon. For the purpose of penalties on attack rolls, treat a heavy shield as a one-handed weapon. If you use your shield as a weapon, you lose its AC bonus until your next action (usually until the next round). An enhancement bonus on a shield does not improve the effectiveness of a shield bash made with it, but the shield can be made into a magic weapon in its own right.</p>"
+			"description": "<p>Te colocas un escudo en el antebrazo y lo agarras con la mano. Un escudo pesado es tan pesado que no puedes usar tu mano protectora para nada más.</p>\n<p><strong>Madera o acero:</strong> Los escudos de madera y acero ofrecen la misma protección básica, aunque responden de manera diferente a ataques especiales (como madera de urdimbre y metal caliente).</p>\n<p><strong>Ataques con golpes de escudo:</strong> Puedes golpear a un oponente con un escudo pesado, utilizándolo como un arma de mano torpe. Consulte la Tabla 7-5: Armas para conocer el daño infligido por un golpe de escudo. Usado de esta manera, un escudo pesado es un arma contundente marcial. A los efectos de las penalizaciones en las tiradas de ataque, trate un escudo pesado como un arma de una mano. Si usa su escudo como arma, pierde su bonificación de CA hasta su próxima acción (generalmente hasta la siguiente ronda). Una bonificación de mejora en un escudo no mejora la efectividad de un golpe de escudo hecho con él, pero el escudo puede convertirse en un arma mágica por derecho propio.</p>"
 		},
 		"Heavy Wooden Shield": {
 			"name": "Escudo de Madera pesado",
@@ -57,7 +57,7 @@
 		},
 		"Light Wooden Shield": {
 			"name": "Escudo de Madera Clara",
-			"description": "<p>You strap a shield to your forearm and grip it with your hand. A light shield’s weight lets you carry other items in that hand, although you cannot use weapons with it.</p>\n<p><strong>Wooden or Steel:</strong> Wooden and steel shields offer the same basic protection, though they respond differently to special attacks (such as warp wood and heat metal).</p>\n<p><strong>Shield Bash Attacks:</strong> You can bash an opponent with a light shield, using it as an off-hand weapon. See Table 7–5: Weapons for the damage dealt by a shield bash. Used this way, a light shield is a martial bludgeoning weapon. For the purpose of penalties on attack rolls, treat a light shield as a light weapon. If you use your shield as a weapon, you lose its AC bonus until your next action (usually until the next round). An enhancement bonus on a shield does not improve the effectiveness of a shield bash made with it, but theshield can be made into a magic weapon in its own right.</p>"
+			"description": "<p>Te colocas un escudo en el antebrazo y lo agarras con la mano. El peso de un escudo ligero te permite llevar otros objetos en esa mano, aunque no puedes usar armas con él.</p>\n<p><strong>Madera o acero:</strong> Los escudos de madera y acero ofrecen la misma protección básica, aunque responden de manera diferente a ataques especiales (como madera de urdimbre y metal caliente).</p>\n<p><strong>Ataques con golpes de escudo:</strong> Puedes golpear a un oponente con un escudo ligero, utilizándolo como arma de mano torpe. Consulte la Tabla 7-5: Armas para conocer el daño infligido por un golpe de escudo. Usado de esta manera, un escudo ligero es un arma contundente marcial. A los efectos de las penalizaciones en las tiradas de ataque, trata un escudo ligero como un arma ligera. Si usa su escudo como arma, pierde su bonificación de CA hasta su próxima acción (generalmente hasta la siguiente ronda). Una bonificación de mejora en un escudo no mejora la efectividad de un golpe de escudo hecho con él, pero el escudo puede convertirse en un arma mágica por derecho propio.</p>"
 		},
 		"Padded Armor": {
 			"name": "Armadura acolchada",
