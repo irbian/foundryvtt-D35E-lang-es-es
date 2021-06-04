@@ -1,14 +1,14 @@
 {
-	"label": "Conjuros",
+	"label": "Spells",
 	"mapping": {
 		"name": {
-			"path": "nombre",
+			"path": "name",
 			"converter": "nameWithOriginal"
 		}
 	},
 	"entries": {
 		"Acid Arrow": {
-			"name": "Flecha ácida de Melf",
+			"name": "Acid Arrow",
 			"description": "<div class=\"spell-description\">\n  <p>\n      <strong>School:</strong>&nbsp;conjuration&nbsp;(creation)&nbsp;[acid];\n    <br>\n    <strong>Level:</strong>&nbsp;Sorcerer 2, Wizard 2;\n    \n    \n    \n    \n    <br>\n    <strong>Components:</strong>&nbsp;V, S, M (powdered rhubarb leaf and an adder’s stomach), F (a dart)<br>\n    \n      <strong>Casting Time:</strong>&nbsp;1 standard action<br>\n    <strong>Range:</strong>&nbsp;long (400 ft. + 40 ft./level)<br>\n    \n    \n    <strong>Effect:</strong>&nbsp;One arrow of acid<br>\n    <strong>Duration:</strong>&nbsp;1 round + 1 round per three levels<br>\n    \n        <strong>Saving Throw:</strong>&nbsp;None\n        <br>\n        <strong>Spell Resistance:</strong>&nbsp;no<br>\n  </p>\n  <h2>Description</h2>\n  \n\n\n<p>\nA magical arrow of acid springs from your hand and speeds to its target. You must succeed on a ranged touch attack to hit your target. The arrow deals 2d4 points of acid damage with no splash damage. For every three caster levels (to a maximum of 18th), the acid, unless somehow neutralized, lasts for another round, dealing another 2d4 points of damage in that round.\n</p><p><i>Material Component: </i>Powdered rhubarb leaf and an adder’s stomach.\n</p><p><i>Focus: </i>A dart.\n</p>\n<hr/>\n\n\n\n</div>\n"
 		},
 		"Acid Fog": {
