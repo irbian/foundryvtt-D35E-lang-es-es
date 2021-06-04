@@ -57,7 +57,7 @@
 		},
 		"Divination Spell School": {
 			"name": "Escuela de hechizos de adivinación",
-			"description": "<p>Los hechizos de adivinación te permiten aprender secretos olvidados hace mucho tiempo, predecir el futuro, encontrar cosas ocultas y frustrar hechizos engañosos. </p> \n <p> Muchos hechizos de adivinación tienen áreas en forma de cono. Estos se mueven contigo y se extienden en la dirección en la que miras. El cono define el área que puede barrer en cada ronda. Si estudias la misma área durante varias rondas, a menudo puedes obtener información adicional, como se indica en el texto descriptivo del hechizo. </p> \n <p> <strong> Scrying </strong> </p> \n <p> Un hechizo de adivinación crea un sensor mágico invisible que te envía información. A menos que se indique lo contrario, el sensor tiene los mismos poderes de agudeza sensorial que usted posee. Este nivel de agudeza incluye cualquier hechizo o efecto que tenga como objetivo, pero no los hechizos o efectos que emanan de usted. Sin embargo, el sensor se trata como un órgano sensorial independiente suyo y, por lo tanto, funciona con normalidad incluso si ha sido cegado, sordo o ha sufrido algún otro tipo de discapacidad sensorial. </p> \n <p> Cualquier criatura con inteligencia Una puntuación de 12 o más puede notar el sensor haciendo una prueba de Inteligencia DC 20. El sensor se puede disipar como si fuera un hechizo activo. </p> \n <p> Las láminas de plomo o la protección mágica bloquean un hechizo de adivinación, y sientes que el hechizo está muy bloqueado.</p>"
+			"description": "<p>Los hechizos de adivinación te permiten aprender secretos olvidados hace mucho tiempo, predecir el futuro, encontrar cosas ocultas y frustrar hechizos engañosos. </p> \n <p> Muchos hechizos de adivinación tienen áreas en forma de cono. Estos se mueven contigo y se extienden en la dirección en la que miras. El cono define el área que puede barrer en cada ronda. Si estudias la misma área durante varias rondas, a menudo puedes obtener información adicional, como se indica en el texto descriptivo del hechizo. </p> \n <p> <strong> Escudriñamiento </strong> </p> \n <p> Un hechizo de adivinación crea un sensor mágico invisible que te envía información. A menos que se indique lo contrario, el sensor tiene los mismos poderes de agudeza sensorial que usted posee. Este nivel de agudeza incluye cualquier hechizo o efecto que tenga como objetivo, pero no los hechizos o efectos que emanan de usted. Sin embargo, el sensor se trata como un órgano sensorial independiente suyo y, por lo tanto, funciona con normalidad incluso si ha sido cegado, sordo o ha sufrido algún otro tipo de discapacidad sensorial. </p> \n <p> Cualquier criatura con inteligencia Una puntuación de 12 o más puede notar el sensor haciendo una prueba de Inteligencia DC 20. El sensor se puede disipar como si fuera un hechizo activo. </p> \n <p> Las láminas de plomo o la protección mágica bloquean un hechizo de adivinación, y sientes que el hechizo está muy bloqueado.</p>"
 		},
 		"Earth Domain": {
 			"name": "Dominio de la Tierra",
@@ -77,7 +77,7 @@
 		},
 		"Fire Domain": {
 			"name": "Dominio de fuego",
-			"description": "<p>Expulsar o destrir a las criaturas acuáticas igual que un clérigo bueno hace con los muertos vivientes. Reprende, ordena o refuerza a las criaturas de fuego como un clérigo malvado reprende a los no muertos. Usa estas habilidades un número total de veces al día igual a 3 + tu modificador de Carisma. Este poder otorgado es una habilidad sortílega.</p>"
+			"description": "<p>Expulsar o destruir a las criaturas acuáticas igual que un clérigo bueno hace con los muertos vivientes. Reprende, ordena o refuerza a las criaturas de fuego como un clérigo malvado reprende a los no muertos. Usa estas habilidades un número total de veces al día igual a 3 + tu modificador de Carisma. Este poder otorgado es una habilidad sortílega.</p>"
 		},
 		"Glory Domain": {
 			"name": "Dominio de la gloria",
@@ -125,7 +125,7 @@
 		},
 		"Nobility Domain": {
 			"name": "Dominio de la nobleza",
-			"description": "<p>El personaje tiene la habilidad de un hechizo para inspirar a los aliados, dándoles un bonificador de moral de +2 en tiros de salvación, tiradas de ataque, pruebas de habilidad, pruebas de habilidad y tiradas de daño con armas. Los aliados deben poder escuchar al personaje hablar durante 1 asalto. Usar esta habilidad es una acción estándar. Dura un número de rondas igual al bono de carisma del personaje y se puede usar una vez al día.</p>"
+			"description": "<p>El personaje tiene la habilidad de un hechizo para inspirar a los aliados, dándoles un bonificador de moral de +2 en tiradas de salvación, tiradas de ataque, pruebas de habilidad, pruebas de habilidad y tiradas de daño con armas. Los aliados deben poder escuchar al personaje hablar durante 1 asalto. Usar esta habilidad es una acción estándar. Dura un número de rondas igual al bono de carisma del personaje y se puede usar una vez al día.</p>"
 		},
 		"Plant Domain": {
 			"name": "Dominio vegetal",
@@ -169,7 +169,7 @@
 		},
 		"War Domain": {
 			"name": "Dominio de guerra",
-			"description": "<p>Obtienes de forma gratuita la competencia con arma marciasl (en caso de ser necesaria) y la soltura con una arma correspondiente al arma predilecta de tu deidad.</p>"
+			"description": "<p>Obtienes de forma gratuita la competencia con arma marcial (en caso de ser necesaria) y la soltura con una arma correspondiente al arma predilecta de tu deidad.</p>"
 		},
 		"Water Domain": {
 			"name": "Dominio del agua",
