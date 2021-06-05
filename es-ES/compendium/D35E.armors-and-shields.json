@@ -20,7 +20,7 @@
 			"description": "<p>Este pequeño escudo de metal se lleva atado a su antebrazo. Usted puede usar un arco o ballesta sin sanción mientras lo lleva. También puedes usar su escudo de brazo para manejar un arma (Si usted está usando un arma de mano o usando su mano para ayudar a empuñar un arma de dos manos), pero usted toma un -1 de penalización en rollos de ataque mientras lo hace debido al peso extra en su brazo. \nEsta pena se acumula con aquellos que pueden aplicar para luchar con su mano fuera y para luchar con dos armas. En cualquier caso, si usted usa un arma en su mano, usted no obtendrá el bonificador AC de la hebilla para el resto de la ronda.</p>"
 		},
 		"Chain Shirt": {
-			"name": "Camisote de mallas",
+			"name": "Cota de malla",
 			"description": "<p>esta armadura protege el torso, permitiendo que las extremidades tengan libertad de movimiento. Un forro acochado impide la irritación y amortigua los golpes. La armadura incluye un bacinete (casco) de acero</p>"
 		},
 		"Chainmail": {
