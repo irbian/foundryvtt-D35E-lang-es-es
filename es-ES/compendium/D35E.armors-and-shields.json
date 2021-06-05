@@ -8,76 +8,76 @@
 	},
 	"entries": {
 		"Banded Mail": {
-			"name": "Correo de banda",
-			"description": "<p>Esta armadura está hecha de tiras de metal superpuestas cocidas a un respaldo de cuero y cainmail. Las tiras cubren zonas vulnerables, mientras que la cadena y el cuero protegen las juntas y proporcionan libertad de movimiento. Las correas y los cubos distribuyen el peso de manera uniforme. El traje incluye gauntlets.</p>"
+			"name": "Cota de bandas",
+			"description": "<p>Esta armadura está hecha de tiras de metal superpuestas cosidas a un forro de cuero y cota de malla. Las tiras cubren zonas vulnerables, mientras que la cadena y el cuero protegen las juntas y proporcionan libertad de movimiento. Las correas y hebillas distribuyen el peso de manera uniforme. El traje incluye guanteletes.</p>"
 		},
 		"Breastplate": {
-			"name": "Peto",
-			"description": "<p>Una coraza cubre tu frente y tu espalda. Viene con un casco y greaves (placas para cubrir tus piernas inferiores). Un traje ligero o una gota de cuero repleto debajo del pectoral protege tus extremidades sin restringir mucho el movimiento.</p>"
+			"name": "Coraza",
+			"description": "<p>la coraza, compuesta de peto y espaldar, cubre el pecho y la espalda rIncluye casco y grebas (placas que cubren la parte inferior de las piernas). Un ligero traje (o faldar) de cuero tachonado, colocado debajo de la coraza, protege las extremidades sin suponer mucho obstáculo para el movimiento.</p>"
 		},
 		"Buckler": {
-			"name": "Cucharón",
-			"description": "<p>Este pequeño escudo metálico está atrapado a tu espera. Puedes usar un arco o ballesta sin penalización mientras lo llevas. También puedes usar tu brazo escudo para usar un arma (ya sea que estés usando un arma fuera de mano o usando tu mano apagada para ayudar a usar un arma a dos manos), pero usted toma una penalización –1 en tiradas de ataque mientras lo hace debido al peso extra en su brazo. Esta penalización se acumula con aquellos que pueden aplicarse para luchar con tu mano apagada y para luchar con dos armas. En cualquier caso, si usas un arma en tu mano, no obtendrás el bono de AC del buckler para el resto de la ronda.</p>"
+			"name": "Rodela",
+			"description": "<p>Este pequeño escudo de metal se lleva atado a su antebrazo. Usted puede usar un arco o ballesta sin sanción mientras lo lleva. También puedes usar su escudo de brazo para manejar un arma (Si usted está usando un arma de mano o usando su mano para ayudar a empuñar un arma de dos manos), pero usted toma un -1 de penalización en rollos de ataque mientras lo hace debido al peso extra en su brazo. \nEsta pena se acumula con aquellos que pueden aplicar para luchar con su mano fuera y para luchar con dos armas. En cualquier caso, si usted usa un arma en su mano, usted no obtendrá el bonificador AC de la hebilla para el resto de la ronda.</p>"
 		},
 		"Chain Shirt": {
-			"name": "Camisa de Chain",
-			"description": "<p>Una camisa de cadena protege tu torso dejando tus miembros libres y móviles. Incluye una capa de tela acolchada que se usa debajo para prevenir el chafing y amortiguar el impacto de los golpes. Una camisa de cadena viene con una tapa de acero.</p>"
+			"name": "Camisote de mallas",
+			"description": "<p>esta armadura protege el torso, permitiendo que las extremidades tengan libertad de movimiento. Un forro acochado impide la irritación y amortigua los golpes. La armadura incluye un casco de acero</p>"
 		},
 		"Chainmail": {
-			"name": "Chainmail",
-			"description": "<p>Esta armadura está hecha de anillos metálicos entrelazados. Incluye una capa de tela acolchada que se usa debajo para prevenir el chafing y amortiguar el impacto de los golpes. Varias capas de correo están cubiertas por áreas vitales. La mayor parte del peso de la armadura se cuelga de los hombros, lo que hace que el chainmail no sea cómodo de usar durante largos periodos de tiempo. El traje incluye gauntlets.</p>"
+			"name": "Cota de mallas",
+			"description": "<p>Esta armadura está hecha de anillos metálicos entrelazados. Incluye una capa de tela acolchada que se usa debajo para prevenir rozaduras y amortiguar el impacto de los golpes. Varias capas de la armadura están colgadas sobre áreas vitales. La mayor parte del peso de la armadura se cuelga en los hombros, lo que hace que la armadura de malla no sea cómoda de usar durante largos períodos de tiempo. El traje incluye guantes.</p>"
 		},
 		"Full Plate": {
-			"name": "Placa completa",
-			"description": "<p>Esta armadura consiste en placas metálicas forjadas e intersoleadas para cubrir todo el cuerpo. El traje incluye gauntlets, botas pesadas de cuero, un casco visorizado y una gruesa capa de relleno que se usa debajo de la armadura. Las cuchillas y correas distribuyen el peso sobre el cuerpo, por lo que la placa completa obstaculiza el movimiento menos que el correo de la escisión a pesar de que la escorrentía es más ligera. Cada traje de placa completa debe ser instalado individualmente a su propietario por un maestro de armadura, aunque un traje capturado puede ser redimensionado para adaptarse a un nuevo propietario a un costo de 200 a 800 (2d4 &times; 100) pedazos de oro. La placa completa también es conocida como placa de campo.</p>"
+			"name": "Armadura completa",
+			"description": "<p>Esta armadura consta de placas de metal moldeadas y ajustadas remachadas y entrelazadas para cubrir todo el cuerpo. El traje incluye guanteletes, botas de cuero pesado, un casco con visera y una capa gruesa de relleno que se usa debajo de la armadura. Las hebillas y correas reparten el peso sobre el cuerpo, por lo que la placa completa dificulta el movimiento menos que el correo con férula, aunque la férula es más ligera. Cada traje de placa completa debe ser ajustado individualmente a su propietario por un maestro herrero, aunque se puede cambiar el tamaño de un traje capturado para adaptarse a un nuevo propietario a un costo de 200 a 800 (2d4 &times; 100) piezas de oro. La placa completa también se conoce como placa de campo.</p>"
 		},
 		"Half-Plate": {
-			"name": "Placa de alfa",
-			"description": "<p>Esta armadura es una combinación de cota de caída con placas metálicas (pectoral, oculetos, codos guardientes, gauntlets, tazas y greaves) que cubren áreas vitales. Las cuchillas y correas mantienen el traje entero juntos y distribuyen el peso, pero la armadura todavía se cuelga más sueltamente que la placa completa. El traje incluye gauntlets.</p>"
+			"name": "Coraza",
+			"description": "<p>Esta armadura es una combinación de cota de malla con placas de metal (coraza, hombreras, coderas, guanteletes, borlas y grebas) que cubren áreas vitales. Las hebillas y correas mantienen unido todo el traje y distribuyen el peso, pero la armadura aún cuelga más suelta que la placa completa. El traje incluye guanteletes.</p>"
 		},
 		"Heavy Steel Shield": {
-			"name": "Escudo de acero pesado",
-			"description": "<p>You strap a shield to your forearm and grip it with your hand. A heavy shield is so heavy that you can’t use your shield hand for anything else.</p>\n<p><strong>Wooden or Steel:</strong> Wooden and steel shields offer the same basic protection, though they respond differently to special attacks (such as warp wood and heat metal).</p>\n<p><strong>Shield Bash Attacks:</strong> You can bash an opponent with a heavy shield, using it as an off-hand weapon. See Table 7–5: Weapons for the damage dealt by a shield bash. Used this way, a heavy shield is a martial bludgeoning weapon. For the purpose of penalties on attack rolls, treat a heavy shield as a one-handed weapon. If you use your shield as a weapon, you lose its AC bonus until your next action (usually until the next round). An enhancement bonus on a shield does not improve the effectiveness of a shield bash made with it, but the shield can be made into a magic weapon in its own right.</p>"
+			"name": "Escudo pesado de acero",
+			"description": "<p>Te atas un escudo a tu antebrazo y lo agarras con la mano. Un escudo pesado es tan pesado que no puedes usar tu mano de escudo para nada más.</p>\n<p><strong>Madera o Acero:</strong> Los escudos de madera y acero ofrecen la misma protección básica, aunque responden de manera diferente a ataques especiales (como deformar o calentar metal).</p>\n<p><strong>Golpear con el escudo:</strong> Puedes golpear a un oponente con un escudo pesado, usándolo como un arma fuera de mano. Ver Tabla 7-5: Armas para el daño infligido por un golpe de escudo. Usado de esta manera, un escudo pesado es un arma marcial de aporrear. A los efectos de las penalizaciones en las tiradas de ataque, trate un escudo pesado como un arma con una sola mano. Si utilizas tu escudo como arma, perderás su bono AC hasta tu próxima acción (normalmente hasta la siguiente ronda). Una bonificación de mejora en un escudo no mejora la efectividad de un golpe de escudo hecho con él, pero el escudo se puede convertir en un arma mágica por derecho propio.</p>"
 		},
 		"Heavy Wooden Shield": {
-			"name": "Escudo de Madera pesado",
-			"description": "<p>Te corres un escudo a tu prólogo y lo agarras con tu mano. Un escudo pesado es tan pesado que no puedes usar tu mano de escudo para otra cosa.</p>\n<p><strong>Madera o Acero:</strong>&nbsp;Escudos de Madera y acero ofrecen la misma protección básica. aunque responden de forma diferente a ataques especiales (como la madera warp y el metal térmico).</p>\n<p><strong>ataques con golpe de escudo:</strong>&nbsp;Puedes atacar a un oponente con un escudo pesado, usarlo como arma off-hand. Ver Tabla 7–5: Armas para ver el daño causado por un golpe de escudo. Usado de esta manera, un escudo pesado es un arma marcial bludgeoning. Para el propósito de las penalizaciones en los tiros de ataque, trate un escudo pesado como un arma a una mano. Si usas tu escudo como arma, perderás su bono de AC hasta tu próxima acción (normalmente hasta la siguiente ronda). Un bono de mejora en un escudo no mejora la efectividad de un golpe de escudo hecho con él, pero el escudo se puede convertir en un arma mágica por derecho propio.</p>"
+			"name": "Escudo pesado de madera",
+			"description": "<p>Te colocas un escudo en el antebrazo y lo agarras con la mano. Un escudo pesado es tan pesado que no puedes usar tu mano protectora para nada más.</p>\n<p><strong>Madera o acero:</strong>&nbsp;Los escudos de madera y acero ofrecen la misma protección básica, aunque responden de manera diferente a ataques especiales (como madera de urdimbre y metal caliente).</p>\n<p><strong>Ataques con golpes de escudo:</strong>&nbsp;Puedes golpear a un oponente con un escudo pesado, utilizándolo como un arma de mano izquierda. Consulte la Tabla 7-5: Armas para conocer el daño infligido por un golpe de escudo. Usado de esta manera, un escudo pesado es un arma contundente marcial. A los efectos de las penalizaciones en las tiradas de ataque, trate un escudo pesado como un arma de una mano. Si usa su escudo como arma, pierde su bonificación de CA hasta su próxima acción (generalmente hasta la siguiente ronda). Una bonificación de mejora en un escudo no mejora la efectividad de un golpe de escudo hecho con él, pero el escudo puede convertirse en un arma mágica por derecho propio.</p>"
 		},
 		"Hide Armor": {
-			"name": "Ocultar armadura",
-			"description": "<p>Esta armadura está preparada de múltiples capas de piel y de animales. Es duro y difícil moverse. Los druidas, que solo llevan armadura no metálica, prefieren esconderse.</p>"
+			"name": "Armadura de pieles",
+			"description": "<p>Esta armadura está preparada a partir de múltiples capas de cuero y pieles de animales. Es rígido y difícil de mover. Los druidas, que solo usan armaduras no metálicas, prefieren el cuero.</p>"
 		},
 		"Leather Armor": {
 			"name": "Armadura de cuero",
-			"description": "<p>La coraza y los protectores de hombros de esta armadura están hechos de cuero que ha sido endurecida por la ebullición en aceite. El resto de la armadura está hecho de cuero más suave y flexible.</p>"
+			"description": "<p>las protecciones para el pecho, la espalda y los hombros de esta armadura están hechas de cuero endurecido en aceite hirviendo. Las demás partes de la armadura son de cuero más blando y flexible.</p>"
 		},
 		"Light Steel Shield": {
-			"name": "Escudo de acero claro",
-			"description": "<p>Te corres un escudo a tu prólogo y lo agarras con tu mano. El peso de un escudo ligero te permite llevar otros objetos en esa mano, aunque no puedes usar armas con él.</p>\n<p><strong>Madera o Acero:</strong>&nbsp;Escudos de Madera y acero ofrecen la misma protección básica. aunque responden de forma diferente a ataques especiales (como la madera warp y el metal térmico).</p>\n<p><strong>Ataques con golpe de escudo:</strong>&nbsp;Puedes atacar a un oponente con un escudo ligero,&nbsp;usándolo como arma off-hand. Ver Tabla 7–5: Armas para el daño&nbsp;causado por un golpe de escudo. Usado de esta manera, un escudo ligero es un&nbsp;arma marcial de bludgeoning. Para el propósito de las penalizaciones sobre el ataque&nbsp;tiradas, trata un escudo claro como un arma ligera. Si usas tu escudo como un arma&nbsp;, perderás su bono de CA hasta tu próxima acción (normalmente hasta&nbsp;la siguiente ronda). Un bono de mejora en un escudo no&nbsp;mejora la efectividad de un golpe de escudo hecho con él, pero este escudo puede convertirse en un arma mágica por derecho propio.</p>"
+			"name": "Escudo ligero de acero",
+			"description": "<p>un escudo se engancha con correas al antebrazo y se sujeta por el asa con la mano. El peso de unescudo ligero te\npermite llevar otros objetos enesa mano, aunque no utilizar armas con ella. </p>\n<p><strong>Acero o madera:</strong> los escudos de acero y de madera ofrecen la misma protección básica, aunque responden de forma distinta ante los ataques (como deformar madera o calentar metal).</p>\n<p><strong>Golpear con el escudo:</strong>puedes golpear a un oponente con un escudo ligero usándolo como arma de la mano torpe. Consulta la tabla 7-5:.armas, para el daño que inflige un golpe con el escudo. Utilizado de este modo, un escudo ligero se considera arma marcial contundente. En lo que respecta a penalizadores al ataque, el escudo.ligero se considera arma ligera. Cuando uses el escudo como arma, perderássu bonificador a la CA hasta tu siguiente acción (que, normalmente, significa hasta el siguiente asalto). Un bonificador de mejora en un escudo no mejora la efectividad de.un golpe realizado con é aunque es posible fabricar un escudo que sea un arma mágica por sí mismo</p>"
 		},
 		"Light Wooden Shield": {
-			"name": "Escudo de Madera Clara",
-			"description": "<p>You strap a shield to your forearm and grip it with your hand. A light shield’s weight lets you carry other items in that hand, although you cannot use weapons with it.</p>\n<p><strong>Wooden or Steel:</strong> Wooden and steel shields offer the same basic protection, though they respond differently to special attacks (such as warp wood and heat metal).</p>\n<p><strong>Shield Bash Attacks:</strong> You can bash an opponent with a light shield, using it as an off-hand weapon. See Table 7–5: Weapons for the damage dealt by a shield bash. Used this way, a light shield is a martial bludgeoning weapon. For the purpose of penalties on attack rolls, treat a light shield as a light weapon. If you use your shield as a weapon, you lose its AC bonus until your next action (usually until the next round). An enhancement bonus on a shield does not improve the effectiveness of a shield bash made with it, but theshield can be made into a magic weapon in its own right.</p>"
+			"name": "Escudo ligero de madera",
+			"description": "<p>un escudo se engancha con correas al antebrazo y se sujeta por el asa con la mano. El peso de unescudo ligero te\npermite llevar otros objetos enesa mano, aunque no utilizar armas con ella. </p>\n<p><strong>Acero o madera:</strong> los escudos de acero y de madera ofrecen la misma protección básica, aunque responden de forma distinta ante los ataques (como deformar madera o calentar metal).</p>\n<p><strong>Golpear con el escudo:</strong>puedes golpear a un oponente con un escudo ligero usándolo como arma de la mano torpe. Consulta la tabla 7-5:. armas, para el daño que inflige un golpe con el escudo. Utilizado de este modo, un escudo ligero se considera arma marcial contundente. En lo que respecta a penalizadores al ataque, el escudo. ligero se considera arma ligera. Cuando uses el escudo como arma, perderássu bonificador a la CA hasta tu siguiente acción (que, normalmente, significa hasta el siguiente asalto). Un bonificador de mejora en un escudo no mejora la efectividad de. un golpe realizado con é aunque es posible fabricar un escudo que sea un arma mágica por sí mismo</p>"
 		},
 		"Padded Armor": {
 			"name": "Armadura acolchada",
-			"description": "<p>La armadura acolchada presenta capas de tela y batallas. Se calienta rápidamente y puede volverse incómoda con sudor, sudor, suciedad, pedazos y pulgas.</p>"
+			"description": "<p>La armadura acolchada presenta varias capas acolchadas de tela y tela reforzada. Da mucho calor y puede marcharse por culpa del sudor, la mugre, las pulgas y otros parásitos</p>"
 		},
 		"Scale Mail": {
-			"name": "Escalar Correo",
-			"description": "<p>Esta armadura consiste en un abrigo y unas piernas (y tal vez una cubierta separada) de cuero cubierto con piezas de metal superpuestas, muy parecida a las escalas de un pez. El traje incluye gauntlets.</p>"
+			"name": "Cota de escamas",
+			"description": "<p>esta armadura consiste en una cota y grebas de cuero (y quizá un faldar separado) cubiertas con piezas de metal superpuestas, a\nmodo de escamas de pez. Incluye guanteletes</p>"
 		},
 		"Splint Mail": {
-			"name": "Correo Splint",
-			"description": "<p>Esta armadura está hecha de estrechas tiras verticales de metal remachadas a un respaldo de cuero que se usa sobre el relleno de tela. El chainmail flexible protege las filas. El traje incluye gauntlets.</p>"
+			"name": "Armadura laminada",
+			"description": "<p>esta armadura está fabricada de estrechas tiras metálicas verticales, remachadas a un forro de cuero, bajo el que se lleva una tela acolchada Las juntas van protegidas con cota de mallas flexible. Incluye guanteletes.</p>"
 		},
 		"Studded Leather Armor": {
-			"name": "Armadura de cuero estudiada",
-			"description": "<p>Esta armadura está hecha de cuero resistente pero flexible (no de cuero endurecido como con la armadura de cuero normal) reforzada con remaches metálicos cercanos.</p>"
+			"name": "Armadura de cuero tachonado",
+			"description": "<p>esta armadura está fabricadade.. cuexcuxesistente y flexible (no del mismo material endurecido que la de cuero normal) y \nreforzada con remaches metálicos, cercanos entre sí.</p>"
 		},
 		"Tower Shield": {
-			"name": "Escudo de torre",
-			"description": "<p>Este enorme escudo de madera es casi tan alto como tú. En la mayoría de las situaciones, proporciona la bonificación de escudo indicada para tu AC. Sin embargo, en su lugar puedes usarlo como cobertura total, aunque debes renunciar a tus ataques para hacerlo. Sin embargo, el escudo no proporciona&nbsp;cobertura contra hechizos seleccionados; Un lanzador de hechizos puede lanzarte un hechizo apuntando al escudo que tengas. No puedes golpear con un escudo de torre, ni puedes usar tu mano de escudo para otra cosa. Cuando utilices un escudo de torre en combate, recibes una pena &ndash;2 sobre los tiros de ataque debido al escudo&rsquo;s de carga.</p>"
+			"name": "Escudo pavés (de torre)",
+			"description": "<p>este enorme escudo.demadera (también llamado escudo torreón) es casi tan alto como su portador. En la mayoría de las sitúaciones proporciona el bonificador de escudo a la CA indicado. Además, también puedes utilizarlo para obtener una cobertura total, aunque para ello debes perder tus ataques. Sin embargo, este escudo no ofrece cobertura contra los conjuros dirigidos; un enemigo puede lanzar sus conjuros contra ti dirigiéndolos al escudo que estás sujetando. No se puede golpear con un scudopavés ni tampoco puedes utilizar la mano que lo porta para nada. Cuando emplees un escudo pavés en combate recibes un penalizador &ndasch;2 a las tiradas de ataque debido a la impedimenta del escudo.</p>"
 		}
 	}
 }
