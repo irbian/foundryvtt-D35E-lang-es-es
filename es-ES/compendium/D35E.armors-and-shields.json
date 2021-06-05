@@ -20,16 +20,16 @@
 			"description": "<p>Este pequeño escudo de metal se lleva atado a su antebrazo. Usted puede usar un arco o ballesta sin sanción mientras lo lleva. También puedes usar su escudo de brazo para manejar un arma (Si usted está usando un arma de mano o usando su mano para ayudar a empuñar un arma de dos manos), pero usted toma un -1 de penalización en rollos de ataque mientras lo hace debido al peso extra en su brazo. \nEsta pena se acumula con aquellos que pueden aplicar para luchar con su mano fuera y para luchar con dos armas. En cualquier caso, si usted usa un arma en su mano, usted no obtendrá el bonificador AC de la hebilla para el resto de la ronda.</p>"
 		},
 		"Chain Shirt": {
-			"name": "Cota de malla",
-			"description": "<p>esta armadura protege el torso, permitiendo que las extremidades tengan libertad de movimiento. Un forro acochado impide la irritación y amortigua los golpes. La armadura incluye un bacinete (casco) de acero</p>"
+			"name": "Coraza de malla",
+			"description": "<p>esta armadura protege el torso, permitiendo que las extremidades tengan libertad de movimiento. Un forro acochado impide la irritación y amortigua los golpes. La armadura incluye un casco de acero</p>"
 		},
 		"Chainmail": {
-			"name": "Cota de malla",
-			"description": "<p>Esta armadura está hecha de anillos metálicos entrelazados. Incluye una capa de tela acolchada que se usa debajo para prevenir el chafing y amortiguar el impacto de los golpes. Varias capas de correo están cubiertas por áreas vitales. La mayor parte del peso de la armadura se cuelga de los hombros, lo que hace que el chainmail no sea cómodo de usar durante largos periodos de tiempo. El traje incluye gauntlets.</p>"
+			"name": "Armadura de malla",
+			"description": "<p>Esta armadura está hecha de anillos metálicos entrelazados. Incluye una capa de tela acolchada que se usa debajo para prevenir rozaduras y amortiguar el impacto de los golpes. Varias capas de la armadura están colgadas sobre áreas vitales. La mayor parte del peso de la armadura se cuelga en los hombros, lo que hace que la armadura de malla no sea cómoda de usar durante largos períodos de tiempo. El traje incluye guantes.</p>"
 		},
 		"Full Plate": {
 			"name": "Armadura completa",
-			"description": "<p>Esta armadura consta de placas de metal moldeadas y ajustadas remachadas y entrelazadas para cubrir todo el cuerpo. El traje incluye guanteletes, botas de cuero pesado, un casco con visera y una capa gruesa de relleno que se usa debajo de la armadura. Las hebillas y correas distribuyen el peso sobre el cuerpo, por lo que la placa completa dificulta el movimiento menos que la malla de la férula, aunque la férula es más ligera. Cada traje de placa completa debe ser ajustado individualmente a su propietario por un maestro herrero, aunque se puede cambiar el tamaño de un traje capturado para adaptarse a un nuevo propietario a un costo de 200 a 800 (2d4 &times; 100) piezas de oro. La placa completa también se conoce como placa de campo.</p>"
+			"description": "<p>Esta armadura consta de placas de metal moldeadas y ajustadas remachadas y entrelazadas para cubrir todo el cuerpo. El traje incluye guanteletes, botas de cuero pesado, un casco con visera y una capa gruesa de relleno que se usa debajo de la armadura. Las hebillas y correas reparten el peso sobre el cuerpo, por lo que la placa completa dificulta el movimiento menos que el correo con férula, aunque la férula es más ligera. Cada traje de placa completa debe ser ajustado individualmente a su propietario por un maestro herrero, aunque se puede cambiar el tamaño de un traje capturado para adaptarse a un nuevo propietario a un costo de 200 a 800 (2d4 &times; 100) piezas de oro. La placa completa también se conoce como placa de campo.</p>"
 		},
 		"Half-Plate": {
 			"name": "Coraza",
@@ -52,7 +52,7 @@
 			"description": "<p>las protecciones para el pecho, la espalda y los hombros de esta armadura están hechas de cuero endurecido en aceite hirviendo. Las demás partes de la armadura son de cuero más blando y flexible.</p>"
 		},
 		"Light Steel Shield": {
-			"name": "Escudo legero de acero",
+			"name": "Escudo ligero de acero",
 			"description": "<p>un escudo se engancha con correas al antebrazo y se sujeta por el asa con la mano. El peso de unescudo ligero te\npermite llevar otros objetos enesa mano, aunque no utilizar armas con ella. </p>\n<p><strong>Acero o madera:</strong> los escudos de acero y de madera ofrecen la misma protección básica, aunque responden de forma distinta ante los ataques (como deformar madera o calentar metal).</p>\n<p><strong>Golpear con el escudo:</strong>puedes golpear a un oponente con un escudo ligero usándolo como arma de la mano torpe. Consulta la tabla 7-5:.armas, para el daño que inflige un golpe con el escudo. Utilizado de este modo, un escudo ligero se considera arma marcial contundente. En lo que respecta a penalizadores al ataque, el escudo.ligero se considera arma ligera. Cuando uses el escudo como arma, perderássu bonificador a la CA hasta tu siguiente acción (que, normalmente, significa hasta el siguiente asalto). Un bonificador de mejora en un escudo no mejora la efectividad de.un golpe realizado con é aunque es posible fabricar un escudo que sea un arma mágica por sí mismo</p>"
 		},
 		"Light Wooden Shield": {
