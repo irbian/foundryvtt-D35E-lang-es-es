@@ -1,5 +1,5 @@
 {
-	"label": "Armas y munición (Weapons and Ammo)",
+	"label": "Armas y munición",
 	"mapping": {
 		"name": {
 			"path": "name",
@@ -8,320 +8,320 @@
 	},
 	"entries": {
 		"Armor Spikes": {
-			"name": "Armadura de púas",
-			"description": "<p>Puedes agregar púas a tu armadura, lo que te permite infligir daño perforante adicional (ver Tabla 7-5: Armas) en un ataque de garra exitoso. Las púas cuentan como arma marcial. Si no eres competente con ellos, recibes una penalización de -4 en las pruebas de presa cuando intentas usarlos. También puedes hacer un ataque cuerpo a cuerpo regular (o un ataque con la mano izquierda) con los picos, y cuentan como un arma ligera en este caso. (Tampoco puedes hacer un ataque con púas de armadura si ya has hecho un ataque con otra arma de mano torpe, y viceversa). Una bonificación de mejora a una armadura no mejora la efectividad de las púas, pero las púas pueden convertirse en armas mágicas por derecho propio.</p>"
+			"name": "Armor Spikes",
+			"description": "<p>You can have spikes added to your armor, which allow you to deal extra piercing damage (see Table 7–5: Weapons) on a successful grapple attack. The spikes count as a martial weapon. If you are not proficient with them, you take a –4 penalty on grapple checks when you try to use them. You can also make a regular melee attack (or off-hand attack) with the spikes, and they count as a light weapon in this case. (You can’t also make an attack with armor spikes if you have already made an attack with another off-hand weapon, and vice versa.) An enhancement bonus to a suit of armor does not improve the spikes’ effectiveness, but the spikes can be made into magic weapons in their own right.</p>"
 		},
 		"Arrow": {
 			"name": "Flecha",
-			"description": "<p>Una flecha estándar (común) utilizada como arma cuerpo a cuerpo se trata como un arma ligera improvisada (penalización de -4 en las tiradas de ataque) e inflige daño como una daga de su tamaño (multiplicador crítico × 2). A menos que se indique lo contrario, las flechas vienen en un carcaj de cuero que contiene 20 flechas.</p>"
+			"description": "<p>A standard (common) arrow used as a melee weapon is treated as a light improvised weapon (–4 penalty on attack rolls) and deals damage as a dagger of its size (critical multiplier ×2). Unless indicated otherwise, arrows come in a leather quiver that holds 20 arrows.</p>"
 		},
 		"Bastard Sword": {
 			"name": "Espada bastarda",
-			"description": "<p>Las espadas bastardas también se conocen como espadas de mano y media. Una espada bastarda es demasiado grande para usarla en una mano sin un entrenamiento especial; por tanto, es un arma exótica. Un personaje puede usar una espada bastarda a dos manos como arma marcial.</p>"
+			"description": "<p>bastard swords are also known as hand-and-ahalf swords. A bastard sword is too large to use in one hand without special training; thus, it is an exotic weapon. A character can use a bastard sword two-handed as a martial weapon.</p>"
 		},
 		"Battleaxe": {
-			"name": "Hacha de batalla",
-			"description": "<p>El hacha de batalla es el arma cuerpo a cuerpo más común entre los enanos.</p>"
+			"name": "Battleaxe",
+			"description": "<p>The battleaxe is the most common melee weapon among dwarves.</p>"
 		},
 		"Bayonet": {
-			"name": "Bayoneta",
-			"description": "<p><em>Las bayonetas son armas de combate cuerpo a cuerpo diseñadas para encajar en las ranuras o bocas de ballestas y armas de fuego. </em></p>\n<p> Las bayonetas te permiten realizar ataques cuerpo a cuerpo con estas armas pero las inutilizan temporalmente como armas a distancia. Colocar o quitar una bayoneta es una acción de movimiento.</p>"
+			"name": "Bayonet",
+			"description": "<p><em>Bayonets are close combat weapons designed to fit into the grooves or muzzles of crossbows and firearms.</em></p>\n<p>Bayonets allow you to make melee attacks with these weapons but render them temporarily useless as ranged weapons. Attaching or removing a bayonet is a move action.</p>"
 		},
 		"Blowgun": {
 			"name": "Cerbatana",
-			"description": "<p><em>Las cerbatanas se usan generalmente para liberar venenos debilitantes (pero rara vez fatales) desde la distancia. No hacen ruido cuando se disparan.</em></p>\n<p>Para obtener una lista de venenos apropiados, consulte&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/afflictions#TOC-Poison\" rel=\"nofollow\">Venenos</a>.</p>"
+			"description": "<p><em>Blowguns are generally used to deliver debilitating (but rarely fatal) poisons from a distance. They are nearly silent when fired.</em></p>\n<p>For a list of appropriate poisons, see&nbsp;<a href=\"https://www.d20pfsrd.com/gamemastering/afflictions#TOC-Poison\" rel=\"nofollow\">Poison</a>.</p>"
 		},
 		"Blowgun Darts (10)": {
 			"name": "Dardos de cerbatana (10)",
-			"description": "<p><em>Estos dardos ligeros tienen pequeñas ranuras detrás de las puntas. </em></p>\n<p> Un personaje puede aplicar veneno a un dardo de cerbatana sin riesgo de envenenarse a sí mismo.</p>"
+			"description": "<p><em>These light darts have tiny grooves behind the tips.</em></p>\n<p>A character can apply poison to a blowgun dart without risk of poisoning himself.</p>"
 		},
 		"Bolas": {
 			"name": "Bolas",
-			"description": "<p>Un juego de bolas consta de dos o tres esferas de madera pesadas conectadas por trozos de cuerda. Debido a que las bolas pueden envolver la pierna u otra extremidad de un enemigo, puedes usar esta arma para hacer un ataque a distancia contra un oponente. No puedes ser derribado durante tu propio intento de derribo cuando usas un juego de bolas.</p>"
+			"description": "<p>A set of bolas consists of two or three heavy wooden spheres connected by lengths of cord. Because the bolas can wrap around an enemy’s leg or other limb, you can use this weapon to make a ranged trip attack against an opponent. You can’t be tripped during your own trip attempt when using a set of bolas.</p>"
 		},
 		"Club": {
-			"name": "Porra",
-			"description": "<p>Un palo de madera es tan fácil de encontrar y de modelar que no tiene costo.</p>"
+			"name": "Club",
+			"description": "<p>A wooden club is so easy to find and fashion that it has no cost.</p>"
 		},
 		"Composite Longbow": {
-			"name": "Arco largo compuesto",
-			"description": "<p>Necesitas al menos dos manos para usar un arco, independientemente de su tamaño. Puedes utilizar un arco largo compuesto mientras estás montado. Los arcos compuestos están hechos de cuerno laminado, madera o hueso y están construidos con un recurvo, lo que significa que el arco permanece en forma de arco incluso cuando no se encorda. Todos los arcos compuestos están hechos con una calificación de fuerza particular (es decir, cada uno requiere un modificador de Fuerza mínimo para usar con competencia). Si tu bonificación de Fuerza es menor que el índice de fuerza del arco compuesto, no puedes usarlo de manera efectiva, por lo que recibes una penalización de -2 a los ataques con él. El arco largo compuesto predeterminado requiere un modificador de Fuerza de +0 o más para usarlo con competencia. Se puede hacer un arco largo compuesto con una calificación de fuerza alta para aprovechar una puntuación de fuerza superior a la media; esta característica le permite agregar su bonificación de Fuerza al daño, hasta la bonificación máxima indicada para el arco. Cada punto de bonificación de Fuerza otorgado por el arco agrega 100 po a su costo. Por ejemplo, un arco largo compuesto (bonificación +1 Str) cuesta 200 po, mientras que un arco largo compuesto (bonificación +4 Str) cuesta 500 po. Por ejemplo, Tordek tiene una bonificación de fuerza +2. Con un arco largo compuesto regular, no obtiene ningún modificador en las tiradas de daño. Por 150 po, puede comprar un arco largo compuesto (bonificación +1 Str), que le permite añadir +1 a sus tiradas de daño. Por 225 po, puede comprar uno que le permita agregar toda su bonificación +2 de Fuerza. Incluso si paga 300 po por un arco largo compuesto (bonificación de +3 Str), todavía obtendría solo una bonificación de +2 en las tiradas de daño y sufre una penalización de -2 en los ataques con él porque su Fuerza es insuficiente para usar el arma de la mejor manera. ventaja. El arco no puede otorgarle una bonificación más alta de la que ya tiene. </p>\n<p> Para propósitos de competencia con armas y dotes similares, un arco largo compuesto se trata como si fuera un arco largo. Por lo tanto, si tienes especialización de Arma (arco largo), esa dote se aplica tanto a los arcos largos como a los arcos largos compuestos.</p>"
+			"name": "Composite Longbow",
+			"description": "<p>You need at least two hands to use a bow, regardless of its size. You can use a composite longbow while mounted. Composite bows are made from laminated horn, wood, or bone and built with a recurve, meaning that the bow remains bowshaped even when unstrung. All composite bows are made with a particular strength rating (that is, each requires a minimum Strength modifier to use with proficiency). If your Strength bonus is less than the strength rating of the composite bow, you can’t effectively use it, so you take a –2 penalty on attacks with it. The default composite longbow requires a Strength modifier of +0 or higher to use with proficiency. A composite longbow can be made with a high strength rating (representing an especially heavy pull) to take advantage of an above-average Strength score; this feature allows you to add your Strength bonus to damage, up to the maximum bonus indicated for the bow. Each point of Strength bonus granted by the bow adds 100 gp to its cost. For instance, a composite longbow (+1 Str bonus) costs 200 gp, while a composite longbow (+4 Str bonus) costs 500 gp. For example, Tordek has a +2 Strength bonus. With a regular composite longbow, he gets no modifier on damage rolls. For 200 gp, he can buy a composite longbow (+1 Str bonus), which lets him add +1 to his damage rolls. For 300 gp, he can buy one that lets him add his entire +2 Strength bonus. Even if he paid 400 gp for a composite longbow (+3 Str bonus), he would still get only a +2 bonus on damage rolls and takes a –2 penalty on attacks with it because his Strength is insufficient to use the weapon to best advantage. The bow can’t grant him a higher bonus than he already has.</p>\n<p>For purposes of weapon proficiency and similar feats, a composite longbow is treated as if it were a longbow. Thus, if you have Weapon Focus (longbow), that feat applies both to longbows and composite longbows.</p>"
 		},
 		"Composite Shortbow": {
-			"name": "Arco corto compuesto",
-			"description": "<p>Necesitas al menos dos manos para usar un arco, independientemente de su tamaño. Puedes utilizar un arco corto compuesto mientras estás montado. Los arcos compuestos están hechos de cuerno laminado, madera o hueso y están construidos con un recurvo, lo que significa que el arco permanece en forma de arco incluso cuando no se encorda. Todos los arcos compuestos están hechos con una calificación de fuerza particular (es decir, cada uno requiere un modificador de Fuerza mínimo para usar con competencia). Si tu bonificación de Fuerza es menor que el índice de fuerza del arco compuesto, no puedes usarlo de manera efectiva, por lo que recibes una penalización de -2 a los ataques con él. El arco corto compuesto predeterminado requiere un modificador de Fuerza de +0 o más para usarlo con competencia. Se puede hacer un arco corto compuesto con una calificación de fuerza alta para aprovechar una puntuación de fuerza superior a la media; esta característica le permite agregar su bonificación de Fuerza al daño, hasta la bonificación máxima indicada para el arco. Cada punto de bonificación de Fuerza otorgado por el arco agrega 75 po a su costo. Por ejemplo, un arco corto compuesto (bonificación +1 Str) cuesta 150 po, mientras que un arco corto compuesto (bonificación +4 Str) cuesta 375 po. Por ejemplo, Tordek tiene una bonificación de fuerza +2. Con un arco corto compuesto regular, no obtiene ningún modificador en las tiradas de daño. Por 150 po, puede comprar un arco corto compuesto (bonificación +1 Str), que le permite añadir +1 a sus tiradas de daño. Por 225 po, puede comprar uno que le permita agregar toda su bonificación +2 de Fuerza. Incluso si paga 300 po por un arco corto compuesto (bonificación de +3 Str), todavía obtendría solo una bonificación de +2 en las tiradas de daño y sufre una penalización de -2 en los ataques con él porque su Fuerza es insuficiente para usar el arma de la mejor manera. ventaja. El arco no puede otorgarle una bonificación más alta de la que ya tiene. </p>\n<p> Para propósitos de competencia con armas y dotes similares, un arco corto compuesto se trata como si fuera un arco corto. Por lo tanto, si tienes especialización de Arma (arco corto), esa dote se aplica tanto a los arcos cortos como a los arcos cortos compuestos.</p>"
+			"name": "Composite Shortbow",
+			"description": "<p>You need at least two hands to use a bow, regardless of its size. You can use a composite shortbow while mounted. Composite bows are made from laminated horn, wood, or bone and built with a recurve, meaning that the bow remains bowshaped even when unstrung. All composite bows are made with a particular strength rating (that is, each requires a minimum Strength modifier to use with proficiency). If your Strength bonus is lower than the strength rating of the composite bow, you can’t effectively use it, so you take a –2 penalty on attacks with it. The default composite shortbow requires a Strength modifier of +0 or higher to use with proficiency. A composite shortbow can be made with a high strength rating to take advantage of an above-average Strength score; this feature allows you to add your Strength bonus to damage, up to the maximum bonus indicated for the bow. Each point of Strength bonus granted by the bow adds 75 gp to its cost. For instance, a composite shortbow (+1 Str bonus) costs 150 gp, while a composite shortbow (+4 Str bonus) costs 375 gp. For example, Tordek has a +2 Strength bonus. With a regular composite shortbow, he gets no modifier on damage rolls. For 150 gp, he can buy a composite shortbow (+1 Str bonus), which lets him add +1 to his damage rolls. For 225 gp, he can buy one that lets him add his entire +2 Strength bonus. Even if he paid 300 gp for a composite shortbow (+3 Str bonus), he would still get only a +2 bonus on damage rolls and takes a –2 penalty on attacks with it because his Strength is insufficient to use the weapon to best advantage. The bow can’t grant him a higher bonus than he already has.</p>\n<p>For purposes of weapon proficiency and similar feats, a composite shortbow is treated as if it were a shortbow. Thus, if you have Weapon Focus (shortbow), that feat applies both to short-bows and composite shortbows.</p>"
 		},
 		"Crossbow Bolt": {
-			"name": "Virote de ballesta",
-			"description": "<p>Un virote de ballesta utilizada como arma cuerpo a cuerpo se trata como un arma ligera improvisada (&ndash;4 de penalización en las tiradas de ataque) e inflige daño como una daga de su tamaño (crit &times;2). Los virotes vienen en una caja de madera que contiene 10 virotes (o 5, para una ballesta de repetición). Un virote que golpea a su objetivo se destruye; uno que falla tiene un 50% de probabilidad de ser destruido o perdido.</p>"
+			"name": "Crossbow Bolt",
+			"description": "<p>A crossbow bolt used as a melee weapon is treated as a light improvised weapon (&ndash;4 penalty on attack rolls) and deals damage as a dagger of its size (crit &times;2). Bolts come in a wooden case that holds 10 bolts (or 5, for a repeating crossbow). A bolt that hits its target is destroyed; one that misses has a 50% chance of being destroyed or lost.</p>"
 		},
 		"Dagger": {
-			"name": "Daga",
-			"description": "<p>La daga es un arma secundaria común. Obtienes un bonificador +2 a las pruebas de Juego de manos realizadas para ocultar una daga en tu cuerpo (consulta la habilidad Juego de manos, página 81).</p>"
+			"name": "Dagger",
+			"description": "<p>The dagger is a common secondary weapon. You get a +2 bonus on Sleight of Hand checks made to conceal a dagger on your body (see the Sleight of Hand skill, page 81).</p>"
 		},
 		"Dart": {
-			"name": "Dardo",
-			"description": "<p>Un dardo es del tamaño de una flecha grande y tiene una cabeza pesada. Esencialmente, es una pequeña jabalina.</p>"
+			"name": "Dart",
+			"description": "<p>A dart is the size of a large arrow and has a weighted head. Essentially, it is a small javelin.</p>"
 		},
 		"Dire Flail": {
-			"name": "Mayal temible",
-			"description": "<p>Un mayal terrible es un arma doble. Puedes luchar con él como si estuvieras luchando con dos armas, pero si lo haces, incurres en todas las penalizaciones de ataque normales asociadas con luchar con dos armas, como si estuvieras usando un arma de una mano y un arma ligera (ver Dos- Weapon Fighting, página 160). Una criatura que empuñe un mayal terrible en una mano no puede usarlo como arma doble; solo se puede usar un extremo del arma en una ronda determinada. Cuando usas un mayal terrible, obtienes un bonificador +2 a las tiradas de ataque opuestas realizadas para desarmar a un enemigo (incluida la tirada de ataque opuesto para evitar ser desarmado si tal intento falla). También puedes usar esta arma para hacer ataques de derribo. Si se tropieza durante tu propio intento de derribo, puede soltar el mayal para evitar que te derriben.</p>"
+			"name": "Dire Flail",
+			"description": "<p>A dire flail is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon (see Two-Weapon Fighting, page 160). A creature wielding a dire flail in one hand can’t use it as a double weapon— only one end of the weapon can be used in any given round. When using a dire flail, you get a +2 bonus on opposed attack rolls made to disarm an enemy (including the opposed attack roll to avoid being disarmed if such an attempt fails). You can also use this weapon to make trip attacks. If you are tripped during your own trip attempt, you can drop the dire flail to avoid being tripped.</p>"
 		},
 		"Dwarven Urgrosh": {
-			"name": "Enano Urgrosh",
-			"description": "<p>Un urgrosh enano es un arma doble. Puedes luchar con ella como si estuvieras luchando con dos armas, pero si lo haces, incurres en todas las penalizaciones de ataque normales asociadas con luchar con dos armas, como si estuvieras usando un arma de una mano y un arma ligera (ver Dos- Weapon Fighting, página 160). La cabeza del hacha del urgrosh es un arma cortante que inflige 1d8 puntos de daño. Su punta de lanza es un arma perforadora que inflige 1d6 puntos de daño. Puedes usar cualquiera de las cabezas como arma principal. El otro es el arma de la mano izquierda. Una criatura que empuñe un urgrosh enano en una mano no puede usarlo como arma doble; solo se puede usar un extremo del arma en una ronda determinada. Si usas una acción preparada para establecer un urgrosh contra una carga, infliges el doble de daño si logras un golpe contra un personaje que carga. Si usas un urgrosh contra un personaje que carga, la punta de lanza es la parte del arma que inflige daño. Un urgrosh también se llama hacha de lanza. Los enanos tratan a los urgroshes enanos como armas marciales.</p>"
+			"name": "Dwarven Urgrosh",
+			"description": "<p>A dwarven urgrosh is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon (see Two-Weapon Fighting, page 160). The urgrosh’s axe head is a slashing weapon that deals 1d8 points of damage. Its spear head is a piercing weapon that deals 1d6 points of damage. You can use either head as the primary weapon. The other is the off-hand weapon. A creature wielding a dwarven urgrosh in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round. If you use a ready action to set an urgrosh against a charge, you deal double damage if you score a hit against a charging character. If you use an urgrosh against a charging character, the spear head is the part of the weapon that deals damage. An urgrosh is also called a spear-axe. Dwarves treat dwarven urgroshes as martial weapons.</p>"
 		},
 		"Dwarven Waraxe": {
-			"name": "Hacha de guerra enana",
-			"description": "<p>Un hacha de guerra enana es demasiado grande para usarla en una mano sin un entrenamiento especial; por tanto, es un arma exótica. Un personaje mediano puede usar un hacha de guerra enana con las dos manos como arma marcial, o una criatura grande puede usarla con una mano de la misma manera. Un enano trata a un hacha de guerra enana como un arma marcial incluso cuando la usa en una mano.</p>"
+			"name": "Dwarven Waraxe",
+			"description": "<p>A dwarven waraxe is too large to use in one hand without special training; thus, it is an exotic weapon. A Medium character can use a dwarven waraxe two-handed as a martial weapon, or a Large creature can use it one-handed in the same way. A dwarf treats a dwarven waraxe as a martial weapon even when using it in one hand.</p>"
 		},
 		"Falchion": {
-			"name": "Alfange",
-			"description": "<p>Esta espada, que es esencialmente una cimitarra a dos manos, tiene una curva que le da el efecto de un filo más agudo.</p>"
+			"name": "Falchion",
+			"description": "<p>This sword, which is essentially a two-handed scimitar, has a curve that gives it the effect of a keener edge.</p>"
 		},
 		"Flail": {
-			"name": "Mayal",
-			"description": "<p>Con un mayal, obtienes un bonificador +2 a las tiradas de ataque opuestas realizadas para desarmar a un enemigo (incluida la tirada para evitar ser desarmado si tal intento falla). También puedes usar esta arma para hacer ataques de derribo. Si te derriban durante su propio intento de derribo, puede soltar el mayal para evitar ser derribado.</p>"
+			"name": "Flail",
+			"description": "<p>With a flail, you get a +2 bonus on opposed attack rolls made to disarm an enemy (including the roll to avoid being disarmed if such an attempt fails). You can also use this weapon to make trip attacks. If you are tripped during your own trip attempt, you can drop the flail to avoid being tripped.</p>"
 		},
 		"Gauntlet": {
-			"name": "Guantelete",
-			"description": "<p>Este guante de metal protege tus manos y te permite infligir daño letal en lugar de daño no letal con golpes desarmados. Un golpe con un guantelete se considera un ataque desarmado. El costo y el peso indicados son para un solo guante. Las armaduras medianas y pesadas (excepto el peto) vienen con guanteletes.</p>"
+			"name": "Gauntlet",
+			"description": "<p>This metal glove protects your hands and lets you deal lethal damage rather than nonlethal damage with unarmed strikes. A strike with a gauntlet is otherwise considered an unarmed attack. The cost and weight given are for a single gauntlet. Medium and heavy armors (except breastplate) come with gauntlets.</p>"
 		},
 		"Glaive": {
 			"name": "Glaive",
-			"description": "<p>Una guja tiene alcance. Puedes golpear a tus oponentes a 10 pies de distancia con él, pero no puedes usarlo contra un enemigo adyacente.</p>"
+			"description": "<p>A glaive has reach. You can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe.</p>"
 		},
 		"Gnome Hooked Hammer": {
-			"name": "Martilo de gnomo con gancho",
-			"description": "<p>Un martillo de gnomo con gancho es un arma doble. Puedes luchar con él como si estuvieras luchando con dos armas, pero si lo haces, incurres en todas las penalizaciones de ataque normales asociadas con luchar con dos armas, como si estuvieras usando un arma de una mano y un arma ligera (ver Dos- Weapon Fighting, página 160). La cabeza roma del martillo es un arma contundente que inflige 1d6 puntos de daño (crítico × 3). Su gancho es un arma perforadora que inflige 1d4 puntos de daño (crítico × 4). Puedes usar cualquiera de las cabezas como arma principal. La otra cabeza es el arma torpe. Una criatura que empuñe un martillo con gancho de gnomo en una mano no puede usarlo como arma doble; solo se puede usar un extremo del arma en una ronda determinada. Puedes usar un martillo de gnomo con gancho para hacer ataques de derribo. Si te derriban durante tu propio intento de derribo, puedes soltar el martillo de gnomo con gancho para evitarlo. Los gnomos tratan a los martillos con ganchos de gnomos como armas marciales.</p>"
+			"name": "Gnome Hooked Hammer",
+			"description": "<p>A gnome hooked hammer is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon (see Two-Weapon Fighting, page 160). The hammer’s blunt head is a bludgeoning weapon that deals 1d6 points of damage (crit ×3). Its hook is a piercing weapon that deals 1d4 points of damage (crit ×4). You can use either head as the primary weapon. The other head is the offhand weapon. A creature wielding a gnome hooked hammer in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round. You can use a gnome hooked hammer to make trip attacks. If you are tripped during your own trip attempt, you can drop the gnome hooked hammer to avoid being tripped. Gnomes treat gnome hooked hammers as martial weapons.</p>"
 		},
 		"Grappling Hook": {
-			"name": "Gancho",
+			"name": "Grappling Hook",
 			"description": ""
 		},
 		"Greataxe": {
-			"name": "Gran hacha",
-			"description": "<p>Esta grande y pesada hacha es la favorita de los bárbaros y de cualquier otra persona que quiera tener la capacidad de infligir un daño increíble.</p>"
+			"name": "Greataxe",
+			"description": "<p>This big, heavy axe is a favorite of barbarians and anybody else who wants the capability to deal out incredible damage.</p>"
 		},
 		"Greatclub": {
-			"name": "Gran Clava",
-			"description": "<p>Una gran clava es una versión a dos manos de una clava normal. A menudo está tachonada de clavos o púas o rodeado por bandas de hierro.</p>"
+			"name": "Greatclub",
+			"description": "<p>A greatclub is a two-handed version of a regular club. It is often studded with nails or spikes or ringed by bands of iron.</p>"
 		},
 		"Greatsword": {
-			"name": "Gran espada",
-			"description": "<p>Los aventureros reconocen la gran espada como una de las mejores armas cuerpo a cuerpo disponibles. Es confiable y poderosa.</p>"
+			"name": "Greatsword",
+			"description": "<p>Adventurers recognize the greatsword as one of the best melee weapons available. It’s reliable and powerful.</p>"
 		},
 		"Guisarme": {
 			"name": "Guisarme",
-			"description": "<p>Un guisarme tiene alcance. Puedes golpear a tus oponentes a 10 pies de distancia con él, pero no puedes usarlo contra un enemigo adyacente. Debido a la hoja curva de un guisarme, también puedes usarla para hacer ataques de derribo. Si se falla el intento de derribo, puede soltarse el guisarme para evitar ser derribado.</p>"
+			"description": "<p>A guisarme has reach. You can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe. Because of a guisarme’s curved blade, you can also use it to make trip attacks. If you are tripped during your own trip attempt, you can drop the guisarme to avoid being tripped.</p>"
 		},
 		"Halberd": {
-			"name": "Alabarda",
-			"description": "<p>Normalmente, golpeas con la cabeza de un hacha de alabarda, pero la punta del extremo es útil para atacar a los oponentes. Si usas una acción preparada para colocar una alabarda contra una carga, infliges el doble de daño en un golpe exitoso contra un personaje que carga. Puedes usar el gancho en la parte posterior de una alabarda para hacer ataques de derribo. Si se falla durante su propio intento de derribo, puede soltar la alabarda para evitar ser derribado.</p>"
+			"name": "Halberd",
+			"description": "<p>Normally, you strike with a halberd’s axe head, but the spike on the end is useful against charging opponents. If you use a ready action to set a halberd against a charge, you deal double damage on a successful hit against a charging character. You can use the hook on the back of a halberd to make trip attacks. If you are tripped during your own trip attempt, you can drop the halberd to avoid being tripped.</p>"
 		},
 		"Hand Crossbow": {
-			"name": "Ballesta de mano",
-			"description": "<p>Esta exótica arma es común entre los pícaros y otros que prefieren el sigilo sobre el poder. Puedes usar una ballesta de mano con una mano. Cargar una ballesta de mano es una acción de movimiento que provoca ataques de oportunidad. Puede disparar, pero no cargar, una ballesta de mano con una mano sin penalización. Puede disparar una ballesta de mano con cada mano, pero se penaliza en las tiradas de ataque como si atacara con dos armas ligeras (consulte la Tabla 8-10: Penalizaciones de combate con dos armas, página 160).</p>"
+			"name": "Hand Crossbow",
+			"description": "<p>This exotic weapon is common among rogues and others who favor stealth over power. You can draw a hand crossbow back by hand. Loading a hand crossbow is a move action that provokes attacks of opportunity. You can shoot, but not load, a hand crossbow with one hand at no penalty. You can shoot a hand crossbow with each hand, but you take a penalty on attack rolls as if attacking with two light weapons (see Table 8–10: Two-Weapon Fighting Penalties, page 160).</p>"
 		},
 		"Handaxe": {
-			"name": "Hacha de mano",
-			"description": "<p>Los enanos prefieren estas hachas como armas de mano torpe.</p>"
+			"name": "Handaxe",
+			"description": "<p>Dwarves favor these axes as off-hand weapons.</p>"
 		},
 		"Heavy Crossbow": {
-			"name": "Ballesta pesada",
-			"description": "<p>Una ballesta pesada se carga girando un pequeño cabrestante hacia atrás. Cargar una ballesta pesada es una acción de asalto completo que provoca ataques de oportunidad. Normalmente, operar una ballesta pesada requiere dos manos. Sin embargo, puedes disparar, pero no cargar, una ballesta pesada con una mano con una penalización de -4 en las tiradas de ataque. Puedes disparar una ballesta pesada con cada mano, pero recibes una penalización en las tiradas de ataque como si atacases con dos armas de una mano (consulta la Tabla &nbsp; 8-10: Penalizaciones por peleas con dos armas, página 160). Esta penalización es acumulativa con la penalización por disparar con una mano.</p>\n<p>&nbsp;</p>"
+			"name": "Heavy Crossbow",
+			"description": "<p>You draw a heavy crossbow back by turning a small winch. Loading a heavy crossbow is a full-round action that provokes attacks of opportunity. Normally, operating a heavy crossbow requires two hands. However, you can shoot, but not load, a heavy crossbow with one hand at a –4 penalty on attack rolls. You can shoot a heavy crossbow with each hand, but you take a penalty on attack rolls as if attacking with two one-handed weapons (see Table&nbsp; 8–10: Two-Weapon Fighting Penalties, page 160). This penalty is cumulative with the penalty for one-handed firing.</p>\n<p>&nbsp;</p>"
 		},
 		"Heavy Flail": {
-			"name": "Mayal pesado",
-			"description": "<p>Con un mayal, obtienes un bonificador +2 a las tiradas de ataque opuestas realizadas para desarmar a un enemigo (incluida la tirada para evitar ser desarmado si tal intento falla). También puedes usar este arma para hacer ataques de derribo. Si te derriban durante su propio intento de viaje, puede soltar el mayal para evitar que te derriben.</p>"
+			"name": "Heavy Flail",
+			"description": "<p>With a flail, you get a +2 bonus on opposed attack rolls made to disarm an enemy (including the roll to avoid being disarmed if such an attempt fails). You can also use this weapon to make trip attacks. If you are tripped during your own trip attempt, you can drop the flail to avoid being tripped.</p>"
 		},
 		"Heavy Mace": {
-			"name": "Maza pesada",
-			"description": "<p>Una maza está hecha de metal, incluso el mango, lo que la hace bastante pesada y muy difícil de romper.</p>"
+			"name": "Heavy Mace",
+			"description": "<p>A mace is made of metal, even the haft, which makes it quite heavy and very hard to break.</p>"
 		},
 		"Heavy Pick": {
-			"name": "Pico pesado",
-			"description": "<p>Un pico está diseñado para concentrar la fuerza de su golpe en un área pequeña. Una púa ligera o pesada se parece a la púa de un minero, pero está diseñada específicamente para la guerra.</p>"
+			"name": "Heavy Pick",
+			"description": "<p>A pick is designed to concentrate the force of its blow on a small area. A light or heavy pick resembles a miner’s pick but is specifically designed for war.</p>"
 		},
 		"Heavy Repeating Crossbow": {
-			"name": "Ballesta de repetición pesada",
-			"description": "<p>La ballesta de repetición (ya sea pesada o liviana) tiene 5 virotes de ballesta. Mientras tenga virotes, puedes recargarla tirando de la palanca de recarga (una acción gratuita). Cargar una nueva caja de 5 virotes es una acción de asalto completo que provoca ataques de oportunidad. Puede disparar una ballesta de repetición con una mano o disparar una ballesta de repetición en cada mano de la misma manera que lo haría con una ballesta normal del mismo tamaño. Sin embargo, debes disparar el arma con las dos manos para poder usar la palanca de recarga, y debes usar las dos manos para cargar una nueva caja de virotes.</p>"
+			"name": "Heavy Repeating Crossbow",
+			"description": "<p>The repeating crossbow (whether heavy or light) holds 5 crossbow bolts. As long as it holds bolts, you can reload it by pulling the reloading lever (a free action). Loading a new case of 5 bolts is a full-round action that provokes attacks of opportunity. You can fire a repeating crossbow with one hand or fire a repeating crossbow in each hand in the same manner as you would a normal crossbow of the same size. However, you must fire the weapon with two hands in order to use the reloading lever, and you must use two hands to load a new case of bolts.</p>"
 		},
 		"Javelin": {
-			"name": "Jabalina",
-			"description": "<p>Esta arma es una lanza ligera y flexible destinada a ser lanzada. No es buena para usarla en combate cuerpo a cuerpo. Dado que no está diseñado para el combate cuerpo a cuerpo, se te trata como no competente y sufres una penalización de -4 en las tiradas de ataque si usas una jabalina como arma cuerpo a cuerpo.</p>"
+			"name": "Javelin",
+			"description": "<p>This weapon is a light, flexible spear intended for throwing. You can use it in melee, but not well. Since it is not designed for melee, you are treated as nonproficient with it and take a –4 penalty on attack rolls if you use a javelin as a melee weapon.</p>"
 		},
 		"Kama": {
 			"name": "Kama",
-			"description": "<p>El kama es un arma especial de monje. Esta designación le da a un monje (ver Capítulo 3: Clases) que maneja un kama opciones especiales. Debido a la forma de un kama, puedes usarlo para hacer ataques de derribo. Si se falla durante su propio intento de derribo, puede soltar el kama para evitar que lo derriben.</p>"
+			"description": "<p>The kama is a special monk weapon. This designation gives a monk (see Chapter 3: Classes) wielding a kama special options. Because of a kama’s shape, you can use it to make trip attacks. If you are tripped during your own trip attempt, you can drop the kama to avoid being tripped.</p>"
 		},
 		"Kukri": {
 			"name": "Kukri",
-			"description": "<p>Este cuchillo curvo y pesado tiene su borde afilado en el interior de la curva.</p>"
+			"description": "<p>This heavy, curved knife has its sharp edge on the inside of the curve.</p>"
 		},
 		"Lance": {
-			"name": "lanza",
-			"description": "<p>Una lanza inflige el doble de daño cuando se usa desde la parte trasera de una montura de carga. Tiene alcance, por lo que puedes golpear a tus oponentes a 10 pies de distancia con él, pero no puedes usarlo contra un enemigo adyacente. Mientras está montado, puede empuñar una lanza con una mano.</p>"
+			"name": "Lance",
+			"description": "<p>A lance deals double damage when used from the back of a charging mount. It has reach, so you can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe. While mounted, you can wield a lance with one hand.</p>"
 		},
 		"Light Crossbow": {
-			"name": "Ballesta ligera",
-			"description": "<p>Usas una ballesta ligera tirando de una palanca hacia atrás. Cargar una ballesta ligera es una acción de movimiento que provoca ataques de oportunidad. Normalmente, operar una ballesta ligera requiere dos manos. Sin embargo, puedes disparar, pero no cargar, una ballesta ligera con una mano con una penalización de -2 en las tiradas de ataque. Puedes disparar una ballesta ligera con cada mano, pero recibes una penalización en las tiradas de ataque como si atacases con dos armas ligeras (ver Tabla 8-10: Penalizaciones de combate con dos armas, página 160). Esta penalización es acumulativa con la penalización por disparar con una mano.</p>"
+			"name": "Light Crossbow",
+			"description": "<p>You draw a light crossbow back by pulling a lever. Loading a light crossbow is a move action that provokes attacks of opportunity. Normally, operating a light crossbow requires two hands. However, you can shoot, but not load, a light crossbow with one hand at a –2 penalty on attack rolls. You can shoot a light crossbow with each hand, but you take a penalty on attack rolls as if attacking with two light weapons (see Table 8–10: Two-Weapon Fighting Penalties, page 160). This penalty is cumulative with the penalty for one-handed firing.</p>"
 		},
 		"Light Hammer": {
-			"name": "Martillo ligero",
-			"description": "<p>Este es un pequeño martillo lo suficientemente ligero como para lanzarlo. Es el favorito de los enanos.</p>"
+			"name": "Light Hammer",
+			"description": "<p>This is a small sledge light enough to throw. It is favored by dwarves.</p>"
 		},
 		"Light Mace": {
-			"name": "Maza ligera",
-			"description": "<p>Una maza está hecha de metal, incluso el mango, lo que la hace bastante pesada y muy difícil de romper.</p>"
+			"name": "Light Mace",
+			"description": "<p>A mace is made of metal, even the haft, which makes it quite heavy and very hard to break.</p>"
 		},
 		"Light Pick": {
-			"name": "Pico ligero",
-			"description": "<p>Un pico está diseñado para concentrar la fuerza de su golpe en un área pequeña. Un pico ligera o pesado se parece al pico de un minero, pero está diseñada específicamente para la guerra.</p>"
+			"name": "Light Pick",
+			"description": "<p>A pick is designed to concentrate the force of its blow on a small area. A light or heavy pick resembles a miner’s pick but is specifically designed for war.</p>"
 		},
 		"Light Repeating Crossbow": {
-			"name": "Ballesta de repetición ligera",
-			"description": "<p>La ballesta de repetición (ya sea pesada o liviana) tiene 5 virotes de ballesta. Mientras tenga virotes, puede recargarse tirando de la palanca de recarga (una acción gratuita). Cargar una nueva caja de 5 virotes es una acción de asalto completo que provoca ataques de oportunidad. Puede disparar una ballesta de repetición con una mano o disparar una ballesta de repetición en cada mano de la misma manera que lo haría con una ballesta normal del mismo tamaño. Sin embargo, debes disparar el arma con las dos manos para poder usar la palanca de recarga, y debes usar las dos manos para cargar una nueva caja de virotes.</p>"
+			"name": "Light Repeating Crossbow",
+			"description": "<p>The repeating crossbow (whether heavy or light) holds 5 crossbow bolts. As long as it holds bolts, you can reload it by pulling the reloading lever (a free action). Loading a new case of 5 bolts is a full-round action that provokes attacks of opportunity. You can fire a repeating crossbow with one hand or fire a repeating crossbow in each hand in the same manner as you would a normal crossbow of the same size. However, you must fire the weapon with two hands in order to use the reloading lever, and you must use two hands to load a new case of bolts.</p>"
 		},
 		"Longbow": {
-			"name": "Arco",
-			"description": "<p>Necesitas al menos dos manos para usar un arco, independientemente de su tamaño. Un arco largo es demasiado difícil de manejar mientras estás montado. Si tienes una penalización por poca Fuerza, aplícala a las tiradas de daño cuando uses un arco largo. Si tienes una bonificación por alta Fuerza, puedes aplicarla a las tiradas de daño cuando usas un arco largo compuesto (ver más abajo) pero no un arco largo normal.</p>"
+			"name": "Longbow",
+			"description": "<p>You need at least two hands to use a bow, regardless of its size. A longbow is too unwieldy to use while you are mounted. If you have a penalty for low Strength, apply it to damage rolls when you use a longbow. If you have a bonus for high Strength, you can apply it to damage rolls when you use a composite longbow (see below) but not a regular longbow.</p>"
 		},
 		"Longspear": {
-			"name": "Lanza larga",
-			"description": "<p>Una lanza larga tiene alcance. Puedes golpear a tus oponentes a 10 pies de distancia con ella, pero no puedes usarla contra un enemigo adyacente. Si usas una acción preparada para establecer una lanza larga contra una carga, infliges el doble de daño en un golpe exitoso contra un personaje que carga.</p>"
+			"name": "Longspear",
+			"description": "<p>A longspear has reach. You can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe. If you use a ready action to set a longspear against a charge, you deal double damage on a successful hit against a charging character.</p>"
 		},
 		"Longsword": {
-			"name": "Espada larga",
-			"description": "<p>Esta clásica hoja recta es el arma de valerosos caballeros. Es un arma favorita de muchos paladines.</p>"
+			"name": "Longsword",
+			"description": "<p>This classic, straight blade is the weapon of knighthood and valor. It is a favorite weapon of many paladins.</p>"
 		},
 		"Morningstar": {
-			"name": "Estrella de la mañana",
-			"description": "<p>Una estrella de la mañana inflige un daño tanto penetrante como contundente.</p>"
+			"name": "Morningstar",
+			"description": "<p>A morningstar deals both piercing and bludgeoning damage.</p>"
 		},
 		"Net": {
-			"name": "Red",
-			"description": "<p>Una red de combate tiene pequeñas púas en el tejido y una cuerda de arrastre para controlar a los oponentes en la red. Lo usas para enredar enemigos. Cuando lanzas una red, haces un ataque de toque a distancia contra tu objetivo. El alcance máximo de una red es de 10 pies. Si aciertas, el objetivo se enreda. Una criatura enredada sufre una penalización -2 a las tiradas de ataque y una penalización -4 a la Destreza, puede moverse solo a la mitad de la velocidad y no puede cargar ni correr. Si controlas la cuerda de arrastre al tener éxito en una prueba de Fuerza opuesta mientras la sostienes, la criatura enredada solo puede moverse dentro de los límites que permite la cuerda. Si la criatura enredada intenta lanzar un hechizo, debe realizar una prueba de Concentración CD 15 o no podrá lanzar el hechizo. Una criatura enredada puede escapar con una prueba de Artista del escape CD 20 (una acción de asalto completo). La red tiene 5 puntos de golpe y se puede explotar con una prueba de Fuerza CD 25 (también una acción de asalto completo). Una red es útil solo contra criaturas dentro de una categoría de tamaño tuya. Por ejemplo, un personaje Pequeño que empuña una red puede enredar criaturas Diminutas, Pequeñas o Medianas. Una red debe estar doblada para que se lance con eficacia. La primera vez que lanzas tu red en una pelea, haces un ataque de toque a distancia normal.</p>"
+			"name": "Net",
+			"description": "<p>A fighting net has small barbs in the weave and a trailing rope to control netted opponents. You use it to entangle enemies. When you throw a net, you make a ranged touch attack against your target. A net’s maximum range is 10 feet. If you hit, the target is entangled. An entangled creature takes a –2 penalty on attack rolls and a –4 penalty on Dexterity, can move at only half speed, and cannot charge or run. If you control the trailing rope by succeeding on an opposed Strength check while holding it, the entangled creature can move only within the limits that the rope allows. If the entangled creature attempts to cast a spell, it must make a DC 15 Concentration check or be unable to cast the spell. An entangled creature can escape with a DC 20 Escape Artist check (a full-round action). The net has 5 hit points and can be burst with a DC 25 Strength check (also a full-round action). A net is useful only against creatures within one size category of you. For instance, a Small character wielding a net can entangle Tiny, Small, or Medium creatures. A net must be folded to be thrown effectively. The first time you throw your net in a fight, you make a normal ranged touch attack</p>"
 		},
 		"Nunchaku": {
 			"name": "Nunchaku",
-			"description": "<p>El nunchaku es un arma especial de monje. Esta designación le da a un monje que empuña un nunchaku opciones especiales. Con un nunchaku, obtienes un bonificador +2 a las tiradas de ataque opuestas realizadas para desarmar a un enemigo (incluida la tirada para evitar ser desarmado si tal intento falla).</p>"
+			"description": "<p>The nunchaku is a special monk weapon. This designation gives a monk wielding a nunchaku special options. With a nunchaku, you get a +2 bonus on opposed attack rolls made to disarm an enemy (including the roll to avoid being disarmed if such an attempt fails).</p>"
 		},
 		"Orc Double Axe": {
-			"name": "Hacha doble orca",
-			"description": "<p>Un hacha doble orca es un arma doble. Puedes luchar con ella como si estuvieras luchando con dos armas, pero si lo haces, incurres en todas las penalizaciones de ataque normales asociadas con luchar con dos armas, como si estuvieras usando un arma de una mano y un arma ligera (ver Dos- Weapon Fighting, página 160). Como sugiere su nombre, a menudo se encuentra en manos de poderosos luchadores orcos. Una criatura que empuñe un hacha doble orca en una mano no puede usarla como arma doble; solo se puede usar un extremo del arma en una ronda determinada.</p>"
+			"name": "Orc Double Axe",
+			"description": "<p>An orc double axe is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon (see Two-Weapon Fighting, page 160). As its name suggests, it is often found in the hands of powerful orc fighters. A creature wielding an orc double axe in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round.</p>"
 		},
 		"Punching Dagger": {
-			"name": "Daga perforadora",
-			"description": "<p>Esta daga hace más daño cuando golpeas por detrás, es capaz de dar golpes mortales.</p>"
+			"name": "Punching Dagger",
+			"description": "<p>This dagger puts more force from your punch behind it, making it capable of deadly strikes.</p>"
 		},
 		"Quarterstaff": {
-			"name": "Bastón",
-			"description": "<p>El bastón es el arma favorita de muchos personajes, desde viajeros, campesinos y comerciantes hasta monjes, guardabosques y magos. Un bastón es un arma doble. Puedes luchar con él como si estuvieras luchando con dos armas, pero si lo haces, incurres en todas las penalizaciones de ataque normales asociadas con luchar con dos armas, como si estuvieras usando un arma de una mano y un arma ligera (ver Dos- Weapon Fighting, página 160). También puedes golpear con cualquiera de los extremos individualmente, un hecho que te permite aprovechar al máximo las aberturas en las defensas de tu oponente. Una criatura que empuñe un bastón en una mano no puede usarlo como arma doble; solo se puede usar un extremo del arma en una ronda determinada. El bastón es un arma especial de monje. Esta designación le da a un monje (ver Capítulo 3: Clases) que empuña un bastón opciones especiales.</p>"
+			"name": "Quarterstaff",
+			"description": "<p>The quarterstaff is the favorite weapon of many characters, from travelers, peasants, and merchants to monks, rangers, and wizards. A quarterstaff is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon (see Two-Weapon Fighting, page 160). You can also strike with either end singly, a fact that allows you to take full advantage of openings in your opponent’s defenses. A creature wielding a quarterstaff in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round. The quarterstaff is a special monk weapon. This designation gives a monk (see Chapter 3: Classes) wielding a quarterstaff special options.</p>"
 		},
 		"Ranseur": {
 			"name": "Ranseur",
-			"description": "<p>Un ranseur tiene alcance. Puedes golpear a tus oponentes a 10 pies de distancia con él, pero no puedes usarlo contra un enemigo adyacente. Con un Ranseur, obtienes un bonificador +2 a las tiradas de ataque opuestas realizadas para desarmar a un oponente (incluida la tirada para evitar ser desarmado si tal intento falla).</p>"
+			"description": "<p>A ranseur has reach. You can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe. With a ranseur, you get a +2 bonus on opposed attack rolls made to disarm an opponent (including the roll to avoid being disarmed if such an attempt fails).</p>"
 		},
 		"Rapier": {
-			"name": "Estoque",
-			"description": "<p>Puedes usar la dote de sutileza con armas en la página 102) para aplicar tu modificador de Destreza en lugar de tu modificador de Fuerza a las tiradas de ataque con un estoque del tamaño adecuado para ti, aunque no sea un arma ligera para ti. No puedes empuñar un estoque con las dos manos para aplicar 1,5 veces tu bonificación de Fuerza al daño.</p>"
+			"name": "Rapier",
+			"description": "<p>You can use the Weapon Finesse feat page 102) to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a rapier sized for you, even though it isn’t a light weapon for you. You can’t wield a rapier in two hands in order to apply 1-1/2 times your Strength bonus to damage.</p>"
 		},
 		"Repeating Crossbow Bolt": {
-			"name": "Virote de ballesta de repetición",
-			"description": "<p>Un virote de ballesta utilizada como arma cuerpo a cuerpo se trata como un arma ligera improvisada (penalización de -4 en las tiradas de ataque) e inflige daño como una daga de su tamaño (crítico × 2). Los virotes vienen en una caja de madera que contiene 10 virotes (o 5, para una ballesta de repetición). Un virote que golpea a su objetivo se destruye; uno que falla tiene un 50% de probabilidad de ser destruido o perdido.</p>"
+			"name": "Repeating Crossbow Bolt",
+			"description": "<p>A crossbow bolt used as a melee weapon is treated as a light improvised weapon (–4 penalty on attack rolls) and deals damage as a dagger of its size (crit ×2). Bolts come in a wooden case that holds 10 bolts (or 5, for a repeating crossbow). A bolt that hits its target is destroyed; one that misses has a 50% chance of being destroyed or lost.</p>"
 		},
 		"Sai": {
 			"name": "Sai",
-			"description": "<p>Las extrusiones en forma de puntas de un sai están diseñadas para ayudar a atrapar y desarmar las armas del oponente. Con un sai, obtienes un bonificador +4 en las tiradas de ataque opuestas realizadas para desarmar a un enemigo (incluida la tirada para evitar ser desarmado si tal intento falla). El sai es un arma especial de monje. Esta designación le da a un monje (ver Capítulo 3: Clases) que maneja un sai opciones especiales.</p>"
+			"description": "<p>A sai’s pronglike extrusions are designed to help catch and disarm opponent’s weapons. With a sai, you get a +4 bonus on opposed attack rolls made to disarm an enemy (including the roll to avoid being disarmed if such an attempt fails). The sai is a special monk weapon. This designation gives a monk (see Chapter 3: Classes) wielding a sai special options.</p>"
 		},
 		"Sap": {
-			"name": "Cahiporra",
-			"description": "<p>Una cachiporra es útil cuando quieres noquear a un oponente en lugar de matarlo.</p>"
+			"name": "Sap",
+			"description": "<p>A sap comes in handy when you want to knock an opponent out instead of killing it.</p>"
 		},
 		"Scimitar": {
-			"name": "Cimitarra",
-			"description": "<p>La curva de esta hoja le da el efecto de un borde más agudo.</p>"
+			"name": "Scimitar",
+			"description": "<p>The curve on this blade gives it the effect of a keener edge.</p>"
 		},
 		"Scythe": {
-			"name": "Guadaña",
-			"description": "<p>Si bien se parece al implemento agrícola estándar del mismo nombre, esta guadaña está equilibrada y reforzada para la guerra. El diseño de la guadaña concentra una fuerza tremenda en la punta afilada, además de permitir cortes devastadores con el filo de la hoja. Debido a la forma de una guadaña, puedes usarla para hacer ataques de derribo. Si te derriban durante su propio intento de derribo, puede soltar la guadaña para evitar que lo hagan.</p>"
+			"name": "Scythe",
+			"description": "<p>While it resembles the standard farm implement of the same name, this scythe is balanced and strengthened for war. The design of the scythe focuses tremendous force on the sharp point, as well as allowing devastating slashes with the blade edge. Because of a scythe’s shape, you can use it to make trip attacks. If you are tripped during your own trip attempt, you can drop the scythe to avoid being tripped.</p>"
 		},
 		"Shield Spikes (Heavy)": {
-			"name": "Escudo de pinchos (Pesado)",
-			"description": "<p>Cuando se agregan a tu escudo, estos pinchos lo convierten en un arma de perforación marcial que aumenta el daño infligido por un golpe de escudo como si el escudo estuviera diseñado para una criatura de una categoría de tamaño mayor que tú (de 1d4 a 1d6, por ejemplo). No se pueden poner & nbsp; picos en un broquel o un escudo de torre. De lo contrario, atacar con un escudo con púas es como hacer un ataque de golpe de escudo (ver arriba). Una bonificación de mejora en un escudo con púas no mejora la efectividad de un golpe de escudo hecho con él, pero un escudo con púas puede convertirse en un arma mágica por derecho propio.</p>"
+			"name": "Shield Spikes (Heavy)",
+			"description": "<p>When added to your shield, these spikes turn it into a martial piercing weapon that increases the damage dealt by a shield bash as if the shield were designed for a creature one size category larger than you (from 1d4 to 1d6, for instance). You can’t put&nbsp; spikes on a buckler or a tower shield. Otherwise, attacking with a spiked shield is like making a shield bash attack (see above). An enhancement bonus on a spiked shield does not improve the effectiveness of a shield bash made with it, but a spiked shield can be made into a magic weapon in its own right.</p>"
 		},
 		"Shield Spikes (Light)": {
-			"name": "Escudo de púas  (Ligero)",
-			"description": "<p>Cuando se agregan a tu escudo, estas púas lo convierten en un arma de perforación marcial que aumenta el daño infligido por un golpe de escudo como si el escudo estuviera diseñado para una criatura de una categoría de tamaño mayor que tú (de 1d4 a 1d6, por ejemplo). No puedes poner púas en una rodela o en un escudo de torre. De lo contrario, atacar con un escudo con púas es como hacer un ataque de golpe de escudo (ver arriba). Una bonificación de mejora en un escudo con púas no mejora la efectividad de un golpe de escudo hecho con él, pero un escudo con púas puede convertirse en un arma mágica por derecho propio.</p>"
+			"name": "Shield Spikes (Light)",
+			"description": "<p>When added to your shield, these spikes turn it into a martial piercing weapon that increases the damage dealt by a shield bash as if the shield were designed for a creature one size category larger than you (from 1d4 to 1d6, for instance). You can’t put spikes on a buckler or a tower shield. Otherwise, attacking with a spiked shield is like making a shield bash attack (see above). An enhancement bonus on a spiked shield does not improve the effectiveness of a shield bash made with it, but a spiked shield can be made into a magic weapon in its own right.</p>"
 		},
 		"Shortbow": {
-			"name": "Arco corto",
-			"description": "<p>Necesitas al menos dos manos para usar un arco, independientemente de su tamaño. Puedes usar un arco corto mientras estás montado. Si tienes una penalización por poca Fuerza, aplícala a las tiradas de daño cuando uses un arco corto. Si tienes una bonificación por alta Fuerza, puedes aplicarla a las tiradas de daño cuando usas un arco corto compuesto (ver más abajo) pero no un arco corto normal.</p>"
+			"name": "Shortbow",
+			"description": "<p>You need at least two hands to use a bow, regardless of its size. You can use a shortbow while mounted. If you have a penalty for low Strength, apply it to damage rolls when you use a shortbow. If you have a bonus for high Strength, you can apply it to damage rolls when you use a composite shortbow (see below) but not a regular shortbow.</p>"
 		},
 		"Shortspear": {
-			"name": "Lanza corta",
-			"description": "<p>Una lanza corta es lo suficientemente pequeña como para manejarla con una sola mano. También puede arrojarse.</p>"
+			"name": "Shortspear",
+			"description": "<p>A shortspear is small enough to wield one-handed. It may also be thrown.</p>"
 		},
 		"Shortsword": {
-			"name": "Espada corta",
-			"description": "<p>Esta espada es popular como arma de mano torpe.</p>"
+			"name": "Shortsword",
+			"description": "<p>This sword is popular as an off-hand weapon.</p>"
 		},
 		"Shuriken": {
 			"name": "Shuriken",
-			"description": "<p>Un shuriken es un arma especial de monje. Esta designación le da a un monje (ver Capítulo 3: Clases) que empuña un shuriken opciones especiales. Un shuriken no se puede utilizar como arma cuerpo a cuerpo. Aunque son armas arrojadizas, los shuriken se tratan como municiones con el propósito de diseñarlos, crear obras maestras o versiones especiales de ellas (ver Armas maestras, más abajo), y lo que les sucede después de ser arrojadas.</p>"
+			"description": "<p>A shuriken is a special monk weapon. This designation gives a monk (see Chapter 3: Classes) wielding shuriken special options. A shuriken can’t be used as a melee weapon. Although they are thrown weapons, shuriken are treated as ammunition for the purposes of drawing them, crafting masterwork or otherwise special versions of them (see Masterwork Weapons, below), and what happens to them after they are thrown.</p>"
 		},
 		"Siangham": {
 			"name": "Siangham",
-			"description": "<p>El siangham es un arma especial de monje. Esta designación le da a un monje (ver Capítulo 3: Clases) que maneja un siangham opciones especiales.</p>"
+			"description": "<p>The siangham is a special monk weapon. This designation gives a monk (see Chapter 3: Classes) wielding a siangham special options.</p>"
 		},
 		"Sickle": {
-			"name": "Hoz",
-			"description": "<p>Esta arma es como la hoz de un granjero, pero está reforzada para usarla como arma. Es la favorita de los druidas y por cualquiera que quiera un arma que los guardias puedan pasar por alto. Debido a la forma de una hoz, también puedes usarla para hacer ataques de derribo. Si se falla durante su propio intento de derribo, puede soltar la hoz para evitar ser derribado.</p>"
+			"name": "Sickle",
+			"description": "<p>This weapon is like a farmer’s sickle, but it is strengthened for use as a weapon. It is favored by druids and by anyone who wants a weapon that might be overlooked by guards. Because of a sickle’s shape, you can also use it to make trip attacks. If you are tripped during your own trip attempt, you can drop the sickle to avoid being tripped.</p>"
 		},
 		"Sling": {
-			"name": "Honda",
-			"description": "<p>Una honda lanza balas de plomo. No dispara tan lejos como una ballesta, ni es tan poderoso como un arco, pero es barata y fácil de improvisar con materiales comunes. Los druidas y los medianos prefieren las hondas. Tu modificador de Fuerza se aplica a las tiradas de daño cuando usas una honda, tal como lo hace con las armas arrojadizas. Puede disparar, pero no cargar, una honda con una mano. Cargar una honda es una acción de movimiento que requiere las dos manos y provoca ataques de oportunidad. Puede lanzar piedras ordinarias con una honda, pero las piedras no son tan densas ni redondas como las balas. Por lo tanto, tal ataque inflige daño como si el arma estuviera diseñada para una criatura de una categoría de tamaño menor que tú (por ejemplo, 1d3 en lugar de 1d4, o 1d2 en lugar de 1d3) y recibes una penalización de -1 en las tiradas de ataque.</p>"
+			"name": "Sling",
+			"description": "<p>A sling hurls lead bullets. It doesn’t shoot as far as a crossbow, nor is it as powerful as a bow, but it’s cheap and easy to improvise from common materials. Druids and halflings favor slings. Your Strength modifier applies to damage rolls when you use a sling, just as it does for thrown weapons. You can fire, but not load, a sling with one hand. Loading a sling is a move action that requires two hands and provokes attacks of opportunity. You can hurl ordinary stones with a sling, but stones are not as dense or as round as bullets. Thus, such an attack deals damage as if the weapon were designed for a creature one size category smaller than you (for instance, 1d3 instead of 1d4, or 1d2 instead of 1d3) and you take a –1 penalty on attack rolls.</p>"
 		},
 		"Sling Bullet": {
-			"name": "Bala de honda",
-			"description": "<p>Las balas son esferas de plomo, mucho más pesadas que las piedras del mismo tamaño. Vienen en una bolsa de cuero con capacidad para 10 balas. Una bala que da en el blanco se destruye; uno que falla tiene un 50% de probabilidad de ser destruido o perdida.</p>"
+			"name": "Sling Bullet",
+			"description": "<p>Bullets are lead spheres, much heavier than stones of the same size. They come in a leather pouch that holds 10 bullets. A bullet that hits its target is destroyed; one that misses has a 50% chance of being destroyed or lost.</p>"
 		},
 		"Spear": {
-			"name": "Lanza",
-			"description": "<p>Una de las armas más simples que existen, la lanza es la favorita de los druidas y hechiceros. Se puede lanzar. Si usas una acción preparada para colocar una lanza contra una carga, infliges el doble de daño en un golpe exitoso contra un personaje que carga.</p>"
+			"name": "Spear",
+			"description": "<p>One of the simplest weapons in existence, the spear is favored by druids and sorcerers. It can be thrown. If you use a ready action to set a spear against a charge, you deal double damage on a successful hit against a charging character.</p>"
 		},
 		"Spiked Chain": {
-			"name": "Cadena con púas",
-			"description": "<p>Una cadena con púas tiene alcance, por lo que puede golpear a los oponentes a 10 pies de distancia con ella. Además, a diferencia de la mayoría de las otras armas con alcance, se puede usar contra un enemigo adyacente. Debido a que la cadena se puede enrollar alrededor de la pierna u otra extremidad de un enemigo, puedes hacer ataques de derribo con la cadena. Si se falla durante su propio intento de derribo, puede soltar la cadena para evitar ser derribado. Cuando usas una cadena con púas, obtienes un bonificador +2 en las tiradas de ataque opuestas realizadas para desarmar a un oponente (incluida la tirada para evitar ser desarmado si tal intento falla). Puedes usar la dote de sutileza de arma (página 102) para aplicar tu modificador de Destreza en lugar de tu modificador de Fuerza a las tiradas de ataque con una cadena con púas del tamaño tuyo, aunque no sea un arma ligera para ti.</p>"
+			"name": "Spiked Chain",
+			"description": "<p>A spiked chain has reach, so you can strike opponents 10 feet away with it. In addition, unlike most other weapons with reach, it can be used against an adjacent foe. Because the chain can wrap around an enemy’s leg or other limb, you can make trip attacks with the chain. If you are tripped during your own trip attempt, you can drop the chain to avoid being tripped. When using a spiked chain, you get a +2 bonus on opposed attack rolls made to disarm an opponent (including the roll to avoid being disarmed if such an attempt fails). You can use the Weapon Finesse feat (page 102) to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a spiked chain sized for you, even though it isn’t a light weapon for you.</p>"
 		},
 		"Spiked Gauntlet": {
-			"name": "Guantelete de púas",
-			"description": "<p>Tu oponente no puede usar una acción de desarmar para desarmarte de guanteletes con púas. El costo y el peso indicados son para un solo guante. Un ataque con un guantelete con púas se considera un ataque armado.</p>"
+			"name": "Spiked Gauntlet",
+			"description": "<p>Your opponent cannot use a disarm action to disarm you of spiked gauntlets. The cost and weight given are for a single gauntlet. An attack with a spiked gauntlet is considered an armed attack.</p>"
 		},
 		"Throwing Axe": {
-			"name": "Hacha arrojadiza",
-			"description": "<p>Un hacha arrojadiza es más liviana que un hacha de mano y está equilibrada para ser lanzada. Los luchadores gnomos suelen utilizar hachas arrojadizas tanto para ataques cuerpo a cuerpo como a distancia.</p>"
+			"name": "Throwing Axe",
+			"description": "<p>A throwing axe is lighter than a handaxe and balanced for throwing. Gnome fighters often use throwing axes for both melee and ranged attacks.</p>"
 		},
 		"Trident": {
-			"name": "Tridente",
-			"description": "<p>Esta arma perforadora de tres puntas se puede lanzar al igual que una lanza corta o una lanza, pero su incremento de alcance es más corto porque no es tan aerodinámica como esas otras armas. Si usas una acción preparada para poner un tridente contra una carga, infliges el doble de daño en un golpe exitoso contra un personaje que carga.</p>"
+			"name": "Trident",
+			"description": "<p>This three-tined piercing weapon can be thrown just as a shortspear or spear can be, but its range increment is shorter because it’s not as aerodynamic as those other weapons. If you use a ready action to set a trident against a charge, you deal double damage on a successful hit against a charging character.</p>"
 		},
 		"Two-Bladed Sword": {
-			"name": "Espada de dos hojas",
-			"description": "<p>Una espada de dos hojas es un arma doble. Puedes luchar con ella como si estuvieras luchando con dos armas, pero si lo haces, incurres en todas las penalizaciones de ataque normales asociadas con luchar con dos armas, como si estuvieras usando un arma de una mano y un arma ligera (ver Dos- Weapon Fighting, página 160). Una criatura que empuña una espada de dos hojas en una mano no puede usarla como arma doble; solo se puede usar un extremo del arma en una ronda determinada.</p>"
+			"name": "Two-Bladed Sword",
+			"description": "<p>A two-bladed sword is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon (see Two-Weapon Fighting, page 160). A creature wielding a two-bladed sword in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round.</p>"
 		},
 		"Unarmed Strike": {
-			"name": "Golpe desarmado",
-			"description": "<p>Un personaje Medio inflige 1d3 puntos de daño no letal con un golpe desarmado, que puede ser un puñetazo, una patada, un cabezazo u otro tipo de ataque. Un personaje pequeño inflige 1d2 puntos de daño no letal. Un monje o cualquier personaje con la dote Golpe desarmado mejorado puede infligir daño letal o no letal con golpes desarmados, a su elección. El daño de un golpe sin armas se considera daño de arma a los efectos de los efectos que te dan una bonificación en las tiradas de daño de arma. Un golpe sin armas siempre se considera un arma ligera. Por lo tanto, puedes usar la dote de sutileza con armas (página 102) para aplicar tu modificador de Destreza en lugar de tu modificador de Fuerza a las tiradas de ataque con un golpe sin armas.</p>"
+			"name": "Unarmed Strike",
+			"description": "<p>A Medium character deals 1d3 points of nonlethal damage with an unarmed strike, which may be a punch, kick, head butt, or other type of attack. A Small character deals 1d2 points of nonlethal damage. A monk or any character with the Improved Unarmed Strike feat can deal lethal or nonlethal damage with unarmed strikes, at her option. The damage from an unarmed strike is considered weapon damage for the purposes of effects that give you a bonus on weapon damage rolls. An unarmed strike is always considered a light weapon. Therefore, you can use the Weapon Finesse feat (page 102) to apply your Dexterity modifier instead of your Strength modifier to attack rolls with an unarmed strike.</p>"
 		},
 		"Warhammer": {
-			"name": "Martillo de guerra",
-			"description": "<p>Esta arma, preferida por los enanos, es un mazo de una mano con una cabeza grande y pesada.</p>"
+			"name": "Warhammer",
+			"description": "<p>This weapon, favored by dwarves, is a one-handed sledge or maul with a large, heavy head.</p>"
 		},
 		"Whip": {
-			"name": "Látigo",
-			"description": "<p>Un látigo inflige daño no letal. No inflige daño a ninguna criatura con una bonificación de armadura de +1 o superior o una bonificación de armadura natural de +3 o superior. El látigo se trata como un arma cuerpo a cuerpo con un alcance de 15 pies, aunque no amenaza el área en la que puede atacar. Además, a diferencia de la mayoría de las otras armas con alcance, puedes usarla contra enemigos en cualquier lugar a tu alcance (incluidos los enemigos adyacentes). Usar un látigo provoca un ataque de oportunidad, como si hubiera usado un arma a distancia. Debido a que un látigo puede envolver la pierna u otra extremidad de un enemigo, puedes hacer ataques de derribo con él. Si te derriban durante tu propio intento de derribo, puede soltar el látigo para evitar ser derribado. Cuando usas un látigo, obtienes un bonificador +2 en las tiradas de ataque opuestas realizadas para desarmar a un oponente (incluida la tirada para evitar ser desarmado si el ataque falla). Puedes usar la dote de sutileza de arma (página 102) para aplicar tu modificador de Destreza en lugar de tu modificador de Fuerza a las tiradas de ataque con un látigo, aunque el látigo no sea un arma ligera para ti.</p>"
+			"name": "Whip",
+			"description": "<p>A whip deals nonlethal damage. It deals no damage to any creature with an armor bonus of +1 or higher or a natural armor bonus of +3 or higher. The whip is treated as a melee weapon with 15-foot reach, though you don’t threaten the area into which you can make an attack. In addition, unlike most other weapons with reach, you can use it against foes anywhere within your reach (including adjacent foes). Using a whip provokes an attack of opportunity, just as if you had used a ranged weapon. Because a whip can wrap around an enemy’s leg or other limb, you can make trip attacks with a it. If you are tripped during your own trip attempt, you can drop the whip to avoid being tripped. When using a whip, you get a +2 bonus on opposed attack rolls made to disarm an opponent (including the roll to keep from being disarmed if the attack fails). You can use the Weapon Finesse feat (page 102) to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a whip sized for you, even though it isn’t a light weapon for you.</p>"
 		}
 	}
 }
