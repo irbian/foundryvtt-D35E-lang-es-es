@@ -81,7 +81,7 @@
 		},
 		"Flail": {
 			"name": "Flail",
-			"description": "<p>With a flail, you get a +2 bonus on opposed attack rolls made to disarm an enemy (including the roll to avoid being disarmed if such an attempt fails). You can also use this weapon to make trip attacks. If you are tripped during your own trip attempt, you can drop the flail to avoid being tripped.</p>"
+			"description": "<p>Con un mayal, obtienes un bonificador +2 a las tiradas de ataque opuestas realizadas para desarmar a un enemigo (incluida la tirada para evitar ser desarmado si tal intento falla). También puedes usar este arma para hacer ataques de derribo. Si te derriban durante su propio intento de viaje, puede soltar el mayal para evitar que te derriben.</p>"
 		},
 		"Gauntlet": {
 			"name": "Gauntlet",
@@ -133,19 +133,19 @@
 		},
 		"Heavy Flail": {
 			"name": "Heavy Flail",
-			"description": "<p>With a flail, you get a +2 bonus on opposed attack rolls made to disarm an enemy (including the roll to avoid being disarmed if such an attempt fails). You can also use this weapon to make trip attacks. If you are tripped during your own trip attempt, you can drop the flail to avoid being tripped.</p>"
+			"description": "<p>Con un mayal, obtienes un bonificador +2 a las tiradas de ataque opuestas realizadas para desarmar a un enemigo (incluida la tirada para evitar ser desarmado si tal intento falla). También puedes usar esta arma para hacer ataques de derribo. Si te derriban durante su propio intento de derribo, puede soltar el mayal para evitar ser derribado.</p>"
 		},
 		"Heavy Mace": {
 			"name": "Heavy Mace",
-			"description": "<p>A mace is made of metal, even the haft, which makes it quite heavy and very hard to break.</p>"
+			"description": "<p>Una maza está hecha de metal, incluso el mango, lo que la hace bastante pesada y muy difícil de romper.</p>"
 		},
 		"Heavy Pick": {
 			"name": "Heavy Pick",
-			"description": "<p>A pick is designed to concentrate the force of its blow on a small area. A light or heavy pick resembles a miner’s pick but is specifically designed for war.</p>"
+			"description": "<p>Un pico está diseñado para concentrar la fuerza de su golpe en un área pequeña. Un pico ligera o pesado se parece al pico de un minero, pero está diseñada específicamente para la guerra.</p>"
 		},
 		"Heavy Repeating Crossbow": {
 			"name": "Heavy Repeating Crossbow",
-			"description": "<p>The repeating crossbow (whether heavy or light) holds 5 crossbow bolts. As long as it holds bolts, you can reload it by pulling the reloading lever (a free action). Loading a new case of 5 bolts is a full-round action that provokes attacks of opportunity. You can fire a repeating crossbow with one hand or fire a repeating crossbow in each hand in the same manner as you would a normal crossbow of the same size. However, you must fire the weapon with two hands in order to use the reloading lever, and you must use two hands to load a new case of bolts.</p>"
+			"description": "<p>La ballesta de repetición (ya sea pesada o liviana) tiene 5 virotes de ballesta. Mientras tenga virotes, puede recargarse tirando de la palanca de recarga (una acción gratuita). Cargar una nueva caja de 5 virotes es una acción de asalto completo que provoca ataques de oportunidad. Puede disparar una ballesta de repetición con una mano o disparar una ballesta de repetición en cada mano de la misma manera que lo haría con una ballesta normal del mismo tamaño. Sin embargo, debes disparar el arma con las dos manos para poder usar la palanca de recarga, y debes usar las dos manos para cargar una nueva caja de virotes.</p>"
 		},
 		"Javelin": {
 			"name": "Javelin",
@@ -173,15 +173,15 @@
 		},
 		"Light Mace": {
 			"name": "Light Mace",
-			"description": "<p>A mace is made of metal, even the haft, which makes it quite heavy and very hard to break.</p>"
+			"description": "<p>Una maza está hecha de metal, incluso el mango, lo que la hace bastante pesada y muy difícil de romper.</p>"
 		},
 		"Light Pick": {
 			"name": "Light Pick",
-			"description": "<p>A pick is designed to concentrate the force of its blow on a small area. A light or heavy pick resembles a miner’s pick but is specifically designed for war.</p>"
+			"description": "<p>Un pico está diseñado para concentrar la fuerza de su golpe en un área pequeña. Una púa ligera o pesada se parece a la púa de un minero, pero está diseñada específicamente para la guerra.</p>"
 		},
 		"Light Repeating Crossbow": {
 			"name": "Light Repeating Crossbow",
-			"description": "<p>The repeating crossbow (whether heavy or light) holds 5 crossbow bolts. As long as it holds bolts, you can reload it by pulling the reloading lever (a free action). Loading a new case of 5 bolts is a full-round action that provokes attacks of opportunity. You can fire a repeating crossbow with one hand or fire a repeating crossbow in each hand in the same manner as you would a normal crossbow of the same size. However, you must fire the weapon with two hands in order to use the reloading lever, and you must use two hands to load a new case of bolts.</p>"
+			"description": "<p>La ballesta de repetición (ya sea pesada o liviana) tiene 5 virotes de ballesta. Mientras tenga virotes, puedes recargarla tirando de la palanca de recarga (una acción gratuita). Cargar una nueva caja de 5 virotes es una acción de asalto completo que provoca ataques de oportunidad. Puede disparar una ballesta de repetición con una mano o disparar una ballesta de repetición en cada mano de la misma manera que lo haría con una ballesta normal del mismo tamaño. Sin embargo, debes disparar el arma con las dos manos para poder usar la palanca de recarga, y debes usar las dos manos para cargar una nueva caja de virotes.</p>"
 		},
 		"Longbow": {
 			"name": "Longbow",
