@@ -57,7 +57,7 @@
 		},
 		"Athletic": {
 			"name": "Atlético",
-			"description": "<i><p>Posees una destreza física inherente.</p></i><h4><b>Beneficio:</b></h4><p>Consigues un bonificador +2 a las pruebas de habilidad de Trepar y Nadar. Si tienes 10 o más rangos en una de esas habilidades, el bonificador se incrementa a +4 en esa habilidad.</p>"
+			"description": "<i><p>Eres un experto en deportes al aire libre</i></p><h3><span id=\"Benefit\" class=\"mw-headline\">Beneficio</span></h3>\n<p>Obtienes un bono +2 en todas las pruebas de Treàr y Nadar.</p>\n<p>&nbsp;</p>"
 		},
 		"Augment Summoning": {
 			"name": "Aumentar Convocación",
