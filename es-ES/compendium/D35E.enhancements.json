@@ -1,0 +1,363 @@
+{
+	"label": "Mejoras (Enhancements)",
+	"mapping": {
+        "name": {
+            "path": "name",
+            "converter": "nameWithOriginal"
+        }
+    },
+	"entries": {
+		"+1 Armor Enhancement": {
+			"name": "+1 Mejora de Armadura",
+			"description": "<p>Las armas mágicas tienen bonificaciones de mejora desde +1 a +5. Estas bonificaciones se aplican tanto al ataque como a los tiros de daño cuando se utilizan en combate. Todas las armas mágicas también son armas maestras, pero su bonus de maestría en los tiros de ataque no se acumula con su bono de mejora en los tiros de ataque.</p>"
+		},
+		"+1 Weapon Enhancement": {
+			"name": "+1 Mejora de Armas",
+			"description": "<p>Las armas mágicas tienen bonificaciones de mejora desde +1 a +5. Estas bonificaciones se aplican tanto al ataque como a los tiros de daño cuando se utilizan en combate. Todas las armas mágicas también son armas de gran calidad, pero el bonus de maestría en los tiros de ataque no se acumula con su bono de mejora en los tiros de ataque.</p>"
+		},
+		"Ability Bonus (Cha)": {
+			"name": "Bono de habilidad Carisma (Cha)",
+			"description": ""
+		},
+		"Ability Bonus (Con)": {
+			"name": "Bono de habilidad Constitución (Con)",
+			"description": ""
+		},
+		"Ability Bonus (Dex)": {
+			"name": "Bono de habilidad Destreza (Dex)",
+			"description": ""
+		},
+		"Ability Bonus (Int)": {
+			"name": "Bono de habilidad Inteligencia (Int)",
+			"description": ""
+		},
+		"Ability Bonus (Str)": {
+			"name": "Bono de habilidad Fuerza (Str)",
+			"description": ""
+		},
+		"Ability Bonus (Wis)": {
+			"name": "Bono de habilidad Sabiduría (Wis)",
+			"description": ""
+		},
+		"Acid Resistance": {
+			"name": "Resistencia al ácido",
+			"description": "<p>Un traje de armadura o un escudo con esta propiedad normalmente tiene una apariencia gris polvo. La armadura absorbe los primeros 10 puntos de daño ácido por ataque que el portador normalmente tomaría (similar al hechizo de resistir energía).</p>"
+		},
+		"Acid Resistance, Greater": {
+			"name": "Resistencia al ácido, Mayor",
+			"description": "<p>Un traje de armadura o un escudo con esta propiedad normalmente tiene una apariencia gris polvo. La armadura absorbe los primeros 30 puntos de daño ácido por ataque que el portador normalmente tomaría (similar al hechizo de resistir energía).</p>"
+		},
+		"Acid Resistance, Improved": {
+			"name": "Resistencia al ácido, mejorada",
+			"description": "<p>Un traje de armadura o un escudo con esta propiedad normalmente tiene una apariencia gris polvo. La armadura absorbe los primeros 20 puntos de daño ácido por ataque que el portador normalmente tomaría (similar al hechizo de resistir energía).</p>"
+		},
+		"Anarchic": {
+			"name": "Anarquica",
+			"description": "<p>Un arma anárquica está alineada caóticamente e imbuida con el poder del caos. Hace que el arma esté alineada con el caos y así se salta la correspondiente reducción de daño. Hace 2d6 puntos más de daño contra todo el alineamiento legal. Esto da un nivel negativo a cualquier criatura legal que intente usarla. El nivel negativo permanece mientras el arma esté en la mano y desaparezca cuando el arma ya no se utilice. Este nivel negativo nunca da como resultado una pérdida real de nivel, pero no se puede superar de ninguna manera (incluidos los hechizos de restauración) mientras se utiliza el arma. Arcos, ballestas y hondas elaboradas otorgan el poder caótico a sus municones.</p>"
+		},
+		"Animated": {
+			"name": "Animada",
+			"description": "<p>Al recibir una orden, un escudo animado flota a 2 pies del portador, protegiéndola como si lo estuviera usando el mismo pero liberando ambas manos. Solo un escudo puede proteger a un personaje a la vez. Un personaje con un escudo animado aún sufre las penalizaciones asociadas con el uso del escudo, como la penalización de comprobación de armadura, la probabilidad de fallo de hechizos arcanos y la falta de competencia.</p>"
+		},
+		"Armor Class (Deflection)": {
+			"name": "Clase de armadura (Deflexión)",
+			"description": ""
+		},
+		"Armor Class (Other)": {
+			"name": "Clase de armadura (Otro)",
+			"description": ""
+		},
+		"Arrow Catching": {
+			"name": "Captura flechas",
+			"description": "<p>Un escudo con esta habilidad atrae armas a distancia. Tiene una bonificación de desviación de +1 contra armas a distancia porque los proyectiles y las armas arrojadas se desvían hacia él. Además, cualquier proyectil o arma arrojada dirigida a un objetivo a 5 pies del portador del escudo se desvía de su objetivo original y apunta al portador del escudo en su lugar. (Si el portador tiene una cobertura total en relación con el atacante, el proyectil o el arma arrojada no se desvía).</p>\n<p>Además, aquellos que atacan al portador con armas a distancia ignoran cualquier posibilidad de fallo que normalmente se aplicaría. Los proyectiles y las armas arrojadizas que tienen una bonificación de mejora superior a la bonificación de CA básica del escudo no se desvían al usuario (pero la bonificación de CA aumentada del escudo aún se aplica a estas armas). El portador puede activar o desactivar esta habilidad con una orden.</p>"
+		},
+		"Arrow Deflection": {
+			"name": "Desvio de flecha",
+			"description": "<p>Un escudo con esta habilidad protege al portador de ataques a distancia. Una vez por asalto, cuando normalmente sería golpeado por un arma a distancia, puede hacer una salvación de Reflejos CD 20. Si el arma a distancia tiene una bonificación de mejora, la CD aumenta en esa cantidad. Si tiene éxito, el escudo desvía el arma. Debe ser consciente del ataque y no despreocuparse. Intentar desviar un arma a distancia no cuenta como una acción. Las armas a distancia excepcionales, como los cantos rodados lanzados por gigantes o flechas ácidas, no se pueden desviar.</p>"
+		},
+		"Axiomatic": {
+			"name": "Axiomática",
+			"description": "<p>Un arma axiomática está alineada legalmente e imbuida con el poder de la ley. Hace que el arma esté alineada a la ley y, por lo tanto, elude la correspondiente reducción de daños. Hace 2d6 puntos extra de daño contra todos los de alineamiento caótico. Esta mejora da un nivel negativo sobre cualquier criatura caótica que intente usrla. El nivel negativo sigue estando mientras el arma esté en la mano y desaparece cuando el arma ya no se utiliza. Este nivel negativo nunca da como resultado una pérdida real de nivel, pero no se puede superar de ninguna manera (incluidos los hechizos de restauración) mientras se usa el arma. Arcos, ballestas y hondas creadas con esta cualidad la transmiten a su munición.</p>"
+		},
+		"Bane of Aberrations": {
+			"name": "Azote de Aberraciones",
+			"description": "<p>Un arma <i>azote</i> es mucho màs efectiva cuando ataca a un tipo o subtipo de criatura. Contra el enemigo designado, su bonificador de mejora efectivo es dos puntos más alto que su bonificador de mejoranormal. Es más, inflinge 2d6 puntos de daño adicionales contra su enemigo. Arcos, balletas y hondas creadas con esta cualidad la transmiten a su munición</p>"
+		},
+		"Bane of Animals": {
+			"name": "Azote de animales",
+			"description": "<p>Un arma <i>azote</i> es mucho màs efectiva cuando ataca a un tipo o subtipo de criatura. Contra el enemigo designado, su bonificador de mejora efectivo es dos puntos más alto que su bonificador de mejoranormal. Es más, inflinge 2d6 puntos de daño adicionales contra su enemigo. Arcos, balletas y hondas creadas con esta cualidad la transmiten a su munición</p>"
+		},
+		"Bane of Constructs": {
+			"name": "Azote de constructos",
+			"description": "<p>Un arma <i>azote</i> es mucho màs efectiva cuando ataca a un tipo o subtipo de criatura. Contra el enemigo designado, su bonificador de mejora efectivo es dos puntos más alto que su bonificador de mejoranormal. Es más, inflinge 2d6 puntos de daño adicionales contra su enemigo. Arcos, balletas y hondas creadas con esta cualidad la transmiten a su munición</p>"
+		},
+		"Bane of Dragons": {
+			"name": "Azote de dragones",
+			"description": "<p>Un arma <i>azote</i> es mucho màs efectiva cuando ataca a un tipo o subtipo de criatura. Contra el enemigo designado, su bonificador de mejora efectivo es dos puntos más alto que su bonificador de mejoranormal. Es más, inflinge 2d6 puntos de daño adicionales contra su enemigo. Arcos, balletas y hondas creadas con esta cualidad la transmiten a su munición</p>"
+		},
+		"Bane of Elementals": {
+			"name": "Azote de elementales",
+			"description": "<p>Un arma <i>azote</i> es mucho màs efectiva cuando ataca a un tipo o subtipo de criatura. Contra el enemigo designado, su bonificador de mejora efectivo es dos puntos más alto que su bonificador de mejoranormal. Es más, inflinge 2d6 puntos de daño adicionales contra su enemigo. Arcos, balletas y hondas creadas con esta cualidad la transmiten a su munición</p>"
+		},
+		"Bane of Fey": {
+			"name": "Azote de Fatas",
+			"description": "<p>Un arma <i>azote</i> es mucho màs efectiva cuando ataca a un tipo o subtipo de criatura. Contra el enemigo designado, su bonificador de mejora efectivo es dos puntos más alto que su bonificador de mejoranormal. Es más, inflinge 2d6 puntos de daño adicionales contra su enemigo. Arcos, balletas y hondas creadas con esta cualidad la transmiten a su munición</p>"
+		},
+		"Bane of Giants": {
+			"name": "Azote de gigantes",
+			"description": "<p>Un arma <i>azote</i> es mucho màs efectiva cuando ataca a un tipo o subtipo de criatura. Contra el enemigo designado, su bonificador de mejora efectivo es dos puntos más alto que su bonificador de mejoranormal. Es más, inflinge 2d6 puntos de daño adicionales contra su enemigo. Arcos, balletas y hondas creadas con esta cualidad la transmiten a su munición</p>"
+		},
+		"Bane of Humanoids": {
+			"name": "Azote de humanoides",
+			"description": "<p>Un arma <i>azote</i> es mucho màs efectiva cuando ataca a un tipo o subtipo de criatura. Contra el enemigo designado, su bonificador de mejora efectivo es dos puntos más alto que su bonificador de mejoranormal. Es más, inflinge 2d6 puntos de daño adicionales contra su enemigo. Arcos, balletas y hondas creadas con esta cualidad la transmiten a su munición</p>"
+		},
+		"Bane of Magical Beasts": {
+			"name": "Azote de bestias mágicas",
+			"description": "<p>Un arma <i>azote</i> es mucho màs efectiva cuando ataca a un tipo o subtipo de criatura. Contra el enemigo designado, su bonificador de mejora efectivo es dos puntos más alto que su bonificador de mejoranormal. Es más, inflinge 2d6 puntos de daño adicionales contra su enemigo. Arcos, balletas y hondas creadas con esta cualidad la transmiten a su munición</p>"
+		},
+		"Bane of Monstrous Humanoids": {
+			"name": "Azote de humanoides monstruosos",
+			"description": "<p>Un arma <i>azote</i> es mucho màs efectiva cuando ataca a un tipo o subtipo de criatura. Contra el enemigo designado, su bonificador de mejora efectivo es dos puntos más alto que su bonificador de mejoranormal. Es más, inflinge 2d6 puntos de daño adicionales contra su enemigo. Arcos, balletas y hondas creadas con esta cualidad la transmiten a su munición</p>"
+		},
+		"Bane of Oozes": {
+			"name": "Azote de cienos",
+			"description": "<p>Un arma <i>azote</i> es mucho màs efectiva cuando ataca a un tipo o subtipo de criatura. Contra el enemigo designado, su bonificador de mejora efectivo es dos puntos más alto que su bonificador de mejoranormal. Es más, inflinge 2d6 puntos de daño adicionales contra su enemigo. Arcos, balletas y hondas creadas con esta cualidad la transmiten a su munición</p>"
+		},
+		"Bane of Outsiders": {
+			"name": "Azote de ajenos",
+			"description": "<p>Un arma <i>azote</i> es mucho màs efectiva cuando ataca a un tipo o subtipo de criatura. Contra el enemigo designado, su bonificador de mejora efectivo es dos puntos más alto que su bonificador de mejoranormal. Es más, inflinge 2d6 puntos de daño adicionales contra su enemigo. Arcos, balletas y hondas creadas con esta cualidad la transmiten a su munición</p>"
+		},
+		"Bane of Plants": {
+			"name": "Azote de plantas",
+			"description": "<p>Un arma <i>azote</i> es mucho màs efectiva cuando ataca a un tipo o subtipo de criatura. Contra el enemigo designado, su bonificador de mejora efectivo es dos puntos más alto que su bonificador de mejoranormal. Es más, inflinge 2d6 puntos de daño adicionales contra su enemigo. Arcos, balletas y hondas creadas con esta cualidad la transmiten a su munición</p>"
+		},
+		"Bane of Undead": {
+			"name": "Azote de muertos vivientes",
+			"description": "<p>Un arma <i>azote</i> es mucho màs efectiva cuando ataca a un tipo o subtipo de criatura. Contra el enemigo designado, su bonificador de mejora efectivo es dos puntos más alto que su bonificador de mejoranormal. Es más, inflinge 2d6 puntos de daño adicionales contra su enemigo. Arcos, balletas y hondas creadas con esta cualidad la transmiten a su munición</p>"
+		},
+		"Bane of Vermin": {
+			"name": "Azote de sabandijas",
+			"description": "<p>Un arma <i>azote</i> es mucho màs efectiva cuando ataca a un tipo o subtipo de criatura. Contra el enemigo designado, su bonificador de mejora efectivo es dos puntos más alto que su bonificador de mejoranormal. Es más, inflinge 2d6 puntos de daño adicionales contra su enemigo. Arcos, balletas y hondas creadas con esta cualidad la transmiten a su munición</p>"
+		},
+		"Bashing": {
+			"name": "Golpeadora",
+			"description": "<p>Un escudo con esta facultad especial está diseñado para lanzar un golpe de escudo. Un escudo golpeador inflige daño como si fuera un arma de dos categorías más grande (un escudo ligero mediano por lo tanto inflige 1d6 puntos de daño y un escudo pesado medio inflige 1d8 puntos de daño). El escudo actúa como un arma +1 cuando se usa para golpear. (Solo escudos ligeros y pesados pueden tener esta habilidad.)</p>"
+		},
+		"Blinding": {
+			"name": "Cegador",
+			"description": "<p>Un escudo con esta habilidad centellea con una luz brillante hasta dos veces al día si se lo ordena el portador. Cualquiera que esté a menos de 20 pies excepto el portador debe conseguir un TS de Reflejos DC 14 o estar cegado por 1d4 asaltos.</p>"
+		},
+		"Brilliant Energy": {
+			"name": "Radiante",
+			"description": "<p>un arma radiante posee una parte significativa de sí misma (como el filo, la cabeza del.hacha o la punta de la flecha) transformada en luz, aunque esto no modifica el peso del objeto. Produce una luz tan intensa como la de una antorcha (20 pies de radio). Un arma radiante ignora la materia no viva. Los bonificadores de armadura y de mejora a la CA no cuentan contra ella porque el arma pasa a través de la armadura (los bonificadores de Destreza, desvío, esquiva, armadura natural y otros por el estilo siguen aplicándose).\nUn arma radiante no puede hacer daño a muertos vivientes, constructor ni objetos. Esta propiedad sólo puede aplicarse a armas de ataque cuerpo a cuerpo, arrojadizas y a la munición de las armas a distancia.</p>"
+		},
+		"Cold Resistance": {
+			"name": "Resistente al frío",
+			"description": "<p>una armadura o escudo con este encantamiento suele tener un tono azul gélido o está adomado con distintos tipos de pieles. La\narmadura absorbe los primeros 10 puntos de. daño por frío que el portador vaya a recibir de cualquier ataque (simiiar a un conjuro de resistir energía).\n</p>"
+		},
+		"Cold Resistance, Greater": {
+			"name": "Resistente al frio, Mayor",
+			"description": "<p>una armadura o escudo con este encantamiento suele tener un tono azul gélido o está adomado con distintos tipos de pieles. La\narmadura absorbe los primeros 30 puntos de. daño por frío que el portador vaya a recibir de cualquier ataque (simiiar a un conjuro de resistir energía).</p>"
+		},
+		"Cold Resistance, Improved": {
+			"name": "Resistente al frio, mejorada",
+			"description": "<p>una armadura o escudo con este encantamiento suele tener un tono azul gélido o está adomado con distintos tipos de pieles. La armadura absorbe los primeros 20 puntos de. daño por frío que el portador vaya a recibir de cualquier ataque (simiiar a un conjuro de resistir energía).</p>"
+		},
+		"Dancing": {
+			"name": "Danzante",
+			"description": "<p>un arma danzante puede ser soltada (requiere una acción estándar) para que ataquepor sí misma. Lucha durante 4 asaltos utilizando el ataque base de la persona que la soltó y luego cae. Mientras danza, no puede hacer ataques de oportunidad, y la persona que la activó no se considera que esté empuñándola. Por lo demás, se considera blandida o atendida por dicha criatura para todas las maniobras y efectos que tienen como objetivos a objetos (como una acción de romper arma o un conjuro\nde calentar metal). Mientras danza, ocupa el mismo espacio que el personaje que la activó y puede atacar a los enemigos adyacentes (las armas con alcance pueden atacar a oponentes que estén hasta a 10 pies de distancia). Acompaña a. todas partes a la pexsona que la activó, tanto si se mueve por medios físicos como mágicos. Si el portador que la soltó tiene una mano libre puede cogerla mientras ataca por sí misma mediante una acción gratuita, pero cuando la recupera de esta manera no puede danzar (atacar\npor sí misma) de nuevo hasta que pasen 4 asaltos.</p>"
+		},
+		"Defending": {
+			"name": "Defensora",
+			"description": "<p>Un arma defensora permite a su portador transferir algunos o todos los bonificadores de mejora del arma a su CA como un bonificador especial que se apila, con todos los demás. Corno una acción gratuita, el portador elige cómo situar los bonificadores. de mejora del arma (al principio de su turno antes de utilizar elarma) y el efecto sobre la 'Ca dura hasta su siguiente turno</p>"
+		},
+		"Disruption": {
+			"name": "Disruptora",
+			"description": "<p>un arma disruptora es el azote de todo muerto viviente. Una criatura de este tipo impactada en combate deberá superar una salvación de Fortaleza (CD 14) o será destruida. Un arma disruptora debe ser contundente; si esta propiedad sale de forma aleatoria para un arma perforante o cortante, vuelve a tirar.</p>"
+		},
+		"Distance": {
+			"name": "Distante",
+			"description": "<p>este encantamiento sólo puede ser lanzado sobre un arma de ataque a distancia. Un arma a distancia tiene el doble de incremento de distancia que otras armas de su tipo</p>"
+		},
+		"Dread of Undead": {
+			"name": "Aterradora de muertos vivientes",
+			"description": "<p>Un arma terrible se destaca en atacar un tipo de criatura. Contra su enemigo designado, su bonificación de mejora efectiva es +4 mejor que su bonificación de mejora normal. Además, inflige + 4d6 puntos de daño adicional contra el enemigo, y si logra un golpe crítico exitoso contra el enemigo, esa criatura debe hacer una tirada de salvación de Fortaleza (CD 27) o será destruida instantáneamente y convertida en polvo. (Esto incluso afecta a criaturas inmunes a golpes críticos o magia de muerte).</p>"
+		},
+		"Electricity Resistance": {
+			"name": "Resistente a la electricidad",
+			"description": "<p>una armadura con este encantamiento normalmente tiene un tono azulado y muchas veces está decorada con un motívo de tormentas o relámpagos. La armadura absorhe los primeros 10 puntos.de daño por electricidad que el portador vaya a recibir de cualquier ataque (similar a un conjuro de resistir energía)</p>"
+		},
+		"Electricity Resistance, Greater": {
+			"name": "Resistente a la electricidad, mayor",
+			"description": "<p>una armadura con este encantamiento normalmente tiene un tono azulado y muchas veces está decorada con un motívo de tormentas o relámpagos. La armadura absorhe los primeros 30 puntos. de daño por electricidad que el portador vaya a recibir de cualquier ataque (similar a un conjuro de resistir energía)</p>"
+		},
+		"Electricity Resistance, Improved": {
+			"name": "Resistente a la electricidad, mejorada",
+			"description": "<p>una armadura con este encantamiento normalmente tiene un tono azulado y muchas veces está decorada con un motívo de tormentas o relámpagos. La armadura absorhe los primeros 20 puntos.de daño por electricidad que el portador vaya a recibir de cualquier ataque (similar a un conjuro de resistir energía)</p>"
+		},
+		"Etherealness": {
+			"name": "Etereidad (de)",
+			"description": "<p>A una orden, este encantamiento permite que el portador de la armadura se convierta en etéreo (como el hechizo de excursión etérea) una vez al día. El personaje puede permanecer etéreo durante el tiempo que lo desee, pero una vez que regrese a la normalidad, no puede volverse etéreo de nuevo ese día.</p>"
+		},
+		"Everdancing": {
+			"name": "Siempredanzante",
+			"description": "<p>Un arma siempredanzante se parece mucho a un arma danzante, aunque puede ser liberada con una acción libre y peleará el tiempo deseado. Puede alejarse hasta 60 pies de su propietario. Su dueño puede ordenarle que se mueva a un objetivo diferente como una acción equivalente en movimiento. Si su dueño queda inconsciente o no puede dirigirla, luchará contra el mismo oponente siempre y cuando ese adversario esté consciente y dentro del alcance. El dueño de un arma siempredanzante puede cogerla de nuevo como una acción libre (asumiendo que está al alcances).</p>"
+		},
+		"Fire Resistance": {
+			"name": "Resistente al fuego",
+			"description": "<p>Una armadura o escudo con este encantamiento normalmente tiene un tono rojizo y a menudo está decorado con un motivo dracónico. La armadura absorbe los primeros 10 puntos de daño de fuego por ataque que normalmente tomaría el portador (similar al hechizo de <i>resistir energía</i>).</p>"
+		},
+		"Fire Resistance, Greater": {
+			"name": "Resistente al fuego, Mayor",
+			"description": "<p>Una armadura o escudo con este encantamiento normalmente tiene un tono rojizo y a menudo está decorado con un motivo dracónico. La armadura absorbe los primeros 30 puntos de daño de fuego por ataque que normalmente tomaría el portador (similar al hechizo de <i>resistir energía</i>).</p>"
+		},
+		"Fire Resistance, Improved": {
+			"name": "Resistente al fuego, mejorada",
+			"description": "<p>Una armadura o escudo con este encantamiento normalmente tiene un tono rojizo y a menudo está decorado con un motivo dracónico. La armadura absorbe los primeros 20 puntos de daño de fuego por ataque que normalmente tomaría el portador (similar al hechizo de <i>resistir energía</i>).</p>"
+		},
+		"Flaming": {
+			"name": "Flamígera",
+			"description": "<p>Tras una orden, un arma flamígera se reviste de llamas, que no dañan al portador. El efecto permanece hasta que se dé otra orden. Una arma flamígera inflige 1d6 puntos de daño extra de fuego con un golpe exitoso. Arcos, ballestas y hondas encantadas de esta manera transfieren la energía de fuego a su munión.</p>"
+		},
+		"Flaming Burst": {
+			"name": "Explosiva ígnea",
+			"description": "<p>Un arma de explosiva ignea funciona como arma flamígera que también estalla en llamas al conseguir tener éxito en un golpe crítico. El fuego no daña al portador. Además del daño adicional de fuego de la aptitud flamígera (ver arriba), un arma explosiva ignea inflige 1d10 puntos de daño de fuego extra en un golpe crítico exitoso. Si el multiplicador crítico del arma es ×3, añade un 2d10 puntos extra de daño de fuego y si el multiplicador es ×4, añade 3d10 puntos de daño al fuego extra. Arcos, ballestas y hondas encantadas de esta manera transmiten la energía ígnea a su munición.</p>\n<p>&nbsp;</p>\n<p>Incluso si la aptitud flamígera no está activa, el arma todavía hace su daño extra de fuego a un golpe crítico con éxito.</p>"
+		},
+		"Fortification": {
+			"name": "Fortificante",
+			"description": "<p>estaarmadura o escudo produce, una fuerza mágica que, protege las zonas vitales dei portador de una manera más efectiva. Cuando se produce un golpe critico o un ataque furtivo sobre el portador existe una posibilidad de. que el golpe crítico o el ataque furtivo sean negadas y el daño se tire delaforma normal (en lugar de la modificada).</p>\n<table style=\"height: 68px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"width: 83px; height: 17px;\"><strong>Mejora</strong></td>\n<td style=\"width: 111px; height: 17px;\"><strong>Tipo de fortificamiento</strong></td>\n<td style=\"width: 115px; height: 17px;\"><strong>Probabilidad de daño normal</strong></td>\n<td style=\"width: 75px; height: 17px;\"><strong>Precio de mercado</strong></td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 83px; height: 17px;\">1</td>\n<td style=\"width: 111px; height: 17px;\">Libera</td>\n<td style=\"width: 115px; height: 17px;\">25%</td>\n<td style=\"width: 75px; height: 17px;\">+1 bono</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 83px; height: 17px;\">2</td>\n<td style=\"width: 111px; height: 17px;\">Moderada</td>\n<td style=\"width: 115px; height: 17px;\">75%</td>\n<td style=\"width: 75px; height: 17px;\">+3 bono</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 83px; height: 17px;\">3</td>\n<td style=\"width: 111px; height: 17px;\">Intenso</td>\n<td style=\"width: 115px; height: 17px;\">100%</td>\n<td style=\"width: 75px; height: 17px;\">+5 bono</td>\n</tr>\n</tbody>\n</table>"
+		},
+		"Frost": {
+			"name": "Congeladora",
+			"description": "<p>Tras una orden, un arma gélida es reviste de frío helado. El frío no daña al portador. El efecto permanece hasta que se dé otra orden. Un arma helada inflige 1d6 puntos de daño frío extra con un golpe con exito. Arcos, ballestas y hondas encantadas de esta maner transfieren la energía fría sobre su munición.</p>"
+		},
+		"Ghost Touch, Weapon": {
+			"name": "Fantasmal",
+			"description": "<p>un arma fantasmal inflige daño de manera normal contra las criaturas incorporales, sea cual sea su bonificador La probabilidad de\nun 50% de evitar el daño que tienen las criaturas incorporales no se aplica con las armas fantasmales. Más aún, en cualquier momentopuede ser recogida y movida por las criaturas incorporales. Un fantasma que se manifieste puede blandir el arma contra criaturas corporales,. Esencialmente un arma fantasmal se considera tanto corporal como incorporal en cualquier momento, lo que sea más beneficioso para el que la empuña.</p>"
+		},
+		"Glamered": {
+			"name": "Ilusoria",
+			"description": "<p>una armadura con esta capacidad parece normal. A una orden la armadura cambia de forma y adopta la apariencia de unos ropajes normales, pero conserva todas sus propiedades (incluyendo el peso) cuando se transforma. Sólo un conjuro de visión verdadera o magia similar revela la verdadera naturaleza de la armadura cuando tiene la apriencia cambiada</p>"
+		},
+		"Holy": {
+			"name": "Sagrada",
+			"description": "<p>Un arma sagrada está imbuida de poder sagrado. Este poder hace que el arma tenga alineamiento bueno y evita la reducción del daño correspondiente. Inflinge 2d6 puntos adicionales de daño contra todo el alineamiento maligno. El arma otorga un nivel negativo a cualquier criatura malvada que la empuñe. El nivel negativo persiste mientras el arma esté en la mano y desaparece cuando deja de blandirse. Este nivel negativo nunca da como resultado una pérdida real de nivel, pero no se puede superar de ninguna manera (incluidos los hechizos de restauración) mientras el arma se sujete el arma. Arcos, ballestas y hondas encantadas de esta manera transmiten el poder sagrado a su munición.</p>"
+		},
+		"Icy Burst": {
+			"name": "Explosiva gélida",
+			"description": "<p>Un arma exposiva gélida funciona como un arma congeladora que, además, produce una explosión de escarcha al conseguir con éxito un golpe crítico. La escarcha no daña al portador. Las armas explosivas gélidas inflingen 1d10 puntos de daño por frio adicionales con un golpe crítico con éxito. Si el multiplicador crítico del arma es ×3, añade, en vez de lo anterior, 2d10 puntos extra de daño por frío y si el multiplicador es ×4, añade un extra de 3d10 puntos. Arcos, ballesta y hondas encantados de esta manera transmiten la energía gélida a su munión.</p>\n<p>&nbsp;</p>\n<p>Incluso si la aptitud congeladora no está activa, el arma todavía hace su daño frío extra con un golpe crítico con éxito.</p>"
+		},
+		"Invulnerability": {
+			"name": "Invulnerabilidad (de)",
+			"description": "<p>La armadura otorga al portador una reducción de daño de 5/magia.</p>"
+		},
+		"Keen": {
+			"name": "Afilada",
+			"description": "<p>este encantamiento dobla el rango de amenaza de un arma. Por ejemplo, si estuviera sobre una espada larga (que tiene un rango de\namenaza normal de 19-20), la espada larga afilada establecería una amenaza en un 17-20. Sólo las armas cortantes y perforantes pueden ser encantadas para ser afiladas. Si obtienes esta propiedad de manera aleatoria y el arma no es de estos tipos, vuelve a tirar. Este beneficio no se apila con ningún otro efecto mágico que amplíe el rango el rango de amenaza del arma(como el conjuro <i>afiladura</p> o la dote Crítico mejorado)</p>"
+		},
+		"Ki Focus": {
+			"name": "Foco de Ki",
+			"description": "<p>el arma mágica transmite el ki del portador, permitiéndole usar sus ataques especiales de ki a través del arma como. si fuera un ataque sin armas. Entre estos ataques se incluyen el ataque aturdidor del monje, el impacto ki, la palma temblorosa, y la dote Puñetazo aturdidor. Sólo las armas cuerpo a cuerpo pueden canalizar el ki</p>"
+		},
+		"Merciful": {
+			"name": "Compasiva",
+			"description": "<p>El arma inflige un daño adicional 1d6 puntos de daño, y todo el daño que inflige es daño no letal. A una orden, el arma suprime esta aptitud hasta que se le ordena reanudarla. Arcos, ballestas y hondas encantados conesta aptitud transmiten el efecto a su munción.</p>"
+		},
+		"Mighty Cleaving": {
+			"name": "Hendiente",
+			"description": "<p>Un arma hendiente permite al portador con la dote @Compendium[D35E.feats.5P0ltUi6tPBuBW4m]{Cleave} hacer un intento adicional de Hendidura en un asalto. Sólo se permite un intneto adicional de otra dote por asalto.</p>"
+		},
+		"Natural Armor Bonus": {
+			"name": "Bono de armadura natural",
+			"description": ""
+		},
+		"Reflecting": {
+			"name": "Reflectante",
+			"description": "<p>Este escudo parece un espejo. Su superficie es completamente reflectante. Una vez al día, como acción gratita, se le puede pedir que refleje un conjuro y lo devuelva a su lanzador exactamente como lo haría el conjuro @Compendium[D35E.spells.i22porkCPv7NtKLK]{Spell Turning }</p>"
+		},
+		"Returning": {
+			"name": "Retornante",
+			"description": "<p>Este encantamiento sólo solo puede ser colocado sobre un arma que pueda ser lanzada. Un arma retornante vuela a través del aire a la criatura que la lanzó, en el asalto siguiente al cual fue lanzada justo antes del nuev o turno de la criatura, y está por tanto lista para ser utilizada en ese turno.</p>\n<p>Coger un arma retornante cuando regresa es una acción gratuita. Si el personaje no puede cogerla, o si el personaje se ha movido desde que la lanzó, el arma cae al suelo en la casilla desde el que fue lanzado.</p>"
+		},
+		"Seeking": {
+			"name": "Buscadora",
+			"description": "<p>Solo las armas a distancia pueden tener esta aptitud. El arma se dirige hacia su objetivo, negando cualquier posibilidad de fallo que pudiera aplicarse, como algún tipo de ocultación. (El portador todavía tiene que apuntar el arma a la casilla correcta. Las flechas disparadas por error en un espacio vacío, por ejemplo, no cambian de dirección para golpear a un enemigo invisible, ni siquiera si está cerca.)</p>"
+		},
+		"Shadow": {
+			"name": "Sombras (de las)",
+			"description": "<p>este tipo de armadura es de un color negro azabache y hace.que el portador sea borrosocuando intenta esconderse, lo que\nle concede un bonificador +5 de capacidad a las pruebas de Esconderse (el penalizador de armadura sigue.aplicándose normalmente</p>\n<p>Hay tres niveles de 1 a 3 de mulplicador de la bonificación de la mejora</p>\n<ol>\n<li>Normal</li>\n<li>mejorada</li>\n<li>Mayor</li>\n</ol>"
+		},
+		"Shock": {
+			"name": "Electrificante",
+			"description": "<p>a una orden, el arma electrizante se carga de electricidad, que no daña al que sujeta el arma. Las armas electrizantes infligen\nld6 puntos de daño adicionales por electricidad tras un golpe con éxito. Los arcos, ballestas y hondas encantados de esta manera transmiten la energiaeléctrica a su munición.</p>"
+		},
+		"Shocking Burst": {
+			"name": "Explosiva eléctrica",
+			"description": "<p>un arma explosiva eléctrica funciona como un arma eléctrica que además, produce una explosión también eléctrica al conseguir un golpe crítico. La electricidad no daña a quien sujeta el arma. Las armas explosivas eléctricas infligen 1d10 puntos de daño por electricidad adicionales con un golpe crítico con éxito. Si el multiplicador de crítico del arma es X3, añade, en vez de lo anterior, 2dl0 puntos de daño por electricidad adicionales y, si el multiplicador es X4, añade 3dl0 puntos de daño por electricidad adicionales. Los arcos, ballestas y hondas encantados de esta manera transmiten la energía eléctrica a su munición</p>\n<p>&nbsp;</p>\n<p>Incluso si la aptitud explosiva eléctrica no está activa, el arma todavía hace s daño electrico extra con un golpe crítico con éxito.</p>"
+		},
+		"Silent Moves": {
+			"name": "Silenciosa",
+			"description": "<p>estaurmadura está bien engrasada y está construida mágicamente para que no solo no haga ruido sino que, además, amortigua el sonido alrededor de ella. Añade un bonificador +5/+10/+15 de capacidad a las pruebas de Moverse sigilosamente del portador (los penalizadores de armadura siguen aplicándose normalmente).</p>\n<p>Hay tres niveles de 1 a 3 de multiplicador de la bonificación de la mejora</p>\n<ol>\n<li>Normal (+5)</li>\n<li>Mejorada(+10)</li>\n<li>Mayor (+15)</li>\n</ol>"
+		},
+		"Slick": {
+			"name": "Resbaladiza",
+			"description": "<p>La armadura resbaladiza parece estar siempre impregnada con un aceite ligeramente grasoso, otorgando un bono de competencia +5/+10/+15 en las comprobaciones de Escapismo. (Los penalizadores de armadura siguen aplicándose normalmente.</p>\n<p>Establecer nivel de mejora de 1 a 3 para establecer la fuerza de mejora:</p>\n<ol>\n<li>Estándar (+5)</li>\n<li>Mejorada(+10)</li>\n<li>Mayor(+15)</li>\n</ol>"
+		},
+		"Sonic Resistance": {
+			"name": "Resistente al sonido",
+			"description": "<p>una armadura o escudo con este encantamiento suele tener una apariencia muy reluciente. La armadura absorbe los\nprimeros 10 puntos de daño sónico que el portador vaya a recibir de cualquier ataque, (similar a un conjuro de resistir energía).</p>"
+		},
+		"Sonic Resistance, Greater": {
+			"name": "Resistente al sonido, Mayor",
+			"description": "<p>una armadura o escudo con este encantamiento suele tener una apariencia muy reluciente. La armadura absorbe los\nprimeros 30 puntos de daño sónico que el portador vaya a recibir de cualquier ataque, (similar a un conjuro de resistir energía).</p>"
+		},
+		"Sonic Resistance, Improved": {
+			"name": "Resistente al sonido, mejorada",
+			"description": "<p>una armadura o escudo con este encantamiento suele tener una apariencia muy reluciente. La armadura absorbe los\nprimeros 20 puntos de daño sónico que el portador vaya a recibir de cualquier ataque, (similar a un conjuro de resistir energía).</p>"
+		},
+		"Speed": {
+			"name": "Veloz",
+			"description": "<p>cuando lleva a cabo una acción de ataque completo, el portador de un arma veloz puede reafizar un ataque adicional con ella. El ataque usa el bonificador de ataque completo del portador, más los modificadores apropiados para la ocasión (este beneficio no es acumulativo con efectos similares, como el conjuro acelerar).</p>"
+		},
+		"Spell Resistance": {
+			"name": "Resistente a conjuros",
+			"description": "<p>este_encantamiento otorga al portador resistencia a conjuros (RC) mientras.lleve la armadura. La RC puede ser 13, 15,17 ó 19 dependiendo de la armadura.</p>\n<p>Establecer la mejora en:</p>\n<ol>\n<li>RC 13</li>\n<li>RC 15</li>\n<li>RC 17</li>\n<li>RC 19</li>\n</ol>"
+		},
+		"Spell Storing": {
+			"name": "Almacena conjuros",
+			"description": "<p>un. arma. almacenaconjuiospermite a un lanzador de conjuros almacenar en el arma un solo conjuro de hasta 3.\" nivel que\nprecise de un objetivo.(elconjuro debe, tener un tiempo de lanzamiento de 1 acción estándar). En cualquier momento en que el arma impacte a una criatura y la criatura sufra daño por ello, el arma puede lanzar inmediatamente el conjuro sobre la criatura como una acción gratuita si el portador lo desea (esta aptitud es una excepción especial a la reggla general que dice que lanzar un conjuro desde un objeto cuesta al menos tanto tiempo como el que sería necesario para lanzar el conjuro de manera normal). Ceguera, contagio, infligir heridás graves, inmovilizar persona suelen ser elecciones usuales para el conjuro almacenado. Una vez que el conjuro ha sido lanzado el arma está descargada y el lanzador de conjuros puede lanzar cualquier otro conjuro con objetivo de hasta tercer nivel sobre el arma. El arma da a conocer mágicamente al portador el nombre del conjuro que almacena en ese momento. Un arma almacena conjuros obtenida aleatoriamente tielne una probabilidad de un 50% de tener ya un conjuro almacenado.</p>"
+		},
+		"Throwing": {
+			"name": "Arrojadiza",
+			"description": "<p>este encantamiento sólo puede ser situado sobre un arma de cuerpo a cuerpo. Un arma de cuerpo a cuerpo encantada con esta aptitud gana un incremento de distancia de 10 pies y puede ser lanzada por su portador que tenga competencia en el uso nonnal del arma.</p>"
+		},
+		"Thundering": {
+			"name": "Tronante",
+			"description": "<p>un arma tronante. crea un aullido cacofónico parecido al del trueno cuando consigue un golpe crítico. La energía sónica no daña a\nquien sujeta el arma. Tas armas tronantes infligen ld8 puntos de daño sónico adicionales con un golpe crítico con éxito. Si el multiplicador de crítico del arma es X3, añade, en vez de lo anterior, +2d8 puntos de daño sónico, adicional y, si el multiplicador es X4, añade +3d8 puntos de daño sónico adicional. Los. arcos, ballestas y hondas encantados de esta maneIra transmiten la energía sónica a su munición. Quienes sufran un golpe crítico realizado por un arma tronante deben hacer con éxito un TS de Fortaleza (CD 14) o quedarán sordos para siempre.</p>"
+		},
+		"Undead Controlling": {
+			"name": "Controlar muertos vivientes",
+			"description": "<p>El portador de una armadura o escudo con esta propiedad puede controlar hasta 26 DG de muertos vivientes al día, como el hechizo @Compendium[D35E.spells.91VAS4HClq6cAO9X]{Control Undead}. Al amanecer todos los días, el portador pierde el control de cualquier muerto viviente que aún esté bajo su influencia. La armadura o un escudo con este poder parece estar hecha de hueso; esta característica es totalmente decorativa y no tiene ningún otro efecto en la armadura.</p>"
+		},
+		"Unholy": {
+			"name": "Sacrílega",
+			"description": "<p>un arma sacrilega está imbuida de poder sacrilego. Este poder hace que el arma tenga alineamiento maligno y de este modo ignora\nla reducción de daño correspondiente. Inflige 2d6 puntos de daño adicionales contra todo lo que sea de alineamiento bueno. El arma otorga un nivel negativo a cualquier criatura buena que la empuñe que persiste durante todo el tiempo que se sujete el arma y desaparece. cuando deja de blandirse. El nivel negativo nunca implica una pérdida teal de nivel, pero no puede ser evitado de ninguna manera (conjuros de restablecimientos incluidos) mientras se sujete el arma. Los arcos, ballestas y hondas que esrén encantados de esta manera transmiten el poder sacrílego a su munición.</p>"
+		},
+		"Vicious": {
+			"name": "Atroz",
+			"description": "<p>Cuando un arma atroz golpea a un oponente, crea un destello de energía perturbadora que resuena entre el oponente y el portador. Esta energía inflige un 2d6 puntos extra de daño al oponente y 1d6 puntos de daño al portador. Solo las armas cuerpo a cuerpo pueden ser atroces.</p>"
+		},
+		"Vorpal": {
+			"name": "Vorpalina",
+			"description": ""
+		},
+		"Wild": {
+			"name": "Salvaje",
+			"description": "<p>el portador de una armadura o escudo con esta aptitud conserva su bonificador de armadura (y cualquier honificador de mejora) mientras esté en forma salvaje. Las armaduras y escudos con esta aptitud suelen dar la sensación de estar cubiertos de hojas mientras el portador está en forma salvaje no se pueden ver.</p>"
+		},
+		"Wounding": {
+			"name": "Hiriente",
+			"description": "<p>un arma hiriente inflige un daño de 1 punto de Constitución por desangramiento cuando golpea a una criatura. Un golpe critico.\nno multiplica el daño de Constitución. Las criaturas inmunes a los golpes críticos (como las plantas y los constructos) son inmunes al daño de Constitución infligido por este arma</p>"
+		}
+	}
+}
