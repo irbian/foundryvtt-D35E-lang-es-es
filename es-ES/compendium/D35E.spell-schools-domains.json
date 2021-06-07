@@ -1,5 +1,5 @@
 {
-	"label": "Spell Schools and Domains",
+	"label": "Dominios y Escuelas de Magia (Spell Schools and Domains)",
 	"mapping": {
 		"name": {
 			"path": "name",
@@ -8,24 +8,24 @@
 	},
 	"entries": {
 		"Abjuration Spell School": {
-			"name": "Abjuration Spell School",
-			"description": "<p>Abjurations are protective spells. They create physical or magical barriers, negate magical or physical abilities, harm trespassers, or even banish the subject of the spell to another plane of existence.</p>\n<p>If one abjuration spell is active within 10 feet of another for 24 hours or more, the magical fields interfere with each other and create barely visible energy fluctuations. The DC to find such spells with the Search skill drops by 4.</p>\n<p>If an abjuration creates a barrier that keeps certain types of creatures at bay, that barrier cannot be used to push away those creatures. If you force the barrier against such a creature, you feel a discernible pressure against the barrier. If you continue to apply pressure, you end the spell.</p>"
+			"name": "Escuela de hechizos de abjuración",
+			"description": "<p>Las abjuraciones son hechizos protectores. Crean barreras físicas o mágicas, niegan habilidades mágicas o físicas, dañan a los intrusos o incluso desterran al sujeto del hechizo a otro plano de existencia. </p> \n <p> Si un hechizo de abjuración está activo a 10 pies de otro durante 24 horas o más, los campos mágicos interfieren entre sí y crean fluctuaciones de energía apenas visibles. La CD para encontrar tales hechizos con la habilidad de Búsqueda se reduce en 4. </p> \n <p> Si una abjuración crea una barrera que mantiene a raya a ciertos tipos de criaturas, esa barrera no se puede usar para alejar a esas criaturas. Si fuerza la barrera contra una criatura así, siente una presión perceptible contra la barrera. Si continúa aplicando presión, finaliza el hechizo.</p>"
 		},
 		"Air Domain": {
-			"name": "Air Domain",
-			"description": "<p>Turn or destroy earth creatures as a good cleric turns undead. Rebuke, command, or bolster air creatures as an evil cleric rebukes undead. Use these abilities a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability.</p>"
+			"name": "Dominio de aire",
+			"description": "<p>Expulsar o destruir a las criaturas terrestres como un clérigo bueno hace con los muertos vivientes. Reprime, ordena o refuerza a las criaturas del aire como un clérigo malvado reprende a los no muertos. Usa estas habilidades un número total de veces al día igual a 3 + tu modificador de Carisma. Este poder otorgado es una habilidad sobrenatural.</p>"
 		},
 		"Animal Domain": {
-			"name": "Animal Domain",
-			"description": "<p>You can use speak with animals once per day as a spell-like ability.</p>\n<p>Add Knowledge (nature) to your list of cleric class skills.</p>"
+			"name": "Dominio animal",
+			"description": "<p>Puedes usar hablar con animales una vez al día como una aptitud sortílega. </p> \n <p> Agrega Saber (naturaleza) a tu lista de habilidades de clase de clérigo.</p>"
 		},
 		"Artifice Domain": {
-			"name": "Artifice Domain",
-			"description": "<p>Gain +4 bonus on Craft checks. The character casts conjuration (creation) spells at +1 caster level. (Those with access to both the Artifice and Creation domains cast conjuration (creation) spells at +3 caster level.)</p>"
+			"name": "Dominio del artificio",
+			"description": "<p>Obtienes un bonificador +4 a las pruebas de Artesanía. El personaje lanza hechizos de conjuración (creación) a nivel de lanzador +1. (Aquellos con acceso a los dominios de Artificio y Creación lanzan hechizos de conjuración (creación) al nivel de lanzador +3).</p>"
 		},
 		"Chaos Domain": {
-			"name": "Chaos Domain",
-			"description": "<p>You cast chaos spells at +1 caster level.</p>"
+			"name": "Dominio del caos",
+			"description": "<p>Lanzas hechizos de caos a nivel de lanzador +1.</p>"
 		},
 		"Charm Domain": {
 			"name": "Charm Domain",
