@@ -1,5 +1,5 @@
 {
-	"label": "Spells",
+	"label": "Conjuros",
 	"mapping": {
 		"name": {
 			"path": "name",
@@ -9,7 +9,7 @@
 	"entries": {
 		"Acid Arrow": {
 			"name": "Flecha ácida de Melf",
-			"description": "<div class=\"spell-description\">\n  <p>\n      <strong>School:</strong>&nbsp;conjuration&nbsp;(creation)&nbsp;[acid];\n    <br>\n    <strong>Level:</strong>&nbsp;Sorcerer 2, Wizard 2;\n    \n    \n    \n    \n    <br>\n    <strong>Components:</strong>&nbsp;V, S, M (powdered rhubarb leaf and an adder’s stomach), F (a dart)<br>\n    \n      <strong>Casting Time:</strong>&nbsp;1 standard action<br>\n    <strong>Range:</strong>&nbsp;long (400 ft. + 40 ft./level)<br>\n    \n    \n    <strong>Effect:</strong>&nbsp;One arrow of acid<br>\n    <strong>Duration:</strong>&nbsp;1 round + 1 round per three levels<br>\n    \n        <strong>Saving Throw:</strong>&nbsp;None\n        <br>\n        <strong>Spell Resistance:</strong>&nbsp;no<br>\n  </p>\n  <h2>Description</h2>\n  \n\n\n<p>\nA magical arrow of acid springs from your hand and speeds to its target. You must succeed on a ranged touch attack to hit your target. The arrow deals 2d4 points of acid damage with no splash damage. For every three caster levels (to a maximum of 18th), the acid, unless somehow neutralized, lasts for another round, dealing another 2d4 points of damage in that round.\n</p><p><i>Material Component: </i>Powdered rhubarb leaf and an adder’s stomach.\n</p><p><i>Focus: </i>A dart.\n</p>\n<hr/>\n\n\n\n</div>\n"
+			"description": "<div class=\"spell-description\">\n  <p>\n      <strong>Escuela:</strong>&nbsp;conjuracion&nbsp;(creation)&nbsp;[acid];\n    <br>\n    <strong>Nivel:</strong>&nbsp;Hechicero 2, Mago 2;\n    \n    \n    \n    \n    <br>\n    <strong>Componentes:</strong>&nbsp;V, S, M ( Hoja de ruibarbo pulverizada y un estómago de víbora), F (un dardo)<br>\n    \n      <strong>Tiempo de lanzamiento:</strong>&nbsp;1 acción estándar<br>\n    <strong>Rango:</strong>&nbsp;long (400 ft. + 40 ft./nivel)[120 m.+12 m./nivel]<br>\n    \n    \n    <strong>Efecto:</strong>&nbsp;Una flecha de ácido<br>\n    <strong>Duración:</strong>&nbsp;1 asalto+ 1 asalto por cada 3 niveles<br>\n    \n        <strong>Tiro de salvación:</strong>&nbsp;Ninguno\n        <br>\n        <strong>Resistencia a conjuros:</strong>&nbsp;no<br>\n  </p>\n  <h2>Descripción</h2>\n  \n\n\n<p>\nUna flecha mágica de ácido brota de tu mano y se dirige hacia su objetivo. Debes tener éxito en un ataque de toque a distancia para alcanzar tu objetivo. La flecha inflige 2d4 puntos de daño por ácido sin daño por salpicadura. De no ser neutralizado, el ácido durará un asalto adicional por cada tres niveles de lanzador que poseas (hasta un máximo de nivel 18), inflingiendo otros 2d4 puntos de daño por ácido por asalto. \n</p><p><i>Componente material: </i>Hoja de ruibarbo pulverizado y un estómago de víbora.\n</p><p><i>Foco: </i>Un dardo.\n</p>\n<hr/>\n\n\n\n</div>\n"
 		},
 		"Acid Fog": {
 			"name": "Acid Fog",
