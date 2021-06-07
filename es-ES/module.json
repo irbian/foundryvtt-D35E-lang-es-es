@@ -2,7 +2,7 @@
   "name": "translation-D35E-compendium-es",
   "title": "Translation: Spanish [D&D 3.5] Compendiums",
   "description": "Add Spanish language translations to D35E compendiums for FoundryVTT.",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "minimumCoreVersion" : "0.7.9",
   "compatibleCoreVersion": "0.8.6",
 
@@ -15,7 +15,7 @@
     "type": "module"
   }],
 
-  "author": "Irbian, Honzo, FosfoMan, Ocytsim",
+  "author": "Irbian, Honzo, FosfoMan, Ocytsim, Ashenbach",
   "esmodules": ["babele-register.js"],
   "scripts": [],
 
