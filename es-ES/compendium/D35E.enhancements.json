@@ -1,11 +1,11 @@
 {
 	"label": "Mejoras (Enhancements)",
 	"mapping": {
-		"name": {
-			"path": "name",
-			"converter": "nameWithOriginal"
-		}
-	},
+        "name": {
+            "path": "name",
+            "converter": "nameWithOriginal"
+        }
+    },
 	"entries": {
 		"+1 Armor Enhancement": {
 			"name": "+1 Mejora de Armadura",
