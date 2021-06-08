@@ -1,5 +1,5 @@
 {
-	"label": "Class Abilities",
+	"label": "Habilidades de Clase",
 	"mapping": {
 		"name": {
 			"path": "name",
@@ -8,7 +8,7 @@
 	},
 	"entries": {
 		"Abundant Step": {
-			"name": "Abundant Step",
+			"name": "Paso abundante",
 			"description": "<p>al alcanzar el 12° nivel, un monje puede deslizarse mágicamente entre espacias como al utilizar el conjuro puerta dimensional una vez al día. Su nivel de lanzador para este efecto es la mitad de su.nivel de monje redondeando a la baja).</p>"
 		},
 		"Animal Companion": {
