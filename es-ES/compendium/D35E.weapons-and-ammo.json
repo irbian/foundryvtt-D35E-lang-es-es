@@ -88,7 +88,7 @@
 			"description": "<p>Este guante de metal protege tus manos y te permite infligir daño letal en lugar de daño no letal con golpes desarmados. Un golpe con un guantelete se considera un ataque desarmado. El costo y el peso indicados son para un solo guante. Las armaduras medianas y pesadas (excepto el peto) vienen con guanteletes.</p>"
 		},
 		"Glaive": {
-			"name": "Glaive",
+			"name": "Guja",
 			"description": "<p>Una guja tiene alcance. Puedes golpear a tus oponentes a 10 pies de distancia con él, pero no puedes usarlo contra un enemigo adyacente.</p>"
 		},
 		"Gnome Hooked Hammer": {
@@ -112,7 +112,7 @@
 			"description": "<p>Los aventureros reconocen la gran espada como una de las mejores armas cuerpo a cuerpo disponibles. Es confiable y poderosa.</p>"
 		},
 		"Guisarme": {
-			"name": "Guisarme",
+			"name": "Bisarma",
 			"description": "<p>Un guisarme tiene alcance. Puedes golpear a tus oponentes a 10 pies de distancia con él, pero no puedes usarlo contra un enemigo adyacente. Debido a la hoja curva de un guisarme, también puedes usarla para hacer ataques de derribo. Si se falla el intento de derribo, puede soltarse el guisarme para evitar ser derribado.</p>"
 		},
 		"Halberd": {
@@ -220,7 +220,7 @@
 			"description": "<p>El bastón es el arma favorita de muchos personajes, desde viajeros, campesinos y comerciantes hasta monjes, guardabosques y magos. Un bastón es un arma doble. Puedes luchar con él como si estuvieras luchando con dos armas, pero si lo haces, incurres en todas las penalizaciones de ataque normales asociadas con luchar con dos armas, como si estuvieras usando un arma de una mano y un arma ligera (ver Dos- Weapon Fighting, página 160). También puedes golpear con cualquiera de los extremos individualmente, un hecho que te permite aprovechar al máximo las aberturas en las defensas de tu oponente. Una criatura que empuñe un bastón en una mano no puede usarlo como arma doble; solo se puede usar un extremo del arma en una ronda determinada. El bastón es un arma especial de monje. Esta designación le da a un monje (ver Capítulo 3: Clases) que empuña un bastón opciones especiales.</p>"
 		},
 		"Ranseur": {
-			"name": "Ranseur",
+			"name": "Ronca",
 			"description": "<p>Un ranseur tiene alcance. Puedes golpear a tus oponentes a 10 pies de distancia con él, pero no puedes usarlo contra un enemigo adyacente. Con un Ranseur, obtienes un bonificador +2 a las tiradas de ataque opuestas realizadas para desarmar a un oponente (incluida la tirada para evitar ser desarmado si tal intento falla).</p>"
 		},
 		"Rapier": {
