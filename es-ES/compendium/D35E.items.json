@@ -8,8 +8,8 @@
 	},
 	"entries": {
 		"Acid": {
-			"name": "Acid",
-			"description": "<p>You can throw a flask of acid as a splash weapon (see Throw Splash Weapon, page 158). Treat this attack as a ranged touch attack with a range increment of 10 feet. A direct hit deals 1d6 points of acid damage. Every creature within 5 feet of the point where the acid hits takes 1 point of acid damage from the splash.</p>"
+			"name": "Ácido",
+			"description": "<p>Puedes lanzar un frasco de ácido como arma de salpicadura (consulta Lanzar arma de salpicadura, página 158). Trate este ataque como un ataque de toque a distancia con un incremento de alcance de 10 pies. Un impacto directo inflige 1d6 puntos de daño por ácido. Cada criatura dentro de los 5 pies del punto donde el ácido golpea recibe 1 punto de daño por ácido por la salpicadura.</p>"
 		},
 		"Alchemist’s fire": {
 			"name": "Fuego de alquimista",
@@ -17,7 +17,7 @@
 		},
 		"Alchemist’s lab": {
 			"name": "Laboratorio del alquimista",
-			"description": "<p>This set of equipment includes beakers, bottles, mixing and measuring containers, and a miscellany of chemicals and substances. An alchemist’s lab always has the perfect tool for making alchemical items, so it provides a +2 circumstance bonus on Craft (alchemy) checks. It has no bearing on the costs related to the Craft (alchemy) skill (page 70). Without this lab, a character with the Craft (alchemy) skill is assumed to have enough tools to use the skill but not enough to get the +2 bonus that the lab provides.</p>"
+			"description": "<p>Este conjunto de instrumentos incluye vasos de precipitados, frascos, probetas, matraces, y diversas sustancias y productos químicos. Dispone siempre de los elementos correctos para fabricar objetos alquímicos y por tanto añade un bonificador +2 de circunstancia en las pruebas de Artesanía (alquímia), sin embargo no supone variación alguna en los precios relaconados con la habilidad de Artesanía (alquimia)(pag 67). Sin este laboratorio, se supone que un personaje con la habididad de Artesanía (alquimia) disponde de suficientes herramientas como para usar la habilidad, pero sin otenter el bonificador +2 de circunstancia. </p>"
 		},
 		"Antitoxin": {
 			"name": "Antitoxina",
@@ -28,7 +28,7 @@
 			"description": "<p>Este atuendo incluye una camisa con botones, una falda o un pantalón con un cordón ciiñendo el talle, unos zapatos y puede que una gorra o sombrero. También puede incluir un cinturón o un mandil (de cuero o tela) para transportar las herramientas.</p>"
 		},
 		"Artisan’s tools": {
-			"name": "Artisan’s tools",
+			"name": "Herramientas de artesano",
 			"description": "<p>Estas herramientas especiales incluyen los objetos necesarios para llevar a cabo cualquier Artesanía. Sin ellas, tienes que usar herramientas inapropiadas (Penalizador de &ndash; 2 en las pruebas de Arteanía), si llegas a fabricar los que deseas.</p>"
 		},
 		"Artisan’s tools, masterworked": {
@@ -36,8 +36,8 @@
 			"description": "<p>Estas herramientas tienen el mismo propósito que las herramientas de artesano (arriba), pero las herramientas de gran calidad son las herramientas perfectas para el trabajo, por lo que obtienes una bonificación de +2 de circunstancia en las pruebas de Artesanía (Fabricación) hechos con ellos.</p>"
 		},
 		"Backpack, Common": {
-			"name": "Backpack, Common",
-			"description": "<p>A backpack is a leather pack carried on the back, typically with straps to secure it.</p>"
+			"name": "Mochila, Común",
+			"description": "<p>Una mochila es una mochila de cuero que se lleva en la espalda, generalmente con correas para asegurarla.</p>"
 		},
 		"Backpack, Masterwork": {
 			"name": "Mochila de calidad",
