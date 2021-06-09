@@ -328,36 +328,36 @@
 			"description": "<p>Este conjunto de ropa consiste en una camisa holgada y calzones holgados, o una camisa holgada y falda o sobretodo. Como zapatos se utlizan telas envueltas.</p>"
 		},
 		"Pick, miner’s": {
-			"name": "Pick, miner’s",
-			"description": "<p>A mining pick, used for excavating ore out of the earth</p>"
+			"name": "Pico de minero",
+			"description": "<p>Un pico de minería, utilizado para extraer mineral de la tierra</p>"
 		},
 		"Pitcher, clay": {
-			"name": "Pitcher, clay",
-			"description": "<p>A pitcher made of clay, usefull for pouring water for multiple people</p>"
+			"name": "Jarra, arcilla",
+			"description": "<p>Una jarra de barro, útil para verter agua a varias personas</p>"
 		},
 		"Piton": {
-			"name": "Piton",
-			"description": "<p>When a wall doesn&rsquo;t offer handholds and footholds, you can make your own. A piton is a steel spike with an eye through which you can loop a rope. (See the Climb skill, page 69).</p>"
+			"name": "Pitón",
+			"description": "<p>Cuando una pared no ofrece asideros ni puntos de apoyo, usted puede hacer su propio. Un pitón es una púa de acero con un ojo a través del cual se puede pasar una cuerda. (Consulta la habilidad Trepar, página 69).</p>"
 		},
 		"Pole, 10-foot": {
-			"name": "Pole, 10-foot",
-			"description": "<p>When you suspect a trap, you can put the end of your 10-foot pole through that hole in the wall instead of reaching in with your hand.</p>"
+			"name": "Poste, 10 pies",
+			"description": "<p>Cuando sospeche de una trampa, puede colocar el extremo de su poste de 10 pies a través de ese agujero en la pared en lugar de meter la mano.</p>"
 		},
 		"Pony": {
-			"name": "Pony",
-			"description": "<p>Phb Table 9-6 Mounts and Vehicles. Page 164</p>"
+			"name": "Poni",
+			"description": "<p>VerTabla 9-6 Monturas y vehículos. Página 164</p>"
 		},
 		"Pot, iron": {
-			"name": "Pot, iron",
-			"description": "<p>A sturdy iron pot used for cooking soups and stews</p>"
+			"name": "Olla de hierro",
+			"description": "<p>Una olla de hierro resistente que se utiliza para cocinar sopas y guisos</p>"
 		},
 		"Pouch, belt": {
-			"name": "Pouch, belt",
-			"description": "<p>This leather pouch straps to your belt. It’s good for holding small items.</p>"
+			"name": "Bolsa, cinturón",
+			"description": "<p>Esta bolsa de cuero se ajusta a tu cinturón. Es bueno para guardar objetos pequeños.</p>"
 		},
 		"Pouch, Spell Component": {
-			"name": "Pouch, Spell Component",
-			"description": "<p>This small, watertight leather belt pouch has many compartments. A spellcaster with a spell component pouch is assumed to have all the material components and focuses needed for spellcasting, except for those components that have a specific cost, divine focuses, and focuses that wouldn’t fit in a pouch (such as the natural pool that a druid needs to look into to cast scrying).</p>"
+			"name": "Bolsa, componente de hechizo",
+			"description": "<p>Esta pequeña bolsa de cuero para cinturón hermética tiene muchos compartimentos. Se supone que un lanzador de hechizos con una bolsa de componentes de hechizo tiene todos los componentes materiales y enfoques necesarios para el lanzamiento de hechizos, excepto aquellos componentes que tienen un costo específico, enfoques divinos y enfoques que no caben en una bolsa (como la piscina natural). que un druida necesita mirar para lanzar adivinación).</p>"
 		},
 		"Ram, portable": {
 			"name": "Ram, portable",
