@@ -65,11 +65,11 @@
 		},
 		"Bell": {
 			"name": "Campana",
-			"description": "<p>A small brass bell</p>"
+			"description": "<p>Una pequeña campana de latón</p>"
 		},
 		"Bit and bridle": {
 			"name": "Boca y bridas",
-			"description": "<p>The face gear for a horse to aid the rider in controlling the mount</p>"
+			"description": "<p>El equipo facial de un caballo para ayudar al jinete a controlar la montura</p>"
 		},
 		"Blanket, winter": {
 			"name": "Manta de inviertno",
@@ -77,15 +77,15 @@
 		},
 		"Block and tackle": {
 			"name": "Bloquear y maniobrar",
-			"description": "<p>A Block and tackle used for gaining a massive mechanical bonus in strength. Commonly used to lift or tension objects between one another.</p>"
+			"description": "<p>Un aparejo de poleas es utilizado para obtener una enorme bonificación mecánica en fuerza. Se utiliza comúnmente para levantar o tensar objetos entre sí.</p>"
 		},
 		"Bottle, wine, glass": {
 			"name": "Botella de cristal de vino",
 			"description": "<p>Una botella de vino sencilla, viene con corcho y sin contenido.</p>"
 		},
 		"Bucket": {
-			"name": "Bucket",
-			"description": "<p>Comes empty</p>"
+			"name": "Cubeta",
+			"description": "<p>Viene vacío</p>"
 		},
 		"Caltrops": {
 			"name": "Abrojos",
@@ -93,10 +93,10 @@
 		},
 		"Candle": {
 			"name": "Vela",
-			"description": "<p>A candle dimly illuminates a 5-foot radius and burns for 1 hour. See page 164 for more rules on illumination.</p>"
+			"description": "<p>Una vela ilumina tenuemente un radio de 5 pies y arde durante 1 hora. Consulte la página 164 para obtener más reglas sobre iluminación.</p>"
 		},
 		"Canvas": {
-			"name": "Canvas",
+			"name": "Lienzo",
 			"description": "<p>Un metro cuadrado de tela de lona. Potencialmente se puede convertir en un saco o camilla improvisados</p>"
 		},
 		"Case, map or scroll": {
@@ -112,7 +112,7 @@
 			"description": "<p>Un solo trozo de tiza que se usa para pintar en superficies como rocas o madera</p>"
 		},
 		"Chest": {
-			"name": "Chest",
+			"name": "Baúl",
 			"description": "<p>Un cofre resistente para guardar sus pertenencias, no viene con candado.</p>"
 		},
 		"Cleric’s vestments": {
@@ -120,11 +120,11 @@
 			"description": "<p>Estas ropas eclesiásticas son para realizar funciones sacerdotales, no para aventuras.</p>"
 		},
 		"Climber’s kit": {
-			"name": "Climber’s kit",
+			"name": "Kit de escalador",
 			"description": "<p>El kit de un escalador incluye pitones especiales, clavos para las botas, guantes y un arnés que resultarán de ayuda en todo tipo de escalada. Esta es la herramienta perfecta para escalar y te da una bonificación de +2 de circunstancia en las pruebas de trepar.</p>"
 		},
 		"Cold weather outfit": {
-			"name": "Cold weather outfit",
+			"name": "Traje de abrigo",
 			"description": "<p>Un traje de clima frío incluye un abrigo de lana, una camisa de lino, una gorra de lana, una capa pesada, pantalones gruesos o una falda y botas. Este traje otorga un bono de circunstancia de +5 en los Tiros de salvación de fortaleza contra la exposición al clima frío (vea la Guía del Maestro de la Mazmorra para obtener información sobre los peligros del frío).</p>"
 		},
 		"Courtier’s outfit": {
@@ -140,12 +140,12 @@
 			"description": "<p>una bolsa con maquillaje, tinte para el pelo y pequeños postizos. Es la herramienta perfecta para cumplir con su función, y da un bonificador de +2 de circunstancia en las pruebas de Disfrazarse. Se gasta al cabo de diez usos</p>"
 		},
 		"Dog, guard": {
-			"name": "Dog, guard",
-			"description": "<p>A dog trained for guarding its owner and scare of strangers.</p>"
+			"name": "Perro, guardia",
+			"description": "<p>Un perro entrenado para proteger a su dueño y asustar a los extraños.</p>"
 		},
 		"Dog, riding": {
 			"name": "Perro de montar",
-			"description": "<p>This Medium dog is specially trained to carry a Small humanoid rider. It is brave in combat like a warhorse. You take no damage when you fall from a riding dog.</p>"
+			"description": "<p>Este perro mediano está especialmente entrenado para llevar un jinete humanoide pequeño. Es valiente en combate como un caballo de guerra. No sufres ningún daño cuando te caes de un perro de montar.</p>"
 		},
 		"Donkey or mule": {
 			"name": "Burro o mulo",
@@ -160,64 +160,64 @@
 			"description": "<p>una silla exótica es igual que una normal del mismo tipo, pero está diseñada para una montura insólita, como un hipogrifo. Existen sillas de montar exóticas (tanto normales como militares) y albardas exóticas</p>\n<p>Una silla sujeta al jinete concediéndole un bonificador +2 de circunstancia en las pruebas de Montar relacionadas con seguir a lomos de la montura. Si quedaras inconsciente yendo en una silla militar tendrías un 75% de posibilidades de permanecer sobre ella (en\ncomparación con el 50% de las sillas de montar normales)</p>"
 		},
 		"Exotic Saddle, Pack": {
-			"name": "Exotic Saddle, Pack",
+			"name": "Silla de Montar Exótica, Mochila",
 			"description": "<p>Una silla exótica es como una silla normal del mismo tipo, excepto que está diseñada para una montura inusual, como un hipogrifo. Los sillines exóticos vienen en estilos militares, de mochila y de carrera.</p>\n<p>Una silla de montar sostiene el equipo y los suministros, pero no al jinete. Sostiene todo el equipo que puede llevar la montura.</p>"
 		},
 		"Exotic Saddle, Riding": {
-			"name": "Exotic Saddle, Riding",
-			"description": "<p>An exotic saddle is like a normal saddle of the same sort except that it is designed for an unusual mount, such as a hippogriff. Exotic saddles come in military, pack, and riding styles.</p>"
+			"name": "Silla de montar exótica, Paseo",
+			"description": "<p>Una silla exótica es como una silla normal del mismo tipo, excepto que está diseñada para una montura inusual, como un hipogrifo. Los sillines exóticos vienen en estilos militares, de mochila y de paseo.</p>"
 		},
 		"Explorer’s outfit": {
-			"name": "Explorer’s outfit",
-			"description": "<p>This is a full set of clothes for someone who never knows what to expect. It includes sturdy boots, leather breeches or a skirt, a belt, a shirt (perhaps with a vest or jacket), gloves, and a cloak. Rather than a leather skirt, a leather overtunic may be worn over a cloth skirt. The clothes have plenty of pockets (especially the cloak). The outfit also includes any extra items you might need, such as a scarf or a wide-brimmed hat.</p>"
+			"name": "Atuendo del explorador",
+			"description": "<p>Este es un conjunto completo de ropa para alguien que nunca sabe qué esperar. Incluye botas resistentes, pantalones de cuero o una falda, un cinturón, una camisa (quizás con un chaleco o chaqueta), guantes y una capa. En lugar de una falda de cuero, se puede usar una sobreúnica de cuero sobre una falda de tela. La ropa tiene muchos bolsillos (especialmente la capa). El atuendo también incluye cualquier artículo adicional que pueda necesitar, como una bufanda o un sombrero de ala ancha.</p>"
 		},
 		"Feed": {
-			"name": "Feed",
-			"description": "<p>Horses, donkeys, mules, and ponies can graze to sustain themselves, but providing feed for them(such as oats) is much better because it provides a more concentrated form of energy, especially if the animal is exerting itself. If you have a riding dog, you have to feed it at least some meat, which may cost more or less than the given amount.</p>"
+			"name": "Alimento para monturas",
+			"description": "<p>caballos, burros, mulas y ponis pueden pastar para mantenerse, pero proporcionarles alimento (como avena) es mucho mejor porque proporciona una forma de energía más concentrada, especialmente si el animal se está esforzando. Si tienes un perro de montar, debes alimentarlo al menos con algo de carne, que puede costar más o menos que la cantidad indicada.</p>"
 		},
 		"Firewood": {
-			"name": "Firewood",
-			"description": "<p>Firewood for mantaining a small campfire for a single night.</p>"
+			"name": "Leña",
+			"description": "<p>Leña para mantener una pequeña fogata por una sola noche.</p>"
 		},
 		"Fishhook": {
-			"name": "Fishhook",
-			"description": "<p>A fishing hook to tie after a line to aid in catching fish</p>"
+			"name": "Anzuelo",
+			"description": "<p>Un anzuelo de pesca para atar después de un sedal para ayudar a pescar</p>"
 		},
 		"Fishing net, 25 sq. ft.": {
-			"name": "Fishing net, 25 sq. ft.",
-			"description": "<p>A Fishing net that can aid the adventurer in catching larger amount of fish than a fishhook could in the same time.</p>"
+			"name": "Red de pesca, 25 pies cuadrados",
+			"description": "<p>Una red de pesca que puede ayudar al aventurero a capturar una mayor cantidad de peces, que un anzuelo, al mismo tiempo.</p>"
 		},
 		"Flask": {
-			"name": "Flask",
-			"description": "<p>This ceramic, glass, or metal container is fitted with a tight stopper and holds 1 pint of liquid.</p>"
+			"name": "Matraz",
+			"description": "<p>Este recipiente de cerámica, vidrio o metal tiene un tapón hermético y tiene capacidad para 1 pinta de líquido.</p>"
 		},
 		"Flint and steel": {
-			"name": "Flint and steel",
-			"description": "<p>Striking steel and flint together creates sparks. By knocking sparks into tinder, you can create a small flame. Lighting a torch with flint and steel is a full-round action, and lighting any other fire with them takes at least that long.</p>"
+			"name": "Chesquero y pedernal",
+			"description": "<p>Golpear acero y pedernal juntos crea chispas. Al hacer que las chispas se conviertan en yesca, puede crear una pequeña llama. Encender una antorcha con pedernal y acero es una acción de asalto completo, y encender cualquier otro fuego con ellos lleva al menos ese tiempo.</p>"
 		},
 		"Hammer": {
-			"name": "Hammer",
-			"description": "<p>This one-handed hammer with an iron head is useful for pounding pitons into a wall. If a hammer is used in combat, treat it as a one-handed improvised weapon (see page 113) that deals bludgeoning damage equal to that of a spiked gauntlet of its size.</p>"
+			"name": "Martillo",
+			"description": "<p>Este martillo de una mano con cabeza de hierro es útil para clavar pitones en la pared. Si se usa un martillo en combate, trátelo como un arma improvisada con una sola mano (consulte la página 113) que inflige un daño contundente igual al de un guantelete con púas de su tamaño.</p>"
 		},
 		"Healer’s kit": {
-			"name": "Healer’s kit",
-			"description": "<p>This kit is full of herbs, salves, bandages and other useful materials. It is the perfect tool for healing and provides a +2 circumstance bonus on Heal checks. A healer’s kit is exhausted after ten uses.</p>"
+			"name": "Kit de sanador",
+			"description": "<p>Este kit está lleno de hierbas, ungüentos, vendas y otros materiales útiles. Es la herramienta perfecta para curar y proporciona una bonificación de circunstancia de +2 a las pruebas de Sanar. El equipo de un sanador se agota después de diez usos.</p>"
 		},
 		"Holly and mistletoe": {
-			"name": "Holly and mistletoe",
-			"description": "<p>Sprigs of holly and mistletoe are used by druids as the default divine focus for druid spells. Druids can easily find these plants in wooded areas and then harvest sprigs from them essentially for free.</p>"
+			"name": "Acebo y muérdago",
+			"description": "<p>druidas utilizan ramitas de acebo y muérdago como el enfoque divino predeterminado para los hechizos de druida. Los druidas pueden encontrar fácilmente estas plantas en áreas boscosas y luego cosechar ramitas de ellas esencialmente gratis.</p>"
 		},
 		"Holy symbol, silver": {
-			"name": "Holy symbol, silver",
-			"description": "<p>A holy symbol focuses positive energy. A cleric or paladin uses it as the focus for his spells and as a tool for turning undead. Each religion has its own holy symbol, and a sun symbol is the default holy symbol for clerics not associated with any particular religion. A silver holy symbol works no better than a wooden one, but it serves as a mark of status for the wielder. Unholy Symbols: An unholy symbol is like a holy symbol except that it focuses negative energy and is used by evil clerics (or by neutral clerics who want to cast evil spells or command undead). A skull is the default unholy symbol for clerics not associated with any particular religion.</p>"
+			"name": "Símbolo sagrado, plata",
+			"description": "<p>Un símbolo sagrado concentra la energía positiva. Un clérigo o paladín lo usa como foco de sus hechizos y como herramienta para convertir a los muertos vivientes. Cada religión tiene su propio símbolo sagrado, y un símbolo del sol es el símbolo sagrado predeterminado para los clérigos no asociados con ninguna religión en particular. Un símbolo sagrado de plata no funciona mejor que uno de madera, pero sirve como una marca de estatus para el portador. Símbolos impíos: un símbolo impío es como un símbolo sagrado excepto que concentra energía negativa y es utilizado por clérigos malvados (o por clérigos neutrales que quieren lanzar hechizos malignos o comandar muertos vivientes). Una calavera es el símbolo profano predeterminado para los clérigos no asociados con ninguna religión en particular.</p>"
 		},
 		"Holy symbol, wooden": {
-			"name": "Holy symbol, wooden",
-			"description": "<p>A holy symbol focuses positive energy. A cleric or paladin uses it as the focus for his spells and as a tool for turning undead. Each religion has its own holy symbol, and a sun symbol is the default holy symbol for clerics not associated with any particular religion. A silver holy symbol works no better than a wooden one, but it&nbsp;serves as a mark of status for the wielder. Unholy Symbols: An unholy symbol is like a holy symbol except that it focuses negative energy and is used by evil clerics (or by neutral clerics who want to cast evil spells or command undead). A skull is the default unholy symbol for clerics not associated with any particular religion.</p>"
+			"name": "Símbolo sagrado, de madera",
+			"description": "<p>Un símbolo sagrado concentra la energía positiva. Un clérigo o paladín lo usa como foco de sus hechizos y como herramienta para convertir a los muertos vivientes. Cada religión tiene su propio símbolo sagrado, y un símbolo del sol es el símbolo sagrado predeterminado para los clérigos no asociados con ninguna religión en particular. Un símbolo sagrado de plata no funciona mejor que uno de madera, pero sirve como una marca de estatus para el portador. Símbolos impíos: un símbolo impío es como un símbolo sagrado excepto que concentra energía negativa y es utilizado por clérigos malvados (o por clérigos neutrales que quieren lanzar hechizos malignos o comandar muertos vivientes). Una calavera es el símbolo profano predeterminado para los clérigos no asociados con ninguna religión en particular.</p>"
 		},
 		"Holy water": {
-			"name": "Holy water",
-			"description": "<p>Holy water damages undead creatures and evil outsiders almost as if it were acid. A flask of holy water can be thrown as a splash weapon (see Throw Splash Weapon, page 158). Treat this attack as a ranged touch attack with a range increment of 10 feet. A flask breaks if thrown against the body of a corporeal creature, but to use it against an incorporeal creature, you must open the flask and pour the holy water out onto the target. Thus, you can douse an incorporeal creature with holy water only if you are adjacent to it. Doing so is a ranged touch attack that does not provoke attacks of opportunity. A direct hit by a flask of holy water deals 2d4 points of damage to an undead creature or an evil outsider. Each such creature within 5 feet of the point where the flask hits takes 1 point of damage from the splash. Temples to good deities sell holy water at cost (making no profit) because the clerics are happy to supply people with what they need to battle evil.</p>"
+			"name": "agua bendita",
+			"description": "<p>El agua bendita daña a las criaturas no muertas y a los ajenos malvados casi como si fuera ácida. Se puede lanzar un frasco de agua bendita como arma de salpicadura (ver Lanzar arma de salpicadura, página 158). Trate este ataque como un ataque de toque a distancia con un incremento de alcance de 10 pies. Un frasco se rompe si se lanza contra el cuerpo de una criatura corpórea, pero para usarlo contra una criatura incorpórea, debes abrir el frasco y verter el agua bendita sobre el objetivo. Por lo tanto, puede rociar una criatura incorpórea con agua bendita solo si está adyacente a ella. Hacerlo es un ataque de toque a distancia que no provoca ataques de oportunidad. Un impacto directo de un frasco de agua bendita inflige 2d4 puntos de daño a una criatura no muerta o un ajeno malvado. Cada una de esas criaturas dentro de los 5 pies del punto donde golpea el frasco recibe 1 punto de daño por salpicadura. Los templos a las deidades buenas venden agua bendita a un costo (sin obtener ganancias) porque los clérigos están felices de proporcionar a las personas lo que necesitan para combatir el mal.</p>"
 		},
 		"Horse, heavy": {
 			"name": "Horse, heavy",
@@ -317,15 +317,15 @@
 		},
 		"Paper": {
 			"name": "Paper",
-			"description": "<p>A sheet of standard paper is made from cloth fibers.</p>"
+			"description": "<p>Una hoja de papel estándar está hecha de fibras de tela.</p>"
 		},
 		"Parchment": {
-			"name": "Parchment",
-			"description": "<p>A sheet of parchment is a piece of goat hide or sheepskin that has been prepared for writing on.</p>"
+			"name": "Pergamino",
+			"description": "<p>Una hoja de pergamino es un trozo de piel de cabra o piel de oveja que se ha preparado para escribir.</p>"
 		},
 		"Peasant’s outfit": {
-			"name": "Peasant’s outfit",
-			"description": "<p>This set of clothes consists of a loose shirt and baggy breeches, or a loose shirt and skirt or overdress. Cloth wrappings are used for shoes.</p>"
+			"name": "Atuendo de campesino",
+			"description": "<p>Este conjunto de ropa consiste en una camisa holgada y calzones holgados, o una camisa holgada y falda o sobretodo. Como zapatos se utlizan telas envueltas.</p>"
 		},
 		"Pick, miner’s": {
 			"name": "Pick, miner’s",
