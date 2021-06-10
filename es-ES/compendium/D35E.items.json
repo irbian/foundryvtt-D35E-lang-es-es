@@ -360,104 +360,104 @@
 			"description": "<p>Esta pequeña bolsa de cuero para cinturón hermética tiene muchos compartimentos. Se supone que un lanzador de hechizos con una bolsa de componentes de hechizo tiene todos los componentes materiales y enfoques necesarios para el lanzamiento de hechizos, excepto aquellos componentes que tienen un costo específico, enfoques divinos y enfoques que no caben en una bolsa (como la piscina natural). que un druida necesita mirar para lanzar adivinación).</p>"
 		},
 		"Ram, portable": {
-			"name": "Ram, portable",
-			"description": "<p>This iron-shod wooden beam is the perfect tool for battering down a door. Not only does it gives you a +2 circumstance bonus on Strength checks made to break open a door and it allows a second person to help you without having to roll, increasing your bonus by 2 (see Breaking Items, page 167).</p>"
+			"name": "Ariete, portatil",
+			"description": "<p>Esta viga de madera forrada con hierro es la herramienta perfecta para derribar una puerta. No solo te otorga una bonificación de circunstancia de +2 a las pruebas de Fuerza realizadas para abrir una puerta y permite que una segunda persona te ayude sin tener que tirar, lo que aumenta tu bonificación en 2 (consulta Romper objetos, página 167).</p>"
 		},
 		"Rations, Trail": {
-			"name": "Rations, Trail",
-			"description": "<p>Trail rations are compact, dry, high-energy foods suitable for travel, such as jerky, dried fruit, hardtack, and nuts.</p>"
+			"name": "Raciones, de viaje",
+			"description": "<p>raciones de viaje son alimentos compactos, secos y de alto contenido energético adecuados para viajar, como la cecina, los frutos secos, las galletas duras y las nueces.</p>"
 		},
 		"Rope, hempen, 1m.": {
-			"name": "Rope, hempen, 1m.",
-			"description": "<p>This rope has 2 hit points and can be burst with a DC 23 Strength check.</p>"
+			"name": "Cuerda, cáñamo, 1m.",
+			"description": "<p>Esta cuerda tiene 2 puntos de golpe y puede romperse con una prueba de Fuerza CD 23.</p>"
 		},
 		"Rope, silk, 1m.": {
-			"name": "Rope, silk, 1m.",
-			"description": "<p>This rope has 4 hit points and can be burst with a DC 24 Strength check. It is so supple that it provides a +2 circumstance bonus on Use Rope checks.</p>"
+			"name": "Cuerda, seda, 1m.",
+			"description": "<p>Esta cuerda tiene 4 puntos de golpe y puede romperse con una prueba de Fuerza CD 24. Es tan flexible que proporciona una bonificación de circunstancia de +2 en las pruebas de Usar cuerda.</p>"
 		},
 		"Royal outfit": {
-			"name": "Royal outfit",
-			"description": "<p>This is just the clothing, not the royal scepter, crown, ring, and other accoutrements. Royal clothes are ostentatious, with gems, gold, silk, and fur in abundance.</p>"
+			"name": "Atuendo real",
+			"description": "<p>Esta es solo la ropa, no el cetro real, la corona, el anillo y otros accesorios. Las ropas reales son ostentosas, con gemas, oro, seda y pieles en abundancia.</p>"
 		},
 		"Sack": {
-			"name": "Sack",
-			"description": "<p>This item is made of burlap or a similar material and has a drawstring so it can be closed.</p>"
+			"name": "Saco",
+			"description": "<p>Este artículo está hecho de arpillera o un material similar y tiene un cordón para poder cerrarlo.</p>"
 		},
 		"Saddle, Military": {
-			"name": "Saddle, Military",
-			"description": "<p>A military saddle braces the rider, providing a&nbsp;+2 circumstance bonus on Ride checks related to staying in the&nbsp;saddle. If you&rsquo;re knocked unconscious while in a military saddle,&nbsp;you have a 75% chance to stay in the saddle (compared to 50% for a&nbsp;riding saddle).</p>"
+			"name": "Silla de montar, Militar",
+			"description": "<p>Un sillín militar sujeta al jinete, lo que proporciona una bonificación +2 en las pruebas de Montar relacionadas con permanecer en el sillín. Si quedas quedas inconsciente mientras está en una silla militar, tiene un 75% de probabilidad de permanecer en la silla (comparado con el 50% para una silla de monta de viaje</p>"
 		},
 		"Saddle, Pack": {
-			"name": "Saddle, Pack",
-			"description": "<p>A pack saddle holds gear and supplies, but not a&nbsp;rider. It holds as much gear as the mount can carry.</p>"
+			"name": "Silla de Montar, Mochila",
+			"description": "<p>Una silla de montar contiene equipo y suministros, pero no pasajero. Sostiene todo el equipo que puede llevar la montura.</p>"
 		},
 		"Saddle, Riding": {
-			"name": "Saddle, Riding",
-			"description": "<p>The standard riding saddle supports a rider.</p>"
+			"name": "Silla de montar, viaje",
+			"description": "<p>El sillín de montar estándar que soporta a un jinete.</p>"
 		},
 		"Saddlebags": {
-			"name": "Saddlebags",
-			"description": "<p>Holds about the same as backpacks as the size of the rider.</p>"
+			"name": "Alforjas",
+			"description": "<p>Tiene aproximadamente lo mismo que las mochilas para el tamaño del jinete.</p>"
 		},
 		"Scale, merchant’s": {
-			"name": "Scale, merchant’s",
-			"description": "<p>This scale includes a small balance and pans, plus a suitable assortment of weights. A scale grants a +2 circumstance bonus on Appraise checks involving items that are valued by weight, including anything made of precious metals.</p>"
+			"name": "Báscula de mercader",
+			"description": "<p>Esta báscula incluye una pequeña balanza y bandejas, además de una variedad adecuada de pesas. Una báscula otorga una bonificación de circunstancia de +2 en las pruebas de Tasación que involucran artículos que se valoran por peso, incluido cualquier cosa hecha de metales preciosos.</p>"
 		},
 		"Scholar’s outfit": {
-			"name": "Scholar’s outfit",
-			"description": "<p>Perfect for a scholar, this outfit includes a robe, a belt, a cap, soft shoes, and possibly a cloak.</p>"
+			"name": "Atuendo del erudito",
+			"description": "<p>Perfecto para un erudito, este atuendo incluye una bata, un cinturón, una gorra, zapatos suaves y posiblemente una capa.</p>"
 		},
 		"Sealing wax": {
-			"name": "Sealing wax",
-			"description": "<p>Used together with a signet ring to seal letters or mark objects with said signet.</p>"
+			"name": "Lacre",
+			"description": "<p>Se utiliza junto con un anillo de sello para sellar letras o marcar objetos con dicho sello.</p>"
 		},
 		"Sewing needle": {
-			"name": "Sewing needle",
-			"description": "<p>Used to stitch fabric together or even skin in dire situations.</p>"
+			"name": "Aguja de coser",
+			"description": "<p>Se utiliza para unir telas o incluso piel en situaciones extremas.</p>"
 		},
 		"Signal whistle": {
-			"name": "Signal whistle",
-			"description": "<p>A whistle with a specefic audible tune, can be such as an animal call or bird sounds depending on the complexity of the craftsmans ability. Commonly used by adventures to secretly call out to one another without being noticed</p>"
+			"name": "Silbato de señal",
+			"description": "<p>Un silbato con una melodía audible específica, puede ser como un animal o un pájaro, dependiendo de la complejidad de la habilidad del artesano. Usado comúnmente por las aventuras para llamarse en secreto unos a otros sin ser notados</p>"
 		},
 		"Signet ring": {
-			"name": "Signet ring",
-			"description": "<p>Each signet ring has a distinctive design carved into it. When you press this ring into warm sealing wax, you leave an identifying mark.</p>"
+			"name": "Anillo de sello",
+			"description": "<p>Cada anillo de sello tiene un diseño distintivo tallado en él. Cuando presiona este anillo en lacre caliente, deja una marca de identificación.</p>"
 		},
 		"Sledge": {
-			"name": "Sledge",
-			"description": "<p>This two-handed, iron-headed hammer is good for smashing open treasure chests.</p>"
+			"name": "Almádena",
+			"description": "<p>Este martillo de dos manos con cabeza de hierro es bueno para romper cofres del tesoro abiertos.</p>"
 		},
 		"Smokestick": {
-			"name": "Smokestick",
-			"description": "<p>This alchemically treated wooden stick instantly creates thick, opaque smoke when ignited. The smoke fills a 10- foot cube (treat the effect as a fog cloud spell, except that a moderate or stronger wind dissipates the smoke in 1 round). The stick is consumed after 1 round, and the smoke dissipates naturally.</p>"
+			"name": "Ahumadera",
+			"description": "<p>Este palo de madera tratado alquímicamente crea instantáneamente un humo espeso y opaco cuando se enciende. El humo llena un cubo de 3 metros (10 pies) (trata el efecto como un hechizo de nube de niebla, excepto que un viento moderado o más fuerte disipa el humo en 1 asalto). La barra se consume después de 1 asalto y el humo se disipa naturalmente.</p>"
 		},
 		"Soap": {
-			"name": "Soap",
-			"description": "<p>You can use this thick block of soap to scrub clothes, pots, linens, or anything else that might be dirty. A bar of soap has approximately 50 uses.</p>"
+			"name": "Jabón",
+			"description": "<p>Puede usar este grueso bloque de jabón para fregar ropa, ollas, ropa de cama o cualquier otra cosa que pueda estar sucia. Una barra de jabón tiene aproximadamente 50 usos.</p>"
 		},
 		"Spade or shovel": {
-			"name": "Spade or shovel",
-			"description": "<p>The go-to tool for making people dig their own grave, or generally for moving dirt like material.</p>"
+			"name": "Pala",
+			"description": "<p>La herramienta de referencia para hacer que las personas caven su propia tumba o, en general, para mover material como la tierra.</p>"
 		},
 		"Spellbook": {
-			"name": "Spellbook",
-			"description": "<p>This large, leatherbound book serves as a wizard’s reference. A spellbook has 100 pages of parchment, and each spell takes up one page per spell level (one page each for 0-level spells). See Space in the Spellbook, page 179.</p>"
+			"name": "Libro de conjuros",
+			"description": "<p>Este gran libro encuadernado en piel sirve como referencia para un mago. Un libro de hechizos tiene 100 páginas de pergamino, y cada hechizo ocupa una página por nivel de hechizo (una página para cada hechizo de nivel 0). Consulte Espacio en el libro de hechizos, página 179.</p>"
 		},
 		"Spellbook, Traveling": {
-			"name": "Spellbook, Traveling",
-			"description": "<p>A traveling spellbook is lighter and less cumbersome than its full-size counterpart. It has 50 pages.</p>"
+			"name": "Libro de hechizos, de viaje",
+			"description": "<p>Un libro de hechizos de viaje es más liviano y menos engorroso que su contraparte de tamaño completo. Tiene 50 páginas.</p>"
 		},
 		"Spyglass": {
-			"name": "Spyglass",
-			"description": "<p>Objects viewed through a spyglass are magnified to twice their size.</p>"
+			"name": "Catalejo",
+			"description": "<p>objetos que se ven a través de un catalejo se amplían al doble de su tamaño.</p>"
 		},
 		"Stabling": {
-			"name": "Stabling",
-			"description": "<p>Includes a stable, feed, and grooming.</p>"
+			"name": "Los establos",
+			"description": "<p>Incluye un establo, alimentación y aseo.</p>"
 		},
 		"Sunrod": {
-			"name": "Sunrod",
-			"description": "<p>This 1-foot-long, gold-tipped, iron rod glows brightly when struck. It clearly illuminates a 30-foot radius and provides shadowy illumination in a 60-foot radius. It glows for 6 hours, after which the gold tip is burned out and worthless. See pages 164 for more rules on illumination.</p>"
+			"name": "Cetro solar",
+			"description": "<p>Esta varilla de hierro con punta dorada de 30 cm de largo brilla intensamente cuando se golpea. Ilumina claramente un radio de 9 metros (30 pies) y proporciona una iluminación en sombras en un radio de 18 metros (60 pies). Brilla durante 6 horas, después de lo cual la punta de oro se quema y no tiene valor. Consulte las páginas 164 para obtener más reglas sobre iluminación.</p>"
 		},
 		"Tanglefoot Bag": {
 			"name": "Bolsa de marañas",
@@ -489,43 +489,43 @@
 		},
 		"Torch": {
 			"name": "Antorcha",
-			"description": "<p>A typical torch is a wooden rod capped with a twisted flax soaked in tallow. A torch burns for 1 hour, clearly illuminating a 20-foot radius and providing shadowy illumination out to a 40- foot radius. See page 164 for more rules on illumination. If a torch is used in combat, treat it as a one-handed improvised weapon (see page 113) that deals bludgeoning damage equal to that of a gauntlet of its size, plus 1 point of fire damage.</p>"
+			"description": "<p>Una antorcha típica es una varilla de madera cubierta con un lino retorcido empapado en sebo. Una antorcha arde durante 1 hora, iluminando claramente un radio de 6 metros (20 pies) y proporcionando una iluminación en sombras en un radio de 12 metros (40 pies). Consulte la página 164 para obtener más reglas sobre iluminación. Si se usa una antorcha en combate, trátela como un arma improvisada con una mano (ver página 113) que inflige un daño contundente igual al de un guantelete de su tamaño, más 1 punto de daño por fuego.</p>"
 		},
 		"Torch, Everburning": {
-			"name": "Torch, Everburning",
-			"description": "<p>This otherwise normal torch has a <a class=\"entity-link\" draggable=\"true\" data-pack=\"D35E.spells\" data-id=\"V13HaBxmB2REfcP3\"><i class=\"fas fa-suitcase\"></i> Continual Flame </a>&nbsp;spell cast upon it. An everburning torch clearly illuminates a 20-foot radius and provides shadowy illumination out to a 40-foot radius.</p>"
+			"name": "Antorcha, Siempre Ardiendo",
+			"description": "<p>Esta antorcha de otro modo normal tiene un hechizo de<a class=\"entity-link\" draggable=\"true\" data-pack=\"D35E.spells\" data-id=\"V13HaBxmB2REfcP3\"><i class=\"fas fa-suitcase\"></i> Llama continua </a>&nbsp;lanzado sobre ella. Una antorcha siempre encendida ilumina claramente un radio de 6 metros (20 pies) y proporciona una iluminación sombría a un radio de 12 metros (40 pies).</p>"
 		},
 		"Traveler’s outfit": {
-			"name": "Traveler’s outfit",
-			"description": "<p>This set of clothes consists of boots, a wool skirt or breeches, a sturdy belt, a shirt (perhaps with a vest or jacket), and an ample cloak with a hood.</p>"
+			"name": "Atuendo del viajero",
+			"description": "<p>Este conjunto de ropa consta de botas, una falda de lana o calzones, un cinturón resistente, una camisa (quizás con chaleco o chaqueta) y una amplia capa con capucha.</p>"
 		},
 		"Vial, ink or potion": {
-			"name": "Vial, ink or potion",
-			"description": "<p>A simple glass container with a firm stopper at the top in eaither Vial, Ink or Potion shape. holds about 1oz. of liquid</p>"
+			"name": "Vial, tinta o poción",
+			"description": "<p>Un recipiente de vidrio simple con un tapón firme en la parte superior en forma de frasco, tinta o poción. contiene alrededor de 0,01 litro (1 oz.) de líquido</p>"
 		},
 		"Warhorse, heavy": {
-			"name": "Warhorse, heavy",
-			"description": "<p>Phb Table 9-6 Mounts and Vehicles. Page 164</p>"
+			"name": "Caballo de guerra, pesado",
+			"description": "<p>VerTabla 9-6 Monturas y vehículos. Página 164</p>"
 		},
 		"Warhorse, light": {
-			"name": "Warhorse, light",
-			"description": "<p>Phb Table 9-6 Mounts and Vehicles. Page 164</p>"
+			"name": "Caballo de guerra, ligero",
+			"description": "<p>VerTabla 9-6 Monturas y vehículos. Página 164</p>"
 		},
 		"Warpony": {
-			"name": "Warpony",
-			"description": "<p>Phb Table 9-6 Mounts and Vehicles. Page 164</p>"
+			"name": "Pony de guerra",
+			"description": "<p>VerTabla 9-6 Monturas y vehículos. Página 164</p>"
 		},
 		"Water clock": {
-			"name": "Water clock",
-			"description": "<p>This large, bulky contrivance gives the time accurate to within half an hour per day since it was last set. It requires a source of water, and it must be kept still because it marks time by the regulated flow of droplets of water. It is primarily an amusement for the wealthy and a tool for the student of arcane lore. Most people have no way to tell exact time, and there’s little point in knowing that it is 2:30 p.m. if nobody else does.</p>"
+			"name": "Reloj de agua",
+			"description": "<p>Este dispositivo grande y voluminoso da la hora con una precisión de media hora por día desde que se configuró por última vez. Requiere una fuente de agua y debe mantenerse quieto porque marca el tiempo por el flujo regulado de gotas de agua. Es principalmente una diversión para los ricos y una herramienta para el estudiante de la tradición arcana. La mayoría de las personas no tienen forma de saber la hora exacta, y no tiene mucho sentido saber que son las 2:30 pm si nadie más lo sabe.</p>"
 		},
 		"Waterskin": {
-			"name": "Waterskin",
-			"description": "<p>A water or wineskin holds 1/2 gallon of liquid and weighs 4 lb when full.</p>"
+			"name": "Cantimplora",
+			"description": "<p>Un odre de agua o de vino tiene capacidad para 2 litros (1/2 galón) de líquido y pesa 2 kilos (4 libras) cuando está lleno.</p>"
 		},
 		"Whetstone": {
-			"name": "Whetstone",
-			"description": "<p>Used to maintain the edge of bladed weapon, servere lack of weapon maintainance can result in loss of damage or even damage to the blade of the weapon.</p>"
+			"name": "Piedra de afilar",
+			"description": "<p>Usado para mantener el filo de un arma con filo, la falta de mantenimiento del arma puede resultar en pérdida de daño o incluso en daño a la hoja del arma.</p>"
 		}
 	}
 }
