@@ -61,7 +61,7 @@
 		},
 		"Bedroll": {
 			"name": "Petate (Saco de dormir)",
-			"description": "<p>You never know where you’re going to sleep, and a bedroll helps you get better sleep in a hayloft or on the cold ground. A bedroll consists of bedding and a blanket thin enough to be rolled up and tied. In an emergency, it can double as a stretcher.</p>"
+			"description": "<p>Nunca sabes dónde vas a dormir, y un petate te ayudará a dormir mejor en pajares o en el suelo frío. El petate se compone de ropa de cama y una manta, lo bastante delgada como para enrrollaras y atarlas. En caso de emergencia, puede hacer las veces de camilla.</p>"
 		},
 		"Bell": {
 			"name": "Campana",
@@ -220,24 +220,24 @@
 			"description": "<p>El agua bendita daña a las criaturas no muertas y a los ajenos malvados casi como si fuera ácida. Se puede lanzar un frasco de agua bendita como arma de salpicadura (ver Lanzar arma de salpicadura, página 158). Trate este ataque como un ataque de toque a distancia con un incremento de alcance de 10 pies. Un frasco se rompe si se lanza contra el cuerpo de una criatura corpórea, pero para usarlo contra una criatura incorpórea, debes abrir el frasco y verter el agua bendita sobre el objetivo. Por lo tanto, puede rociar una criatura incorpórea con agua bendita solo si está adyacente a ella. Hacerlo es un ataque de toque a distancia que no provoca ataques de oportunidad. Un impacto directo de un frasco de agua bendita inflige 2d4 puntos de daño a una criatura no muerta o un ajeno malvado. Cada una de esas criaturas dentro de los 5 pies del punto donde golpea el frasco recibe 1 punto de daño por salpicadura. Los templos a las deidades buenas venden agua bendita a un costo (sin obtener ganancias) porque los clérigos están felices de proporcionar a las personas lo que necesitan para combatir el mal.</p>"
 		},
 		"Horse, heavy": {
-			"name": "Horse, heavy",
-			"description": "<p>Phb Table 9-6 Mounts and Vehicles. Page 164</p>"
+			"name": "Caballo, pesado",
+			"description": "<p>VerTabla 9-6 Monturas y vehículos. Página 164</p>"
 		},
 		"Horse, light": {
-			"name": "Horse, light",
-			"description": "<p>Phb Table 9-6 Mounts and Vehicles. Page 164</p>"
+			"name": "Caballo, ligero",
+			"description": "<p>VerTabla 9-6 Monturas y vehículos. Página 164</p>"
 		},
 		"Hourglass": {
-			"name": "Hourglass",
-			"description": "<p>Comes in diffrent time tracking sizes 1min, 2min, 5min, 10min and 1hour</p>"
+			"name": "Reloj de arena",
+			"description": "<p>Viene en diferentes tamaños de seguimiento de tiempo 1 min, 2 min, 5 min, 10 min y 1 hora</p>"
 		},
 		"Ink, 1 oz. vial": {
-			"name": "Ink, 1 oz. vial",
-			"description": "<p>A vial of 1oz. quality writing ink</p>"
+			"name": "Tinta, 1 oz. frasco",
+			"description": "<p>Un vial de 1 oz. tinta para escritura de calidad</p>"
 		},
 		"Inkpen": {
-			"name": "Inkpen",
-			"description": "<p>An inkpen is a wooden stick with a special tip on the end. The tip draws ink in when dipped in a vial and leaves an ink trail when drawn across a surface.</p>"
+			"name": "Pluma de tinta",
+			"description": "<p>Una pluma es un palito de madera con una punta especial en el extremo. La punta aspira tinta cuando se sumerge en un vial y deja un rastro de tinta cuando se dibuja sobre una superficie.</p>"
 		},
 		"Jug, clay": {
 			"name": "Jug, clay",
