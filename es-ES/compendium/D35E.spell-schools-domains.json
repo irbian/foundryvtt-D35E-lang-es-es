@@ -9,7 +9,7 @@
 	"entries": {
 		"Abjuration Spell School": {
 			"name": "Escuela de hechizos de abjuración",
-			"description": "<p>Las abjuraciones son hechizos protectores. Crean barreras físicas o mágicas, niegan habilidades mágicas o físicas, dañan a los intrusos o incluso desterran al sujeto del hechizo a otro plano de existencia. </p> \n <p> Si un hechizo de abjuración está activo a 10 pies de otro durante 24 horas o más, los campos mágicos interfieren entre sí y crean fluctuaciones de energía apenas visibles. La CD para encontrar tales hechizos con la habilidad de Búsqueda se reduce en 4. </p> \n <p> Si una abjuración crea una barrera que mantiene a raya a ciertos tipos de criaturas, esa barrera no se puede usar para alejar a esas criaturas. Si fuerza la barrera contra una criatura así, siente una presión perceptible contra la barrera. Si continúa aplicando presión, finaliza el hechizo.</p>"
+			"description": "<p>Las abjuraciones son hechizos protectores. Crean barreras físicas o mágicas, niegan habilidades mágicas o físicas, dañan a los intrusos o incluso desterran al sujeto del hechizo a otro plano de existencia. </p> \n <p> Si un hechizo de abjuración está activo a 3 metros (10 pies) de otro durante 24 horas o más, los campos mágicos interfieren entre sí y crean fluctuaciones de energía apenas visibles. La CD para encontrar tales hechizos con la habilidad de Búsqueda se reduce en 4. </p> \n <p> Si una abjuración crea una barrera que mantiene a raya a ciertos tipos de criaturas, esa barrera no se puede usar para alejar a esas criaturas. Si fuerza la barrera contra una criatura así, siente una presión perceptible contra la barrera. Si continúa aplicando presión, finaliza el hechizo.</p>"
 		},
 		"Air Domain": {
 			"name": "Dominio de aire",
@@ -21,163 +21,163 @@
 		},
 		"Artifice Domain": {
 			"name": "Dominio del artificio",
-			"description": "<p>Obtienes un bonificador +4 a las pruebas de Artesanía. El personaje lanza hechizos de conjuración (creación) a nivel de lanzador +1. (Aquellos con acceso a los dominios de Artificio y Creación lanzan hechizos de conjuración (creación) al nivel de lanzador +3).</p>"
+			"description": "<p>Obtienes un bonificador +4 a las pruebas de Artesanía. El personaje lanza hechizos de conjuración (creación) a +1 nivel de lanzador. (Aquellos con acceso a los dominios de Artificio y Creación lanzan hechizos de conjuración (creación) al nivel de lanzador +3).</p>"
 		},
 		"Chaos Domain": {
 			"name": "Dominio del caos",
 			"description": "<p>Lanzas hechizos de caos a nivel de lanzador +1.</p>"
 		},
 		"Charm Domain": {
-			"name": "Charm Domain",
-			"description": "<p>The character can boost his or her Charisma by 4 points once per day. Activating this power is a free action. The Charisma increase lasts 1 minute.</p>"
+			"name": "Dominio de encanto",
+			"description": "<p>El personaje puede aumentar su Carisma en 4 puntos una vez al día. Activar este poder es una acción gratuita. El aumento de Carisma dura 1 minuto.</p>"
 		},
 		"Community Domain": {
-			"name": "Community Domain",
-			"description": "<p>Use calm emotions as a spell-like ability once per day. Gain a +2 competence bonus on Diplomacy checks.</p>"
+			"name": "Dominio de la comunidad",
+			"description": "<p>Utilice las emociones tranquilas como una habilidad sortílega una vez al día. Obtienes una bonificación de competencia de +2 en las pruebas de Diplomacia.</p>"
 		},
 		"Conjuration Spell School": {
 			"name": "Escuela de hechizos de conjuración",
 			"description": "<p>Cada hechizo de conjuración pertenece a una de las cinco subescuelas. Las conjuraciones traen a tu presencia manifestaciones de objetos, criaturas o alguna forma de energía (la subescuela de invocación), transportan realmente a criaturas de otro plano de existencia a su plano (llamada), curan (curan), transportan criaturas u objetos a grandes distancias (teletransportación), o crear objetos o efectos sobre el terreno (creación). Las criaturas que conjuras normalmente, pero no siempre, obedecen tus órdenes.</p>\n<p>Una criatura u objeto que crees o transmportes hasta ti por medio de un sortilegio de conjuración no puede aparecer dentro de otra criatura u objeto, ni tampoco flotando en medio de un espacio vacio. Debe aparecer en un espacio abierto y sobre una superficie capaz de soportarlo.</p>\n<p>La criatura u objeto también debe aparecer dentro del alcance del conjuro, pero no tiene porqué permanecer luego en él. </p>\n<p><strong>Convocación</strong></p>\n<p>Un sortilegio de convocación trae en el acto a una criatura u objeto hasta el lugar que indiques. Cuando el conjuro finalice o sea dissipado, la criatura convocada será enviada automáticacmente de vuelta al lugar del que haya venido; sin embargo, los objetos convocados no volverán a su lugar de origen, a no ser que la descripción del conjuro especifique lo contrario. Las criaturas convocadas también desaparecen al morir o al quedar a 0 o menos puntos de golpe. Sin embargo, no estarán muertas de verdad, sino reformándose en un proceso de 24 horas de duración, durante el cual no podrán volver a ser convocadas </p>\n<p>Cuando finalice el conjuro que haya convocado a una criatura y ésta desaparezca, terminarán también los efectos de todos los sortilegios que éste haya lanzado. Las criaturas convocadas no pueden usar ninguna aptitud innata de convocación que puedaan tener, y se negarána ejecutar ningún conjuro que les cueste PX o cualquier aptutid sortílega que le cosstaría PX si fuese un conjuro.\n</p>\n<p><strong>Creación</strong></p>\n<p>Un conjuro de creación manipula la materia para crear un objeto o criatura en el lugar elegido por el lanzador (sujeto a los límites indicados). Si el sortilegio tiene una duración distinta de instantánea, la creación se mantiene gracias a la magia, desapareciendo sin dejar rastro al expirar la duración del conjuro o ser éste disipado. Si el sortilegio tiene una duración instantánea, la criatura u objeto creado son dotados de forma mágicamente, pero su duración será indefinida y su existencia no dependerá de la magia.</p>\n<p><strong>Curación</strong></p>\n<p>Ciertas conjruaciones divinas curan a las criaturas e incluso les devuelven la vida.</p>\n<p><strong>Llamada</strong></p>\n<p>Un conjuro de llamada transporta a una criatura de otro plano de existencia hasta el plano en que te encuentres. El sortilegio concede a la criatura en cuestión la aptitud de un solo uso de regresar a su plano de origen, aunque el conjuro puede limitar las circustancias en las que esto sea posible. Las criaturas a las que se llame morirán cuando se las mate, no desaparecerán ni se reformarán, como sucedería si se las hubiera convocado. La duración de un conjro de llamada es instantánea, lo cual significa que la criatura llamada no puede ser disipada</p>\n<p><strong>Teleportación</strong></p>\n<p>Un conjuro de teleportación transporta a una o más criaturas u objetos a una gran distancia. Los conjuros más poderosos pueden cruzar los límites entre los planos. A diferencia d elos conjuros de convocación, en este caso el transporte es en un sentido,y no puede ser disipado.</p>\n<p>La teleprotación es un viaje instantáneo a través del plano Astral. Cualquier cosa que bloquee el viaje astral también bloquea la teleportación</p>"
 		},
 		"Creation Domain": {
-			"name": "Creation Domain",
-			"description": "<p>Cast conjuration (creation) spells at +2 caster level. (Those with access to both the Artifice and Creation domains cast conjuration (creation) spells at +3 caster level.)</p>"
+			"name": "Dominio de creación",
+			"description": "<p>Lanza hechizos de conjuración (creación) al nivel de lanzador +2. (Aquellos con acceso a los dominios de Artificio y Creación lanzan hechizos de conjuración (creación) al nivel de lanzador +3).</p>"
 		},
 		"Darkness Domain": {
-			"name": "Darkness Domain",
-			"description": "<p>Free Blind-Fight feat.</p>"
+			"name": "Dominio de la oscuridad",
+			"description": "<p>Dote Luchar a ciegas gratis.</p>"
 		},
 		"Death Domain": {
-			"name": "Death Domain",
-			"description": "<p>You may use a death touch once per day. Your death touch is a supernatural ability that produces a death effect. You must succeed on a melee touch attack against a living creature (using the rules for touch spells). When you touch, roll 1d6 per cleric level you possess. If the total at least equals the creature&rsquo;s current hit points, it dies (no save).</p>"
+			"name": "Dominio de la muerte",
+			"description": "<p>Puede usar un toque mortal una vez al día. Tu toque de muerte es una habilidad sobrenatural que produce un efecto de muerte. Debes tener éxito en un ataque de toque cuerpo a cuerpo contra una criatura viviente (usando las reglas para los hechizos de toque). Cuando toques, tira 1d6 por nivel de clérigo que poseas. Si el total es al menos igual a los puntos de golpe actuales de la criatura, muere (sin salvación).</p>"
 		},
 		"Destruction Domain": {
-			"name": "Destruction Domain",
-			"description": "<p>You gain the smite power, the supernatural ability to make a single melee attack with a +4 bonus on attack rolls and a bonus on damage rolls equal to your cleric level (if you hit). You must declare the smite before making the attack. This ability is usable once per day.</p>"
+			"name": "Dominio de destrucción",
+			"description": "<p>Obtienes el poder de castigo, la habilidad sobrenatural de realizar un solo ataque cuerpo a cuerpo con una bonificación de +4 a las tiradas de ataque y una bonificación a las tiradas de daño igual a tu nivel de clérigo (si golpeas). Debes declarar que deseas usar el castigo antes de realizar el ataque. Esta capacidad se puede utilizar una vez al día.</p>"
 		},
 		"Divination Spell School": {
-			"name": "Divination Spell School",
-			"description": "<p>Divination spells enable you to learn secrets long forgotten, to predict the future, to find hidden things, and to foil deceptive spells.</p>\n<p>Many divination spells have cone-shaped areas. These move with you and extend in the direction you look. The cone defines the area that you can sweep each round. If you study the same area for multiple rounds, you can often gain additional information, as noted in the descriptive text for the spell.</p>\n<p><strong>Scrying</strong></p>\n<p>A scrying spell creates an invisible magical sensor that sends you information. Unless noted otherwise, the sensor has the same powers of sensory acuity that you possess. This level of acuity includes any spells or effects that target you, but not spells or effects that emanate from you. However, the sensor is treated as a separate, independent sensory organ of yours, and thus it functions normally even if you have been blinded, deafened, or otherwise suffered sensory impairment.</p>\n<p>Any creature with an Intelligence score of 12 or higher can notice the sensor by making a DC 20 Intelligence check. The sensor can be dispelled as if it were an active spell.</p>\n<p>Lead sheeting or magical protection blocks a scrying spell, and you sense that the spell is so blocked.</p>"
+			"name": "Escuela de hechizos de adivinación",
+			"description": "<p>Los hechizos de adivinación te permiten aprender secretos olvidados hace mucho tiempo, predecir el futuro, encontrar cosas ocultas y frustrar hechizos engañosos. </p> \n <p> Muchos hechizos de adivinación tienen áreas en forma de cono. Estos se mueven contigo y se extienden en la dirección en la que miras. El cono define el área que puede barrer en cada ronda. Si estudias la misma área durante varias rondas, a menudo puedes obtener información adicional, como se indica en el texto descriptivo del hechizo. </p> \n <p> <strong> Scrying </strong> </p> \n <p> Un hechizo de adivinación crea un sensor mágico invisible que te envía información. A menos que se indique lo contrario, el sensor tiene los mismos poderes de agudeza sensorial que usted posee. Este nivel de agudeza incluye cualquier hechizo o efecto que tenga como objetivo, pero no los hechizos o efectos que emanan de usted. Sin embargo, el sensor se trata como un órgano sensorial independiente suyo y, por lo tanto, funciona con normalidad incluso si ha sido cegado, sordo o ha sufrido algún otro tipo de discapacidad sensorial. </p> \n <p> Cualquier criatura con inteligencia Una puntuación de 12 o más puede notar el sensor haciendo una prueba de Inteligencia DC 20. El sensor se puede disipar como si fuera un hechizo activo. </p> \n <p> Las láminas de plomo o la protección mágica bloquean un hechizo de adivinación, y sientes que el hechizo está muy bloqueado.</p>"
 		},
 		"Earth Domain": {
-			"name": "Earth Domain",
-			"description": "<p>Turn or destroy air creatures as a good cleric turns undead. Rebuke, command, or bolster earth creatures as an evil cleric rebukes undead. Use these abilities a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability.</p>"
+			"name": "Dominio de la Tierra",
+			"description": "<p>Expulsa o destruye a las criaturas del aire igual que los clérigos buenos expulsan a los muertos vivientes. Reprende, ordena o refuerza a las criaturas terrestres igual que los clérigos malignos hacen con los muertos vivientes. Usa estas habilidades un número total de veces al día igual a 3 + tu modificador de Carisma. Este poder otorgado es una habilidad sobrenatural.</p>"
 		},
 		"Enchantment Spell School": {
 			"name": "Escuela de hechizos de Encantamiento",
 			"description": "<p>Los conjuros de encantamiento afectan a las mentes de los demás, influyendo en su comportamiento o controlándolo</p>\n<p>Los conjuros más representativos de la escuela incluyen: <i> hechizar persona </i> y <i>sugestión</i>.</p>\n<p><strong>Hechizar</strong></p>\n<p>Estos conjuros cambian la opinión que el recpetor tiene sobre ti, normalmente, le hacen verte como a un buen amigo</p>\n<p><strong>Compulsión</strong></p>\n<p>Estos conjuros obligan a su recpetor a actuar de una forma o cambian el funcionamiento de su mente. Algunos de estos conjuros determinan las acciones del receptor o los efectos que sufrirá, otros te permiten determinarlas personalmente en el mmomento del lanzamiento y otros te conceden un control continuo sobre el receptor.</p>"
 		},
 		"Evil Domain": {
-			"name": "Evil Domain",
-			"description": "<p>You cast evil spells at +1 caster level.</p>"
+			"name": "Dominio del mal",
+			"description": "<p>Lanzas hechizos malignos con un +1 nivel de lanzador.</p>"
 		},
 		"Evocation Spell School": {
-			"name": "Evocation Spell School",
-			"description": "<p>Evocation spells manipulate energy or tap an unseen source of power to produce a desired end. In effect, they create something out of nothing. Many of these spells produce spectacular effects, and evocation spells can deal large amounts of damage.</p>"
+			"name": "Escuela de hechizos de evocación",
+			"description": "<p>Los hechizos de evocación manipulan la energía o aprovechan una fuente invisible de poder para producir un fin deseado. De hecho, crean algo de la nada. Muchos de estos hechizos producen efectos espectaculares y los hechizos de evocación pueden causar grandes cantidades de daño.</p>"
 		},
 		"Fire Domain": {
-			"name": "Fire Domain",
-			"description": "<p>Turn or destroy water creatures as a good cleric turns undead. Rebuke, command, or bolster fire creatures as an evil cleric rebukes undead. Use these abilities a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability.</p>"
+			"name": "Dominio de fuego",
+			"description": "<p>Expulsar o destrir a las criaturas acuáticas igual que un clérigo bueno hace con los muertos vivientes. Reprende, ordena o refuerza a las criaturas de fuego como un clérigo malvado reprende a los no muertos. Usa estas habilidades un número total de veces al día igual a 3 + tu modificador de Carisma. Este poder otorgado es una habilidad sortílega.</p>"
 		},
 		"Glory Domain": {
-			"name": "Glory Domain",
-			"description": "<p>Turn undead with a +2 bonus on the turning check and +1d6 to the turning damage roll.</p>"
+			"name": "Dominio de la gloria",
+			"description": "<p>Expulsa a los muertos vivientes con un bonificador +2 a la prueba de expulsión y + 1d6 a la tirada de daño por expulsión.</p>"
 		},
 		"Good Domain": {
-			"name": "Good Domain",
-			"description": "<p>You cast good spells at +1 caster level.</p>"
+			"name": "Dominio del Bien",
+			"description": "<p>Lanzas hechizos buenos a nivel de lanzador +1.</p>"
 		},
 		"Healing Domain": {
-			"name": "Healing Domain",
-			"description": "<p>You cast healing spells at +1 caster level.</p>"
+			"name": "Dominio de curación",
+			"description": "<p>Lanzas hechizos de curación a nivel de lanzador +1.</p>"
 		},
 		"Illusion Spell School": {
 			"name": "Escuela de hechizos de Illusion",
 			"description": "<p>Los hechizos de ilusión engañan los sentidos o las mentes de los demás. Hacen que las personas vean cosas que no están allí, que no vean cosas que están allí, escuchen ruidos fantasmas o recuerden cosas que nunca sucedieron.</p>\n<p><strong>Quimera</strong></p>\n<p>Un conjuro de quimera crea una sensación falsa. Todos los que la presencien precibirán la misma cosa, no su propia versión ligeramente distinta del efecto (no se trata de una impresión mental personalizada). Las quimeras no pueden hacer que una cosa parezca ser otra. las que incluyan efectos audibles no podrán duplicar una forma de hablar inteligible, a no ser que la descripción del conjuro especifique lo contrario. Si el sortilegio permite duplicar un habla inteligible, tendrá que ser en un idioma que conozcas. Si intentas duplicar un idioma que no sabes hablar, de la imagen sólo surgirá un galimatías. Asi mismo, no puedes crear una copia visual de algo a no ser que conozcas su aspecto.</p>\n<p>Como las quimeras y los engaños son irreales, no pueden producir efectos reales, como hacen las ilusiones de otro tipo. No pueden inflingir daño ni a objetos ni a criaturas, portar peso, servir de alimento ni ofrecer protección contra los elementos. Por tanto, estos conjuros resultan de utilidad para confundir o retrasar a los enemigos, pero no sirven para atacarles directamente.</p>\n<p>La CA de una quimera es igual a 10 + su modificador de tamaño.</p>\n<p><strong>Glamer</strong></p>\n<p>A glamer spell changes a subject&rsquo;s sensory qualities, making it look, feel, taste, smell, or sound like something else, or even seem to disappear.</p>\n<p><strong>Pattern</strong></p>\n<p>Like a figment, a pattern spell creates an image that others can see, but a pattern also affects the minds of those who see it or are caught in it. All patterns are mind-affecting spells.</p>\n<p><strong>Phantasm</strong></p>\n<p>A phantasm spell creates a mental image that usually only the caster and the subject (or subjects) of the spell can perceive. This impression is totally in the minds of the subjects. It is a personalized mental impression. (It&rsquo;s all in their heads and not a fake picture or something that they actually see.) Third parties viewing or studying the scene don&rsquo;t notice the phantasm. All phantasms are mind-affecting spells.</p>\n<p><strong>Shadow</strong></p>\n<p>A shadow spell creates something that is partially real from extradimensional energy. Such illusions can have real effects. Damage dealt by a shadow illusion is real.</p>\n<p><strong>Saving Throws and Illusions (Disbelief)</strong></p>\n<p>Creatures encountering an illusion usually do not receive saving throws to recognize it as illusory until they study it carefully or interact with it in some fashion.</p>\n<p>A successful saving throw against an illusion reveals it to be false, but a figment or phantasm remains as a translucent outline.</p>\n<p>A failed saving throw indicates that a character fails to notice something is amiss. A character faced with proof that an illusion isn&rsquo;t real needs no saving throw. If any viewer successfully disbelieves an illusion and communicates this fact to others, each such viewer gains a saving throw with a +4 bonus.</p>\n<p>&nbsp;</p>"
 		},
 		"Knowledge Domain": {
-			"name": "Knowledge Domain",
-			"description": "<p>Add all Knowledge skills to your list of cleric class skills.</p>\n<p>You cast divination spells at +1 caster level.</p>"
+			"name": "Dominio del Saber",
+			"description": "<p>Agrega todas las habilidades de Saber se añaden a tu lista de habilidades de clase de clérigo. </p> \n <p> Lanzas hechizos de adivinación en el nivel de lanzador +1.</p>"
 		},
 		"Law Domain": {
-			"name": "Law Domain",
-			"description": "<p>You cast law spells at +1 caster level.</p>"
+			"name": "Dominio de la ley",
+			"description": "<p>Lanzas hechizos de ley con un +1 nivel de lanzador.</p>"
 		},
 		"Liberation Domain": {
-			"name": "Liberation Domain",
-			"description": "<p>The character gains a +2 morale bonus on all saving throws against enchantment spells or effects.</p>"
+			"name": "Dominio de la liberación",
+			"description": "<p>El personaje gana un bonificador +2 de moral en todas las tiradas de salvación contra hechizos o efectos de encantamiento.</p>"
 		},
 		"Luck Domain": {
-			"name": "Luck Domain",
-			"description": "<p>You gain the power of good fortune, which is usable once per day. This extraordinary ability allows you to reroll one roll that you have just made before the game master declares whether the roll results in success or failure. You must take the result of the reroll, even if it&rsquo;s worse than the original roll.</p>"
+			"name": "Dominio de la suerte",
+			"description": "<p>Obtienes el poder de la buena fortuna, que se puede utilizar una vez al día. Esta aptitud extraordinaria te permite repetir una tirada que acabas de hacer antes de que el maestro del juego declare si la tirada da como resultado un éxito o un fracaso. Debes tomar el resultado de la repetición, incluso si es peor que la tirada original.</p>"
 		},
 		"Madness Domain": {
-			"name": "Madness Domain",
-			"description": "<p>The character gains an Insanity score equal to half his or her class level. For spellcasting (determining bonus spells and DCs), the character uses his or her Wisdom score plus his or her Insanity score in place of Wisdom alone.</p>\n<p>For all other purposes, such as skills and saves, use Wisdom minus Insanity in place of Wisdom.</p>\n<p>Once per day, the character can see and act with the clarity of true madness. Use the character&rsquo;s Insanity score as a positive rather than a negative modifier on a single roll involving Wisdom. Choose to use this power before the roll is made.</p>"
+			"name": "Dominio de la locura",
+			"description": "<p>El personaje obtiene una puntuación de Locura igual a la mitad de su nivel de clase. Para el lanzamiento de hechizos (determinar hechizos adicionales y CDs), el personaje usa su puntuación de Sabiduría más su puntuación de Locura en vez de sólo su puntuación de Sabiduría.</p>\n<p>Para todos los demás propósitos, como habilidades y salvaciones, usa Sabiduría menos Locura en lugar de Sabiduría.</p>\n<p>Una vez al día, el personaje puede ver y actuar con la claridad de la verdadera locura. Usa la puntuación de Logura como un modificador positivo en lugar de negativo en una sola tirada que involucre Sabiduría. Elije usar este poder antes de hacer la tirada.</p>"
 		},
 		"Magic Domain": {
-			"name": "Magic Domain",
-			"description": "<p>Use scrolls, wands, and other devices with spell completion or spell trigger activation as a wizard of one-half your cleric level (at least 1st level). For the purpose of using a scroll or other magic device, if you are also a wizard, actual wizard levels and these effective wizard levels stack.</p>"
+			"name": "Dominio de magia",
+			"description": "<p>Puedes utilizar pergaminos, varitas y otros dispositivos con la finalización de hechizos o la activación de disparadores de hechizos como mago de la mitad de su nivel de clérigo (al menos 1er nivel). Con el propósito de usar un pergamino u otro dispositivo mágico, si también es un mago, los niveles de mago reales y estos niveles de mago efectivos se acumulan.</p>"
 		},
 		"Necromancy Spell School": {
-			"name": "Necromancy Spell School",
-			"description": "<p>Necromancy spells manipulate the power of death, unlife, and the life force. Spells involving undead creatures make up a large part of this school.</p>"
+			"name": "Escuela de hechizos de nigromancia",
+			"description": "<p>Los hechizos de nigromancia manipulan el poder de la muerte, la no vida y la fuerza vital. Los hechizos que involucran criaturas no muertas constituyen una gran parte de esta escuela.</p>"
 		},
 		"Nobility Domain": {
-			"name": "Nobility Domain",
-			"description": "<p>The character has the spell-like ability to inspire allies, giving them a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls. Allies must be able to hear the character speak for 1 round. Using this ability is a standard action. It lasts a number of rounds equal to the character&rsquo;s Charisma bonus and can be used once per day.</p>"
+			"name": "Dominio de la nobleza",
+			"description": "<p>El personaje tiene la habilidad de un hechizo para inspirar a los aliados, dándoles un bonificador de moral de +2 en tiros de salvación, tiradas de ataque, pruebas de habilidad, pruebas de habilidad y tiradas de daño con armas. Los aliados deben poder escuchar al personaje hablar durante 1 asalto. Usar esta habilidad es una acción estándar. Dura un número de rondas igual al bono de carisma del personaje y se puede usar una vez al día.</p>"
 		},
 		"Plant Domain": {
-			"name": "Plant Domain",
-			"description": "<p>Rebuke or command plant creatures as an evil cleric rebukes or commands undead. Use this ability a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability.</p>\n<p>Add Knowledge (nature) to your list of cleric class skills.</p>"
+			"name": "Dominio vegetal",
+			"description": "<p>Reprender o comandar a las criaturas vegetales igual que los clérigos malignos hacen con los muertos vivientes. Usa esta habilidad un número total de veces al día igual a 3 + tu modificador de Carisma. Este poder otorgado es una habilidad sobrenatural. </p> \n <p> Agrega Saber (naturaleza) a tu lista de habilidades de clase de clérigo.</p>"
 		},
 		"Protection Domain": {
-			"name": "Protection Domain",
-			"description": "<p>You can generate a protective ward as a supernatural ability. Grant someone you touch a resistance bonus equal to your cleric level on his or her next saving throw. Activating this power is a standard action. The protective ward is an abjuration effect with a duration of 1 hour that is usable once per day.</p>"
+			"name": "Dominio de protección",
+			"description": "<p>Puedes generar una custodia protectora como habilidad sobrenatural. Otorga a alguien que toques una bonificación de resistencia igual a tu nivel de clérigo en su próxima tirada de salvación. Activar este poder es una acción estándar. La custodia protectora es un efecto de abjuración con una duración de 1 hora que se puede utilizar una vez al día.</p>"
 		},
 		"Repose Domain": {
-			"name": "Repose Domain",
-			"description": "<p>The character may use a death touch once per day. The death touch is a spell-like ability that is a death effect. The character must succeed at a melee touch attack against a living creature (using the rules for touch spells). When the character touches, roll 1d6 per his or her cleric level. If the total at least equals the creature&rsquo;s current hit points, it dies.</p>"
+			"name": "Dominio de reposo",
+			"description": "<p>El personaje puede usar un toque mortal una vez al día. El toque de muerte es una habilidad similar a un hechizo que es un efecto de muerte. El personaje debe tener éxito en un ataque de toque cuerpo a cuerpo contra una criatura viviente (usando las reglas para los hechizos de toque). Cuando el personaje toca, tira 1d6 por su nivel de clérigo. Si el total es al menos igual a los puntos de golpe actuales de la criatura, muere.</p>"
 		},
 		"Rune Domain": {
-			"name": "Rune Domain",
-			"description": "<p>Free Scribe Scroll feat.</p>"
+			"name": "Dominio de runas",
+			"description": "<p>El personaje obtiene la dote Inscribir pergamino.</p>"
 		},
 		"Scalykind Domain": {
-			"name": "Scalykind Domain",
-			"description": "<p>Rebuke or command animals (reptilian creatures and snakes only) as an evil cleric rebukes or commands undead.</p>\n<p>Use this ability a total number of times per day equal to 3 + Charisma modifier.</p>"
+			"name": "Dominio Scalykind",
+			"description": "<p>Reprende o manda a los animales (criaturas reptiles y serpientes solamente) como un clérigo malvado reprende o ordena a los muertos vivientes. </p> \n <p> Usa esta habilidad un número total de veces al día igual a 3 + modificador de Carisma.</p>"
 		},
 		"Strength Domain": {
-			"name": "Strength Domain",
-			"description": "<p>You can perform a feat of strength as a supernatural ability. You gain an enhancement bonus to Strength equal to your cleric level. Activating the power is a free action, the power lasts 1 round, and it is usable once per day.</p>"
+			"name": "Dominio de Fuerza",
+			"description": "<p>Puedes realizar una hazaña de fuerza, que es la aptitud sobrenatural de obtener un modificador en tu Fuerza equivalente a tu nivel de clérigo. Activar el poder es una acción gratuita, el poder dura 1 asalto y se puede usar una vez al día.</p>"
 		},
 		"Sun Domain": {
-			"name": "Sun Domain",
-			"description": "<p>Once per day, you can perform a greater turning against undead in place of a regular turning. The greater turning is like a normal turning except that the undead creatures that would be turned are destroyed instead.</p>"
+			"name": "Dominio solar",
+			"description": "<p>Una vez al día, puede realizar una expulsión mayor contra los muertos vivientes en lugar de una expulsión regular. La expulsión mayor es como una expulsión normal, excepto que las criaturas no muertas que serían expulsadas son destruidas en su lugar.</p>"
 		},
 		"Transmutation Spell School": {
-			"name": "Transmutation Spell School",
-			"description": "<p>Transmutation spells change the properties of some creature, thing, or condition.</p>"
+			"name": "Escuela de hechizos de transmutación",
+			"description": "<p>Los hechizos de transmutación cambian las propiedades de alguna criatura, cosa o condición.</p>"
 		},
 		"Travel Domain": {
-			"name": "Travel Domain",
-			"description": "<p>For a total time per day of 1 round per cleric level you possess, you can act normally regardless of magical effects that impede movement as if you were affected by the spell freedom of movement. This effect occurs automatically as soon as it applies, lasts until it runs out or is no longer needed, and can operate multiple times per day (up to the total daily limit of rounds). This granted power is a supernatural ability.</p>\n<p>Add Survival to your list of cleric class skills.</p>"
+			"name": "Dominio de viajes",
+			"description": "<p>Durante un tiempo total por día de 1 asalto por nivel de clérigo que poseas, puedes actuar con normalidad independientemente de los efectos mágicos que impidan el movimiento como si estuvieses bajo los efectos del conjuro libertad de movimiento. Este efecto se produce automáticamente tan pronto como se aplica, dura hasta que se agota o ya no sea necesario y puede funcionar varias veces al día (hasta el límite diario total de asaltos diarios). Este poder otorgado es una habilidad sobrenatural. </p> \n <p> Agrega Supervivencia a tu lista de habilidades de clase de clérigo.</p>"
 		},
 		"Trickery Domain": {
-			"name": "Trickery Domain",
-			"description": "<p>Add Bluff, Disguise, and Hide to your list of cleric class skills.</p>"
+			"name": "Dominio de superchería",
+			"description": "<p>Agregue Engañar, disfrazar y esconderse a su lista de habilidades de clase de clérigo.</p>"
 		},
 		"War Domain": {
-			"name": "War Domain",
-			"description": "<p>Free Martial Weapon Proficiency with deity&rsquo;s favored weapon (if necessary) and Weapon Focus with the deity&rsquo;s favored weapon.</p>"
+			"name": "Dominio de guerra",
+			"description": "<p>Obtienes de forma gratuita la competencia con arma marciasl (en caso de ser necesaria) y la soltura con una arma correspondiente al arma predilecta de tu deidad.</p>"
 		},
 		"Water Domain": {
-			"name": "Water Domain",
-			"description": "<p>Turn or destroy fire creatures as a good cleric turns undead. Rebuke, command, or bolster water creatures as an evil cleric rebukes undead. Use these abilities a total number of times per day equal to 3 + your Charisma modifier. This granted power is a supernatural ability.</p>"
+			"name": "Dominio del agua",
+			"description": "<p>Expulsar o destruir a las criaturas de fuego igual que los clérigos buenos hacen con los muertos vivientes. Reprender, comandar o reforzar a las criaturas acuáticas igual que los clérigos malignos hacen con los muertos vivientes. Usa estas habilidades un número total de veces al día igual a 3 + tu modificador de Carisma. Este poder otorgado es una habilidad sobrenatural.</p>"
 		},
 		"Weather Domain": {
-			"name": "Weather Domain",
-			"description": "<p>Survival is a class skill.</p>"
+			"name": "Dominio del tiempo",
+			"description": "<p>La supervivencia es una habilidad de clase.</p>"
 		}
 	}
 }
