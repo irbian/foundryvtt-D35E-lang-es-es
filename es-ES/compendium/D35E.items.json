@@ -244,20 +244,20 @@
 			"description": "<p>Esta jarra de cerámica básica tiene un tapón y tiene capacidad para 1 galón (3,79 litros) de líquido.</p>"
 		},
 		"Ladder, 10-foot": {
-			"name": "Escalera de 3 metros (10 pies)",
+			"name": "Escalera de 10 pies (3 metros)",
 			"description": "<p>Este artículo es una escalera de madera simple y recta.</p>"
 		},
 		"Lamp, common": {
 			"name": "Lámpara, común",
-			"description": "<p>Una lámpara ilumina claramente un radio de 4,5 metros (15 pies), proporciona una iluminación en sombras en un radio de 9 metros (30 pies) y se quema durante 6 horas con medio litro de aceite. Arde con una llama más uniforme que una antorcha, pero, a diferencia de una linterna, usa una llama abierta y puede derramarse fácilmente, un hecho que la hace demasiado peligrosa para la mayoría de las aventuras. Puedes llevar una lámpara en una mano. Consulte la página 164 para obtener más reglas sobre iluminación.</p>"
+			"description": "<p>Una lámpara ilumina claramente un radio de 15 pies (4,5 metros), proporciona una iluminación en sombras en un radio de 30 pies (9 metros) y se quema durante 6 horas con medio litro de aceite. Arde con una llama más uniforme que una antorcha, pero, a diferencia de una linterna, usa una llama abierta y puede derramarse fácilmente, un hecho que la hace demasiado peligrosa para la mayoría de las aventuras. Puedes llevar una lámpara en una mano. Consulte la página 164 para obtener más reglas sobre iluminación.</p>"
 		},
 		"Lantern, bullseye": {
 			"name": "Linterna, ojo de buey",
-			"description": "<p>Una linterna de ojo de buey tiene un solo obturador. Sus otros lados están muy pulidos por dentro para reflejar la luz en una sola dirección. Una linterna de ojo de buey proporciona una iluminación clara en un cono de 18 metros (60 pies) de iluminación en sombras en un cono de 36 metros (120 pies). Se quema durante 6 horas con medio litro de aceite. Puede llevar una linterna de ojo de buey en una mano. Consulte la página 164 para obtener más reglas sobre iluminación.</p>"
+			"description": "<p>Una linterna de ojo de buey tiene un solo obturador. Sus otros lados están muy pulidos por dentro para reflejar la luz en una sola dirección. Una linterna de ojo de buey proporciona una iluminación clara en un cono de 60 pies (18 metros) de iluminación en sombras en un cono de 120 pies (36 metros). Se quema durante 6 horas con medio litro de aceite. Puede llevar una linterna de ojo de buey en una mano. Consulte la página 164 para obtener más reglas sobre iluminación.</p>"
 		},
 		"Lantern, hooded": {
 			"name": "Linterna con capucha",
-			"description": "<p>Una linterna con capucha tiene los lados con contraventanas o con bisagras. Ilumina claramente un radio de 9 metros (30 pies) y proporciona una iluminación en sombras en un radio de 18 metros (60 pies). Se quema durante 6 horas con medio litro de aceite. Puedes llevar una linterna con capucha en una mano. Consulte la página 164 para obtener más reglas sobre iluminación.</p>"
+			"description": "<p>Una linterna con capucha tiene los lados con contraventanas o con bisagras. Ilumina claramente un radio de 30 pies (9 metros) y proporciona una iluminación en sombras en un radio de 60 pies (18 metros). Se quema durante 6 horas con medio litro de aceite. Puedes llevar una linterna con capucha en una mano. Consulte la página 164 para obtener más reglas sobre iluminación.</p>"
 		},
 		"Lock, Amazing": {
 			"name": "Cerradura, asombrosa",
@@ -429,7 +429,7 @@
 		},
 		"Smokestick": {
 			"name": "Ahumadera",
-			"description": "<p>Este palo de madera tratado alquímicamente crea instantáneamente un humo espeso y opaco cuando se enciende. El humo llena un cubo de 3 metros (10 pies) (trata el efecto como un hechizo de nube de niebla, excepto que un viento moderado o más fuerte disipa el humo en 1 asalto). La barra se consume después de 1 asalto y el humo se disipa naturalmente.</p>"
+			"description": "<p>Este palo de madera tratado alquímicamente crea instantáneamente un humo espeso y opaco cuando se enciende. El humo llena un cubo de 10 pies (3 metros) (trata el efecto como un hechizo de nube de niebla, excepto que un viento moderado o más fuerte disipa el humo en 1 asalto). La barra se consume después de 1 asalto y el humo se disipa naturalmente.</p>"
 		},
 		"Soap": {
 			"name": "Jabón",
@@ -457,7 +457,7 @@
 		},
 		"Sunrod": {
 			"name": "Cetro solar",
-			"description": "<p>Esta varilla de hierro con punta dorada de 30 cm de largo brilla intensamente cuando se golpea. Ilumina claramente un radio de 9 metros (30 pies) y proporciona una iluminación en sombras en un radio de 18 metros (60 pies). Brilla durante 6 horas, después de lo cual la punta de oro se quema y no tiene valor. Consulte las páginas 164 para obtener más reglas sobre iluminación.</p>"
+			"description": "<p>Esta varilla de hierro con punta dorada de 1 pie (30 cm) de largo brilla intensamente cuando se golpea. Ilumina claramente un radio de 30 pies (9 metros) y proporciona una iluminación en sombras en un radio de 60 pies (18 metros). Brilla durante 6 horas, después de lo cual la punta de oro se quema y no tiene valor. Consulte las páginas 164 para obtener más reglas sobre iluminación.</p>"
 		},
 		"Tanglefoot Bag": {
 			"name": "Bolsa de marañas",
@@ -477,7 +477,7 @@
 		},
 		"Thunderstone": {
 			"name": "Piedra de Trueno",
-			"description": "<p>Puedes lanzar esta piedra como un ataque a distancia con un incremento de alcance de 6 metros (20 pies). Cuando golpea una superficie dura (o se golpea con fuerza), crea una explosión ensordecedora que se trata como un ataque sónico. Cada criatura dentro de un radio de 3 metros (10 pies) debe hacer una salvación de Fortaleza CD 15 o quedar ensordecida durante 1 hora. Una criatura ensordecida, además de los efectos obvios, sufre una &ndash;4 por iniciativa y tiene un 20% de probabilidad de lanzar mal y perder cualquier hechizo con un componente verbal que intente lanzar. Dado que usted no necesita alcanzar un objetivo específico, sólo tiene que apuntar a un determinado lugar de 1,5 metros (5 pies). Trate la casilla objetivo como CA 5; si falla, consulte Lanzar arma de salpicadura, página 158, para determinar dónde aterriza la piedra del trueno.</p>"
+			"description": "<p>Puedes lanzar esta piedra como un ataque a distancia con un incremento de alcance de 20 pies (6 metros). Cuando golpea una superficie dura (o se golpea con fuerza), crea una explosión ensordecedora que se trata como un ataque sónico. Cada criatura dentro de un radio de 10 pies (3 metros) debe hacer una salvación de Fortaleza CD 15 o quedar ensordecida durante 1 hora. Una criatura ensordecida, además de los efectos obvios, sufre una penalización de &ndash;4 a su iniciativa y tiene un 20% de probabilidad de lanzar mal y perder cualquier hechizo con un componente verbal que intente lanzar. Dado que usted no necesita alcanzar un objetivo específico, sólo tiene que apuntar a un determinado lugar de 5 pies (1,5 metros). Trate la casilla objetivo como CA 5; si falla, consulte Lanzar arma de salpicadura, página 158, para determinar dónde aterriza la piedra del trueno.</p>"
 		},
 		"Tindertwig": {
 			"name": "Ramita yesquera",
@@ -489,11 +489,11 @@
 		},
 		"Torch": {
 			"name": "Antorcha",
-			"description": "<p>Una antorcha típica es una varilla de madera cubierta con un lino retorcido empapado en sebo. Una antorcha arde durante 1 hora, iluminando claramente un radio de 6 metros (20 pies) y proporcionando una iluminación en sombras en un radio de 12 metros (40 pies). Consulte la página 164 para obtener más reglas sobre iluminación. Si se usa una antorcha en combate, trátela como un arma improvisada con una mano (ver página 113) que inflige un daño contundente igual al de un guantelete de su tamaño, más 1 punto de daño por fuego.</p>"
+			"description": "<p>Una antorcha típica es una varilla de madera cubierta con un lino retorcido empapado en sebo. Una antorcha arde durante 1 hora, iluminando claramente un radio de 20 pies (6 metros) y proporcionando una iluminación en sombras en un radio de 40 pies (12 metros). Consulte la página 164 para obtener más reglas sobre iluminación. Si se usa una antorcha en combate, trátela como un arma improvisada con una mano (página 113) que inflige un daño contundente igual al de un guantelete de su tamaño, más 1 punto de daño por fuego.</p>"
 		},
 		"Torch, Everburning": {
 			"name": "Antorcha, Siempre Ardiendo",
-			"description": "<p>Esta antorcha de otro modo normal tiene un hechizo de<a class=\"entity-link\" draggable=\"true\" data-pack=\"D35E.spells\" data-id=\"V13HaBxmB2REfcP3\"><i class=\"fas fa-suitcase\"></i> Llama continua </a>&nbsp;lanzado sobre ella. Una antorcha siempre encendida ilumina claramente un radio de 6 metros (20 pies) y proporciona una iluminación sombría a un radio de 12 metros (40 pies).</p>"
+			"description": "<p>Esta antorcha de otro modo normal tiene un hechizo de<a class=\"entity-link\" draggable=\"true\" data-pack=\"D35E.spells\" data-id=\"V13HaBxmB2REfcP3\"><i class=\"fas fa-suitcase\"></i> Llama continua </a>&nbsp;lanzado sobre ella. Una antorcha siempre encendida ilumina claramente un radio de 20 pies (6 metros) y proporciona una iluminación sombría a un radio de 40 pies (12 metros).</p>"
 		},
 		"Traveler’s outfit": {
 			"name": "Atuendo del viajero",
