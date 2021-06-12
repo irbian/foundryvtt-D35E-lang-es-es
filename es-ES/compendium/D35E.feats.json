@@ -21,7 +21,7 @@
 		},
 		"Agile": {
 			"name": "Agil",
-			"description": "<i><p>Eres especialmente flexible y tienes un buen equilibrio.</p></i><h4><b>Beneficio:</b></h4><p>Obtienes un bonificador +2 en todas las pruebas de Equilibrio y</p><p>Escapismo.</p>"
+			"description": "<i><p>Eres especialmente flexible y tienes un buen equilibrio.</p</i>\n<h3><span id=\"Benefit\" class=\"mw-headline\">Beneficio</span></h3>\n<p>Obtienes un bono +2 en todas las pruebas de Equilibrio y Escapismo.</p>\n<p>&nbsp;</p>"
 		},
 		"Alertness": {
 			"name": "Alerta",
