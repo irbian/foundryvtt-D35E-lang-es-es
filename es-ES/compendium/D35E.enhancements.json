@@ -9,11 +9,11 @@
 	"entries": {
 		"+1 Armor Enhancement": {
 			"name": "+1 Mejora de Armadura",
-			"description": "<p>Las armas mágicas tienen bonificaciones de mejora desde +1 a +5. Estas bonificaciones se aplican tanto al ataque como a los tiros de daño cuando se utilizan en combate. Todas las armas mágicas también son armas maestras, pero su bonus de maestría en los tiros de ataque no se acumula con su bono de mejora en los tiros de ataque.</p>"
+			"description": "<p>Las armas mágicas tienen bonificaciones de mejora desde +1 a +5. Estas bonificaciones se aplican tanto al ataque como a los tiros de daño cuando se utilizan en combate. Todas las armas mágicas también son armas de gran calidad, pero el bonus de maestría en los tiros de ataque no se acumula con su bono de mejora en los tiros de ataque.</p>"
 		},
 		"+1 Weapon Enhancement": {
 			"name": "+1 Mejora de Armas",
-			"description": "<p>Las armas mágicas tienen bonificaciones de mejora desde +1 a +5. Estas bonificaciones se aplican tanto al ataque como a los tiros de daño cuando se utilizan en combate. Todas las armas mágicas también son armas de gran calidad, pero el bonus de maestría en los tiros de ataque no se acumula con su bono de mejora en los tiros de ataque.</p>"
+			"description": "<p>Las armas mágicas tienen bonificaciones de mejora desde +1 a +5. Estas bonificaciones se aplican tanto al ataque como a los tiros de daño cuando se utilizan en combate. Todas las armas mágicas también son armas maestras, pero su bonus de maestría en los tiros de ataque no se acumula con su bono de mejora en los tiros de ataque.</p>"
 		},
 		"Ability Bonus (Cha)": {
 			"name": "Bono de habilidad Carisma (Cha)",
@@ -196,7 +196,7 @@
 			"description": "<p>una armadura con este encantamiento normalmente tiene un tono azulado y muchas veces está decorada con un motívo de tormentas o relámpagos. La armadura absorhe los primeros 20 puntos.de daño por electricidad que el portador vaya a recibir de cualquier ataque (similar a un conjuro de resistir energía)</p>"
 		},
 		"Etherealness": {
-			"name": "Etereidad (de)",
+			"name": "Etereidad",
 			"description": "<p>A una orden, este encantamiento permite que el portador de la armadura se convierta en etéreo (como el hechizo de excursión etérea) una vez al día. El personaje puede permanecer etéreo durante el tiempo que lo desee, pero una vez que regrese a la normalidad, no puede volverse etéreo de nuevo ese día.</p>"
 		},
 		"Everdancing": {
@@ -320,7 +320,7 @@
 			"description": "<p>cuando lleva a cabo una acción de ataque completo, el portador de un arma veloz puede reafizar un ataque adicional con ella. El ataque usa el bonificador de ataque completo del portador, más los modificadores apropiados para la ocasión (este beneficio no es acumulativo con efectos similares, como el conjuro acelerar).</p>"
 		},
 		"Spell Resistance": {
-			"name": "Resistente a conjuros",
+			"name": "Resistencia a conjuros",
 			"description": "<p>este_encantamiento otorga al portador resistencia a conjuros (RC) mientras.lleve la armadura. La RC puede ser 13, 15,17 ó 19 dependiendo de la armadura.</p>\n<p>Establecer la mejora en:</p>\n<ol>\n<li>RC 13</li>\n<li>RC 15</li>\n<li>RC 17</li>\n<li>RC 19</li>\n</ol>"
 		},
 		"Spell Storing": {
