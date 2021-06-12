@@ -1,0 +1,159 @@
+{
+	"label": "Common Buffs",
+	"mapping": {
+        "name": {
+            "path": "name",
+            "converter": "nameWithOriginal"
+        }
+    },
+	"entries": {
+		"Aid": {
+			"name": "Aid",
+			"description": "<p>You have a +1 morale bonus to attack rolls and saves against fear effects.</p>"
+		},
+		"Augmented Summon": {
+			"name": "Augmented Summon",
+			"description": "<p>Summoned creature gains a +4 enhancement bonus to Strength and Constitution for the duration of the spell that summoned it.</p>"
+		},
+		"Bane": {
+			"name": "Bane",
+			"description": "<p>You take a -1 penalty on attack rolls and saving throws vs fear effects.</p>"
+		},
+		"Barkskin": {
+			"name": "Barkskin",
+			"description": "<p>Your skin is toughened, granting you an enhancement bonus to your natural armor as per the barkskin spell.</p>\n<p><strong>Usage</strong>: Set the buff's level to the caster level of Barkskin.</p>"
+		},
+		"Bear's Endurance": {
+			"name": "Bear's Endurance",
+			"description": "<p>The subject has a +4 enhancement bonus to Constitution.</p>"
+		},
+		"Bless": {
+			"name": "Bless",
+			"description": "<p>You have a +1 morale bonus to attack rolls and saves against fear effects.</p>"
+		},
+		"Bull's Strength": {
+			"name": "Bull's Strength",
+			"description": "<p>The subject has a +4 enhancement bonus to Strength.</p>"
+		},
+		"Burst": {
+			"name": "Burst",
+			"description": "<p>Increase your speed by 10 feet, plus 10 feet per four character levels beyond 1st, to a maximum increase of 30 feet at 9th character level and higher. These bursts of speed are considered a competence bonus to the&nbsp;your base speed. A burst of speed lasts 3 rounds.</p>"
+		},
+		"Cat's Grace": {
+			"name": "Cat's Grace",
+			"description": "<p>The subject has a +4 enhancement bonus to Dexterity.</p>"
+		},
+		"Defensive Stance": {
+			"name": "Defensive Stance",
+			"description": "<p>He gains +2 to Strength, +4 to Constitution, a +2 resistance bonus on all saves, and a +4 dodge bonus to AC. The increase in Constitution increases the defender’s hit points by 2 points per level, but these hit points go away at the end of the defensive stance when the Constitution score drops back 4 points. These extra hit points are not lost first the way temporary hit points are. While in a defensive stance, a defender cannot use skills or abilities that would require him to shift his position. A defensive stance lasts for a number of rounds equal to 3 + the character’s (newly improved) Constitution modifier. A defender may end his defensive stance voluntarily prior to this limit. At the end of the defensive stance, the defender is winded and takes a -2 penalty to Strength for the duration of that encounter.&nbsp;</p>"
+		},
+		"Defensive Stance Winded": {
+			"name": "Defensive Stance Winded",
+			"description": ""
+		},
+		"Divine Favor": {
+			"name": "Divine Favor",
+			"description": "<p>You have a luck bonus to attack rolls and weapon damage rolls.</p>\n<p><strong>Usage</strong>: Set the buff's level equal to the caster level Divine Favor.</p>"
+		},
+		"Eagle's Splendor": {
+			"name": "Eagle's Splendor",
+			"description": "<p>The subject has a +4 enhancement bonus to Charisma.</p>"
+		},
+		"Enraged": {
+			"name": "Enraged",
+			"description": "<p>A barbarian can fly into a rage a certain number of times per day. In a rage, a barbarian temporarily gains a +4 bonus to Strength, a +4 bonus to Constitution, and a +2 morale bonus on Will saves, but he takes a -2 penalty to Armor Class. The increase in Constitution increases the barbarian&rsquo;s hit points by 2 points per level, but these hit points go away at the end of the rage when his Constitution score drops back to normal. (These extra hit points are not lost first the way temporary hit points are.) While raging, a barbarian cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except for Balance, Escape Artist, Intimidate, and Ride), the Concentration skill, or any abilities that require patience or concentration, nor can he cast spells or activate magic items that require a command word, a spell trigger (such as a wand), or spell completion (such as a scroll) to function. He can use any feat he has except Combat Expertise, item creation feats, and metamagic feats. A fit of rage lasts for a number of rounds equal to 3 + the character&rsquo;s (newly improved) Constitution modifier.</p>\n<p>&nbsp;</p>\n<p><strong>Usage: </strong>Set the buff's level to the 1 for Standard Rage, 2 for Greater Rage and 3 for Mghty Rage</p>"
+		},
+		"Fatigue": {
+			"name": "Fatigue",
+			"description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">A fatigued character can neither run nor charge and takes a -2 penalty to Strength and Dexterity. Doing anything that would normally cause fatigue causes the fatigued character to become exhausted. After 8 hours of complete rest, fatigued characters are no longer fatigued.</p>\n<p>&nbsp;</p>"
+		},
+		"Fox's Cunning": {
+			"name": "Fox's Cunning",
+			"description": "<p>The subject has a +4 enhancement bonus to Intelligence.</p>"
+		},
+		"Guidance - Attack Bonus": {
+			"name": "Guidance - Attack Bonus",
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">The target of @Compendium[D35E.spells.bFeljW0Ema74SKa1]{Guidance} gets a +1 competence bonus on a single attack roll. It must choose to use the bonus before making the roll to which it applies.</span></p>"
+		},
+		"Guidance - Save Bonus": {
+			"name": "Guidance - Save Bonus",
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">The target of @Compendium[D35E.spells.bFeljW0Ema74SKa1]{Guidance} gets a +1 competence bonus on a single saving throw. It must choose to use the bonus before making the roll to which it applies.</span></p>"
+		},
+		"Guidance - Skill Bonus": {
+			"name": "Guidance - Skill Bonus",
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">The target of @Compendium[D35E.spells.bFeljW0Ema74SKa1]{Guidance}&nbsp;gets a +1 competence bonus on a single skill check. It must choose to use the bonus before making the roll to which it applies.</span></p>"
+		},
+		"Haste": {
+			"name": "Haste",
+			"description": "<p>When making a full attack action, you may make one extra attack with one natural or manufactured weapon at your highest base attack bonus. This effect is not cumulative with similar effects, such as that provided by a&nbsp;speed weapon.</p>\n<p>You also gain a +1 bonus on attack rolls, dodge AC and Reflex saves.</p>\n<p>All your modes of movement (including land, fly, burrow, climb and swim) increase by 30ft, to a maximum of twice your normal speed using that form of movement.&nbsp;This increase counts as an enhancement bonus, and it affects the creature&rsquo;s jumping distance as normal for increased speed</p>"
+		},
+		"Heroism": {
+			"name": "Heroism",
+			"description": "<p>You gain a +2 morale bonus on attack rolls, saves, and skill checks.</p>"
+		},
+		"Inertial Armor": {
+			"name": "Inertial Armor",
+			"description": "<p>Your mind generates a tangible field of force that provides a +4 armor bonus to Armor Class. Unlike mundane armor,&nbsp;<em>inertial armor&nbsp;</em>entails no armor check penalty or speed reduction. Because&nbsp;<em>inertial armor&nbsp;</em>is composed of psychokinetic force, incorporeal creatures can&rsquo;t bypass it the way they do normal armor.</p>\n<p>Your&nbsp;<em>inertial armor&nbsp;</em>can be invisible or can appear as a colored glow, at your option.</p>\n<p>The armor bonus provided by&nbsp;<em>inertial armor&nbsp;</em>does not stack with the armor bonus provided by regular armor.</p>"
+		},
+		"Inspire Courage": {
+			"name": "Inspire Courage",
+			"description": "<p>Someone is inspiring you with courage. You gain a morale bonus on saves vs charm and fear effects, and a competence bonus on attack rolls and weapon damage rolls.</p>\n<p><strong>Usage</strong>: Set the buff's level to the bard level of the person using Inspire Courage.</p>"
+		},
+		"Inspire Greatness": {
+			"name": "Inspire Greatness",
+			"description": "<p>A bard of 9th level or higher with 12 or more ranks in a Perform skill can use music or poetics to inspire greatness in himself or a single willing ally within 30 feet, granting him or her extra fighting capability. For every three levels a bard attains beyond 9th, he can target one additional ally with a single use of this ability (two at 12th level, three at 15th, four at 18th). To inspire greatness, a bard must sing and an ally must hear him sing. The effect lasts for as long as the ally hears the bard sing and for 5 rounds thereafter. A creature inspired with greatness gains 2 bonus Hit Dice (d10s), the commensurate number of temporary hit points (apply the target’s Constitution modifier, if any, to these bonus Hit Dice), a +2 competence bonus on attack rolls, and a +1 competence bonus on Fortitude saves. The bonus Hit Dice count as regular Hit Dice for determining the effect of spells that are Hit Dice dependant. Inspire greatness is a mind-affecting ability.</p>"
+		},
+		"Inspire Heroics": {
+			"name": "Inspire Heroics",
+			"description": "<p>A bard of 15th level or higher with 18 or more ranks in a Perform skill can use music or poetics to inspire tremendous heroism in himself or a single willing ally within 30 feet. For every three bard levels the character attains beyond 15th, he can inspire heroics in one additional creature. To inspire heroics, a bard must sing and an ally must hear the bard sing for a full round. A creature so inspired gains a +4 morale bonus on saving throws and a +4 dodge bonus to AC. The effect lasts for as long as the ally hears the bard sing and for up to 5 rounds thereafter. Inspire heroics is a mind-affecting ability.</p>"
+		},
+		"Lullaby": {
+			"name": "Lullaby",
+			"description": "<p>&ndash;5 penalty on Listen and Spot checks and a &ndash;2 penalty on Will saves against&nbsp;<em>sleep&nbsp;</em>effects while the @Compendium[D35E.spells.frCME2IswsJC6aIz]{Lullaby} is in effect.</p>\n<p><em>Note: Duration is Concentration + 1 so the buff must be deleted by the GM.</em></p>"
+		},
+		"Mage Armor": {
+			"name": "Mage Armor",
+			"description": "<p>An invisible but tangible field of force surrounds you, providing a +4 armor bonus to AC.</p>\n<p>Since&nbsp;mage armor&nbsp;is made of force,&nbsp;incorporeal&nbsp;creatures can&rsquo;t bypass it the way they do normal armor.</p>"
+		},
+		"Outburst": {
+			"name": "Outburst",
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Once per day, for up to 4 rounds, a maenad can subjugate her mentality to gain a boost of raw physical power. When she does so, she takes a &ndash;2 penalty to Intelligence and Wisdom but gains a +2 bonus to Strength.</span></p>"
+		},
+		"Owl's Wisdom": {
+			"name": "Owl's Wisdom",
+			"description": "<p>The subject has a +4 enhancement bonus to Wisdom.</p>"
+		},
+		"Prayer (Negative)": {
+			"name": "Prayer (Negative)",
+			"description": "<p>You have a +1 luck bonus on attack rolls, weapon damage rolls, saves and skill checks.</p>"
+		},
+		"Prayer (Positive)": {
+			"name": "Prayer (Positive)",
+			"description": "<p>You have a +1 luck bonus on attack rolls, weapon damage rolls, saves and skill checks.</p>"
+		},
+		"Resistance": {
+			"name": "Resistance",
+			"description": "<p>The subject of @Compendium[D35E.spells.vA9VfsvGG4UxZHaV]{Resistance} gains <span style=\"color: #191813; font-size: 13px;\">+1 resistance bonus on saves.</span></p>"
+		},
+		"Shield": {
+			"name": "Shield",
+			"description": "<p>An invisible shield of force hovers in front of you, with the following effects:</p>\n<ul>\n<li>+4 Shield Bonus to AC</li>\n<li>Negates Magic Missile attacks direct at you</li>\n</ul>\n<p>These bonuses apply to incorporeal touch attacks.</p>"
+		},
+		"Shield of Faith": {
+			"name": "Shield of Faith",
+			"description": "<p>You have a deflection bonus to AC.</p>\n<p><strong>Usage</strong>: Set this buff's level equal to the caster level of Shield of Faith.</p>"
+		},
+		"Slow": {
+			"name": "Slow",
+			"description": "<p>You are&nbsp;staggered, and you have a -1 penalty to attack rolls, AC and Reflex saves.</p>\n<p>In addition, you move at half speed (round down to the next 5-foot increment).</p>"
+		},
+		"Surging Euhporia": {
+			"name": "Surging Euhporia",
+			"description": ""
+		},
+		"Virtue": {
+			"name": "Virtue",
+			"description": "<p>The subject of @Compendium[D35E.spells.v2F30N4k7lzfu1jO]{Virtue} gains 1 temporary hit point.</p>"
+		}
+	}
+}
