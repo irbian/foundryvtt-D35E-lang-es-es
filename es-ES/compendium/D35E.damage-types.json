@@ -1,0 +1,89 @@
+{
+	"label": "Damage Types",
+	"entries": {
+		"Acid": {
+			"name": "Ácido",
+			"description": ""
+		},
+		"Bludgeoning": {
+			"name": "Bludgeoning",
+			"description": ""
+		},
+		"Cold": {
+			"name": "Cold",
+			"description": ""
+		},
+		"Divine": {
+			"name": "Divine",
+			"description": ""
+		},
+		"Electricity": {
+			"name": "Electricity",
+			"description": ""
+		},
+		"Fire": {
+			"name": "Fire",
+			"description": ""
+		},
+		"Force": {
+			"name": "Force",
+			"description": ""
+		},
+		"Healing": {
+			"name": "Healing",
+			"description": "<p>This damage type will allways apply healing.</p>"
+		},
+		"Negative Energy": {
+			"name": "Negative Energy",
+			"description": ""
+		},
+		"Non-lethal": {
+			"name": "Non-lethal",
+			"description": "<p>This damage type always results in non-lethal damage applied to a creature.</p>"
+		},
+		"Piercing": {
+			"name": "Piercing",
+			"description": ""
+		},
+		"Piercing or Bludgeoning": {
+			"name": "Piercing or Bludgeoning",
+			"description": ""
+		},
+		"Piercing or Slashing": {
+			"name": "Piercing or Slashing",
+			"description": ""
+		},
+		"Piercing, Bludgeoning and Slashing": {
+			"name": "Piercing, Bludgeoning and Slashing",
+			"description": ""
+		},
+		"Positive Energy": {
+			"name": "Positive Energy",
+			"description": ""
+		},
+		"Precision": {
+			"name": "Precision",
+			"description": ""
+		},
+		"Repair": {
+			"name": "Repair",
+			"description": "<p>This damage type heals constructs while doing nothing to other creatures.</p>"
+		},
+		"Slashing": {
+			"name": "Slashing",
+			"description": ""
+		},
+		"Slashing or Bludgeoning": {
+			"name": "Slashing or Bludgeoning",
+			"description": ""
+		},
+		"Sonic": {
+			"name": "Sonic",
+			"description": ""
+		},
+		"Untyped": {
+			"name": "Untyped",
+			"description": ""
+		}
+	}
+}
