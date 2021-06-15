@@ -1,12 +1,12 @@
 {
-	"label": "Bestiary",
+	"label": "Bestiario",
 	"entries": {
 		"Aboleth": {
 			"name": "Aboleth",
 			"description": ""
 		},
 		"Aboleth, Psionic": {
-			"name": "Aboleth, Psionic",
+			"name": "Aboleth, Psiónico",
 			"description": ""
 		},
 		"Abyssal Greater Basilisk": {
