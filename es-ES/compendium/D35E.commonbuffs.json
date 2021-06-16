@@ -20,11 +20,11 @@
 			"description": "<p>You take a -1 penalty on attack rolls and saving throws vs fear effects.</p>"
 		},
 		"Barkskin": {
-			"name": "Barkskin",
+			"name": "Piel robliza",
 			"description": "<p>Your skin is toughened, granting you an enhancement bonus to your natural armor as per the barkskin spell.</p>\n<p><strong>Usage</strong>: Set the buff's level to the caster level of Barkskin.</p>"
 		},
 		"Bear's Endurance": {
-			"name": "Bear's Endurance",
+			"name": "Resistencia de oso",
 			"description": "<p>The subject has a +4 enhancement bonus to Constitution.</p>"
 		},
 		"Bless": {
@@ -32,7 +32,7 @@
 			"description": "<p>You have a +1 morale bonus to attack rolls and saves against fear effects.</p>"
 		},
 		"Bull's Strength": {
-			"name": "Bull's Strength",
+			"name": "Fuerza de toro",
 			"description": "<p>The subject has a +4 enhancement bonus to Strength.</p>"
 		},
 		"Burst": {
@@ -40,7 +40,7 @@
 			"description": "<p>Increase your speed by 10 feet, plus 10 feet per four character levels beyond 1st, to a maximum increase of 30 feet at 9th character level and higher. These bursts of speed are considered a competence bonus to the&nbsp;your base speed. A burst of speed lasts 3 rounds.</p>"
 		},
 		"Cat's Grace": {
-			"name": "Cat's Grace",
+			"name": "Gracia felina",
 			"description": "<p>The subject has a +4 enhancement bonus to Dexterity.</p>"
 		},
 		"Defensive Stance": {
@@ -56,7 +56,7 @@
 			"description": "<p>You have a luck bonus to attack rolls and weapon damage rolls.</p>\n<p><strong>Usage</strong>: Set the buff's level equal to the caster level Divine Favor.</p>"
 		},
 		"Eagle's Splendor": {
-			"name": "Eagle's Splendor",
+			"name": "Esplendor del águila",
 			"description": "<p>The subject has a +4 enhancement bonus to Charisma.</p>"
 		},
 		"Enraged": {
@@ -68,7 +68,7 @@
 			"description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">A fatigued character can neither run nor charge and takes a -2 penalty to Strength and Dexterity. Doing anything that would normally cause fatigue causes the fatigued character to become exhausted. After 8 hours of complete rest, fatigued characters are no longer fatigued.</p>\n<p>&nbsp;</p>"
 		},
 		"Fox's Cunning": {
-			"name": "Fox's Cunning",
+			"name": "Astucia de zorro",
 			"description": "<p>The subject has a +4 enhancement bonus to Intelligence.</p>"
 		},
 		"Guidance - Attack Bonus": {
@@ -120,7 +120,7 @@
 			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Once per day, for up to 4 rounds, a maenad can subjugate her mentality to gain a boost of raw physical power. When she does so, she takes a &ndash;2 penalty to Intelligence and Wisdom but gains a +2 bonus to Strength.</span></p>"
 		},
 		"Owl's Wisdom": {
-			"name": "Owl's Wisdom",
+			"name": "Sabiduría de búho",
 			"description": "<p>The subject has a +4 enhancement bonus to Wisdom.</p>"
 		},
 		"Prayer (Negative)": {
