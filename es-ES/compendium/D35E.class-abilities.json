@@ -9,7 +9,7 @@
 	"entries": {
 		"Abundant Step": {
 			"name": "Paso abundante",
-			"description": "<p>al alcanzar el 12° nivel, un monje puede deslizarse mágicamente entre espacias como al utilizar el conjuro puerta dimensional una vez al día. Su nivel de lanzador para este efecto es la mitad de su.nivel de monje redondeando a la baja).</p>"
+			"description": "<p>al alcanzar el 12° nivel, un monje puede deslizarse mágicamente entre espacios como al utilizar el conjuro puerta dimensional una vez al día. Su nivel de lanzador para este efecto es la mitad de su nivel de monje redondeando a la baja).</p>"
 		},
 		"Animal Companion": {
 			"name": "Compañero animal",
@@ -24,15 +24,15 @@
 			"description": "<div class=\"spell-description\">\n  <p>\n    <strong>School</strong>&nbsp;miscellaneous;\n    <strong>Level</strong>&nbsp;Sorcerer 7, Wizard 7;\n    \n    \n    \n    \n  </p>\n  <p>\n    \n    \n  </p>\n  <p>\n    \n    \n    \n    \n    \n    \n    \n    <strong>Saving Throw</strong>&nbsp;none;&nbsp;<strong>Spell Resistance</strong>&nbsp;yes<br>\n  </p>\n  <h2>Description</h2>\n  <p>The archmage can use spells with a range of touch on a target up to 30 feet away. The archmage must make a ranged touch attack.&nbsp;Arcane reach can be selected a second time as a special ability, in which case the range increases to 60 feet. This ability costs one 7th-level spell slot.</p>\n</div>\n"
 		},
 		"Armor Proficiency (Heavy)": {
-			"name": "Competencia Con Armadura",
+			"name": "Competencia Con Armadura (pesada) [General]",
 			"description": "<p>When you wear a type of armor with which you are proficient, the armor check penalty for that armor applies only to Balance, Climb, Escape Artist, Hide, Jump, Move Silently, Sleight of Hand, and Tumble checks.</p>"
 		},
 		"Armor Proficiency (Light)": {
-			"name": "Competencia Con Armadura",
+			"name": "Competencia Con Armadura (Ligera)[Geneal]",
 			"description": "<p>When you wear a type of armor with which you are proficient, the armor check penalty for that armor applies only to Balance, Climb, Escape Artist, Hide, Jump, Move Silently, Sleight of Hand, and Tumble checks.</p>"
 		},
 		"Armor Proficiency (Medium)": {
-			"name": "Competencia Con Armadura",
+			"name": "Competencia Con Armadura (Intermedia) [General]",
 			"description": "<p>When you wear a type of armor with which you are proficient, the armor check penalty for that armor applies only to Balance, Climb, Escape Artist, Hide, Jump, Move Silently, Sleight of Hand, and Tumble checks.</p>"
 		},
 		"Arrow of Death": {
