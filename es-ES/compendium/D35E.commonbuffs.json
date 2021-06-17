@@ -9,7 +9,7 @@
 	"entries": {
 		"Aid": {
 			"name": "Auxilio divino",
-			"description": "\n<p>Este conjuro otorga al receptor un +1 de moral a las tiradas de ataque y a las Salvaciones contra miedo. También le\n    otorga 1d8 + NL (máximo 1d8 + 10) puntos de golpe temporales.</p>\n"
+			"description": "\n<p>Este conjuro llena de valor a tus aliados, los cuales obtienen un +1 de moral en sus tiradas de ataque y en sus TS\n    contra efectos de miedo. <i>Bendecir</i>contrarresta y disipa el conjuro <i>Perdición.</i></p>\n"
 		},
 		"Augmented Summon": {
 			"name": "Augmented Summon",
@@ -29,7 +29,7 @@
 		},
 		"Bless": {
 			"name": "Bendecir",
-			"description": "\n<p>Este conjuro llena de valor a tus aliados, los cuales obtienen un +1 de moral en sus tiradas de ataque y en sus TS\n    contra efectos de miedo. <i>Bendecir</i>contrarresta y disipa el conjuro <i>Perdición.</i></p>\n"
+			"description": "\n<p>Este conjuro otorga al receptor un +1 de moral a las tiradas de ataque y a las Salvaciones contra miedo. También le\n    otorga 1d8 + NL (máximo 1d8 + 10) puntos de golpe temporales.</p>\n"
 		},
 		"Bull's Strength": {
 			"name": "Fuerza de toro",
