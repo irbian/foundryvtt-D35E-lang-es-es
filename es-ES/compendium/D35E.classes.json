@@ -1,5 +1,5 @@
 {
-	"label": "Classes",
+	"label": "Clases",
 	"mapping": {
 		"name": {
 			"path": "name",
@@ -8,7 +8,7 @@
 	},
 	"entries": {
 		"Adept (NPC)": {
-			"name": "Adept (NPC)",
+			"name": "Adepto (PNJ)",
 			"description": "<p class=\"p1\"><strong>Dado de Golpe:</strong> d6.</p>\n<h2 class=\"p1\">Habilidades cláseas</h2>\n<p class=\"p1\">Las habilidades cláseas del adepto (y la característica clave para cada una de ellas) son Concentración (Con), Artesanía (Int), Trato con animales (Car), Sanar (Sab), Saber (todos) (Int), Oficio (Sab), Conocimiento de conjuros (Int), y Supervivencia (Sab).<span class=\"Apple-converted-space\">&nbsp;</span></p>\n<p class=\"p1\"><strong>Puntos de habilidad a nivel 1:</strong> (2 + el modificador de Inteligencia) x4.</p>\n<p class=\"p1\"><strong>Puntos de habilidad cada nivel adicional al primero:</strong> 2 + el modificador de Inteligencia.</p>"
 		},
 		"Arcane Archer": {
