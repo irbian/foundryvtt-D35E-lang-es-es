@@ -2,7 +2,7 @@
 	"label": "Damage Types",
 	"entries": {
 		"Acid": {
-			"name": "Ácido",
+			"name": "Acid",
 			"description": ""
 		},
 		"Bludgeoning": {
