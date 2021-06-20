@@ -1,17 +1,17 @@
 {
-	"label": "Conditions",
+	"label": "Condiciones",
 	"entries": {
 		"Ability Damaged": {
-			"name": "Ability Damaged",
-			"description": "<p>The character has temporarily lost 1 or more ability score points. Lost points return at a rate of 1 per day unless noted otherwise by the condition dealing the damage. A character with Strength 0 falls to the ground and is helpless. A character with Dexterity 0 is paralyzed. A character with Constitution 0 is dead. A character with Intelligence, Wisdom, or Charisma 0 is unconscious. Ability damage is different from penalties to ability scores, which go away when the conditions causing them go away.</p>"
+			"name": "Daño de Habilidad",
+			"description": "<p>El personaje ha perdido temporalmente 1 ó más puntos de puntuación de habilidad. Los puntos perdidos regresan a una tasa de 1 por día a menos que la condición que ocasione el daño indique lo contrario. Un personaje con Fuerza 0 cae al suelo y queda indefenso. Un personaje con Destreza 0 queda paralizado. Un personaje con Constitución 0 está muerto. Un personaje con Inteligencia, Sabiduría o Carisma 0 está inconsciente. El daño de habilidad es diferente de las penalizaciones a las puntuaciones de habilidad, que desaparecen cuando las condiciones que las causan desaparecen.</p>"
 		},
 		"Ability Drained": {
-			"name": "Ability Drained",
-			"description": "<p>The character has permanently lost 1 or more ability score points. The character can regain drained points only through magical means. A character with Strength 0 falls to the ground and is helpless. A character with Dexterity 0 is paralyzed. A character with Constitution 0 is dead. A character with Intelligence, Wisdom, or Charisma 0 is unconscious.</p>\n<p>&nbsp;</p>"
+			"name": "Habilidad drenada",
+			"description": "<p>El personaje ha perdido de forma permanente 1 ó más puntos de puntuación de habilidad. El personaje puede recuperar puntos drenados solo a través de medios mágicos. Un personaje con Fuerza 0 cae al suelo y queda indefenso. Un personaje con Destreza 0 queda paralizado. Un personaje con Constitución 0 está muerto. Un personaje con Inteligencia, Sabiduría o Carisma 0 está inconsciente.</p>\n<p>&nbsp;</p>"
 		},
 		"Blinded": {
-			"name": "Blinded",
-			"description": "<p>The character cannot see. He takes a -2 penalty to Armor Class, loses his Dexterity bonus to AC (if any), moves at half speed, and takes a -4 penalty on Search checks and on most Strength- and Dexterity-based skill checks. All checks and activities that rely on vision (such as reading and Spot checks) automatically fail. All opponents are considered to have total concealment (50% miss chance) to the blinded character. Characters who remain blinded for a long time grow accustomed to these drawbacks and can overcome some of them.</p>\n<p>&nbsp;</p>"
+			"name": "Cegado",
+			"description": "<p>El personaje no puede ver. Tiene un penalizador de -2 a la Clase de Armadura, pierde su bonificador de Destreza a la CA (si lo hay), se mueve a la mitad de velocidad y sufre un penalizador de -4 en las pruebas de Búsqueda y en la mayoría de las pruebas de habilidad basadas en Fuerza y Destreza. Todas las comprobaciones y actividades que dependen de la visión (como la lectura y las comprobaciones puntuales) fallan automáticamente. Se considera que todos los oponentes tienen un ocultamiento total (50% de probabilidad de fallar) al personaje cegado. Los personajes que permanecen ciegos durante mucho tiempo se acostumbran a estos inconvenientes y pueden superar algunos de ellos.</p>\n<p>&nbsp;</p>"
 		},
 		"Blown Away": {
 			"name": "Blown Away",

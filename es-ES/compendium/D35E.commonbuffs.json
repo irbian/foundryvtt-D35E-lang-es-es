@@ -1,5 +1,5 @@
 {
-	"label": "Common Buffs",
+	"label": "Potenciadores comunes (Common Buffs)",
 	"mapping": {
 		"name": {
 			"path": "nombre",
@@ -9,7 +9,7 @@
 	"entries": {
 		"Aid": {
 			"name": "Auxilio divino",
-			"description": "<p>You have a +1 morale bonus to attack rolls and saves against fear effects.</p>"
+			"description": "\n<p>Este conjuro llena de valor a tus aliados, los cuales obtienen un +1 de moral en sus tiradas de ataque y en sus TS\n    contra efectos de miedo. <i>Bendecir</i>contrarresta y disipa el conjuro <i>Perdición.</i></p>\n"
 		},
 		"Augmented Summon": {
 			"name": "Augmented Summon",
@@ -17,23 +17,23 @@
 		},
 		"Bane": {
 			"name": "Perdición",
-			"description": "<p>You take a -1 penalty on attack rolls and saving throws vs fear effects.</p>"
+			"description": "\n<p>Este conjuro infunde el miedo y la duda en tus enemigos, que sufrirán un penalizador de -1 de moral tanto en las\n    tiradas de ataque como en las TS contra efectos de miedo.</p>\n<p><i>Perdición</i> contrarresta y disipa <i>Bendecir.</i></p>\n"
 		},
 		"Barkskin": {
 			"name": "Piel robliza",
-			"description": "<p>Your skin is toughened, granting you an enhancement bonus to your natural armor as per the barkskin spell.</p>\n<p><strong>Usage</strong>: Set the buff's level to the caster level of Barkskin.</p>"
+			"description": "\n<p>Este conjuro endurece la piel de una criatura. El efecto concede un bono de mejora de +2 a su armadura natural. Este\n    bono aumenta en +1 por cada 3 NL que poseas por encima del 3º, hasta un máximo de +5 con NL 12.</p>\n<p>El bono obtenido por este conjuro se apila con el bono por armadura natural del objetivo, pero no con otros bonos de\n    mejora a la armadura natural.</p>\n"
 		},
 		"Bear's Endurance": {
 			"name": "Resistencia de oso",
-			"description": "<p>The subject has a +4 enhancement bonus to Constitution.</p>"
+			"description": "\n<p>La criatura afectada obtiene mayor vitalidad y resistencia física. El conjuro concede al receptor un bonificador de\n    +4 de mejora a la CON, que añadirá a los beneficios usuales en forma de puntos de golpe, TS de Fortaleza, etc.</p>\n<p>Los pg obtenidos por un incremento temporal de la puntuación de CON no son puntos de golpe temporales, sino que\n    desaparecerán tan pronto como la CON del personaje vuelve a su nivel normal; además, tampoco son los primeros en\n    desaparecer, como sucede con los pg temporales.</p>\n"
 		},
 		"Bless": {
 			"name": "Bendecir",
-			"description": "<p>You have a +1 morale bonus to attack rolls and saves against fear effects.</p>"
+			"description": "\n<p>Este conjuro otorga al receptor un +1 de moral a las tiradas de ataque y a las Salvaciones contra miedo. También le\n    otorga 1d8 + NL (máximo 1d8 + 10) puntos de golpe temporales.</p>\n"
 		},
 		"Bull's Strength": {
 			"name": "Fuerza de toro",
-			"description": "<p>The subject has a +4 enhancement bonus to Strength.</p>"
+			"description": "\n<p>El receptor del conjuro se vuelve más fuerte, obteniendo un bono de mejora de +4 a su puntuación de Fuerza. Este bono\n    modifica los beneficios actuales en las tiradas de ataque y daño, además de incrementar la capacidad de carga.</p>\n<p><i>Componente material arcano:</i> Unos cuantos cabellos o una pizca de estiércol de toro.</p>\n"
 		},
 		"Burst": {
 			"name": "Burst",
@@ -41,7 +41,7 @@
 		},
 		"Cat's Grace": {
 			"name": "Gracia felina",
-			"description": "<p>The subject has a +4 enhancement bonus to Dexterity.</p>"
+			"description": "\n<p>La criatura objetivo adquiere una mayor gracia, agilidad y coordinación. Este conjuro otorga un bono de mejora de +4\n    a la puntuación de Destreza de la criatura. Esto modifica la CA, TS de Reflejos y cualquier otra cuestión\n    relacionada con la DES.</p>\n<p><i>Componente material:</i> Un poco de pelo de gato</p>\n"
 		},
 		"Defensive Stance": {
 			"name": "Defensive Stance",
@@ -53,11 +53,11 @@
 		},
 		"Divine Favor": {
 			"name": "Favor divino",
-			"description": "<p>You have a luck bonus to attack rolls and weapon damage rolls.</p>\n<p><strong>Usage</strong>: Set the buff's level equal to the caster level Divine Favor.</p>"
+			"description": "\n<p>Invocas cierta parte de la energía divina de tu dios. Esta energía te confiere un bono de suerte de +1 en las tiradas\n    de ataque y daño con armas / 3 NL (máximo +6). Este bono no se aplica al daño de los conjuros.</p>\n"
 		},
 		"Eagle's Splendor": {
 			"name": "Esplendor del águila",
-			"description": "<p>The subject has a +4 enhancement bonus to Charisma.</p>"
+			"description": "\n<p>La criatura afectada por este conjuro ve como su elocuencia, su magnetismo y su personalidad se vuelven más firmes.\n    Obtiene un bono de mejora de +4 a su puntuación de CAR. Todas las habilidades y aptitudes dependientes de la CAR se\n    beneficiaran de este aumento. Sin embargo, no obtendrá conjuros adicionales de una clase que dependa de la CAR por\n    tener una CAR alta, aunque la CD de los conjuros sí que aumentara.</p>\n"
 		},
 		"Enraged": {
 			"name": "Enraged",
@@ -69,7 +69,7 @@
 		},
 		"Fox's Cunning": {
 			"name": "Astucia de zorro",
-			"description": "<p>The subject has a +4 enhancement bonus to Intelligence.</p>"
+			"description": "\n<p>Este conjuro otorga a la criatura un bono de mejora de +4 a su Inteligencia.</p>\n<p>Los magos (y personajes de cualquier otra clase lanzadora de conjuros que use Inteligencia como característica\n    principal) no obtienen conjuros adicionales por tener más Inteligencia, pero si ve aumentadas las CDs de sus\n    conjuros. Este conjuro tampoco otorga puntos de habilidad adicionales.</p>\n<p><i>Componente material arcano:</i> Unos cuantos pelos o una pizca de heces de un zorro.</p>\n"
 		},
 		"Guidance - Attack Bonus": {
 			"name": "Guidance - Attack Bonus",
@@ -85,11 +85,11 @@
 		},
 		"Haste": {
 			"name": "Acelerar",
-			"description": "<p>When making a full attack action, you may make one extra attack with one natural or manufactured weapon at your highest base attack bonus. This effect is not cumulative with similar effects, such as that provided by a&nbsp;speed weapon.</p>\n<p>You also gain a +1 bonus on attack rolls, dodge AC and Reflex saves.</p>\n<p>All your modes of movement (including land, fly, burrow, climb and swim) increase by 30ft, to a maximum of twice your normal speed using that form of movement.&nbsp;This increase counts as an enhancement bonus, and it affects the creature&rsquo;s jumping distance as normal for increased speed</p>"
+			"description": "\n<p>La criatura objetivo puede realizar un ataque adicional cuando realiza una acción de ataque completo. Este ataque se\n    realizara con cualquier forma de ataque disponible para la criatura y con su AB más alto. Este efecto no es\n    acumulativo con cualquier otro efecto mágico que proporcione ataques adicionales.</p>\n<p>La criatura además obtiene un +1 a las tiradas de ataque y un +1 de esquiva a su CA y a las TS de Reflejos.</p>\n<p>Todas las puntuaciones de velocidad de la criatura aumentan en 30’ hasta un máximo del doble de su velocidad normal.\n    Varios usos de este conjuro no se apilan. <i>Acelerar</i>contrarresta y disipa <i>Ralentizar</i>.</p>\n<p><i>Componente Material:</i> Una viruta de raíz de regaliz.</p>\n"
 		},
 		"Heroism": {
 			"name": "Heroísmo",
-			"description": "<p>You gain a +2 morale bonus on attack rolls, saves, and skill checks.</p>"
+			"description": "\n<p>Este conjuro imbuye con un gran valor y ansias de batalla al receptor, otorgándole un bono de +2 de moral en sus\n    tiradas de ataque, TS y pruebas de habilidad.</p>\n"
 		},
 		"Inertial Armor": {
 			"name": "Inertial Armor",
@@ -109,11 +109,11 @@
 		},
 		"Lullaby": {
 			"name": "Nana",
-			"description": "<p>&ndash;5 penalty on Listen and Spot checks and a &ndash;2 penalty on Will saves against&nbsp;<em>sleep&nbsp;</em>effects while the @Compendium[D35E.spells.frCME2IswsJC6aIz]{Lullaby} is in effect.</p>\n<p><em>Note: Duration is Concentration + 1 so the buff must be deleted by the GM.</em></p>"
+			"description": "\n<p>Cualquier criatura dentro del área que falle una TS de VOL se vuelve somnolienta y poco atenta, sufriendo un\n    penalizador de -5 en las pruebas de Avistar y Escuchar y un penalizador de -2 en las TS de VOL contra <i>Dormir</i>\n    y otros efectos que causen el sueño mientras la <i>Nana</i>este en efecto.</p>\n"
 		},
 		"Mage Armor": {
 			"name": "Armadura de mago",
-			"description": "<p>An invisible but tangible field of force surrounds you, providing a +4 armor bonus to AC.</p>\n<p>Since&nbsp;mage armor&nbsp;is made of force,&nbsp;incorporeal&nbsp;creatures can&rsquo;t bypass it the way they do normal armor.</p>"
+			"description": "\n<p>Un campo de fuerza invisible pero tangible rodea al receptor del conjuro, concediéndole un bono de armadura a la CA\n    de +4. Este campo de fuerza no interfiere con los movimientos del lanzador, por lo que no tiene penalizador a su\n    Destreza ni porcentaje de fallo de conjuros ni reduce su velocidad.</p>\n<p>Al estar hecha de fuerza, las criaturas incorporales no pueden atravesar la <i>Armadura de mago</i> como hacen con\n    las armaduras normales.</p>\n<p><i>Foco:</i> Un fragmento de cuero curado.</p>\n"
 		},
 		"Outburst": {
 			"name": "Outburst",
@@ -121,7 +121,7 @@
 		},
 		"Owl's Wisdom": {
 			"name": "Sabiduría de búho",
-			"description": "<p>The subject has a +4 enhancement bonus to Wisdom.</p>"
+			"description": "\n<p>La criatura transmutada por este conjuro se vuelve más sabia. El conjuro otorga un bono de mejora de +4 a su SAB,\n    proporcionando los beneficios habituales a las habilidades relacionadas con la SAB. Los clérigos, druidas,\n    exploradores y Paladines (y cualquier otro lanzador de conjuros basado en SAB) que reciban este conjuro no obtienen\n    conjuros adicionales por el aumento del atributo, pero si ven aumentada la CD de sus conjuros.</p>\n<p><i>Componente material arcano:</i> Unas cuantas plumas o una pizca de heces de un búho.</p>\n"
 		},
 		"Prayer (Negative)": {
 			"name": "Prayer (Negative)",
@@ -133,19 +133,19 @@
 		},
 		"Resistance": {
 			"name": "Resistencia",
-			"description": "<p>The subject of @Compendium[D35E.spells.vA9VfsvGG4UxZHaV]{Resistance} gains <span style=\"color: #191813; font-size: 13px;\">+1 resistance bonus on saves.</span></p>"
+			"description": "\n<p>Infundes al receptor con energía mágica que lo protegerá contra el daño, otorgándole un bono de +1 por resistencia a\n    las TS.</p>\n<p><i>Resistencia</i>puede ser hecho permanente con un conjuro de <i>Permanencia.</i></p>\n<p><i>Componente material arcano</i>: Una capa en miniatura.</p>\n"
 		},
 		"Shield": {
 			"name": "Escudo",
-			"description": "<p>An invisible shield of force hovers in front of you, with the following effects:</p>\n<ul>\n<li>+4 Shield Bonus to AC</li>\n<li>Negates Magic Missile attacks direct at you</li>\n</ul>\n<p>These bonuses apply to incorporeal touch attacks.</p>"
+			"description": "\n<p>Este conjuro crea un disco de fuerza móvil e invisible, del tamaño de un escudo pavés, que siempre está delante de\n    ti. El escudo te concede un bono por escudo a la CA de +4, que se aplica incluso contra ataques incorporales, ya que\n    el escudo está hecho de fuerza. También bloqueara todo <i>Proyectil mágico</i> dirigido contra ti. El escudo no\n    tiene ningún penalizador por armadura ni posibilidad de fallo de lanzamiento de conjuros. Sin embargo, a diferencia\n    de un escudo normal, no puedes usarlo para conseguir cobertura.</p>\n"
 		},
 		"Shield of Faith": {
 			"name": "Escudo de la fe",
-			"description": "<p>You have a deflection bonus to AC.</p>\n<p><strong>Usage</strong>: Set this buff's level equal to the caster level of Shield of Faith.</p>"
+			"description": "\n<p>Este conjuro crea en torno a la criatura tocada una barrera brillante que le protege de los ataques. El escudo otorga\n    un bono de desvío de +2 a la CA, con un +1 adicional por cada 6 NL que tengas, hasta un máximo de +5 a nivel\n    18.</p>\n<p><i>Componente material:</i> Un pequeño pergamino con un texto sagrado escrito en él.</p>\n"
 		},
 		"Slow": {
 			"name": "Ralentizar",
-			"description": "<p>You are&nbsp;staggered, and you have a -1 penalty to attack rolls, AC and Reflex saves.</p>\n<p>In addition, you move at half speed (round down to the next 5-foot increment).</p>"
+			"description": "\n<p>Las criaturas afectadas se moverán y atacaran a un ritmo drásticamente refrenado. Las criaturas <i>ralentizadas</i>\n    solo podrán llevar a cabo una única acción de movimiento o acción estándar por turno, pero no ambas (ni podrán\n    realizar acciones de asalto completo). Además, sufrirán un penalizador de -1 a la CA, a las tiradas de ataque y a\n    las TS de Reflejos. Una criatura <i>ralentizada</i> se mueve a la mitad de su velocidad normal (redondeando hacia\n    abajo al incremento de 5’ más próximo), lo cual afecta a su distancia de salto, como sucede con cualquier reducción\n    de la velocidad.</p>\n<p>Varios efectos de <i>ralentizar</i> no se apilan. <i>Ralentizar</i> contrarresta y disipa el conjuro\n    <i>acelerar</i>.</p>\n<p><i>Componente material</i>: Una gota de melaza.</p>\n"
 		},
 		"Surging Euhporia": {
 			"name": "Surging Euhporia",
@@ -153,7 +153,7 @@
 		},
 		"Virtue": {
 			"name": "Virtud",
-			"description": "<p>The subject of @Compendium[D35E.spells.v2F30N4k7lzfu1jO]{Virtue} gains 1 temporary hit point.</p>"
+			"description": "\n<p>El receptor obtiene 1 punto de golpe temporal.</p>\n"
 		}
 	}
 }
