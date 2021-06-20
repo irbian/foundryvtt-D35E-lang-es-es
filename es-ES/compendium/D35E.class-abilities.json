@@ -9,7 +9,7 @@
 	"entries": {
 		"Abundant Step": {
 			"name": "Paso abundante",
-			"description": "<p>al alcanzar el 12° nivel, un monje puede deslizarse mágicamente entre espacios como al utilizar el conjuro puerta dimensional una vez al día. Su nivel de lanzador para este efecto es la mitad de su nivel de monje redondeando a la baja).</p>"
+			"description": "<p>al alcanzar el 12° nivel, un monje puede deslizarse mágicamente entre espacios como al utilizar el conjuro puerta dimensional una vez al día. Su nivel de lanzador para este efecto es la mitad de su nivel de monje (redondeando a la baja).</p>"
 		},
 		"Animal Companion": {
 			"name": "Compañero animal",
@@ -24,11 +24,11 @@
 			"description": "<div class=\"spell-description\">\n  <p>\n    <strong>Escuela:</strong>&nbsp;Miscelánea;\n    <strong>Nivel:</strong>&nbsp;Hechicero 7, Mago 7;\n    \n    \n    \n    \n  </p>\n  <p>\n    \n    \n  </p>\n  <p>\n    \n    \n    \n    \n    \n    \n    \n    <strong>Tirada de salvación:</strong>&nbsp;No;&nbsp;<strong>Resistencia a conjuros:</strong>&nbsp;Sí<br>\n  </p>\n  <h2>Descripción:</h2>\n  <p>El archimago puede usar conjuros con alcance de toque sobre objetivos situados a un máximo de 30' de distancia. El personaje ha de realizar un ataque de toque a distancia. Se puede seleccionar por segunda vez alcance arcano como aptitud especial, en cuyo caso, el alcance se incrementará hasta 60'. Esta aptitud cuesta un espacio de conjuros de nivel 7.</p>\n</div>\n"
 		},
 		"Armor Proficiency (Heavy)": {
-			"name": "Competencia Con Armadura (pesada) [General]",
+			"name": "Competencia con Armadura (pesada)",
 			"description": "<p>Cuando llevas puesta una armadura en cuyo tipo tienes competencia, el penalizador de armadura se aplica solamente a las pruebas de Equilibrio, Escapismo, Esconderse, Juego de manos, Moverse sigilosamente, Piruetas, Saltar y Trepar.</p>"
 		},
 		"Armor Proficiency (Light)": {
-			"name": "Competencia Con Armadura (Ligera)[Geneal]",
+			"name": "Competencia con Armadura (Ligera)",
 			"description": "<p>Cuando llevas puesta una armadura en cuyo tipo tienes competencia, el penalizador de armadura se aplica solamente a las pruebas de Equilibrio, Escapismo, Esconderse, Juego de manos, Moverse sigilosamente, Piruetas, Saltar y Trepar.</p>"
 		},
 		"Armor Proficiency (Medium)": {
