@@ -281,51 +281,51 @@
 		},
 		"Mind Blade (Bastard Sword, Melee)": {
 			"name": "Cuchilla mental (Espada bastarda)",
-			"description": "<p>This is a&nbsp;&nbsp;semisolid blade composed of psychic energy distilled from Soulknife mind. It functions as a bastard sword.</p>\n<p>This attack has Weapon Focus and Greater Weapon Focus (if Soulknife is at level 8+) applied.&nbsp;</p>"
+			"description": "<p>El cuchillo del alma puede dar forma a la energía psíquica para que su cuchilla mental funcione a todos los efectos como una espada bastarda. Por lo demás se aplican todas las características de la cuchilla mental, salvo en que su forma es distinta.</p>"
 		},
 		"Mind Blade (Longsword, Melee)": {
-			"name": "Mind Blade (Longsword, Melee)",
-			"description": "<p>This is a&nbsp;&nbsp;semisolid blade composed of psychic energy distilled from Soulknife mind. It functions as a short sword.</p>\n<p>This attack has Weapon Focus and Greater Weapon Focus (if Soulknife is at level 8+) applied.&nbsp;</p>"
+			"name": "Cuchilla mental (Espada larga)",
+			"description": "<p>El cuchillo del alma puede dar forma a la energía psíquica para que su cuchilla mental funcione a todos los efectos como una espada larga. Por lo demás se aplican todas las características de la cuchilla mental, salvo en que su forma es distinta.</p>"
 		},
 		"Mind Blade (Sword, Melee)": {
-			"name": "Mind Blade (Sword, Melee)",
-			"description": "<p>This is a&nbsp;&nbsp;semisolid blade composed of psychic energy distilled from Soulknife mind. It functions as a short sword.</p>\n<p>This attack has Weapon Focus and Greater Weapon Focus (if Soulknife is at level 8+) applied.&nbsp;</p>"
+			"name": "Cuchilla mental (Espada corta)",
+			"description": "<p>El cuchillo del alma puede dar forma a la energía psíquica para que su cuchilla mental funcione a todos los efectos como una espada corta. Por lo demás se aplican todas las características de la cuchilla mental, salvo en que su forma es la de una espada corta.</p>"
 		},
 		"Multiattack": {
 			"name": "Ataque Múltiple",
 			"description": "<i><p>Esta criatura es particularmente hábil haciendo ataques con sus armas naturales. </p></i><h4><b>Prerrequisitos</b></h4><p>Tres o más ataques naturales.</p><h4><b>Beneficio:</b></h4><p>Los ataques secundarios de la criatura con armas naturales sólo tienen un penalizador -2.</p><h4><b>Normal:</b></h4><p>Sin esta dote, los ataques naturales de la criatura tienen un penalizador -5.</p>"
 		},
 		"Nature Sense": {
-			"name": "Nature Sense",
-			"description": "<p>A druid gains a +2 bonus on Knowledge (nature) and Survival checks.</p>"
+			"name": "Sentido de la naturaleza",
+			"description": "<p>El druida obtiene un bono de +2 en las pruebas de Saber (naturaleza) y Supervivencia.</p>"
 		},
 		"Opportunist": {
-			"name": "Opportunist",
-			"description": "<p>Once per round, the rogue can make an attack of opportunity against an opponent who has just been struck for damage in melee by another character. This attack counts as the rogue&rsquo;s attack of opportunity for that round. Even a rogue with the Combat Reflexes feat can&rsquo;t use the opportunist ability more than once per round.</p>"
+			"name": "Oportunismo",
+			"description": "<p>Una vez por asalto, el pícaro puede realizar un ataque de oportunidad contra un oponente al que otro personaje acaba de infligir daño de cuerpo a cuerpo. Este golpe se considerará el ataque de oportunidad del pícaro durante el asalto en curso. Ni siquiera un pícaro con la dote Reflejos de combate podrá utilizar la aptitud de oportunismo más de una vez por asalto.</p>"
 		},
 		"Paladin Mount Spell Resistance": {
-			"name": "Paladin Mount Spell Resistance",
-			"description": "<p>If the master is 15th level or higher, a mount gains spell resistance equal to the master&rsquo;s level + 5. To affect the mount with a spell, another spellcaster must get a result on a caster level check (1d20 + caster level) that equals or exceeds the mount's spell resistance.</p>"
+			"name": "Resistencia a conjuros de la montura especial",
+			"description": "<p>Si el amo es de nivel 15 o superior, la montura obtiene una Resistencia a conjuros igual al nivel del amo +5. Para afectar a la montura con un conjuro, el lanzador debe realizar una prueba de nivel de lanzador (1d20+ nivel del lanzador) que iguale o supere la resistencia a conjuros del animal.</p>"
 		},
 		"Perfect Self": {
-			"name": "Perfect Self",
-			"description": "<p>A monk becomes a magical creature. She is forevermore treated as an outsider rather than as a humanoid (or whatever the monk’s creature type was) for the purpose of spells and magical effects. Additionally, the monk gains damage reduction 10/magic, which allows her to ignore the first 10 points of damage from any attack made by a nonmagical weapon or by any natural attack made by a creature that doesn’t have similar damage reduction. Unlike other outsiders, the monk can still be brought back from the dead as if she were a member of her previous creature type.</p>"
+			"name": "Yo perfecto",
+			"description": "<p>Al alcanzar el nivel 20, el monje habrá armonizado de tal\nmanera su cuerpo con sus habilidad y aptitudes cuasimágicas que se convertirá en una criatura mágica. A partir de entonces, se le considerará un ajeno (una criatura de otros planos) y no un humanoide en lo referente a conjuros y efectos mágicos. Por ejemplo, el conjuro hechizar persona ya no le afecta. Además, el monje gana una reducción del daño de 10/magia. A diferencia de otros ajenos, el monje si puede ser devuelto de entre los muertos como si fuese un miembro de su anterior tipo de criatura.</p>"
 		},
 		"Phase Arrow": {
-			"name": "Phase Arrow",
-			"description": "<p>At 6th level, an arcane archer can launch an arrow once per day at a target known to her within range, and the arrow travels to the target in a straight path, passing through any nonmagical barrier or wall in its way. (Any magical barrier stops the arrow.) This ability negates cover, concealment, and even armor modifiers, but otherwise the attack is rolled normally.</p>\n<p>Using this ability is a standard action (and shooting the arrow is part of the action).</p>"
+			"name": "Flecha de fase",
+			"description": "<p>A nivel 6, un arquero arcano puede lanzar, una vez al día, una flecha contra un objetivo cuya presencia conozca, y que se encuentre dentro del alcance, haciendo que ésta vuele en línea recta hacia él, pasando a través de cualquier barrera o muro no mágicos que haya en su trayectoria (cualquier barrera mágica detendrá la flecha). Esta aptitud niega los modificadores por cobertura, ocultación e incluso los de armadura, pero, salvo eso, el ataque se realiza de la forma habitual.</p>\n<p>Para emplear esta aptitud hace falta una acción estándar (disparar la flecha forma parte de la acción)</p>"
 		},
 		"Poison Use": {
-			"name": "Poison Use",
-			"description": "<p>Assassins are trained in the use of poison and never risk accidentally poisoning themselves when applying poison to a blade.</p>"
+			"name": "Empleo de venenos",
+			"description": "<p>Los asesinos están entrenados en el uso de venenos y nunca corren el riesgo de envenenarse accidentalmente cuando lo aplican a sus armas.</p>"
 		},
 		"Psicrystal Power Resistance": {
-			"name": "Psicrystal Power Resistance",
-			"description": "<p>If the owner is 11th level or higher, the psicrystal gains power resistance equal to the owner&rsquo;s level + 5. To affect the psicrystal with a power, another manifester must get a result on a manifester level check that equals or exceeds the psicrystal&rsquo;s power resistance.</p>"
+			"name": "Resistencia al poder",
+			"description": "<p>Si el dueño es de nivel 11 o superior, el psicocristal obtiene una RP igual al nivel del propietario +5. Para afectar al psicocristal con un poder, otro manifestador debe obtener en una prueba de nivel de manifestador un resultado que iguale o supere su resistencia al poder.</p>"
 		},
 		"Psychic Strike": {
-			"name": "Psychic Strike",
-			"description": "<p>As a move action, a soulknife of 3rd level or higher can imbue his mind blade with destructive psychic energy. This effect deals an extra 1d8 points of damage to the next living, nonmindless target he successfully hits with a melee attack (or ranged attack, if he is using the throw mind blade ability). Creatures immune to mind-affecting effects are immune to psychic strike damage. (Unlike the rogue’s sneak attack, the psychic strike is not precision damage and can affect creatures otherwise immune to extra damage from critical hits or more than 30 feet away, provided they are living, nonmindless creatures not immune to mind-affecting effects.)</p>"
+			"name": "Impacto psíquico",
+			"description": "<p>Como acción de movimiento, un cuchillo del alma de nivel 3 o superior puede imbuir su cuchilla mental con energía psíquica destructiva. Este efecto hace que el siguiente ataque con la cuchilla mental imbuida cause 1d8 puntos de daño adicionales, siempre que el objetivo del ataque esté vivo, no tenga la cualidad \"Sin mente\" y no sea inmune a efectos enajenadores. Este daño adicional no se considera daño de precisión, por lo que afecta normalmente a las criaturas inmunes al daño extra por golpes críticos. \nUna cuchilla mental inflige este daño adicional sólo una vez en el momento en que esta aptitud es invocada, aunque el cuchillo del alma puede imbuir de nuevo su cuchilla mental con energía psíquica en su siguiente acción de movimiento.\nUna vez que un cuchillo del alma haya preparado su cuchilla mental para realizar un impacto psíquico, retendrá la energía extra hasta que ésta sea liberada. Incluso si el portador deja caer la cuchilla (o ésta se disipa de alguna otra manera, como al arrojarse y no impactar), seguirá estando imbuida de energía psíquica la siguiente vez que la materialice.\nCada cuatro niveles por encima del nivel 3 (7, 11, 15 y 19), el daño adicional de esta aptitud aumenta en 1d8 adicional.</p>"
 		},
 		"Purity of Body": {
 			"name": "Purity of Body",
