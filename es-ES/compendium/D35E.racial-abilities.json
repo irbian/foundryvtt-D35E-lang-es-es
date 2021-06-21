@@ -1,25 +1,25 @@
 {
-	"label": "Racial Abilities",
+	"label": "Aptitudes raciales",
 	"entries": {
 		"Alternate Form": {
-			"name": "Alternate Form",
-			"description": "<p>A vampire can assume the shape of a bat, dire bat, wolf, or dire wolf as a standard action. While in its alternate form, the vampire loses its natural slam attack and dominate ability, but it gains the natural weapons and extraordinary special attacks of its new form. It can remain in that form until it assumes another or until the next sunrise. (If the base creature is not terrestrial, this power might allow other forms.)</p>"
+			"name": "Forma alternativa",
+			"description": "<p>Un vampiro puede adoptar la forma de un murciélago, un murciélago terrible, un lobo o un lobo terrible como acción estándar. Mientras está en su forma alternativa, el vampiro pierde su ataque natural de golpetazo y su aptitud de dominación, pero gana los ataques naturales y los ataques especiales extraordinarios de su nueva forma. Puede permanecer en esa forma hasta que asuma otra o hasta el próximo amanecer. Esta aptitud podría permitir otras formas, si la criatura base no es terrestre (si, por ejemplo, es una criatura acuática, podría transformarse en otras criaturas más adecuadas a su entorno)</p>"
 		},
 		"Blood Drain": {
-			"name": "Blood Drain",
-			"description": "<p>A vampire can suck blood from a living victim with its fangs by making a successful grapple check. If it pins the foe, it drains blood, dealing 1d4 points of Constitution drain each round the pin is maintained. On each such successful attack, the vampire gains 5 temporary hit points.</p>"
+			"name": "Absorción de sangre",
+			"description": "<p>Un vampiro puede chupar la sangre de una víctima viva con sus colmillos haciendo una prueba de presa con éxito. Si logra sujetar a su enemigo, le absorberá la sangre, lo que causa 1d4 puntos de consunción de Constitución cada asalto mientras mantenga la sujección. Cada vez que inflija esta consunción a su víctima, el vampiro obtiene 5 pg temporales.</p>"
 		},
 		"Burst": {
-			"name": "Burst",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Three times per day, a xeph can put on a burst of speed to increase her speed by 10 feet, plus 10 feet per four character levels beyond 1st, to a maximum increase of 30 feet at 9th character level and higher. These bursts of speed are considered a competence bonus to the xeph&rsquo;s base speed. A burst of speed lasts 3 rounds.</span></p>"
+			"name": "Estallido",
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Tres veces al día, un xefe puede aumentar su velocidad en 10', más 10' por cada cuatro niveles de personaje más allá del primero, hasta un aumento máximo de 30' a nivel 9. Estos estallidos se consideran una bonificación de competencia a la velocidad base del xefe, y duran 3 asaltos.</span></p>"
 		},
 		"Children of the Night": {
-			"name": "Children of the Night",
-			"description": "<p>Vampires command the lesser creatures of the world and once per day can call forth 1d6+1 rat swarms, 1d4+1 bat swarms, or a pack of 3d6 wolves as a standard action. (If the base creature is not terrestrial, this power might summon other creatures of similar power.) These creatures arrive in 2d6 rounds and serve the vampire for up to 1 hour.</p>"
+			"name": "Hijos de la noche",
+			"description": "<p>Un vampiro puede comandar a las criaturas menores del mundo y una vez al día puede convocar 1d6 + 1 enjambres de ratas, 1d4 + 1 enjambres de murciélagos o una manada de 3d6 lobos como acción estándar. Esta aptitud podría traer otras criaturas, si la criatura base no es terrestre (si, por ejemplo, es una criatura acuática, podría convocar otras criaturas más adecuadas a su entorno). Las criaturas convocadas llegan en 2d6 asaltos y sirven al vampiro durante 1 hora.</p>"
 		},
 		"Chitin (No Type)": {
-			"name": "Chitin (No Type)",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">A dromite&rsquo;s skin is hardened, almost like an exoskeleton, and grants the character a +3 natural armor bonus to AC and one of the following kinds of resistance to energy: cold 5, electricity 5, fire 5, or sonic 5. The player chooses what type of energy resistance is gained when the character is created. (This choice also dictates which caste the dromite belongs to.) This natural energy resistance stacks with any future energy resistance gained through other effects.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"color: #191813;\"><span style=\"font-size: 13px;\">You can set Chitin type in details tab.</span></span></p>"
+			"name": "Quitina (sin tipo)",
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">La piel de un dromita está endurecida, casi como un exoesqueleto, y otorga al personaje un bonificador de armadura natural de +3 a la CA y resistencia a la energía 5 a uno de los siguientes tipos: frío, electricidad, fuego, o sónico. El jugador elige qué tipo de resistencia energética se gana cuando se crea el personaje. (Esta elección también dicta a qué casta pertenece el dromita). Esta resistencia a la energía natural se apila con cualquier resistencia a la energía futura obtenida a través de otros efectos.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"color: #191813;\"><span style=\"font-size: 13px;\">Puede configurar el tipo de quitina en la pestaña de detalles.</span></span></p>"
 		},
 		"Corrupting Gaze": {
 			"name": "Corrupting Gaze",
