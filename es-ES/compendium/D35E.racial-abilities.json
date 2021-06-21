@@ -1,76 +1,76 @@
 {
-	"label": "Racial Abilities",
+	"label": "Aptitudes raciales",
 	"entries": {
 		"Alternate Form": {
-			"name": "Alternate Form",
-			"description": "<p>A vampire can assume the shape of a bat, dire bat, wolf, or dire wolf as a standard action. While in its alternate form, the vampire loses its natural slam attack and dominate ability, but it gains the natural weapons and extraordinary special attacks of its new form. It can remain in that form until it assumes another or until the next sunrise. (If the base creature is not terrestrial, this power might allow other forms.)</p>"
+			"name": "Forma alternativa",
+			"description": "<p>Un vampiro puede adoptar la forma de un murciélago, un murciélago terrible, un lobo o un lobo terrible como acción estándar. Mientras está en su forma alternativa, el vampiro pierde su ataque natural de golpetazo y su aptitud de dominación, pero gana los ataques naturales y los ataques especiales extraordinarios de su nueva forma. Puede permanecer en esa forma hasta que asuma otra o hasta el próximo amanecer. Esta aptitud podría permitir otras formas, si la criatura base no es terrestre (si, por ejemplo, es una criatura acuática, podría transformarse en otras criaturas más adecuadas a su entorno)</p>"
 		},
 		"Blood Drain": {
-			"name": "Blood Drain",
-			"description": "<p>A vampire can suck blood from a living victim with its fangs by making a successful grapple check. If it pins the foe, it drains blood, dealing 1d4 points of Constitution drain each round the pin is maintained. On each such successful attack, the vampire gains 5 temporary hit points.</p>"
+			"name": "Absorción de sangre",
+			"description": "<p>Un vampiro puede chupar la sangre de una víctima viva con sus colmillos haciendo una prueba de presa con éxito. Si logra sujetar a su enemigo, le absorberá la sangre, lo que causa 1d4 puntos de consunción de Constitución cada asalto mientras mantenga la sujección. Cada vez que inflija esta consunción a su víctima, el vampiro obtiene 5 pg temporales.</p>"
 		},
 		"Burst": {
-			"name": "Burst",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Three times per day, a xeph can put on a burst of speed to increase her speed by 10 feet, plus 10 feet per four character levels beyond 1st, to a maximum increase of 30 feet at 9th character level and higher. These bursts of speed are considered a competence bonus to the xeph&rsquo;s base speed. A burst of speed lasts 3 rounds.</span></p>"
+			"name": "Estallido",
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Tres veces al día, un xefe puede aumentar su velocidad en 10', más 10' por cada cuatro niveles de personaje más allá del primero, hasta un aumento máximo de 30' a nivel 9. Estos estallidos se consideran una bonificación de competencia a la velocidad base del xefe, y duran 3 asaltos.</span></p>"
 		},
 		"Children of the Night": {
-			"name": "Children of the Night",
-			"description": "<p>Vampires command the lesser creatures of the world and once per day can call forth 1d6+1 rat swarms, 1d4+1 bat swarms, or a pack of 3d6 wolves as a standard action. (If the base creature is not terrestrial, this power might summon other creatures of similar power.) These creatures arrive in 2d6 rounds and serve the vampire for up to 1 hour.</p>"
+			"name": "Hijos de la noche",
+			"description": "<p>Un vampiro puede comandar a las criaturas menores del mundo y una vez al día puede convocar 1d6 + 1 enjambres de ratas, 1d4 + 1 enjambres de murciélagos o una manada de 3d6 lobos como acción estándar. Esta aptitud podría traer otras criaturas, si la criatura base no es terrestre (si, por ejemplo, es una criatura acuática, podría convocar otras criaturas más adecuadas a su entorno). Las criaturas convocadas llegan en 2d6 asaltos y sirven al vampiro durante 1 hora.</p>"
 		},
 		"Chitin (No Type)": {
-			"name": "Chitin (No Type)",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">A dromite&rsquo;s skin is hardened, almost like an exoskeleton, and grants the character a +3 natural armor bonus to AC and one of the following kinds of resistance to energy: cold 5, electricity 5, fire 5, or sonic 5. The player chooses what type of energy resistance is gained when the character is created. (This choice also dictates which caste the dromite belongs to.) This natural energy resistance stacks with any future energy resistance gained through other effects.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"color: #191813;\"><span style=\"font-size: 13px;\">You can set Chitin type in details tab.</span></span></p>"
+			"name": "Quitina (sin tipo)",
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">La piel de un dromita está endurecida, casi como un exoesqueleto, y otorga al personaje un bonificador de armadura natural de +3 a la CA y resistencia a la energía 5 a uno de los siguientes tipos: frío, electricidad, fuego, o sónico. El jugador elige qué tipo de resistencia energética se gana cuando se crea el personaje. (Esta elección también dicta a qué casta pertenece el dromita). Esta resistencia a la energía natural se apila con cualquier resistencia a la energía futura obtenida a través de otros efectos.</span></p>\n<p>&nbsp;</p>\n<p><span style=\"color: #191813;\"><span style=\"font-size: 13px;\">Puede configurar el tipo de quitina en la pestaña de detalles.</span></span></p>"
 		},
 		"Corrupting Gaze": {
-			"name": "Corrupting Gaze",
-			"description": "<p>A creature can blast living beings with a glance, at a range of up to 30 feet. Creatures that meet the creature's gaze must succeed on a Fortitude save or take 2d10 points of damage and 1d4 points of Charisma damage.</p>"
+			"name": "Mirada corruptora",
+			"description": "<p>Una criatura puede marchitar a los seres vivos con una mirada, a una distancia de hasta 30'. Las criaturas que crucen su mirada con la de la criatura deben tener éxito en una salvación de Fortaleza o sufrir 2d10 puntos de daño y 1d4 puntos de daño de Carisma.</p>"
 		},
 		"Corrupting Touch": {
-			"name": "Corrupting Touch",
-			"description": "<p>A ghost that hits a living target with its incorporeal touch attack deals 1d6 points of damage. Against ethereal opponents, it adds its Strength modifier to attack and damage rolls. Against nonethereal opponents, it adds its Dexterity modifier to attack rolls only.</p>"
+			"name": "Toque corruptor",
+			"description": "<p>El toque incorporal de un fantasma inflige 1d6 puntos de daño a las criaturas vivas. Contra oponentes etéreos, añade su modificador de Fuerza a las tiradas de ataque y daño. Contra oponentes materiales, añade su modificador de Destreza, pero sólo a las tiradas de ataque.</p>"
 		},
 		"Daylight": {
 			"name": "Luz del día",
-			"description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">The object touched sheds light as bright as full daylight in a 60-foot radius, and dim light for an additional 60 feet beyond that. Creatures that take penalties in bright light also take them while within the radius of this magical light. Despite its name, this spell is not the equivalent of daylight for the purposes of creatures that are damaged or destroyed by bright light.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">If&nbsp;<em style=\"box-sizing: border-box; user-select: text;\">daylight&nbsp;</em>is cast on a small object that is then placed inside or under a light- proof covering, the spell&rsquo;s effects are blocked until the covering is removed.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">Daylight&nbsp;</em>brought into an area of magical darkness (or vice versa) is temporarily negated, so that the otherwise prevailing light conditions exist in the overlapping areas of effect.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\"><em style=\"box-sizing: border-box; user-select: text;\">Daylight&nbsp;</em>counters or dispels any darkness spell of equal or lower level, such as&nbsp;<em style=\"box-sizing: border-box; user-select: text;\">darkness.</em></p>"
+			"description": "Ver conjuro de luz del día"
 		},
 		"Dodge": {
 			"name": "Esquiva",
-			"description": "<div class=\"spell-description\">\n  <p>\n      <strong>School:</strong>&nbsp;abjuration;\n    <br>\n    \n    \n    \n    \n    \n    <br>\n    <strong>Components:</strong>&nbsp;V, S<br>\n    \n      \n    \n    <strong>Area:</strong>&nbsp;one spellcaster, creature, or object; or 20-ft.-radius burst<br>\n    \n    \n    <strong>Duration:</strong>&nbsp;Instantaneous<br>\n    \n        <strong>Saving Throw:</strong>&nbsp;none\n        <br>\n        <strong>Spell Resistance:</strong>&nbsp;no<br>\n  </p>\n  <h2>Description</h2>\n  \n\n\n<p>\nYou can use <i>dispel magic </i>to end ongoing spells that have been cast on a creature or object, to temporarily suppress the magical abilities of a magic item, to end ongoing spells (or at least their effects) within an area, or to counter another spellcaster’s spell. A dispelled spell ends as if its duration had expired. Some spells, as detailed in their descriptions, can’t be defeated by <i>dispel magic</i>. <i>Dispel magic </i>can dispel (but not counter) spell-like effects just as it does spells.\n</p><p><i>Note: </i>The effect of a spell with an instantaneous duration can’t be dispelled, because the magical effect is already over before the <i>dispel magic </i>can take effect.\n</p><p>You choose to use <i>dispel magic </i>in one of three ways: a targeted dispel, an area dispel, or a counterspell:\n</p><p><i>Targeted Dispel: </i>One object, creature, or spell is the target of the <i>dispel magic </i>spell. You make a dispel check (1d20 + your caster level, maximum +10) against the spell or against each ongoing spell currently in effect on the object or creature. The DC for this dispel check is 11 + the spell’s caster level. If you succeed on a particular check, that spell is dispelled; if you fail, that spell remains in effect.\n</p><p>If you target an object or creature that is the effect of an ongoing spell (such as a monster summoned by <i>monster summoning</i>), you make a dispel check to end the spell that conjured the object or creature.\n</p><p>If the object that you target is a magic item, you make a dispel check against the item’s caster level. If you succeed, all the item’s magical properties are suppressed for 1d4 rounds, after which the item recovers on its own. A suppressed item becomes nonmagical for the duration of the effect. An interdimensional interface (such as a <i>bag of holding</i>) is temporarily closed. A magic item’s physical properties are unchanged: A suppressed magic sword is still a sword (a masterwork sword, in fact). Artifacts and deities are unaffected by mortal magic such as this.\n</p><p>You automatically succeed on your dispel check against any spell that you cast yourself.\n</p><p><i>Area Dispel: </i>When <i>dispel magic </i>is used in this way, the spell affects everything within a 20-foot radius.\n</p><p>For each creature within the area that is the subject of one or more spells, you make a dispel check against the spell with the highest caster level. If that check fails, you make dispel checks against progressively weaker spells until you dispel one spell (which discharges the <i>dispel magic </i>spell so far as that target is concerned) or until you fail all your checks. The creature’s magic items are not affected.\n</p><p>For each object within the area that is the target of one or more spells, you make dispel checks as with creatures. Magic items are not affected by an area dispel.\n</p><p>For each ongoing area or effect spell whose point of origin is within the area of the <i>dispel magic </i>spell, you can make a dispel check to dispel the spell.\n</p><p>For each ongoing spell whose area overlaps that of the <i>dispel magic </i>spell, you can make a dispel check to end the effect, but only within the overlapping area.\n</p><p>If an object or creature that is the effect of an ongoing spell (such as a monster summoned by <i>monster summoning</i>) is in the area, you can make a dispel check to end the spell that conjured that object or creature (returning it whence it came) in addition to attempting to dispel spells targeting the creature or object.\n</p><p>You may choose to automatically succeed on dispel checks against any spell that you have cast.\n</p><p><i>Counterspell: </i>When <i>dispel magic </i>is used in this way, the spell targets a spellcaster and is cast as a counterspell. Unlike a true counterspell, however, <i>dispel magic </i>may not work; you must make a dispel check to counter the other spellcaster’s spell.\n</p>\n<hr/>\n\n\n\n</div>\n"
+			"description": "Ver el conjuro Disipar magia."
 		},
 		"Dominate": {
-			"name": "Dominate",
-			"description": "<p>A vampire can crush an opponent&rsquo;s will just by looking onto his or her eyes. This is similar to a gaze attack, except that the vampire must use a standard action, and those merely looking at it are not affected. Anyone the vampire targets must succeed on a Will save or fall instantly under the vampire&rsquo;s influence as though by a @Compendium[D35E.spells.eWrsXRG3zUNKkOkL]{Dominate Person} spell (caster level 12th). The ability has a range of 30 feet.</p>"
+			"name": "Dominación",
+			"description": "<p>Un vampiro puede doblegar la voluntad de un oponente con sólo mirarlo a los ojos. Esta aptitud funciona como un ataque de mirada, excepto que el vampiro debe usar una acción estándar, tiene un alcance máximo de 30', y aquellos que simplemente lo miren no se ven afectados. Cualquiera que sea el objetivo de esta aptitud, debe tener éxito en una salvación de Voluntad o caer instantáneamente bajo la influencia del vampiro, como si le hubiera lanzado un conjuro de [D35E.spells.eWrsXRG3zUNKkOkL]{Dominate Person} (a nivel de lanzador 12).</p>"
 		},
 		"Draining Touch": {
-			"name": "Draining Touch",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">A ghost that hits a living target with its incorporeal touch attack drains 1d4 points from any one ability score it selects. On each such successful attack, the ghost heals 5 points of damage to itself. Against ethereal opponents, it adds its Strength modifier to attack rolls only. Against nonethereal opponents, it adds its Dexterity modifier to attack rolls only.</span></p>"
+			"name": "Toque consumidor",
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Un fantasma que golpea a un objetivo vivo con su ataque de toque incorporal causa1d4 puntos de consunción de cualquier puntuación de característica que seleccione. Con cada ataque que tenga éxito, el fantasma se cura 5 puntos de golpe. Contra oponentes etéreos, agrega su modificador de Fuerza a las tiradas de ataque. Contra oponentes no reales, agrega su modificador de Destreza a las tiradas de ataque. En ningún caso suma su modificador de Fuerza o Destreza a la consunción de características causada por el ataque.</span></p>"
 		},
 		"Elven Blood": {
-			"name": "Elven Blood",
-			"description": "<p>Immunity to magic sleep effects, and a +2 racial saving throw bonus against enchantment spells or effects.</p>"
+			"name": "Sangre élfica",
+			"description": "<p>Inmunidad a los efectos mágicos que causen sueño y un bonificador de +2 a la tirada de salvación contra conjuros o efectos de encantamiento.</p>"
 		},
 		"Fear Aura": {
-			"name": "Fear Aura",
-			"description": "<p>Liches are shrouded in a dreadful aura of death and evil. Creatures of less than 5 HD in a 60-foot radius that look at the lich must succeed on a Will save or be affected as though by a fear spell from a sorcerer of the lich&rsquo;s level. A creature that successfully saves cannot be affected again by the same lich&rsquo;s aura for 24 hours.</p>"
+			"name": "Aura de miedo",
+			"description": "<p>Los liches están envueltos en un aura terrible de muerte y maldad. Las criaturas de menos de 5 DG en un radio de 60' que miran al lich deben tener éxito en una salvación de Voluntad o se verán afectadas por un conjuro de miedo, con un nivel de lanzador igual a los DG del lich. Una criatura que tenga éxito en la TS no puede volver a verse afectada por el aura del mismo lich durante 24 horas.</p>"
 		},
 		"Fearless": {
-			"name": "Fearless",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">+2 morale bonus on saving throws against fear: This bonus stacks with the lightfoot halfling&rsquo;s +1 bonus on saving throws in general</span></p>"
+			"name": "Audaz",
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">El mediano obtiene un bonificador de +2 de moral en todas las tiradas de salvación contra efectos de miedo. Esta bonificación se apila con el bonficador que los medianos piesligeros tienen de +1 a todas las tiradas de salvación en general.</span></p>"
 		},
 		"Frighful Moan": {
-			"name": "Frighful Moan",
-			"description": "<p>A ghost can emit a frightful moan as a standard action. All living creatures within a 30-foot spread must succeed on a Will save or become panicked for 2d4 rounds. This is a sonic necromantic mind-affecting fear effect. A creature that successfully saves against the moan cannot be affected by the same ghost&rsquo;s moan for 24 hours.</p>"
+			"name": "Gemido pavoroso",
+			"description": "<p>Un fantasma puede emitir un gemido espantoso como acción estándar. Todas las criaturas vivas dentro de una expansión de 30' deben tener éxito en una salvación de Voluntad o quedarán despavoridas durante 2d4 asaltos. Este es un efecto de miedo, sónico, nigromántico y enajenador. Una criatura que salva con éxito contra el gemido no puede ser afectado por otro gemido del mismo fantasma hasta que hayan transcurrido 24 horas.</p>"
 		},
 		"Gaseous Form": {
 			"name": "Forma gaseosa",
-			"description": "<p>As a standard action, a vampire can assume gaseous form at will as the spell @Compendium[D35E.spells.WnffsVkcpoGRh7pW]{Gaseous Form} (caster level 5th), but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability.</p>"
+			"description": "<p>Como acción estándar, un vampiro puede convertirse en una masa nebulosa a voluntad. Esta aptitud funciona igual que el conjuro @Compendium[D35E.spells.WnffsVkcpoGRh7pW]{Gaseous Form} (nivel de lanzador 5), salvo en que puede permanecer en este estado gaseoso indefinidamente y en que tiene una velocidad de vuelo de 20' con una maniobrabilidad perfecta.</p>"
 		},
 		"Goblinslayer": {
-			"name": "Goblinslayer",
-			"description": "<p>You get&nbsp;<span style=\"color: #191813; font-size: 13px;\">+1 racial bonus on attack rolls against orcs (including half-orcs) and goblinoids (including goblins, hobgoblins, and bugbears).</span></p>"
+			"name": "Matatrasgos",
+			"description": "<p>&nbsp;<span style=\"color: #191813; font-size: 13px;\">El personaje obtiene un bonificador de +1 racial en las tiradas de ataque contra orcos (incluidos semiorcos) y trasgoides (incluidos trasgos, grantrasgos y osgos).</span></p>"
 		},
 		"Greater Invisibility": {
-			"name": "Greater Invisibility",
+			"name": "Invisibilidad mayor",
 			"description": "<div class=\"spell-description\">\n  <p>\n      <strong>School:</strong>&nbsp;evocation&nbsp;[light];\n    <br>\n    <strong>Level:</strong>&nbsp;Druid 1;\n    \n    \n    \n    \n    <br>\n    <strong>Components:</strong>&nbsp;V, S, F, DF<br>\n    \n      \n    \n    <strong>Area:</strong>&nbsp;creatures and objects within a 5-ft.-radius burst<br>\n    \n    \n    <strong>Duration:</strong>&nbsp;1 min./level (D)<br>\n    \n        <strong>Saving Throw:</strong>&nbsp;none\n        <br>\n        <strong>Spell Resistance:</strong>&nbsp;yes<br>\n  </p>\n  <h2>Description</h2>\n  \n\n\n<p>\nA pale glow surrounds and outlines the subjects. Outlined subjects shed light as candles. Outlined creatures do not benefit from the concealment normally provided by darkness (though a 2nd-level or higher magical <i>darkness </i>effect functions normally), <i>blur</i>, displacement, invisibility, or similar effects. The light is too dim to have any special effect on undead or dark-dwelling creatures vulnerable to light. The <i>faerie fire </i>can be blue, green, or violet, according to your choice at the time of casting. The <i>faerie fire </i>does not cause any harm to the objects or creatures thus outlined.\n</p>\n<hr/>\n\n\n\n</div>\n"
 		},
 		"Horrific Appearance": {

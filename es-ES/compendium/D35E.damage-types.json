@@ -1,88 +1,88 @@
 {
-	"label": "Damage Types",
+	"label": "Tipos de daño",
 	"entries": {
 		"Acid": {
 			"name": "Ácido",
 			"description": ""
 		},
 		"Bludgeoning": {
-			"name": "Bludgeoning",
+			"name": "Aplastante",
 			"description": ""
 		},
 		"Cold": {
-			"name": "Cold",
+			"name": "Frío",
 			"description": ""
 		},
 		"Divine": {
-			"name": "Divine",
+			"name": "Divino",
 			"description": ""
 		},
 		"Electricity": {
-			"name": "Electricity",
+			"name": "Electricidad",
 			"description": ""
 		},
 		"Fire": {
-			"name": "Fire",
+			"name": "Fuego",
 			"description": ""
 		},
 		"Force": {
-			"name": "Force",
+			"name": "Fuerza",
 			"description": ""
 		},
 		"Healing": {
-			"name": "Healing",
-			"description": "<p>This damage type will allways apply healing.</p>"
+			"name": "Curación",
+			"description": "<p>Este tipo de daño siempre aplicará curación.</p>"
 		},
 		"Negative Energy": {
-			"name": "Negative Energy",
+			"name": "Energía negativa",
 			"description": ""
 		},
 		"Non-lethal": {
-			"name": "Non-lethal",
-			"description": "<p>This damage type always results in non-lethal damage applied to a creature.</p>"
+			"name": "No letal",
+			"description": "<p>Este tipo de daño siempre resulta en daño no letal aplicado a una criatura.</p>"
 		},
 		"Piercing": {
-			"name": "Piercing",
+			"name": "Perforante",
 			"description": ""
 		},
 		"Piercing or Bludgeoning": {
-			"name": "Piercing or Bludgeoning",
+			"name": "Perforación o contundente",
 			"description": ""
 		},
 		"Piercing or Slashing": {
-			"name": "Piercing or Slashing",
+			"name": "Perforación o corte",
 			"description": ""
 		},
 		"Piercing, Bludgeoning and Slashing": {
-			"name": "Piercing, Bludgeoning and Slashing",
+			"name": "Perforante, contundente y cortante",
 			"description": ""
 		},
 		"Positive Energy": {
-			"name": "Positive Energy",
+			"name": "Energía positiva",
 			"description": ""
 		},
 		"Precision": {
-			"name": "Precision",
+			"name": "Precisión",
 			"description": ""
 		},
 		"Repair": {
-			"name": "Repair",
-			"description": "<p>This damage type heals constructs while doing nothing to other creatures.</p>"
+			"name": "Reparación",
+			"description": "<p>Este tipo de daño cura constructos sin hacer nada a otras criaturas.</p>"
 		},
 		"Slashing": {
-			"name": "Slashing",
+			"name": "Cortante",
 			"description": ""
 		},
 		"Slashing or Bludgeoning": {
-			"name": "Slashing or Bludgeoning",
+			"name": "Cortante o contundente",
 			"description": ""
 		},
 		"Sonic": {
-			"name": "Sonic",
+			"name": "Sónico",
 			"description": ""
 		},
 		"Untyped": {
-			"name": "Untyped",
+			"name": "Sin definir",
 			"description": ""
 		}
 	}
