@@ -71,7 +71,7 @@
 		},
 		"Greater Invisibility": {
 			"name": "Invisibilidad mayor",
-			"description": "<div class=\"spell-description\">\n  <p>\n      <strong>School:</strong>&nbsp;evocation&nbsp;[light];\n    <br>\n    <strong>Level:</strong>&nbsp;Druid 1;\n    \n    \n    \n    \n    <br>\n    <strong>Components:</strong>&nbsp;V, S, F, DF<br>\n    \n      \n    \n    <strong>Area:</strong>&nbsp;creatures and objects within a 5-ft.-radius burst<br>\n    \n    \n    <strong>Duration:</strong>&nbsp;1 min./level (D)<br>\n    \n        <strong>Saving Throw:</strong>&nbsp;none\n        <br>\n        <strong>Spell Resistance:</strong>&nbsp;yes<br>\n  </p>\n  <h2>Description</h2>\n  \n\n\n<p>\nA pale glow surrounds and outlines the subjects. Outlined subjects shed light as candles. Outlined creatures do not benefit from the concealment normally provided by darkness (though a 2nd-level or higher magical <i>darkness </i>effect functions normally), <i>blur</i>, displacement, invisibility, or similar effects. The light is too dim to have any special effect on undead or dark-dwelling creatures vulnerable to light. The <i>faerie fire </i>can be blue, green, or violet, according to your choice at the time of casting. The <i>faerie fire </i>does not cause any harm to the objects or creatures thus outlined.\n</p>\n<hr/>\n\n\n\n</div>\n"
+			"description": "Ver conjuro Fuego feérico?."
 		},
 		"Horrific Appearance": {
 			"name": "Horrific Appearance",
