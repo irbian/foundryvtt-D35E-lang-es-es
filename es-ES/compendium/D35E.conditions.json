@@ -83,34 +83,34 @@
 		},
 		"Grappling": {
 			"name": "Apresado",
-			"description": "<p>Engaged in wrestling or some other form of hand-to-hand struggle with one or more attackers. A grappling character can undertake only a limited number of actions. He does not threaten any squares, and loses his Dexterity bonus to AC (if any) against opponents he isn&rsquo;t grappling. See Grapple.</p>\n<p>&nbsp;</p>"
+			"description": "<p>El personaje está enzarzado en una pelea con llaves y presas o en alguna otra forma de lucha cuerpo a cuerpo contra uno o más atacantes. Un personaje apresado tan sólo puede realizar un número limitado de acciones. No amenaza ninguna casilla y pierde su bonificador de Destreza a la CA (si lo tiene) contra los oponentes que no estén enzarzados en la presa con él.</p>\n<p>&nbsp;</p>"
 		},
 		"Helpless": {
-			"name": "Helpless",
-			"description": "<p>A helpless character is paralyzed, held, bound, sleeping, unconscious, or otherwise completely at an opponent&rsquo;s mercy. A helpless target is treated as having a Dexterity of 0 (-5 modifier). Melee attacks against a helpless target get a +4 bonus (equivalent to attacking a prone target). Ranged attacks gets no special bonus against helpless targets. Rogues can sneak attack helpless targets.</p>\n<p>&nbsp;</p>\n<p>As a full-round action, an enemy can use a melee weapon to deliver a coup de grace to a helpless foe. An enemy can also use a bow or crossbow, provided he is adjacent to the target. The attacker automatically hits and scores a critical hit. (A rogue also gets her sneak attack damage bonus against a helpless foe when delivering a coup de grace.) If the defender survives, he must make a Fortitude save (DC 10 + damage dealt) or die.</p>\n<p>&nbsp;</p>\n<p>Delivering a coup de grace provokes attacks of opportunity.</p>\n<p>&nbsp;</p>\n<p>Creatures that are immune to critical hits do not take critical damage, nor do they need to make Fortitude saves to avoid being killed by a coup de grace.</p>"
+			"name": "Indefenso",
+			"description": "<p>Una criatura indefensa está paralizada, inmovilizada, atada, durmiendo, inconsciente, o por cualquier otra causa, completamente a merced de sus enemigos. Una criatura indefensa se considera que tiene una Destreza de 0 (modificador de -5). Los ataques cuerpo a cuerpo contra un objetivo indefenso obtienen un bonificador de +4 (equivalente a atacar a un objetivo tumbado), pero los ataques a distancia no obtienen ningun bonificador contra objetivos indefensos. Los pícaros pueden realizar ataques furtivos a objetivos indefensos.</p>\n<p>Como acción de asalto completo, un enemigo puede usar un arma cuerpo a cuerpo (también puede usar un arco o ballesta, siempre que esté adyacente al objetivo) para dar un golpe de gracia a una criatura indefensa. Un golpe de gracia provoca ataques de oportunidad. El atacante golpea automáticamente y consigue un golpe crítico, sin necesidad de confirmarlo (un pícaro también puede sumar el daño de su ataque furtivo en un golpe de gracia). Si el defensor sobrevive al daño del golpe de gracia, debe superar una salvación de Fortaleza (CD 10 + el daño infligido por el golpe de gracia) o morir.</p>\n<p>Las criaturas inmunes a los golpes críticos no sufren daño extra por el crítico en un golpe de gracia, ni deben hacer la TS de Fortaleza para evitar morir a causa del golpe de gracia.</p>"
 		},
 		"Incorporeal": {
-			"name": "Incorporeal",
-			"description": "<p>Having no physical body. Incorporeal creatures are immune to all nonmagical attack forms. They can be harmed only by other incorporeal creatures, +1 or better magic weapons, spells, spell-like effects, or supernatural effects.</p>\n<p>&nbsp;</p>"
+			"name": "Incorporal",
+			"description": "<p>La criatura no tiene cuerpo físico. Las criaturas incorporales son inmunes a todas las formas de ataque no mágicas. Solo pueden ser dañados por otras criaturas incorpóreas, armas mágicas, conjuros, aptitudes sortílegas o efectos sobrenaturales.</p>"
 		},
 		"Invisible": {
 			"name": "Invisible",
-			"description": "<p>Visually undetectable. An invisible creature gains a +2 bonus on attack rolls against sighted opponents, and ignores its opponents&rsquo; Dexterity bonuses to AC (if any). (See Invisibility, under Special Abilities.)</p>\n<p>&nbsp;</p>"
+			"description": "<p>La criatura es visualmente indetectable. Una criatura invisible gana un bonificador de +2 en las tiradas de ataque contra oponentes que no puedan saber con exactitud su posición e ignora los bonificadores de Destreza a la CA de esos oponentes (si los tienen).</p>\n<p>&nbsp;</p>"
 		},
 		"Knocked Down": {
-			"name": "Knocked Down",
-			"description": "<p>Depending on their size, creatures can be knocked down by winds of high velocity. Creatures on the ground are knocked prone by the force of the wind. Flying creatures are instead blown back 1d6 &times; 10 feet.</p>\n<p>&nbsp;</p>"
+			"name": "Abatido",
+			"description": "<p>Dependiendo de su tamaño, las criaturas pueden ser derribadas por vientos de gran velocidad. Las criaturas en el suelo son derribadas por la fuerza del viento. En cambio, las criaturas voladoras son empujadas hacia atrás 1d6x10'.</p>"
 		},
 		"Nauseated": {
-			"name": "Nauseated",
-			"description": "<p>Experiencing stomach distress. Nauseated creatures are unable to attack, cast spells, concentrate on spells, or do anything else requiring attention. The only action such a character can take is a single move action per turn.</p>\n<p>&nbsp;</p>"
+			"name": "Mareado",
+			"description": "<p>La criatura experimenta malestar estomacal. Las criaturas mareadas (también llamadas \"nauseadas\") son incapaces de atacar, lanzar conjuros, concentrarse en conjuros o hacer cualquier otra cosa que requiera atención. La única acción que puede realizar un personaje en este estado es una única acción de movimiento por turno.</p>"
 		},
 		"Panicked": {
-			"name": "Panicked",
-			"description": "<p>A panicked creature must drop anything it holds and flee at top speed from the source of its fear, as well as any other dangers it encounters, along a random path. It can&rsquo;t take any other actions. In addition, the creature takes a -2 penalty on all saving throws, skill checks, and ability checks. If cornered, a panicked creature cowers. A panicked creature can use special abilities, including spells, to flee; indeed, the creature must use such means if they are the only way to escape.</p>\n<p>&nbsp;</p>\n<p>Panicked is a more extreme state of fear than shaken or frightened.</p>\n<p>&nbsp;</p>"
+			"name": "Despavorido",
+			"description": "<p>Una criatura despavorida debe dejar caer todo lo que tenga en las manos y huir tan rápido como pueda (en una dirección aleatoria) de la fuente de su miedo, así como de cualquier otro peligro que encuentre en su huída. Ésta es la única acción que puede realizar. Además, la criatura sufre un penalizador de -2 en todas las tiradas de salvación, pruebas de habilidad y pruebas de característica. Si se ve acorralada, una criatura despavorida pasará a estar aterrada. Una criatura despavorida puede usar sus aptitudes, incluidos conjuros, para huir. De hecho, la criatura debe usar esos medios si son la única forma de escapar.</p>\n<p>Despavorido es un estado de miedo más intenso que asustado o estremecido, pero menos intenso que aterrado.</p>"
 		},
 		"Paralyzed": {
-			"name": "Paralyzed",
+			"name": "Paralizado",
 			"description": "<p>A paralyzed character is frozen in place and unable to move or act. A paralyzed character has effective Dexterity and Strength scores of 0 and is helpless, but can take purely mental actions. A winged creature flying in the air at the time that it becomes paralyzed cannot flap its wings and falls. A paralyzed swimmer can&rsquo;t swim and may drown. A creature can move through a space occupied by a paralyzed creature&mdash;ally or not. Each square occupied by a paralyzed creature, however, counts as 2 squares.</p>\n<p>&nbsp;</p>"
 		},
 		"Petrified": {
