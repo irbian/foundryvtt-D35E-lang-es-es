@@ -74,23 +74,23 @@
 			"description": "Ver conjuro Fuego feérico?."
 		},
 		"Horrific Appearance": {
-			"name": "Horrific Appearance",
-			"description": "<p>Any living creature within 60 feet that views a ghost must succeed on a Fortitude save or immediately take 1d4 points of Strength damage, 1d4 points of Dexterity damage, and 1d4 points of Constitution damage. A creature that successfully saves against this effect cannot be affected by the same ghost&rsquo;s horrific appearance for 24 hours.</p>"
+			"name": "Apariencia horrenda",
+			"description": "<p>Toda criatura viva en un radio de 60' que vea un fantasma debe superar una salvación de Fortaleza o sufrir inmediatamente 1d4 puntos de daño de Fuerza, 1d4 puntos de daño de Destreza y 1d4 puntos de daño de Constitución. Una criatura tenga éxito en la salvación contra este efecto no puede ser afectado por la apariencia horrible del mismo fantasma durante 24 horas.</p>"
 		},
 		"Illusionist": {
-			"name": "Illusionist",
-			"description": "<p>You get following benefits</p>\n<ul style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">\n<li style=\"box-sizing: border-box; user-select: text; align-items: center;\">+2 racial bonus on saving throws against illusions.</li>\n<li style=\"box-sizing: border-box; user-select: text; align-items: center;\">Add +1 to the Difficulty Class for all saving throws against illusion spells cast by rock gnomes. This adjustment stacks with those from similar effects.</li>\n</ul>"
+			"name": "Ilusionista",
+			"description": "<p>Obtienes los siguientes beneficios:</p>\n<ul style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">\n<li style=\"box-sizing: border-box; user-select: text; align-items: center;\">Un bono racial de +2 a todas las Ts contra conjuros y efectos de ilusión.</li>\n<li style=\"box-sizing: border-box; user-select: text; align-items: center;\">Aumenta en 1 la Cd para todas las Ts contra conjuros de ilusión que lances. Esta aptitud se apila con otros efectos similares, como la dote Soltura con una escuela de magia (ilusión)</li>\n</ul>"
 		},
 		"Innate Resistance": {
-			"name": "Innate Resistance",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">+1 racial bonus on saving throws against powers, spells, and spell-like effects. Xephs have an innate resistance to psionics and magic.</span></p>"
+			"name": "Resistencia innata",
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Obtienes un bono racial de +1 a todas las tiradas de salvación contra poderes psiónicos, conjuros y aptitudes sortílegas. Los Xeph tienen una resistencia innata a la psiónica y la magia.</span></p>"
 		},
 		"Keen Eye": {
-			"name": "Keen Eye",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">+1 racial bonus on attack rolls with thrown weapons and slings.</span></p>"
+			"name": "Buen ojo",
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Obtienes un bonificador racial de +1 a las tiradas de ataque con armas arrojadizas y hondas.</span></p>"
 		},
 		"Lich Touch Attack": {
-			"name": "Lich Touch Attack",
+			"name": "Toque del Liche (ataque)",
 			"description": "<p>A lich without natural weapons has a touch attack that uses negative energy to deal 1d8+5 points of damage to living creatures; a Will save (DC 10 + 1/2 lich&rsquo;s HD + lich&rsquo;s Cha modifier) halves the damage. A lich with natural weapons can use its touch attack or its natural weaponry, as it prefers. If it chooses the latter, it deals 1d8+5 points of extra damage on one natural weapon attack.</p>"
 		},
 		"Light Blindness": {
