@@ -1,52 +1,52 @@
 {
-	"label": "Condiciones",
+	"label": "Estados",
 	"entries": {
 		"Ability Damaged": {
-			"name": "Daño de Habilidad",
-			"description": "<p>El personaje ha perdido temporalmente 1 ó más puntos de puntuación de habilidad. Los puntos perdidos regresan a una tasa de 1 por día a menos que la condición que ocasione el daño indique lo contrario. Un personaje con Fuerza 0 cae al suelo y queda indefenso. Un personaje con Destreza 0 queda paralizado. Un personaje con Constitución 0 está muerto. Un personaje con Inteligencia, Sabiduría o Carisma 0 está inconsciente. El daño de habilidad es diferente de las penalizaciones a las puntuaciones de habilidad, que desaparecen cuando las condiciones que las causan desaparecen.</p>"
+			"name": "Característica dañada",
+			"description": "<p>El personaje ha perdido temporalmente 1 ó más puntos de puntuación de característica. Los puntos perdidos se recuperan a un ritmo de 1 por día a menos que la descripción del ataque o aptitud que ocasione el daño indique lo contrario. Un personaje con Fuerza 0 cae al suelo y queda indefenso. Un personaje con Destreza 0 queda paralizado. Un personaje con Constitución 0 está muerto. Un personaje con Inteligencia, Sabiduría o Carisma 0 queda inconsciente. El daño de característica no es igual que los penalizadores a las puntuaciones de característica, los cuales desaparecen al expirar el efecto del ataque o aptitud que los originó.</p>"
 		},
 		"Ability Drained": {
-			"name": "Habilidad drenada",
-			"description": "<p>El personaje ha perdido de forma permanente 1 ó más puntos de puntuación de habilidad. El personaje puede recuperar puntos drenados solo a través de medios mágicos. Un personaje con Fuerza 0 cae al suelo y queda indefenso. Un personaje con Destreza 0 queda paralizado. Un personaje con Constitución 0 está muerto. Un personaje con Inteligencia, Sabiduría o Carisma 0 está inconsciente.</p>\n<p>&nbsp;</p>"
+			"name": "Característica consumida",
+			"description": "<p>El personaje ha perdido de forma permanente 1 ó más puntos de característica. El personaje puede recuperar los puntos consumidos sólo a través de medios mágicos. Un personaje con Fuerza 0 cae al suelo y queda indefenso. Un personaje con Destreza 0 queda paralizado. Un personaje con Constitución 0 está muerto. Un personaje con Inteligencia, Sabiduría o Carisma 0 queda inconsciente.</p>\n<p>&nbsp;</p>"
 		},
 		"Blinded": {
 			"name": "Cegado",
-			"description": "<p>El personaje no puede ver. Tiene un penalizador de -2 a la Clase de Armadura, pierde su bonificador de Destreza a la CA (si lo hay), se mueve a la mitad de velocidad y sufre un penalizador de -4 en las pruebas de Búsqueda y en la mayoría de las pruebas de habilidad basadas en Fuerza y Destreza. Todas las comprobaciones y actividades que dependen de la visión (como la lectura y las comprobaciones puntuales) fallan automáticamente. Se considera que todos los oponentes tienen un ocultamiento total (50% de probabilidad de fallar) al personaje cegado. Los personajes que permanecen ciegos durante mucho tiempo se acostumbran a estos inconvenientes y pueden superar algunos de ellos.</p>\n<p>&nbsp;</p>"
+			"description": "<p>El personaje no puede ver. Tiene un penalizador de -2 a la Clase de Armadura, pierde su bonificador de Destreza a la CA (si lo tiene), se mueve a la mitad de velocidad y sufre un penalizador de -4 en las pruebas de Buscar y en la mayoría de las pruebas de habilidad basadas en Fuerza y Destreza. Todas las pruebas y acciones que dependan de la visión (como la lectura y las pruebas de Avistar) fallan automáticamente. Se considera que todos los oponentes tienen ocultación total (50% de probabilidad de fallar cualquier ataque o aptitud que haga objetivo) para el personaje cegado. A discreción del DM, los personajes que permanecen ciegos durante mucho tiempo se acostumbran a estos inconvenientes y pueden superar algunos de ellos.</p>\n<p>&nbsp;</p>"
 		},
 		"Blown Away": {
-			"name": "Blown Away",
-			"description": "<p>Depending on its size, a creature can be blown away by winds of high velocity. A creature on the ground that is blown away is knocked down and rolls 1d4 &times; 10 feet, taking 1d4 points of nonlethal damage per 10 feet. A flying creature that is blown away is blown back 2d6 &times; 10 feet and takes 2d6 points of nonlethal damage due to battering and buffering.</p>\n<p>&nbsp;</p>"
+			"name": "Arrastrado",
+			"description": "<p>Dependiendo de su tamaño, una criatura puede ser arrastrada por vientos de gran velocidad. Una criatura que es arrastrada por el viento mientras está en el suelo, es derribada y rueda 1d4x10', sufriendo 1d4 puntos de daño no letal por cada 10' que ruede. Una criatura que sea arrastrada por el viento mientras está volando, será desplazada 2d6x10' en la dirección del viento y sufrirá 2d6 puntos de daño no letal debido a los golpes y el azote del fuerte viento.</p>\n<p>&nbsp;</p>"
 		},
 		"Checked": {
-			"name": "Checked",
-			"description": "<p>Prevented from achieving forward motion by an applied force, such as wind. Checked creatures on the ground merely stop. Checked flying creatures move back a distance specified in the description of the effect.</p>\n<p>&nbsp;</p>"
+			"name": "Frenado",
+			"description": "<p>El personaje es incapaz de moverse hacia delante por una fuerza opuesta que la detiene, como puede ser un viento fuerte. Las criaturas controladas en el suelo simplemente se detienen. Las criaturas voladoras marcadas retroceden una distancia especificada en la descripción del efecto.</p>\n<p>&nbsp;</p>"
 		},
 		"Confused": {
-			"name": "Confused",
-			"description": "<p>A confused character&rsquo;s actions are determined by rolling d% at the beginning of his turn:</p>\n<table style=\"height: 85px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">01-10</td>\n<td style=\"height: 17px; width: 627px;\">attack caster with melee or ranged weapons (or close with caster if attacking is not possible)</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">11-20</td>\n<td style=\"height: 17px; width: 627px;\">act normally</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">21-50</td>\n<td style=\"height: 17px; width: 627px;\">do nothing but babble incoherently</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">51-70</td>\n<td style=\"height: 17px; width: 627px;\">flee away from caster at top possible speed</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">71-100</td>\n<td style=\"height: 17px; width: 627px;\">attack nearest creature (for this purpose, a familiar counts as part of the subject&rsquo;s self)</td>\n</tr>\n</tbody>\n</table>\n<p>A confused character who can&rsquo;t carry out the indicated action does nothing but babble incoherently. Attackers are not at any special advantage when attacking a confused character. Any confused character who is attacked automatically attacks its attackers on its next turn, as long as it is still confused when its turn comes. A confused character does not make attacks of opportunity against any creature that it is not already devoted to attacking (either because of its most recent action or because it has just been attacked).</p>\n<p>&nbsp;</p>"
+			"name": "Confuso",
+			"description": "<p>Las acciones de un personaje confuso se determinan tirando 1d100 al comienzo de su turno:</p>\n<table style=\"height: 85px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">01-10</td>\n<td style=\"height: 17px; width: 627px;\">Ataca al causante de la confusión (normalmente el lanzador de un conjuro de Confusión) con armas cuerpo a cuerpo o a distancia (o se aproxima al causante de la confusión si no puede atacarle).</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">11-20</td>\n<td style=\"height: 17px; width: 627px;\">Actúa con normalidad.</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">21-50</td>\n<td style=\"height: 17px; width: 627px;\">No hace nada más que balbucear incoherencias.</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">51-70</td>\n<td style=\"height: 17px; width: 627px;\">Huye lejos del causante de la confusión a la máxima velocidad posible</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">71-100</td>\n<td style=\"height: 17px; width: 627px;\">Ataca a la criatura más cercana (para este efecto, un familiar cuenta como parte del propio sujeto).</td>\n</tr>\n</tbody>\n</table>\n<p>Un personaje confuso que no pueda llevar a cabo la acción indicada simplemente no hará otra cosa que balbucear incoherencias. Los atacantes no tienen ninguna ventaja especial cuando atacan a un personaje confuso. De hecho, cualquier personaje confuso que sea atacado ataca automáticamente a sus atacantes en su siguiente turno, siempre y cuando todavía esté confuso cuando llegue su turno. Un personaje confuso no realiza ataques de oportunidad contra ninguna criatura a la que no esté ya combatiendo (ya sea porque le atacó en su acción más reciente o porque acaba de ser atacado por esa criatura).</p>\n<p>&nbsp;</p>"
 		},
 		"Cowering": {
-			"name": "Cowering",
-			"description": "<p>The character is frozen in fear and can take no actions. A cowering character takes a -2 penalty to Armor Class and loses her Dexterity bonus (if any).</p>"
+			"name": "Aterrado",
+			"description": "<p>El personaje se queda totalmente inmóvil por el miedo y no puede realizar ninguna acción. Un personaje aterrado recibe una penalización de -2 a su CA y pierde su bonificador de Destreza a la CA (si lo tiene).</p>"
 		},
 		"Dazed": {
-			"name": "Dazed",
-			"description": "<p>The creature is unable to act normally. A dazed creature can take no actions, but has no penalty to AC.</p>\n<p>&nbsp;</p>\n<p>A dazed condition typically lasts 1 round.</p>"
+			"name": "Atontado",
+			"description": "<p>La criatura es incapaz de actuar con normalidad. Una criatura atontada no puede realizar acciones, pero no sufre ningún penalizador a su CA.</p>\n<p>&nbsp;</p>\n<p>El estado de atontado suele durar 1 asalto.</p>"
 		},
 		"Dazzled": {
-			"name": "Dazzled",
-			"description": "<p>The creature is unable to see well because of overstimulation of the eyes. A dazzled creature takes a -1 penalty on attack rolls, Search checks, and Spot checks.</p>\n<p>&nbsp;</p>"
+			"name": "Deslumbrado",
+			"description": "<p>La criatura no puede ver bien debido a la sobreestimulación lumínica de los ojos. Una criatura deslumbrada sufre una penalización de -1 en las tiradas de ataque y en las pruebas de Avistar y Buscar.</p>\n<p>&nbsp;</p>"
 		},
 		"Dead": {
-			"name": "Dead",
-			"description": "<p>The character&rsquo;s hit points are reduced to -10, his Constitution drops to 0, or he is killed outright by a spell or effect. The character&rsquo;s soul leaves his body. Dead characters cannot benefit from normal or magical healing, but they can be restored to life via magic. A dead body decays normally unless magically preserved, but magic that restores a dead character to life also restores the body either to full health or to its condition at the time of death (depending on the spell or device). Either way, resurrected characters need not worry about rigor mortis, decomposition, and other conditions that affect dead bodies.</p>\n<p>&nbsp;</p>"
+			"name": "Muerto",
+			"description": "<p>Un personaje está muerto cuando sus puntos de golpe se ven reducidos a -10 o menos, su Constitución desciende a 0 o muere directamente por un conjuro o efecto. El alma del personaje abandona su cuerpo. Los personajes muertos no pueden beneficiarse de la curación normal o mágica, pero pueden volver a la vida mediante la magia. Un cuerpo muerto se descompone normalmente a menos que se conserve mágicamente. La magia que devuelve la vida a un personaje muerto puede restaurar el cuerpo a su salud completa o a su condición en el momento de la muerte (dependiendo del hechizo o dispositivo). Sea como fuere, los personajes resucitados no necesitan preocuparse por el rigor mortis, la descomposición u otros problemas que suelen afectar a los cadáveres.</p>\n<p>&nbsp;</p>"
 		},
 		"Deafened": {
-			"name": "Deafened",
-			"description": "<p>A deafened character cannot hear. She takes a -4 penalty on initiative checks, automatically fails Listen checks, and has a 20% chance of spell failure when casting spells with verbal components. Characters who remain deafened for a long time grow accustomed to these drawbacks and can overcome some of them.</p>\n<p>&nbsp;</p>"
+			"name": "Ensordecido",
+			"description": "<p>Un personaje ensordecido no puede oír. Sufre un penalizador de -4 en las pruebas de iniciativa, falla automáticamente las pruebas de Escuchar y tiene un 20% de probabilidad de fallar el lanzamiento de todo conjuro que tenga un componente verbal. A discreción del DM, los personajes que permanecen sordos durante mucho tiempo se acostumbran a estos inconvenientes y pueden superar algunos de ellos.</p>\n<p>&nbsp;</p>"
 		},
 		"Disabled": {
-			"name": "Disabled",
+			"name": "Incapacitado",
 			"description": "<p>A character with 0 hit points, or one who has negative hit points but has become stable and conscious, is disabled. A disabled character may take a single move action or standard action each round (but not both, nor can she take full-round actions). She moves at half speed. Taking move actions doesn&rsquo;t risk further injury, but performing any standard action (or any other action the game master deems strenuous, including some free actions such as casting a quickened spell) deals 1 point of damage after the completion of the act. Unless the action increased the disabled character&rsquo;s hit points, she is now in negative hit points and dying.</p>\n<p>&nbsp;</p>\n<p>A disabled character with negative hit points recovers hit points naturally if she is being helped. Otherwise, each day she has a 10% chance to start recovering hit points naturally (starting with that day); otherwise, she loses 1 hit point. Once an unaided character starts recovering hit points naturally, she is no longer in danger of losing hit points (even if her current hit points are negative).</p>\n<p>&nbsp;</p>"
 		},
 		"Dying": {
