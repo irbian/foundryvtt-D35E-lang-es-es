@@ -2,7 +2,7 @@
 	"label": "Bestiario",
 	"entries": {
 		"Aboleth": {
-			"name": "Aboleth",
+			"name": "Abolez",
 			"description": ""
 		},
 		"Aboleth, Psionic": {
@@ -10,11 +10,11 @@
 			"description": ""
 		},
 		"Abyssal Greater Basilisk": {
-			"name": "Basilisco abisal mayor",
+			"name": "Gran basilisco abisal",
 			"description": ""
 		},
 		"Achaierai": {
-			"name": "Achaierai",
+			"name": "Aquerena",
 			"description": ""
 		},
 		"Adamantine Golem": {
@@ -22,11 +22,11 @@
 			"description": ""
 		},
 		"Adult Arrowhawk": {
-			"name": "Adult Arrowhawk",
+			"name": "Sagifalco adulto",
 			"description": ""
 		},
 		"Adult Tojanida": {
-			"name": "Adult Tojanida",
+			"name": "Tojanida adulta",
 			"description": ""
 		},
 		"Advanced Megaraptor Skeleton": {
@@ -62,11 +62,11 @@
 			"description": ""
 		},
 		"Air Mephit": {
-			"name": "Air Mephit",
+			"name": "Méfit",
 			"description": ""
 		},
 		"Allip": {
-			"name": "Allip",
+			"name": "Alip",
 			"description": ""
 		},
 		"Anaxim": {
@@ -74,19 +74,19 @@
 			"description": ""
 		},
 		"Androsphinx": {
-			"name": "Androsphinx",
+			"name": "Androesfinge",
 			"description": ""
 		},
 		"Angel, Astral Deva": {
-			"name": "Angel, Astral Deva",
+			"name": "Deva astral (ángel)",
 			"description": ""
 		},
 		"Angel, Planetar": {
-			"name": "Angel, Planetar",
+			"name": "Planotáreo (ángel)",
 			"description": ""
 		},
 		"Angel, Solar": {
-			"name": "Angel, Solar",
+			"name": "Solar (ángel)",
 			"description": ""
 		},
 		"Animated Object, Colossal": {
@@ -122,11 +122,11 @@
 			"description": ""
 		},
 		"Annis": {
-			"name": "Annis",
+			"name": "Annis (saga)",
 			"description": ""
 		},
 		"Ape": {
-			"name": "Ape",
+			"name": "Simio",
 			"description": ""
 		},
 		"Aranea": {
@@ -134,11 +134,11 @@
 			"description": ""
 		},
 		"Assassin Vine": {
-			"name": "Assassin Vine",
+			"name": "Enredadera asesina",
 			"description": ""
 		},
 		"Athach": {
-			"name": "Athach",
+			"name": "Atach",
 			"description": ""
 		},
 		"Atropal": {
@@ -146,7 +146,7 @@
 			"description": ""
 		},
 		"Average Salamander": {
-			"name": "Average Salamander",
+			"name": "Salamandra media",
 			"description": ""
 		},
 		"Average Xorn": {
@@ -154,7 +154,7 @@
 			"description": ""
 		},
 		"Avoral": {
-			"name": "Avoral",
+			"name": "Avoral (guardinal)",
 			"description": ""
 		},
 		"Azer": {
@@ -162,23 +162,23 @@
 			"description": ""
 		},
 		"Babau": {
-			"name": "Babau",
+			"name": "Babau (demonio)",
 			"description": ""
 		},
 		"Baboon": {
-			"name": "Baboon",
+			"name": "Mandril",
 			"description": ""
 		},
 		"Badger": {
-			"name": "Badger",
+			"name": "Tejón",
 			"description": ""
 		},
 		"Baleen Whale": {
-			"name": "Baleen Whale",
+			"name": "Ballena (cetáceo)",
 			"description": ""
 		},
 		"Balor": {
-			"name": "Balor",
+			"name": "Bálor (demonio)",
 			"description": ""
 		},
 		"Barbed Devil": {
@@ -186,39 +186,39 @@
 			"description": ""
 		},
 		"Barghest": {
-			"name": "Barghest",
+			"name": "Can trasguero (tb. barghest)",
 			"description": ""
 		},
 		"Basilisk": {
-			"name": "Basilisk",
+			"name": "Basilisco",
 			"description": ""
 		},
 		"Bat": {
-			"name": "Bat",
+			"name": "Murciélago",
 			"description": ""
 		},
 		"Bat Swarm": {
-			"name": "Bat Swarm",
+			"name": "Plaga de murciélagos",
 			"description": ""
 		},
 		"Bear, Black": {
-			"name": "Bear, Black",
+			"name": "Oso negro",
 			"description": ""
 		},
 		"Bear, Brown": {
-			"name": "Bear, Brown",
+			"name": "Oso pardo",
 			"description": ""
 		},
 		"Bear, Polar": {
-			"name": "Bear, Polar",
+			"name": "Oso polar",
 			"description": ""
 		},
 		"Bearded Devil": {
-			"name": "Bearded Devil",
+			"name": "Diablo barbado (barbazu)",
 			"description": ""
 		},
 		"Bebilith": {
-			"name": "Bebilith",
+			"name": "Bébilith",
 			"description": ""
 		},
 		"Behemoth Eagle": {
@@ -234,11 +234,11 @@
 			"description": ""
 		},
 		"Belker": {
-			"name": "Belker",
+			"name": "Bélkero",
 			"description": ""
 		},
 		"Bison": {
-			"name": "Bison",
+			"name": "Bisonte",
 			"description": ""
 		},
 		"Black Dragon, Adult": {
@@ -290,11 +290,11 @@
 			"description": ""
 		},
 		"Black Pudding": {
-			"name": "Black Pudding",
+			"name": "Pudin negro (cieno)",
 			"description": ""
 		},
 		"Blink Dog": {
-			"name": "Blink Dog",
+			"name": "Perro intermitente",
 			"description": ""
 		},
 		"Blue Dragon, Adult": {
@@ -346,7 +346,7 @@
 			"description": ""
 		},
 		"Boar": {
-			"name": "Boar",
+			"name": "Jabalí",
 			"description": ""
 		},
 		"Bodak": {
@@ -366,7 +366,7 @@
 			"description": ""
 		},
 		"Bralani": {
-			"name": "Bralani",
+			"name": "Bralani (eladrín)",
 			"description": ""
 		},
 		"Brass Dragon, Adult": {
@@ -466,7 +466,7 @@
 			"description": ""
 		},
 		"Bugbear": {
-			"name": "Bugbear",
+			"name": "Osgo (tb. trasgo gigante)",
 			"description": ""
 		},
 		"Bugbear Zombie": {
@@ -474,11 +474,11 @@
 			"description": ""
 		},
 		"Bulette": {
-			"name": "Bulette",
+			"name": "Terrarón, tiburón terrestre",
 			"description": ""
 		},
 		"Cachalot Whale": {
-			"name": "Cachalot Whale",
+			"name": "Cachalote (cetáceo)",
 			"description": ""
 		},
 		"Caller in Darkness": {
@@ -486,19 +486,19 @@
 			"description": ""
 		},
 		"Camel": {
-			"name": "Camel",
+			"name": "Camello",
 			"description": ""
 		},
 		"Cat": {
-			"name": "Cat",
+			"name": "Gato",
 			"description": ""
 		},
 		"Centaur": {
-			"name": "Centaur",
+			"name": "Centauro",
 			"description": ""
 		},
 		"Centipede Swarm": {
-			"name": "Centipede Swarm",
+			"name": "Plaga de ciempiés",
 			"description": ""
 		},
 		"Cerebrilith": {
@@ -510,11 +510,11 @@
 			"description": ""
 		},
 		"Chaos Beast": {
-			"name": "Chaos Beast",
+			"name": "Bestia del caos",
 			"description": ""
 		},
 		"Cheetah": {
-			"name": "Cheetah",
+			"name": "Guepardo",
 			"description": ""
 		},
 		"Chichimec": {
@@ -522,7 +522,7 @@
 			"description": ""
 		},
 		"Chimera": {
-			"name": "Chimera",
+			"name": "Quimera",
 			"description": ""
 		},
 		"Chimera Skeleton": {
@@ -530,39 +530,39 @@
 			"description": ""
 		},
 		"Choker": {
-			"name": "Choker",
+			"name": "Ahogador",
 			"description": ""
 		},
 		"Chuul": {
-			"name": "Chuul",
+			"name": "Khuul",
 			"description": ""
 		},
 		"Clay Golem": {
-			"name": "Clay Golem",
+			"name": "Gólem de arcilla",
 			"description": ""
 		},
 		"Cloaker": {
-			"name": "Cloaker",
+			"name": "Manto",
 			"description": ""
 		},
 		"Cloud Giant": {
-			"name": "Cloud Giant",
+			"name": "Gigante de las nubes",
 			"description": ""
 		},
 		"Cloud Giant Skeleton": {
-			"name": "Cloud Giant Skeleton",
+			"name": "Esqueleto",
 			"description": ""
 		},
 		"Cockatrice": {
-			"name": "Cockatrice",
+			"name": "Cocatriz",
 			"description": ""
 		},
 		"Constrictor Snake": {
-			"name": "Constrictor Snake",
+			"name": "Serpiente constríctor",
 			"description": ""
 		},
 		"Constrictor Snake, Giant": {
-			"name": "Constrictor Snake, Giant",
+			"name": "Serpiente constrictor gigante",
 			"description": ""
 		},
 		"Copper Dragon, Adult": {
@@ -622,15 +622,15 @@
 			"description": ""
 		},
 		"Criosphinx": {
-			"name": "Criosphinx",
+			"name": "Crioesfinge",
 			"description": ""
 		},
 		"Crocodile": {
-			"name": "Crocodile",
+			"name": "Cocodrilo",
 			"description": ""
 		},
 		"Crocodile, Giant": {
-			"name": "Crocodile, Giant",
+			"name": "Cocodrilo gigante",
 			"description": ""
 		},
 		"Crysmal": {
@@ -638,23 +638,23 @@
 			"description": ""
 		},
 		"Dark Naga": {
-			"name": "Dark Naga",
+			"name": "Naga oscura",
 			"description": ""
 		},
 		"Darkmantle": {
-			"name": "Darkmantle",
+			"name": "Mantoscuro",
 			"description": ""
 		},
 		"Deinonychus": {
-			"name": "Deinonychus",
+			"name": "Deinónico (dinosaurio)",
 			"description": ""
 		},
 		"Delver": {
-			"name": "Delver",
+			"name": "Cavador",
 			"description": ""
 		},
 		"Demilich": {
-			"name": "Demilich",
+			"name": "Liche (tb.: inánime)",
 			"description": ""
 		},
 		"Derro": {
@@ -682,75 +682,75 @@
 			"description": ""
 		},
 		"Devourer": {
-			"name": "Devourer",
+			"name": "Devorador",
 			"description": ""
 		},
 		"Digester": {
-			"name": "Digester",
+			"name": "Digestor",
 			"description": ""
 		},
 		"Dire Ape": {
-			"name": "Dire Ape",
+			"name": "Simio terrible",
 			"description": ""
 		},
 		"Dire Badger": {
-			"name": "Dire Badger",
+			"name": "Tejón terrible",
 			"description": ""
 		},
 		"Dire Bat": {
-			"name": "Dire Bat",
+			"name": "Murciélago terrible",
 			"description": ""
 		},
 		"Dire Bear": {
-			"name": "Dire Bear",
+			"name": "Oso terrible",
 			"description": ""
 		},
 		"Dire Boar": {
-			"name": "Dire Boar",
+			"name": "Jabalí terrible",
 			"description": ""
 		},
 		"Dire Lion": {
-			"name": "Dire Lion",
+			"name": "León terrible",
 			"description": ""
 		},
 		"Dire Rat": {
-			"name": "Dire Rat",
+			"name": "Rata terrible",
 			"description": ""
 		},
 		"Dire Shark": {
-			"name": "Dire Shark",
+			"name": "Tiburón terrible",
 			"description": ""
 		},
 		"Dire Tiger": {
-			"name": "Dire Tiger",
+			"name": "Tigre terrible",
 			"description": ""
 		},
 		"Dire Weasel": {
-			"name": "Dire Weasel",
+			"name": "Comadreja terrible",
 			"description": ""
 		},
 		"Dire Wolf": {
-			"name": "Dire Wolf",
+			"name": "Lobo terrible",
 			"description": ""
 		},
 		"Dire Wolverine": {
-			"name": "Dire Wolverine",
+			"name": "Glotón terrible",
 			"description": ""
 		},
 		"Djinni": {
-			"name": "Djinni",
+			"name": "Djinni (genio)",
 			"description": ""
 		},
 		"Dog": {
-			"name": "Dog",
+			"name": "Perro",
 			"description": ""
 		},
 		"Dog, Riding": {
-			"name": "Dog, Riding",
+			"name": "Perro de monta",
 			"description": ""
 		},
 		"Donkey": {
-			"name": "Donkey",
+			"name": "Burro",
 			"description": ""
 		},
 		"Doppelganger": {
@@ -758,15 +758,15 @@
 			"description": ""
 		},
 		"Dragon Turtle": {
-			"name": "Dragon Turtle",
+			"name": "Dragón tortuga",
 			"description": ""
 		},
 		"Dragonne": {
-			"name": "Dragonne",
+			"name": "Dregón",
 			"description": ""
 		},
 		"Dread Wraith": {
-			"name": "Dread Wraith",
+			"name": "Incorpóreo aterrador",
 			"description": ""
 		},
 		"Dream Larva": {
@@ -774,27 +774,27 @@
 			"description": ""
 		},
 		"Dretch": {
-			"name": "Dretch",
+			"name": "Gibado (demonio)",
 			"description": ""
 		},
 		"Drider": {
-			"name": "Drider",
+			"name": "Draña",
 			"description": ""
 		},
 		"Dryad": {
-			"name": "Dryad",
+			"name": "Dríada",
 			"description": ""
 		},
 		"Dust Mephit": {
-			"name": "Dust Mephit",
+			"name": "Méfit de polvo",
 			"description": ""
 		},
 		"Eagle": {
-			"name": "Eagle",
+			"name": "Águila",
 			"description": ""
 		},
 		"Eagle, Giant": {
-			"name": "Eagle, Giant",
+			"name": "Águila gigante",
 			"description": ""
 		},
 		"Earth Elemental, Elder": {
@@ -826,11 +826,11 @@
 			"description": ""
 		},
 		"Earth Mephit": {
-			"name": "Earth Mephit",
+			"name": "Méfit de tierra",
 			"description": ""
 		},
 		"Efreeti": {
-			"name": "Efreeti",
+			"name": "Ifriti (genio)",
 			"description": ""
 		},
 		"Eight-Headed Hydra": {
@@ -838,7 +838,7 @@
 			"description": ""
 		},
 		"Elasmosaurus": {
-			"name": "Elasmosaurus",
+			"name": "Elasmosauro (dinosaurio)",
 			"description": ""
 		},
 		"Elder Arrowhawk": {
@@ -858,7 +858,7 @@
 			"description": ""
 		},
 		"Elephant": {
-			"name": "Elephant",
+			"name": "Elefante",
 			"description": ""
 		},
 		"Eleven-Headed Hydra": {
@@ -866,23 +866,23 @@
 			"description": ""
 		},
 		"Erinyes": {
-			"name": "Erinyes",
+			"name": "Erinia (diablo)",
 			"description": ""
 		},
 		"Ethereal Filcher": {
-			"name": "Ethereal Filcher",
+			"name": "Birlador etéreo",
 			"description": ""
 		},
 		"Ethereal Marauder": {
-			"name": "Ethereal Marauder",
+			"name": "Merodeador etéreo",
 			"description": ""
 		},
 		"Ettercap": {
-			"name": "Ettercap",
+			"name": "Trácnido",
 			"description": ""
 		},
 		"Ettin": {
-			"name": "Ettin",
+			"name": "Ettin (tb. gigante de dos cabezas)",
 			"description": ""
 		},
 		"Ettin Skeleton": {
@@ -918,11 +918,11 @@
 			"description": ""
 		},
 		"Fire Giant": {
-			"name": "Fire Giant",
+			"name": "Gigante del fuego",
 			"description": ""
 		},
 		"Fire Mephit": {
-			"name": "Fire Mephit",
+			"name": "Méfit de fuego",
 			"description": ""
 		},
 		"Five-Headed Hydra": {
@@ -930,7 +930,7 @@
 			"description": ""
 		},
 		"Flamebrother Salamander": {
-			"name": "Flamebrother Salamander",
+			"name": "Flámico",
 			"description": ""
 		},
 		"Flesh Colossus": {
@@ -938,7 +938,7 @@
 			"description": ""
 		},
 		"Flesh Golem": {
-			"name": "Flesh Golem",
+			"name": "Gólem de carne",
 			"description": ""
 		},
 		"Folugub": {
@@ -994,39 +994,39 @@
 			"description": ""
 		},
 		"Formian Myrmarch": {
-			"name": "Formian Myrmarch",
+			"name": "Formicida myrmarca",
 			"description": ""
 		},
 		"Formian Queen": {
-			"name": "Formian Queen",
+			"name": "Formícida reina",
 			"description": ""
 		},
 		"Formian Taskmaster": {
-			"name": "Formian Taskmaster",
+			"name": "Formicida capataz",
 			"description": ""
 		},
 		"Formian Warrior": {
-			"name": "Formian Warrior",
+			"name": "Formicida soldado",
 			"description": ""
 		},
 		"Formian Worker": {
-			"name": "Formian Worker",
+			"name": "Formicida obrera",
 			"description": ""
 		},
 		"Frost Giant": {
-			"name": "Frost Giant",
+			"name": "Gigante de la escarcha",
 			"description": ""
 		},
 		"Frost Worm": {
-			"name": "Frost Worm",
+			"name": "Gusano de la escarcha",
 			"description": ""
 		},
 		"Gargoyle": {
-			"name": "Gargoyle",
+			"name": "Gárgola",
 			"description": ""
 		},
 		"Gelatinous Cube": {
-			"name": "Gelatinous Cube",
+			"name": "Cubo gelatinoso (cieno)",
 			"description": ""
 		},
 		"Genius Loci": {
@@ -1034,55 +1034,55 @@
 			"description": ""
 		},
 		"Ghaele": {
-			"name": "Ghaele",
+			"name": "Ghaele (eladrín)",
 			"description": ""
 		},
 		"Ghast": {
-			"name": "Ghast",
+			"name": "Necrario",
 			"description": ""
 		},
 		"Ghoul": {
-			"name": "Ghoul",
+			"name": "Necrófago (tb. ghul)",
 			"description": ""
 		},
 		"Giant Ant, Queen": {
-			"name": "Giant Ant, Queen",
+			"name": "Hormiga gigante, reina",
 			"description": ""
 		},
 		"Giant Ant, Soldier": {
-			"name": "Giant Ant, Soldier",
+			"name": "Hormiga gigante, soldado",
 			"description": ""
 		},
 		"Giant Ant, Worker": {
-			"name": "Giant Ant, Worker",
+			"name": "Hormiga gigante, obrera",
 			"description": ""
 		},
 		"Giant Bee": {
-			"name": "Giant Bee",
+			"name": "Abeja gigante",
 			"description": ""
 		},
 		"Giant Bombardier Beetle": {
-			"name": "Giant Bombardier Beetle",
+			"name": "Escarabajo bombardero gigante",
 			"description": ""
 		},
 		"Giant Fire Beetle": {
-			"name": "Giant Fire Beetle",
+			"name": "Escarabajo de fuego gigante",
 			"description": ""
 		},
 		"Giant Praying Mantis": {
-			"name": "Giant Praying Mantis",
+			"name": "Mantis religiosa gigante",
 			"description": ""
 		},
 		"Giant Stag Beetle": {
-			"name": "Giant Stag Beetle",
+			"name": "Escarabajo astado gigante",
 			"description": ""
 		},
 		"Giant Wasp": {
-			"name": "Giant Wasp",
+			"name": "Avispa gigante",
 			"description": ""
 		},
 		"Gibbering Mouther": {
-			"name": "Gibbering Mouther",
+			"name": "Bocón barbotante",
 			"description": ""
 		},
 		"Gibbering Orb": {
@@ -1090,11 +1090,11 @@
 			"description": ""
 		},
 		"Girallon": {
-			"name": "Girallon",
+			"name": "Guiralón",
 			"description": ""
 		},
 		"Glabrezu": {
-			"name": "Glabrezu",
+			"name": "Glabrezu (demonio)",
 			"description": ""
 		},
 		"Gloom": {
@@ -1154,11 +1154,11 @@
 			"description": ""
 		},
 		"Golden Protector (Celestial Half-Dragon Lammasu)": {
-			"name": "Golden Protector (Celestial Half-Dragon Lammasu)",
+			"name": "Protector dorado (lamasu)",
 			"description": ""
 		},
 		"Gorgon": {
-			"name": "Gorgon",
+			"name": "Gorgón",
 			"description": ""
 		},
 		"Gray Glutton": {
@@ -1166,11 +1166,11 @@
 			"description": ""
 		},
 		"Gray Ooze": {
-			"name": "Gray Ooze",
+			"name": "Cieno gris (cieno)",
 			"description": ""
 		},
 		"Gray Render": {
-			"name": "Gray Render",
+			"name": "Desgarrador gris",
 			"description": ""
 		},
 		"Gray Render Zombie": {
@@ -1178,15 +1178,15 @@
 			"description": ""
 		},
 		"Greater Barghest": {
-			"name": "Greater Barghest",
+			"name": "Can trasguero mayor",
 			"description": ""
 		},
 		"Greater Shadow": {
-			"name": "Greater Shadow",
+			"name": "Sombra mayor",
 			"description": ""
 		},
 		"Greater Stone Golem": {
-			"name": "Greater Stone Golem",
+			"name": "Golem de piedra mayor",
 			"description": ""
 		},
 		"Green Dragon, Adult": {
@@ -1238,31 +1238,31 @@
 			"description": ""
 		},
 		"Green Hag": {
-			"name": "Green Hag",
+			"name": "Saga cetrina",
 			"description": ""
 		},
 		"Grick": {
-			"name": "Grick",
+			"name": "Gric",
 			"description": ""
 		},
 		"Griffon": {
-			"name": "Griffon",
+			"name": "Grifo",
 			"description": ""
 		},
 		"Grig": {
-			"name": "Grig",
+			"name": "Gric",
 			"description": ""
 		},
 		"Grimlock": {
-			"name": "Grimlock",
+			"name": "Grimórlock",
 			"description": ""
 		},
 		"Guardian Naga": {
-			"name": "Guardian Naga",
+			"name": "Naga guardiana",
 			"description": ""
 		},
 		"Gynosphinx": {
-			"name": "Gynosphinx",
+			"name": "Ginoesfinge",
 			"description": ""
 		},
 		"Ha-Naga": {
@@ -1274,11 +1274,11 @@
 			"description": ""
 		},
 		"Harpy": {
-			"name": "Harpy",
+			"name": "Arpía",
 			"description": ""
 		},
 		"Hawk": {
-			"name": "Hawk",
+			"name": "Halcón",
 			"description": ""
 		},
 		"Hecatoncheires": {
@@ -1290,23 +1290,23 @@
 			"description": ""
 		},
 		"Hellhound": {
-			"name": "Hellhound",
+			"name": "Can del infierno",
 			"description": ""
 		},
 		"Hellwasp Swarm": {
-			"name": "Hellwasp Swarm",
+			"name": "Plaga de avispas infernales",
 			"description": ""
 		},
 		"Hezrou": {
-			"name": "Hezrou",
+			"name": "Hezrou (demonio)",
 			"description": ""
 		},
 		"Hieracosphinx": {
-			"name": "Hieracosphinx",
+			"name": "Hieracoesfinge",
 			"description": ""
 		},
 		"Hill Giant": {
-			"name": "Hill Giant",
+			"name": "Gigante de las colinas",
 			"description": ""
 		},
 		"Hill Giant Dire Wereboar Dire Boar Form": {
@@ -1322,7 +1322,7 @@
 			"description": ""
 		},
 		"Hippogriff": {
-			"name": "Hippogriff",
+			"name": "Hipogrifo",
 			"description": ""
 		},
 		"Hoary Hunter": {
@@ -1334,7 +1334,7 @@
 			"description": ""
 		},
 		"Homunculus": {
-			"name": "Homunculus",
+			"name": "Homúnculo",
 			"description": ""
 		},
 		"Horned Devil": {
@@ -1342,19 +1342,19 @@
 			"description": ""
 		},
 		"Horse, Heavy": {
-			"name": "Horse, Heavy",
+			"name": "Caballo pesado",
 			"description": ""
 		},
 		"Horse, Light": {
-			"name": "Horse, Light",
+			"name": "Caballo ligero",
 			"description": ""
 		},
 		"Hound Archon": {
-			"name": "Hound Archon",
+			"name": "Canarconte",
 			"description": ""
 		},
 		"Howler": {
-			"name": "Howler",
+			"name": "Aullador",
 			"description": ""
 		},
 		"Human Commoner Zombie": {
@@ -1370,7 +1370,7 @@
 			"description": ""
 		},
 		"Hyena": {
-			"name": "Hyena",
+			"name": "Hiena",
 			"description": ""
 		},
 		"Ice Devil": {
@@ -1378,11 +1378,11 @@
 			"description": ""
 		},
 		"Ice Mephit": {
-			"name": "Ice Mephit",
+			"name": "Méfit dehielo",
 			"description": ""
 		},
 		"Imp": {
-			"name": "Imp",
+			"name": "Diablillo (diablo)",
 			"description": ""
 		},
 		"Infernal": {
@@ -1394,7 +1394,7 @@
 			"description": ""
 		},
 		"Invisible Stalker": {
-			"name": "Invisible Stalker",
+			"name": "Acechador invisible",
 			"description": ""
 		},
 		"Iron Colossus": {
@@ -1402,11 +1402,11 @@
 			"description": ""
 		},
 		"Iron Golem": {
-			"name": "Iron Golem",
+			"name": "Gólem ehierro",
 			"description": ""
 		},
 		"Janni": {
-			"name": "Janni",
+			"name": "Janni (genio)",
 			"description": ""
 		},
 		"Juvenile Arrowhawk": {
@@ -1426,11 +1426,11 @@
 			"description": ""
 		},
 		"Krenshar": {
-			"name": "Krenshar",
+			"name": "Krénshar",
 			"description": ""
 		},
 		"Lacedon": {
-			"name": "Lacedon",
+			"name": "Lacedón",
 			"description": ""
 		},
 		"Lamia": {
@@ -1438,11 +1438,11 @@
 			"description": ""
 		},
 		"Lammasu": {
-			"name": "Lammasu",
+			"name": "Lamasu",
 			"description": ""
 		},
 		"Lantern Archon": {
-			"name": "Lantern Archon",
+			"name": "Lamparconte",
 			"description": ""
 		},
 		"Lavawight": {
@@ -1458,11 +1458,11 @@
 			"description": ""
 		},
 		"Leonal": {
-			"name": "Leonal",
+			"name": "Leonal (guardinal)",
 			"description": ""
 		},
 		"Leopard": {
-			"name": "Leopard",
+			"name": "Leopardo",
 			"description": ""
 		},
 		"Leshay": {
@@ -1470,11 +1470,11 @@
 			"description": ""
 		},
 		"Lillend": {
-			"name": "Lillend",
+			"name": "Lilenda",
 			"description": ""
 		},
 		"Lion": {
-			"name": "Lion",
+			"name": "León",
 			"description": ""
 		},
 		"Living Vault": {
@@ -1482,15 +1482,15 @@
 			"description": ""
 		},
 		"Lizard": {
-			"name": "Lizard",
+			"name": "Lagarto",
 			"description": ""
 		},
 		"Lizard, Monitor": {
-			"name": "Lizard, Monitor",
+			"name": "Lagarto gigante",
 			"description": ""
 		},
 		"Lizardfolk": {
-			"name": "Lizardfolk",
+			"name": "Hombre lagarto",
 			"description": ""
 		},
 		"Locathah": {
@@ -1498,31 +1498,31 @@
 			"description": ""
 		},
 		"Locust Swarm": {
-			"name": "Locust Swarm",
+			"name": "Plaga de langostas",
 			"description": ""
 		},
 		"Magma Mephit": {
-			"name": "Magma Mephit",
+			"name": "Méfit de magma",
 			"description": ""
 		},
 		"Magmin": {
-			"name": "Magmin",
+			"name": "Magmino",
 			"description": ""
 		},
 		"Manta Ray": {
-			"name": "Manta Ray",
+			"name": "Mantarraya",
 			"description": ""
 		},
 		"Manticore": {
-			"name": "Manticore",
+			"name": "Mantícora",
 			"description": ""
 		},
 		"Marilith": {
-			"name": "Marilith",
+			"name": "Márilith (demonio)",
 			"description": ""
 		},
 		"Marut": {
-			"name": "Marut",
+			"name": "Marut (inevitable)",
 			"description": ""
 		},
 		"Medusa": {
@@ -1530,7 +1530,7 @@
 			"description": ""
 		},
 		"Megaraptor": {
-			"name": "Megaraptor",
+			"name": "Megarraptor (dinosaurio)",
 			"description": ""
 		},
 		"Mercane": {
@@ -1538,7 +1538,7 @@
 			"description": ""
 		},
 		"Mimic": {
-			"name": "Mimic",
+			"name": "Mimeto",
 			"description": ""
 		},
 		"Minor Xorn": {
@@ -1546,7 +1546,7 @@
 			"description": ""
 		},
 		"Minotaur": {
-			"name": "Minotaur",
+			"name": "Minotauro",
 			"description": ""
 		},
 		"Minotaur Zombie": {
@@ -1562,7 +1562,7 @@
 			"description": ""
 		},
 		"Monkey": {
-			"name": "Monkey",
+			"name": "Mono",
 			"description": ""
 		},
 		"Monstrous Centipede, Colossal": {
@@ -1654,15 +1654,15 @@
 			"description": ""
 		},
 		"Mule": {
-			"name": "Mule",
+			"name": "Mulo",
 			"description": ""
 		},
 		"Mummy": {
-			"name": "Mummy",
+			"name": "Momia",
 			"description": ""
 		},
 		"Nalfeshnee": {
-			"name": "Nalfeshnee",
+			"name": "Nalfeshni (demonio)",
 			"description": ""
 		},
 		"Neh-Thalggu": {
@@ -1674,15 +1674,15 @@
 			"description": ""
 		},
 		"Nessian Warhound": {
-			"name": "Nessian Warhound",
+			"name": "Perro de guerra nessiano (can del infierno)",
 			"description": ""
 		},
 		"Night Hag": {
-			"name": "Night Hag",
+			"name": "Saga nocturna",
 			"description": ""
 		},
 		"Nightcrawler": {
-			"name": "Nightcrawler",
+			"name": "Noctoruga (noctumbra)",
 			"description": ""
 		},
 		"Nightmare": {
@@ -1690,15 +1690,15 @@
 			"description": ""
 		},
 		"Nightmare, Cauchemar": {
-			"name": "Nightmare, Cauchemar",
+			"name": "Cauchemar (pesadilla)",
 			"description": ""
 		},
 		"Nightwalker": {
-			"name": "Nightwalker",
+			"name": "Noctámbulo (noctumbra)",
 			"description": ""
 		},
 		"Nightwing": {
-			"name": "Nightwing",
+			"name": "Noctala (noctumbra)",
 			"description": ""
 		},
 		"Nine-Headed Hydra": {
@@ -1706,35 +1706,35 @@
 			"description": ""
 		},
 		"Nixie": {
-			"name": "Nixie",
+			"name": "Nixi (duende)",
 			"description": ""
 		},
 		"Noble Salamander": {
-			"name": "Noble Salamander",
+			"name": "Salamandra noble",
 			"description": ""
 		},
 		"Nymph": {
-			"name": "Nymph",
+			"name": "Ninfa",
 			"description": ""
 		},
 		"Ochre Jelly": {
-			"name": "Ochre Jelly",
+			"name": "Gelatina ocre (cieno)",
 			"description": ""
 		},
 		"Octopus": {
-			"name": "Octopus",
+			"name": "Pulpo",
 			"description": ""
 		},
 		"Octopus, Giant": {
-			"name": "Octopus, Giant",
+			"name": "Pulpo gigante",
 			"description": ""
 		},
 		"Ogre": {
-			"name": "Ogre",
+			"name": "Ogro",
 			"description": ""
 		},
 		"Ogre Mage": {
-			"name": "Ogre Mage",
+			"name": "Ogro hechicero",
 			"description": ""
 		},
 		"Ogre Zombie": {
@@ -1742,11 +1742,11 @@
 			"description": ""
 		},
 		"Ooze Mephit": {
-			"name": "Ooze Mephit",
+			"name": "Méfit de cieno",
 			"description": ""
 		},
 		"Orca": {
-			"name": "Orca",
+			"name": "Orco",
 			"description": ""
 		},
 		"Otyugh": {
@@ -1754,15 +1754,15 @@
 			"description": ""
 		},
 		"Owl": {
-			"name": "Owl",
+			"name": "Búho (o lechuza)",
 			"description": ""
 		},
 		"Owl, Giant": {
-			"name": "Owl, Giant",
+			"name": "Lechuza (o búho) gigante",
 			"description": ""
 		},
 		"Owlbear": {
-			"name": "Owlbear",
+			"name": "Oso lechuza",
 			"description": ""
 		},
 		"Owlbear Skeleton": {
@@ -1770,7 +1770,7 @@
 			"description": ""
 		},
 		"Pegasus": {
-			"name": "Pegasus",
+			"name": "Pegaso",
 			"description": ""
 		},
 		"Phaethon": {
@@ -1782,15 +1782,15 @@
 			"description": ""
 		},
 		"Phantom Fungus": {
-			"name": "Phantom Fungus",
+			"name": "Hongo fantasmal",
 			"description": ""
 		},
 		"Phase Spider": {
-			"name": "Phase Spider",
+			"name": "Araña de fase",
 			"description": ""
 		},
 		"Phasm": {
-			"name": "Phasm",
+			"name": "Fasmo",
 			"description": ""
 		},
 		"Phthisic": {
@@ -1798,11 +1798,11 @@
 			"description": ""
 		},
 		"Pit Fiend": {
-			"name": "Pit Fiend",
+			"name": "Diablo de la sima (diablo)",
 			"description": ""
 		},
 		"Pixie": {
-			"name": "Pixie",
+			"name": "Pixi (duende)",
 			"description": ""
 		},
 		"Pony": {
@@ -1810,11 +1810,11 @@
 			"description": ""
 		},
 		"Pony, War": {
-			"name": "Pony, War",
+			"name": "Poni de guerra",
 			"description": ""
 		},
 		"Porpoise": {
-			"name": "Porpoise",
+			"name": "Marsopa",
 			"description": ""
 		},
 		"Prismasaurus": {
@@ -1870,7 +1870,7 @@
 			"description": ""
 		},
 		"Pseudodragon": {
-			"name": "Pseudodragon",
+			"name": "Pseudodragón",
 			"description": ""
 		},
 		"Pseudonatural Troll": {
@@ -1894,11 +1894,11 @@
 			"description": ""
 		},
 		"Purple Worm": {
-			"name": "Purple Worm",
+			"name": "Gusano púrpura",
 			"description": ""
 		},
 		"Quasit": {
-			"name": "Quasit",
+			"name": "Quásit (demonio)",
 			"description": ""
 		},
 		"Rakshasa": {
@@ -1906,23 +1906,23 @@
 			"description": ""
 		},
 		"Rast": {
-			"name": "Rast",
+			"name": "Rasto",
 			"description": ""
 		},
 		"Rat": {
-			"name": "Rat",
+			"name": "Rata",
 			"description": ""
 		},
 		"Rat Swarm": {
-			"name": "Rat Swarm",
+			"name": "Plaga de ratas",
 			"description": ""
 		},
 		"Raven": {
-			"name": "Raven",
+			"name": "Cuervo",
 			"description": ""
 		},
 		"Ravid": {
-			"name": "Ravid",
+			"name": "Rávido",
 			"description": ""
 		},
 		"Red Dragon, Adult": {
@@ -1978,11 +1978,11 @@
 			"description": ""
 		},
 		"Retriever": {
-			"name": "Retriever",
+			"name": "Cobrador (demonio)",
 			"description": ""
 		},
 		"Rhinoceros": {
-			"name": "Rhinoceros",
+			"name": "Rinoceronte",
 			"description": ""
 		},
 		"Roc": {
@@ -1990,7 +1990,7 @@
 			"description": ""
 		},
 		"Roper": {
-			"name": "Roper",
+			"name": "Morfolito (tb. morfópodo)",
 			"description": ""
 		},
 		"Ruin Swarm": {
@@ -1998,27 +1998,27 @@
 			"description": ""
 		},
 		"Rust Monster": {
-			"name": "Rust Monster",
+			"name": "Monstruo corrosivo",
 			"description": ""
 		},
 		"Sahuagin": {
-			"name": "Sahuagin",
+			"name": "Sajuaguin",
 			"description": ""
 		},
 		"Salt Mephit": {
-			"name": "Salt Mephit",
+			"name": "Méfit de sal",
 			"description": ""
 		},
 		"Satyr": {
-			"name": "Satyr",
+			"name": "Sátiro, fauno",
 			"description": ""
 		},
 		"Sea Cat": {
-			"name": "Sea Cat",
+			"name": "León marino",
 			"description": ""
 		},
 		"Sea Hag": {
-			"name": "Sea Hag",
+			"name": "Saga marina",
 			"description": ""
 		},
 		"Seven-Headed Hydra": {
@@ -2026,11 +2026,11 @@
 			"description": ""
 		},
 		"Shadow": {
-			"name": "Sombras (de las)",
+			"name": "Sombra",
 			"description": ""
 		},
 		"Shadow Mastiff": {
-			"name": "Shadow Mastiff",
+			"name": "Mastín sombrio",
 			"description": ""
 		},
 		"Shadow of the Void": {
@@ -2038,7 +2038,7 @@
 			"description": ""
 		},
 		"Shambling Mound": {
-			"name": "Shambling Mound",
+			"name": "Broza movediza (tb. broza o masa bamboleante)",
 			"description": ""
 		},
 		"Shape of Fire": {
@@ -2058,15 +2058,15 @@
 			"description": ""
 		},
 		"Shield Guardian": {
-			"name": "Shield Guardian",
+			"name": "Guardián escudo",
 			"description": ""
 		},
 		"Shocker Lizard": {
-			"name": "Shocker Lizard",
+			"name": "Lagarto electrizante",
 			"description": ""
 		},
 		"Shrieker": {
-			"name": "Shrieker",
+			"name": "Chillón (hongo)",
 			"description": ""
 		},
 		"Silver Dragon, Adult": {
@@ -2126,7 +2126,7 @@
 			"description": ""
 		},
 		"Skum": {
-			"name": "Skum",
+			"name": "Espumarjo",
 			"description": ""
 		},
 		"Snake, Huge Viper": {
@@ -2150,35 +2150,35 @@
 			"description": ""
 		},
 		"Spectre": {
-			"name": "Spectre",
+			"name": "Espectro",
 			"description": ""
 		},
 		"Spider Eater": {
-			"name": "Spider Eater",
+			"name": "Aracnófago",
 			"description": ""
 		},
 		"Spider Swarm": {
-			"name": "Spider Swarm",
+			"name": "Plaga de arañas",
 			"description": ""
 		},
 		"Spirit Naga": {
-			"name": "Spirit Naga",
+			"name": "Naga espiritual",
 			"description": ""
 		},
 		"Squid": {
-			"name": "Squid",
+			"name": "Calamar",
 			"description": ""
 		},
 		"Squid, Giant": {
-			"name": "Squid, Giant",
+			"name": "Calamar gigante",
 			"description": ""
 		},
 		"Steam Mephit": {
-			"name": "Steam Mephit",
+			"name": "Méfit de vapor",
 			"description": ""
 		},
 		"Stirge": {
-			"name": "Stirge",
+			"name": "Estirge",
 			"description": ""
 		},
 		"Stone Colossus": {
@@ -2186,23 +2186,23 @@
 			"description": ""
 		},
 		"Stone Giant": {
-			"name": "Stone Giant",
+			"name": "Gigante de piedra",
 			"description": ""
 		},
 		"Stone Golem": {
-			"name": "Stone Golem",
+			"name": "Gólem de piedra",
 			"description": ""
 		},
 		"Storm Giant": {
-			"name": "Storm Giant",
+			"name": "Gigante de la tormenta",
 			"description": ""
 		},
 		"Succubus": {
-			"name": "Succubus",
+			"name": "Súcubo (demonio)",
 			"description": ""
 		},
 		"Tarrasque": {
-			"name": "Tarrasque",
+			"name": "Tarasca",
 			"description": ""
 		},
 		"Tayellah": {
@@ -2218,7 +2218,7 @@
 			"description": ""
 		},
 		"Tendriculos": {
-			"name": "Tendriculos",
+			"name": "Zarcículos",
 			"description": ""
 		},
 		"Thoqqua": {
@@ -2234,7 +2234,7 @@
 			"description": ""
 		},
 		"Thought Slayer": {
-			"name": "Thought Slayer",
+			"name": "Azotamentes, ilícido",
 			"description": ""
 		},
 		"Three-Headed Sirrush": {
@@ -2242,11 +2242,11 @@
 			"description": ""
 		},
 		"Tiger": {
-			"name": "Tiger",
+			"name": "Tigre",
 			"description": ""
 		},
 		"Titan": {
-			"name": "Titan",
+			"name": "Titán",
 			"description": ""
 		},
 		"Titan, Elder": {
@@ -2254,11 +2254,11 @@
 			"description": ""
 		},
 		"Toad": {
-			"name": "Toad",
+			"name": "Sapo",
 			"description": ""
 		},
 		"Treant": {
-			"name": "Treant",
+			"name": "Ent. treant",
 			"description": ""
 		},
 		"Treant, Elder": {
@@ -2266,15 +2266,15 @@
 			"description": ""
 		},
 		"Triceratops": {
-			"name": "Triceratops",
+			"name": "Tricerátopo (dinosaurio)",
 			"description": ""
 		},
 		"Triton": {
-			"name": "Triton",
+			"name": "Tritón",
 			"description": ""
 		},
 		"Troglodyte": {
-			"name": "Troglodyte",
+			"name": "Saurión (tb. paleosaurio o troglodita)",
 			"description": ""
 		},
 		"Troglodyte Zombie": {
@@ -2282,7 +2282,7 @@
 			"description": ""
 		},
 		"Troll": {
-			"name": "Troll",
+			"name": "Trol",
 			"description": ""
 		},
 		"Troll Skeleton": {
@@ -2290,7 +2290,7 @@
 			"description": ""
 		},
 		"Trumpet Archon": {
-			"name": "Trumpet Archon",
+			"name": "Clangarconte",
 			"description": ""
 		},
 		"Twelve-Headed Hydra": {
@@ -2298,7 +2298,7 @@
 			"description": ""
 		},
 		"Tyrannosaurus": {
-			"name": "Tyrannosaurus",
+			"name": "Tiranosaurio (dinosaurio)",
 			"description": ""
 		},
 		"Udoroot": {
@@ -2314,15 +2314,15 @@
 			"description": ""
 		},
 		"Unicorn": {
-			"name": "Unicorn",
+			"name": "Unicomio",
 			"description": ""
 		},
 		"Uvuudaum": {
-			"name": "Uvuudaum",
+			"name": "Espumarjo",
 			"description": ""
 		},
 		"Vampire Spawn": {
-			"name": "Vampire Spawn",
+			"name": "Engendro vamplrico",
 			"description": ""
 		},
 		"Vargouille": {
@@ -2334,19 +2334,19 @@
 			"description": ""
 		},
 		"Violet Fungus": {
-			"name": "Violet Fungus",
+			"name": "Hongo violáceo",
 			"description": ""
 		},
 		"Vrock": {
-			"name": "Vrock",
+			"name": "Vroc (demonio)",
 			"description": ""
 		},
 		"Warhorse, Heavy": {
-			"name": "Warhorse, Heavy",
+			"name": "Caballo de guerra pesado",
 			"description": ""
 		},
 		"Warhorse, Light": {
-			"name": "Warhorse, Light",
+			"name": "Caballo de guerra ligero",
 			"description": ""
 		},
 		"Water Elemental, Elder": {
@@ -2378,15 +2378,15 @@
 			"description": ""
 		},
 		"Water Mephit": {
-			"name": "Water Mephit",
+			"name": "Méfit de agua",
 			"description": ""
 		},
 		"Water Naga": {
-			"name": "Water Naga",
+			"name": "Naga acuática",
 			"description": ""
 		},
 		"Weasel": {
-			"name": "Weasel",
+			"name": "Comadreja",
 			"description": ""
 		},
 		"Werebear, Bear Form": {
@@ -2458,7 +2458,7 @@
 			"description": ""
 		},
 		"Werewolf, Wolf Form": {
-			"name": "Werewolf, Wolf Form",
+			"name": "Lobo temble",
 			"description": ""
 		},
 		"White Dragon, Adult": {
@@ -2510,15 +2510,15 @@
 			"description": ""
 		},
 		"Wight": {
-			"name": "Wight",
+			"name": "Tumulario",
 			"description": ""
 		},
 		"Will-O'-Wisp": {
-			"name": "Will-O'-Wisp",
+			"name": "Fuego fatuo",
 			"description": ""
 		},
 		"Winter Wolf": {
-			"name": "Winter Wolf",
+			"name": "Lobo invernal",
 			"description": ""
 		},
 		"Winterwight": {
@@ -2526,7 +2526,7 @@
 			"description": ""
 		},
 		"Wolf": {
-			"name": "Wolf",
+			"name": "Lobo",
 			"description": ""
 		},
 		"Wolf Skeleton": {
@@ -2534,11 +2534,11 @@
 			"description": ""
 		},
 		"Wolverine": {
-			"name": "Wolverine",
+			"name": "Glotón",
 			"description": ""
 		},
 		"Worg": {
-			"name": "Worg",
+			"name": "Huargo (tb. worgo o wargo)",
 			"description": ""
 		},
 		"Worm that Walks": {
@@ -2546,11 +2546,11 @@
 			"description": ""
 		},
 		"Wraith": {
-			"name": "Wraith",
+			"name": "Incorpóreo",
 			"description": ""
 		},
 		"Wyvern": {
-			"name": "Wyvern",
+			"name": "Draco (tb. wyvem)",
 			"description": ""
 		},
 		"Wyvern Zombie": {
@@ -2558,7 +2558,7 @@
 			"description": ""
 		},
 		"Xill": {
-			"name": "Xill",
+			"name": "Xilo",
 			"description": ""
 		},
 		"Xixecal": {
@@ -2566,7 +2566,7 @@
 			"description": ""
 		},
 		"Yeth Hound": {
-			"name": "Yeth Hound",
+			"name": "Sabueso yez",
 			"description": ""
 		},
 		"Young Adult Red Dragon Skeleton": {
@@ -2578,7 +2578,7 @@
 			"description": ""
 		},
 		"Zelekhut": {
-			"name": "Zelekhut",
+			"name": "Zelekhut (inevitable)",
 			"description": ""
 		}
 	}

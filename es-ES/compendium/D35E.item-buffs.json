@@ -1,8 +1,8 @@
 {
-	"label": "Item Buffs",
+	"label": "Mejoras de objetos (Item buffs)",
 	"entries": {
 		"Tome of Undestanding Bonus": {
-			"name": "Tome of Undestanding Bonus",
+			"name": "Bonificador del tomo de entendimiento",
 			"description": ""
 		}
 	}

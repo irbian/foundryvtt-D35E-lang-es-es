@@ -1,28 +1,28 @@
 {
-	"label": "Minions (Familiars, Animal Companions)",
+	"label": "Esbirros (Familiares, Compañeros animales)",
 	"entries": {
 		"Bat": {
-			"name": "Bat",
+			"name": "Murciélago",
 			"description": ""
 		},
 		"Cat": {
-			"name": "Cat",
+			"name": "Gato",
 			"description": ""
 		},
 		"Hawk": {
-			"name": "Hawk",
+			"name": "Halcón",
 			"description": ""
 		},
 		"Lizard": {
-			"name": "Lizard",
+			"name": "Lagarto",
 			"description": ""
 		},
 		"Owl": {
-			"name": "Owl",
+			"name": "Búho (o lechuza)",
 			"description": ""
 		},
 		"Paladin Mount, Heavy War Horse": {
-			"name": "Paladin Mount, Heavy War Horse",
+			"name": "Montura del Paladín, caballo de guerra pesado",
 			"description": ""
 		},
 		"Psicrystal": {
@@ -30,23 +30,23 @@
 			"description": ""
 		},
 		"Rat": {
-			"name": "Rat",
+			"name": "Rata",
 			"description": ""
 		},
 		"Raven": {
-			"name": "Raven",
+			"name": "Cuervo",
 			"description": ""
 		},
 		"Snake, Tiny Viper": {
-			"name": "Snake, Tiny Viper",
+			"name": "Serpiente, víbora menuda",
 			"description": ""
 		},
 		"Toad": {
-			"name": "Toad",
+			"name": "Sapo",
 			"description": ""
 		},
 		"Weasel": {
-			"name": "Weasel",
+			"name": "Comadreja",
 			"description": ""
 		}
 	}

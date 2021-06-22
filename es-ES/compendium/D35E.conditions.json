@@ -1,125 +1,125 @@
 {
-	"label": "Condiciones",
+	"label": "Estados",
 	"entries": {
 		"Ability Damaged": {
-			"name": "Daño de Habilidad",
-			"description": "<p>El personaje ha perdido temporalmente 1 ó más puntos de puntuación de habilidad. Los puntos perdidos regresan a una tasa de 1 por día a menos que la condición que ocasione el daño indique lo contrario. Un personaje con Fuerza 0 cae al suelo y queda indefenso. Un personaje con Destreza 0 queda paralizado. Un personaje con Constitución 0 está muerto. Un personaje con Inteligencia, Sabiduría o Carisma 0 está inconsciente. El daño de habilidad es diferente de las penalizaciones a las puntuaciones de habilidad, que desaparecen cuando las condiciones que las causan desaparecen.</p>"
+			"name": "Característica dañada",
+			"description": "<p>El personaje ha perdido temporalmente 1 ó más puntos de puntuación de característica. Los puntos perdidos se recuperan a un ritmo de 1 por día a menos que la descripción del ataque o aptitud que ocasione el daño indique lo contrario. Un personaje con Fuerza 0 cae al suelo y queda indefenso. Un personaje con Destreza 0 queda paralizado. Un personaje con Constitución 0 está muerto. Un personaje con Inteligencia, Sabiduría o Carisma 0 queda inconsciente. El daño de característica no es igual que los penalizadores a las puntuaciones de característica, los cuales desaparecen al expirar el efecto del ataque o aptitud que los originó.</p>"
 		},
 		"Ability Drained": {
-			"name": "Habilidad drenada",
-			"description": "<p>El personaje ha perdido de forma permanente 1 ó más puntos de puntuación de habilidad. El personaje puede recuperar puntos drenados solo a través de medios mágicos. Un personaje con Fuerza 0 cae al suelo y queda indefenso. Un personaje con Destreza 0 queda paralizado. Un personaje con Constitución 0 está muerto. Un personaje con Inteligencia, Sabiduría o Carisma 0 está inconsciente.</p>\n<p>&nbsp;</p>"
+			"name": "Característica consumida",
+			"description": "<p>El personaje ha perdido de forma permanente 1 ó más puntos de característica. El personaje puede recuperar los puntos consumidos sólo a través de medios mágicos. Un personaje con Fuerza 0 cae al suelo y queda indefenso. Un personaje con Destreza 0 queda paralizado. Un personaje con Constitución 0 está muerto. Un personaje con Inteligencia, Sabiduría o Carisma 0 queda inconsciente.</p>\n<p>&nbsp;</p>"
 		},
 		"Blinded": {
 			"name": "Cegado",
-			"description": "<p>El personaje no puede ver. Tiene un penalizador de -2 a la Clase de Armadura, pierde su bonificador de Destreza a la CA (si lo hay), se mueve a la mitad de velocidad y sufre un penalizador de -4 en las pruebas de Búsqueda y en la mayoría de las pruebas de habilidad basadas en Fuerza y Destreza. Todas las comprobaciones y actividades que dependen de la visión (como la lectura y las comprobaciones puntuales) fallan automáticamente. Se considera que todos los oponentes tienen un ocultamiento total (50% de probabilidad de fallar) al personaje cegado. Los personajes que permanecen ciegos durante mucho tiempo se acostumbran a estos inconvenientes y pueden superar algunos de ellos.</p>\n<p>&nbsp;</p>"
+			"description": "<p>El personaje no puede ver. Tiene un penalizador de -2 a la Clase de Armadura, pierde su bonificador de Destreza a la CA (si lo tiene), se mueve a la mitad de velocidad y sufre un penalizador de -4 en las pruebas de Buscar y en la mayoría de las pruebas de habilidad basadas en Fuerza y Destreza. Todas las pruebas y acciones que dependan de la visión (como la lectura y las pruebas de Avistar) fallan automáticamente. Se considera que todos los oponentes tienen ocultación total (50% de probabilidad de fallar cualquier ataque o aptitud que haga objetivo) para el personaje cegado. A discreción del DM, los personajes que permanecen ciegos durante mucho tiempo se acostumbran a estos inconvenientes y pueden superar algunos de ellos.</p>\n<p>&nbsp;</p>"
 		},
 		"Blown Away": {
-			"name": "Blown Away",
-			"description": "<p>Depending on its size, a creature can be blown away by winds of high velocity. A creature on the ground that is blown away is knocked down and rolls 1d4 &times; 10 feet, taking 1d4 points of nonlethal damage per 10 feet. A flying creature that is blown away is blown back 2d6 &times; 10 feet and takes 2d6 points of nonlethal damage due to battering and buffering.</p>\n<p>&nbsp;</p>"
+			"name": "Arrastrado",
+			"description": "<p>Dependiendo de su tamaño, una criatura puede ser arrastrada por vientos de gran velocidad. Una criatura que es arrastrada por el viento mientras está en el suelo, es derribada y rueda 1d4x10', sufriendo 1d4 puntos de daño no letal por cada 10' que ruede. Una criatura que sea arrastrada por el viento mientras está volando, será desplazada 2d6x10' en la dirección del viento y sufrirá 2d6 puntos de daño no letal debido a los golpes y el azote del fuerte viento.</p>\n<p>&nbsp;</p>"
 		},
 		"Checked": {
-			"name": "Checked",
-			"description": "<p>Prevented from achieving forward motion by an applied force, such as wind. Checked creatures on the ground merely stop. Checked flying creatures move back a distance specified in the description of the effect.</p>\n<p>&nbsp;</p>"
+			"name": "Frenado",
+			"description": "<p>El personaje es incapaz de moverse hacia delante por una fuerza opuesta que la detiene, como puede ser un viento fuerte. Las criaturas controladas en el suelo simplemente se detienen. Las criaturas voladoras marcadas retroceden una distancia especificada en la descripción del efecto.</p>\n<p>&nbsp;</p>"
 		},
 		"Confused": {
-			"name": "Confused",
-			"description": "<p>A confused character&rsquo;s actions are determined by rolling d% at the beginning of his turn:</p>\n<table style=\"height: 85px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">01-10</td>\n<td style=\"height: 17px; width: 627px;\">attack caster with melee or ranged weapons (or close with caster if attacking is not possible)</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">11-20</td>\n<td style=\"height: 17px; width: 627px;\">act normally</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">21-50</td>\n<td style=\"height: 17px; width: 627px;\">do nothing but babble incoherently</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">51-70</td>\n<td style=\"height: 17px; width: 627px;\">flee away from caster at top possible speed</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">71-100</td>\n<td style=\"height: 17px; width: 627px;\">attack nearest creature (for this purpose, a familiar counts as part of the subject&rsquo;s self)</td>\n</tr>\n</tbody>\n</table>\n<p>A confused character who can&rsquo;t carry out the indicated action does nothing but babble incoherently. Attackers are not at any special advantage when attacking a confused character. Any confused character who is attacked automatically attacks its attackers on its next turn, as long as it is still confused when its turn comes. A confused character does not make attacks of opportunity against any creature that it is not already devoted to attacking (either because of its most recent action or because it has just been attacked).</p>\n<p>&nbsp;</p>"
+			"name": "Confuso",
+			"description": "<p>Las acciones de un personaje confuso se determinan tirando 1d100 al comienzo de su turno:</p>\n<table style=\"height: 85px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">01-10</td>\n<td style=\"height: 17px; width: 627px;\">Ataca al causante de la confusión (normalmente el lanzador de un conjuro de Confusión) con armas cuerpo a cuerpo o a distancia (o se aproxima al causante de la confusión si no puede atacarle).</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">11-20</td>\n<td style=\"height: 17px; width: 627px;\">Actúa con normalidad.</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">21-50</td>\n<td style=\"height: 17px; width: 627px;\">No hace nada más que balbucear incoherencias.</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">51-70</td>\n<td style=\"height: 17px; width: 627px;\">Huye lejos del causante de la confusión a la máxima velocidad posible</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px; width: 64px;\">71-100</td>\n<td style=\"height: 17px; width: 627px;\">Ataca a la criatura más cercana (para este efecto, un familiar cuenta como parte del propio sujeto).</td>\n</tr>\n</tbody>\n</table>\n<p>Un personaje confuso que no pueda llevar a cabo la acción indicada simplemente no hará otra cosa que balbucear incoherencias. Los atacantes no tienen ninguna ventaja especial cuando atacan a un personaje confuso. De hecho, cualquier personaje confuso que sea atacado ataca automáticamente a sus atacantes en su siguiente turno, siempre y cuando todavía esté confuso cuando llegue su turno. Un personaje confuso no realiza ataques de oportunidad contra ninguna criatura a la que no esté ya combatiendo (ya sea porque le atacó en su acción más reciente o porque acaba de ser atacado por esa criatura).</p>\n<p>&nbsp;</p>"
 		},
 		"Cowering": {
-			"name": "Cowering",
-			"description": "<p>The character is frozen in fear and can take no actions. A cowering character takes a -2 penalty to Armor Class and loses her Dexterity bonus (if any).</p>"
+			"name": "Aterrado",
+			"description": "<p>El personaje se queda totalmente inmóvil por el miedo y no puede realizar ninguna acción. Un personaje aterrado recibe una penalización de -2 a su CA y pierde su bonificador de Destreza a la CA (si lo tiene).</p>"
 		},
 		"Dazed": {
-			"name": "Dazed",
-			"description": "<p>The creature is unable to act normally. A dazed creature can take no actions, but has no penalty to AC.</p>\n<p>&nbsp;</p>\n<p>A dazed condition typically lasts 1 round.</p>"
+			"name": "Atontado",
+			"description": "<p>La criatura es incapaz de actuar con normalidad. Una criatura atontada no puede realizar acciones, pero no sufre ningún penalizador a su CA.</p>\n<p>&nbsp;</p>\n<p>El estado de atontado suele durar 1 asalto.</p>"
 		},
 		"Dazzled": {
-			"name": "Dazzled",
-			"description": "<p>The creature is unable to see well because of overstimulation of the eyes. A dazzled creature takes a -1 penalty on attack rolls, Search checks, and Spot checks.</p>\n<p>&nbsp;</p>"
+			"name": "Deslumbrado",
+			"description": "<p>La criatura no puede ver bien debido a la sobreestimulación lumínica de los ojos. Una criatura deslumbrada sufre una penalización de -1 en las tiradas de ataque y en las pruebas de Avistar y Buscar.</p>\n<p>&nbsp;</p>"
 		},
 		"Dead": {
-			"name": "Dead",
-			"description": "<p>The character&rsquo;s hit points are reduced to -10, his Constitution drops to 0, or he is killed outright by a spell or effect. The character&rsquo;s soul leaves his body. Dead characters cannot benefit from normal or magical healing, but they can be restored to life via magic. A dead body decays normally unless magically preserved, but magic that restores a dead character to life also restores the body either to full health or to its condition at the time of death (depending on the spell or device). Either way, resurrected characters need not worry about rigor mortis, decomposition, and other conditions that affect dead bodies.</p>\n<p>&nbsp;</p>"
+			"name": "Muerto",
+			"description": "<p>Un personaje está muerto cuando sus puntos de golpe se ven reducidos a -10 o menos, su Constitución desciende a 0 o muere directamente por un conjuro o efecto. El alma del personaje abandona su cuerpo. Los personajes muertos no pueden beneficiarse de la curación normal o mágica, pero pueden volver a la vida mediante la magia. Un cuerpo muerto se descompone normalmente a menos que se conserve mágicamente. La magia que devuelve la vida a un personaje muerto puede restaurar el cuerpo a su salud completa o a su condición en el momento de la muerte (dependiendo del hechizo o dispositivo). Sea como fuere, los personajes resucitados no necesitan preocuparse por el rigor mortis, la descomposición u otros problemas que suelen afectar a los cadáveres.</p>\n<p>&nbsp;</p>"
 		},
 		"Deafened": {
-			"name": "Deafened",
-			"description": "<p>A deafened character cannot hear. She takes a -4 penalty on initiative checks, automatically fails Listen checks, and has a 20% chance of spell failure when casting spells with verbal components. Characters who remain deafened for a long time grow accustomed to these drawbacks and can overcome some of them.</p>\n<p>&nbsp;</p>"
+			"name": "Ensordecido",
+			"description": "<p>Un personaje ensordecido no puede oír. Sufre un penalizador de -4 en las pruebas de iniciativa, falla automáticamente las pruebas de Escuchar y tiene un 20% de probabilidad de fallar el lanzamiento de todo conjuro que tenga un componente verbal. A discreción del DM, los personajes que permanecen sordos durante mucho tiempo se acostumbran a estos inconvenientes y pueden superar algunos de ellos.</p>\n<p>&nbsp;</p>"
 		},
 		"Disabled": {
-			"name": "Disabled",
-			"description": "<p>A character with 0 hit points, or one who has negative hit points but has become stable and conscious, is disabled. A disabled character may take a single move action or standard action each round (but not both, nor can she take full-round actions). She moves at half speed. Taking move actions doesn&rsquo;t risk further injury, but performing any standard action (or any other action the game master deems strenuous, including some free actions such as casting a quickened spell) deals 1 point of damage after the completion of the act. Unless the action increased the disabled character&rsquo;s hit points, she is now in negative hit points and dying.</p>\n<p>&nbsp;</p>\n<p>A disabled character with negative hit points recovers hit points naturally if she is being helped. Otherwise, each day she has a 10% chance to start recovering hit points naturally (starting with that day); otherwise, she loses 1 hit point. Once an unaided character starts recovering hit points naturally, she is no longer in danger of losing hit points (even if her current hit points are negative).</p>\n<p>&nbsp;</p>"
+			"name": "Incapacitado",
+			"description": "<p>Un personaje está incapacitado cuando tiene exactamente 0 puntos de golpe, o cuando tiene puntos de golpe negativos pero se ha estabilizado y está consciente. Un personaje incapacitado puede realizar una acción de movimiento o una acción estándar en cada asalto (pero no ambas, ni puede realizar acciones de asalto completo). Adicionalmente, su velocidad se reduce a la mitad. Llevar a cabo acciones de movimiento no le hace arriesgarse a sufrir más heridas, pero realizar una acción estándar (o de cualquier otro tipo que el DM considere extenuante, incluyendo algunas acciones gratuitas como lanzar un conjuro apresurado) le causará 1 punto de daño tras completarla. A menos que la acción haya causado que sus heridas se curen, el personaje pasará a tener puntos de golpe negativos, y por tanto pasará al estado moribundo.</p>\n<p>&nbsp;</p>\n<p>Un personaje incapacitado con puntos de golpe negativos los recupera de forma natural si recibe ayuda. Si no es así, tras pasar cada día desde que se quedó incapacitado, el personaje tira 1d100, con un resultado de 01-10, el personaje comienza a recuperar puntos de golpe de manera natural y ya no debe tirar más, pero con 11-100 el personaje pierde 1 punto de golpe y deberá volver a tirar al día siguiente.</p>\n<p>&nbsp;</p>"
 		},
 		"Dying": {
-			"name": "Dying",
-			"description": "<p>A dying character is unconscious and near death. She has -1 to -9 current hit points. A dying character can take no actions and is unconscious. At the end of each round (starting with the round in which the character dropped below 0 hit points), the character rolls d% to see whether she becomes stable. She has a 10% chance to become stable. If she does not, she loses 1 hit point. If a dying character reaches -10 hit points, she is dead.</p>\n<p>&nbsp;</p>"
+			"name": "Moribundo",
+			"description": "<p>Un personaje está moribundo cuando sus puntos de golpe se sitúan entre -1 y -9. Estar moribundo implica que el personaje no puede realizar acciones, ya que está inconsciente y al borde de la muerte. Al final de cada asalto (comenzando con el mismo asalto en el que el personaje cayó por debajo de 0 puntos de golpe), el personaje tira 1d100 para ver si se estabiliza. Con un resultado de 01-10 el personaje se estabiliza y ya no habrá de volver a tirar. Si obtiene otro resultado, pierde 1 punto de golpe y deberá volver a tirar al final del siguiente asalto. Si un personaje moribundo alcanza -10 puntos de golpe, está muerto.</p>\n<p>&nbsp;</p>"
 		},
 		"Energy Drained": {
-			"name": "Energy Drained",
-			"description": "<p>The character gains one or more negative levels, which might permanently drain the character&rsquo;s levels. If the subject has at least as many negative levels as Hit Dice, he dies. Each negative level gives a creature the following penalties: -1 penalty on attack rolls, saving throws, skill checks, ability checks; loss of 5 hit points; and -1 to effective level (for determining the power, duration, DC, and other details of spells or special abilities). In addition, a spellcaster loses one spell or spell slot from the highest spell level castable.</p>\n<p>&nbsp;</p>"
+			"name": "Energía consumida",
+			"description": "<p>El personaje ha sufrido uno o más niveles negativos, que pueden provocar una consunción de nivel permanente. Si el sujeto tiene al menos tantos niveles negativos como Dados de Golpe, muere. Cada nivel negativo penaliza al personaje del siguiente modo: Un penalizador de -1 en las tiradas de ataque, tiradas de salvación, pruebas de habilidad, pruebas de característica, pérdida de 5 puntos de golpe y un -1 en su nivel efectivo (para determinar el poder, la duración, la CD y otros detalles de los conjuros o aptitudes que use). Además, un lanzador de conjuros pierde un conjuro o espacio de conjuro del nivel más alto que pueda lanzar.</p>\n<p>&nbsp;</p>"
 		},
 		"Entangled": {
-			"name": "Entangled",
-			"description": "<p>The character is ensnared. Being entangled impedes movement, but does not entirely prevent it unless the bonds are anchored to an immobile object or tethered by an opposing force. An entangled creature moves at half speed, cannot run or charge, and takes a -2 penalty on all attack rolls and a -4 penalty to Dexterity. An entangled character who attempts to cast a spell must make a Concentration check (DC 15 + the spell&rsquo;s level) or lose the spell.</p>\n<p>&nbsp;</p>"
+			"name": "Enmarañado",
+			"description": "<p>El personaje está enredado. Estar enmarañado dificulta el movimiento, pero no lo impide por completo a menos que las ataduras estén sujetas a un objeto inmóvil o aferradas por una fuerza opuesta. Una criatura enmarañada se mueve a la mitad de su velocidad, no puede correr ni cargar, y recibe un penalizdor de -2 en todas las tiradas de ataque y uno de -4 a su Destreza. Un personaje enmarañado que intente lanzar un conjuro debe realizar una prueba de Concentración (CD 15 + el nivel del conjuro) o perderá el sortilegio.</p>\n<p>&nbsp;</p>"
 		},
 		"Exhausted": {
-			"name": "Exhausted",
-			"description": "<p>An exhausted character moves at half speed and takes a -6 penalty to Strength and Dexterity. After 1 hour of complete rest, an exhausted character becomes fatigued. A fatigued character becomes exhausted by doing something else that would normally cause fatigue.</p>\n<p>&nbsp;</p>"
+			"name": "Exhausto",
+			"description": "<p>Un personaje exhausto se mueve a la mitad de velocidad y sufre un penalizador de -6 a Fuerza y Destreza. Después de 1 hora de descanso completo, un personaje exhausto se fatiga. Un personaje fatigado se vuelve exhausto al hacer cualquier cosa que normalmente causaría el estado fatigado.</p>\n<p>&nbsp;</p>"
 		},
 		"Fascinated": {
-			"name": "Fascinated",
-			"description": "<p>A fascinated creature is entranced by a supernatural or spell effect. The creature stands or sits quietly, taking no actions other than to pay attention to the fascinating effect, for as long as the effect lasts. It takes a -4 penalty on skill checks made as reactions, such as Listen and Spot checks. Any potential threat, such as a hostile creature approaching, allows the fascinated creature a new saving throw against the fascinating effect. Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming a ranged weapon at the fascinated creature, automatically breaks the effect. A fascinated creature&rsquo;s ally may shake it free of the spell as a standard action.</p>\n<p>&nbsp;</p>"
+			"name": "Fascinado",
+			"description": "<p>Una criatura fascinada está arrebatada por un efecto sobrenatural o de conjuro. La criatura se queda en pie o se sienta tranquilamente, sin realizar ninguna acción más que prestar atención al efecto fascinante, durante tanto tiempo como éste dure. Sufrirá un penalizador de -4 a las pruebas de habilidad realizadas de forma refleja, como las de Avistar y Escuchar. Cualquier amenaza potencial, como el acercamiento de una criatura hostil, permite a la criatura fascinada una nueva tirada de salvación contra el efecto fascinante. Cualquier amenaza obvia, como alguien que desenvaina un arma, lanza un conjuro o apunta con un arma a distancia a la criatura fascinada, rompe automáticamente el efecto. Un aliado de la criatura afectada puede liberarla empleando una acción estandar en agitarle con fuerza.</p>\n<p>&nbsp;</p>"
 		},
 		"Fatigued": {
-			"name": "Fatigued",
-			"description": "<p>A fatigued character can neither run nor charge and takes a -2 penalty to Strength and Dexterity. Doing anything that would normally cause fatigue causes the fatigued character to become exhausted. After 8 hours of complete rest, fatigued characters are no longer fatigued.</p>\n<p>&nbsp;</p>"
+			"name": "Fatigado",
+			"description": "<p>Un personaje fatigado no puede correr ni cargar y sufre un penalizador de -2 a Fuerza y Destreza. Hacer cualquier cosa que normalmente causaría el estado fatigado, hace que un personaje ya fatigado quede exhausto. Tras 8 horas de descanso completo, los personajes fatigados se recuperan.</p>\n<p>&nbsp;</p>"
 		},
 		"Flat-Footed": {
-			"name": "Flat-Footed",
-			"description": "<p>A character who has not yet acted during a combat is flat-footed, not yet reacting normally to the situation. A flat-footed character loses his Dexterity bonus to AC (if any) and cannot make attacks of opportunity.</p>\n<p>&nbsp;</p>"
+			"name": "Desprevenido",
+			"description": "<p>Un personaje que aún no ha actuado durante un combate está en estado desprevenido ya que no ha podido reaccionar adecuadamente a la situación. Un personaje desprevenido pierde su bonificador de Destreza a la CA (si lo tiene) y no puede realizar ataques de oportunidad.</p>\n<p>&nbsp;</p>"
 		},
 		"Frightened": {
-			"name": "Frightened",
-			"description": "<p>A frightened creature flees from the source of its fear as best it can. If unable to flee, it may fight. A frightened creature takes a -2 penalty on all attack rolls, saving throws, skill checks, and ability checks. A frightened creature can use special abilities, including spells, to flee; indeed, the creature must use such means if they are the only way to escape.</p>\n<p>&nbsp;</p>\n<p>Frightened is like shaken, except that the creature must flee if possible. Panicked is a more extreme state of fear.</p>\n<p>&nbsp;</p>"
+			"name": "Asustado",
+			"description": "<p>Una criatura asustada huye de la fuente de su miedo lo mejor que puede. Si la huída le resulta imposible, puede luchar. Una criatura asustada sufre un penalizador de -2 en todas las tiradas de ataque, tiradas de salvación, pruebas de habilidad y pruebas de característica. Una criatura asustada puede usar sus aptitudes, incluidos hechizos, para huir; de hecho, la criatura debe usar esos medios si son la única forma de escapar.</p>\n<p>&nbsp;</p>\n<p>Asustado es un estado de miedo más intenso que estremecido, pero menos intenso que despavorido y aterrado.</p>\n<p>&nbsp;</p>"
 		},
 		"Grappling": {
-			"name": "Grappling",
-			"description": "<p>Engaged in wrestling or some other form of hand-to-hand struggle with one or more attackers. A grappling character can undertake only a limited number of actions. He does not threaten any squares, and loses his Dexterity bonus to AC (if any) against opponents he isn&rsquo;t grappling. See Grapple.</p>\n<p>&nbsp;</p>"
+			"name": "Apresado",
+			"description": "<p>El personaje está enzarzado en una pelea con llaves y presas o en alguna otra forma de lucha cuerpo a cuerpo contra uno o más atacantes. Un personaje apresado tan sólo puede realizar un número limitado de acciones. No amenaza ninguna casilla y pierde su bonificador de Destreza a la CA (si lo tiene) contra los oponentes que no estén enzarzados en la presa con él.</p>\n<p>&nbsp;</p>"
 		},
 		"Helpless": {
-			"name": "Helpless",
-			"description": "<p>A helpless character is paralyzed, held, bound, sleeping, unconscious, or otherwise completely at an opponent&rsquo;s mercy. A helpless target is treated as having a Dexterity of 0 (-5 modifier). Melee attacks against a helpless target get a +4 bonus (equivalent to attacking a prone target). Ranged attacks gets no special bonus against helpless targets. Rogues can sneak attack helpless targets.</p>\n<p>&nbsp;</p>\n<p>As a full-round action, an enemy can use a melee weapon to deliver a coup de grace to a helpless foe. An enemy can also use a bow or crossbow, provided he is adjacent to the target. The attacker automatically hits and scores a critical hit. (A rogue also gets her sneak attack damage bonus against a helpless foe when delivering a coup de grace.) If the defender survives, he must make a Fortitude save (DC 10 + damage dealt) or die.</p>\n<p>&nbsp;</p>\n<p>Delivering a coup de grace provokes attacks of opportunity.</p>\n<p>&nbsp;</p>\n<p>Creatures that are immune to critical hits do not take critical damage, nor do they need to make Fortitude saves to avoid being killed by a coup de grace.</p>"
+			"name": "Indefenso",
+			"description": "<p>Una criatura indefensa está paralizada, inmovilizada, atada, durmiendo, inconsciente, o por cualquier otra causa, completamente a merced de sus enemigos. Una criatura indefensa se considera que tiene una Destreza de 0 (modificador de -5). Los ataques cuerpo a cuerpo contra un objetivo indefenso obtienen un bonificador de +4 (equivalente a atacar a un objetivo tumbado), pero los ataques a distancia no obtienen ningun bonificador contra objetivos indefensos. Los pícaros pueden realizar ataques furtivos a objetivos indefensos.</p>\n<p>Como acción de asalto completo, un enemigo puede usar un arma cuerpo a cuerpo (también puede usar un arco o ballesta, siempre que esté adyacente al objetivo) para dar un golpe de gracia a una criatura indefensa. Un golpe de gracia provoca ataques de oportunidad. El atacante golpea automáticamente y consigue un golpe crítico, sin necesidad de confirmarlo (un pícaro también puede sumar el daño de su ataque furtivo en un golpe de gracia). Si el defensor sobrevive al daño del golpe de gracia, debe superar una salvación de Fortaleza (CD 10 + el daño infligido por el golpe de gracia) o morir.</p>\n<p>Las criaturas inmunes a los golpes críticos no sufren daño extra por el crítico en un golpe de gracia, ni deben hacer la TS de Fortaleza para evitar morir a causa del golpe de gracia.</p>"
 		},
 		"Incorporeal": {
-			"name": "Incorporeal",
-			"description": "<p>Having no physical body. Incorporeal creatures are immune to all nonmagical attack forms. They can be harmed only by other incorporeal creatures, +1 or better magic weapons, spells, spell-like effects, or supernatural effects.</p>\n<p>&nbsp;</p>"
+			"name": "Incorporal",
+			"description": "<p>La criatura no tiene cuerpo físico. Las criaturas incorporales son inmunes a todas las formas de ataque no mágicas. Solo pueden ser dañados por otras criaturas incorpóreas, armas mágicas, conjuros, aptitudes sortílegas o efectos sobrenaturales.</p>"
 		},
 		"Invisible": {
 			"name": "Invisible",
-			"description": "<p>Visually undetectable. An invisible creature gains a +2 bonus on attack rolls against sighted opponents, and ignores its opponents&rsquo; Dexterity bonuses to AC (if any). (See Invisibility, under Special Abilities.)</p>\n<p>&nbsp;</p>"
+			"description": "<p>La criatura es visualmente indetectable. Una criatura invisible gana un bonificador de +2 en las tiradas de ataque contra oponentes que no puedan saber con exactitud su posición e ignora los bonificadores de Destreza a la CA de esos oponentes (si los tienen).</p>\n<p>&nbsp;</p>"
 		},
 		"Knocked Down": {
-			"name": "Knocked Down",
-			"description": "<p>Depending on their size, creatures can be knocked down by winds of high velocity. Creatures on the ground are knocked prone by the force of the wind. Flying creatures are instead blown back 1d6 &times; 10 feet.</p>\n<p>&nbsp;</p>"
+			"name": "Abatido",
+			"description": "<p>Dependiendo de su tamaño, las criaturas pueden ser derribadas por vientos de gran velocidad. Las criaturas en el suelo son derribadas por la fuerza del viento. En cambio, las criaturas voladoras son empujadas hacia atrás 1d6x10'.</p>"
 		},
 		"Nauseated": {
-			"name": "Nauseated",
-			"description": "<p>Experiencing stomach distress. Nauseated creatures are unable to attack, cast spells, concentrate on spells, or do anything else requiring attention. The only action such a character can take is a single move action per turn.</p>\n<p>&nbsp;</p>"
+			"name": "Mareado",
+			"description": "<p>La criatura experimenta malestar estomacal. Las criaturas mareadas (también llamadas \"nauseadas\") son incapaces de atacar, lanzar conjuros, concentrarse en conjuros o hacer cualquier otra cosa que requiera atención. La única acción que puede realizar un personaje en este estado es una única acción de movimiento por turno.</p>"
 		},
 		"Panicked": {
-			"name": "Panicked",
-			"description": "<p>A panicked creature must drop anything it holds and flee at top speed from the source of its fear, as well as any other dangers it encounters, along a random path. It can&rsquo;t take any other actions. In addition, the creature takes a -2 penalty on all saving throws, skill checks, and ability checks. If cornered, a panicked creature cowers. A panicked creature can use special abilities, including spells, to flee; indeed, the creature must use such means if they are the only way to escape.</p>\n<p>&nbsp;</p>\n<p>Panicked is a more extreme state of fear than shaken or frightened.</p>\n<p>&nbsp;</p>"
+			"name": "Despavorido",
+			"description": "<p>Una criatura despavorida debe dejar caer todo lo que tenga en las manos y huir tan rápido como pueda (en una dirección aleatoria) de la fuente de su miedo, así como de cualquier otro peligro que encuentre en su huída. Ésta es la única acción que puede realizar. Además, la criatura sufre un penalizador de -2 en todas las tiradas de salvación, pruebas de habilidad y pruebas de característica. Si se ve acorralada, una criatura despavorida pasará a estar aterrada. Una criatura despavorida puede usar sus aptitudes, incluidos conjuros, para huir. De hecho, la criatura debe usar esos medios si son la única forma de escapar.</p>\n<p>Despavorido es un estado de miedo más intenso que asustado o estremecido, pero menos intenso que aterrado.</p>"
 		},
 		"Paralyzed": {
-			"name": "Paralyzed",
-			"description": "<p>A paralyzed character is frozen in place and unable to move or act. A paralyzed character has effective Dexterity and Strength scores of 0 and is helpless, but can take purely mental actions. A winged creature flying in the air at the time that it becomes paralyzed cannot flap its wings and falls. A paralyzed swimmer can&rsquo;t swim and may drown. A creature can move through a space occupied by a paralyzed creature&mdash;ally or not. Each square occupied by a paralyzed creature, however, counts as 2 squares.</p>\n<p>&nbsp;</p>"
+			"name": "Paralizado",
+			"description": "<p>Un personaje paralizado está completamente quieto y es incapaz de moverse o actuar. Un personaje paralizado tiene puntuaciones efectivas de Destreza y Fuerza de 0 y también está en estado indefenso, pero puede realizar acciones puramente mentales. Una criatura alada que está volando en el momento en que se queda paralizada no puede batir sus alas y cae. Un nadador paralizado no puede nadar y corre el riesgo de ahogarse. Cualquier criatura puede atravesar un espacio ocupado por una criatura paralizada, sea su aliada o no. Sin embargo, cada casilla del espacio ocupado por una criatura paralizada cuenta como 2.</p>\n<p>&nbsp;</p>"
 		},
 		"Petrified": {
-			"name": "Petrified",
-			"description": "<p>A petrified character has been turned to stone and is considered unconscious. If a petrified character cracks or breaks, but the broken pieces are joined with the body as he returns to flesh, he is unharmed. If the character&rsquo;s petrified body is incomplete when it returns to flesh, the body is likewise incomplete and there is some amount of permanent hit point loss and/or debilitation.</p>\n<p>&nbsp;</p>"
+			"name": "Petrificado",
+			"description": "<p>Un personaje petrificado se ha convertido en piedra y se le considera inconsciente. Si un personaje petrificado se resquebraja o se rompe, pero los pedazos sueltos se vuelven a unir al cuerpo en el instante en que vuelve a ser carne, no sufrirá ningún daño. Si le falta algún trozo cuando vuelve a la carne, el cuerpo también estará incompleto y sufrirá un daño permanente a sus puntos de golpe, a sus puntuaciones de característica o alguna otra debilidad permanente, a discreción del DM.</p>"
 		},
 		"Pinned": {
-			"name": "Pinned",
-			"description": "<p>Held immobile (but not helpless) in a grapple.</p>"
+			"name": "Sujeto",
+			"description": "<p>El personaje está inmovilizado (pero no indefenso) a causa de una presa.</p>"
 		},
 		"Prone": {
 			"name": "Prone",
