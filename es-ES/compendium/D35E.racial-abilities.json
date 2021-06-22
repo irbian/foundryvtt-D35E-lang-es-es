@@ -115,7 +115,7 @@
 		},
 		"Paralyzing Touch": {
 			"name": "Toque paralizante",
-			"description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Toda criatura viva a la que un liche impacte con su ataque de toque debe tener éxito en una salvación de Fortaleza o quedar paralizada permanentemente. @Compendium[D35E.spells.tJoUDOalSM2WaQF3]{Remove Paralysis} o cualquier conjuro que pueda eliminar una maldición puede liberar a la víctima (ver la descripción del conjuro[D35E.spells.qd0jSlGfECAPMdfq]{Bestow Curse}</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Este efecto no puede ser disipado. Cualquiera que esté paralizado por un liche parece muerto, aunque una prueba de Avistar CD 20 o una prueba de Sanar CD 15 revelará que la víctima todavía está viva.</p>"
+			"description": "<p>Toda criatura viva a la que un liche impacte con su ataque de toque debe tener éxito en una salvación de Fortaleza o quedar paralizada permanentemente. @Compendium[D35E.spells.tJoUDOalSM2WaQF3]{Quitar parálisis} o cualquier conjuro que pueda eliminar una maldición puede liberar a la víctima (ver la descripción del conjuro @Compendium[D35E.spells.qd0jSlGfECAPMdfq]{Lanzar maldición}).</p>\n<p>Este efecto no puede ser disipado. Cualquiera que esté paralizado por un liche parece muerto, aunque una prueba de Avistar CD 20 o una prueba de Sanar CD 15 revelará que la víctima todavía está viva.</p>"
 		},
 		"Pass without a trace": {
 			"name": "Pasar sin dejar rastro",
