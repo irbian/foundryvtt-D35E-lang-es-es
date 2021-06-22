@@ -51,19 +51,19 @@
 		},
 		"Dying": {
 			"name": "Moribundo",
-			"description": "<p>A dying character is unconscious and near death. She has -1 to -9 current hit points. A dying character can take no actions and is unconscious. At the end of each round (starting with the round in which the character dropped below 0 hit points), the character rolls d% to see whether she becomes stable. She has a 10% chance to become stable. If she does not, she loses 1 hit point. If a dying character reaches -10 hit points, she is dead.</p>\n<p>&nbsp;</p>"
+			"description": "<p>Un personaje está moribundo cuando sus puntos de golpe se sitúan entre -1 y -9. Estar moribundo implica que el personaje no puede realizar acciones, ya que está inconsciente y al borde de la muerte. Al final de cada asalto (comenzando con el mismo asalto en el que el personaje cayó por debajo de 0 puntos de golpe), el personaje tira 1d100 para ver si se estabiliza. Con un resultado de 01-10 el personaje se estabiliza y ya no habrá de volver a tirar. Si obtiene otro resultado, pierde 1 punto de golpe y deberá volver a tirar al final del siguiente asalto. Si un personaje moribundo alcanza -10 puntos de golpe, está muerto.</p>\n<p>&nbsp;</p>"
 		},
 		"Energy Drained": {
-			"name": "Energy Drained",
-			"description": "<p>The character gains one or more negative levels, which might permanently drain the character&rsquo;s levels. If the subject has at least as many negative levels as Hit Dice, he dies. Each negative level gives a creature the following penalties: -1 penalty on attack rolls, saving throws, skill checks, ability checks; loss of 5 hit points; and -1 to effective level (for determining the power, duration, DC, and other details of spells or special abilities). In addition, a spellcaster loses one spell or spell slot from the highest spell level castable.</p>\n<p>&nbsp;</p>"
+			"name": "Energía consumida",
+			"description": "<p>El personaje ha sufrido uno o más niveles negativos, que pueden provocar una consunción de nivel permanente. Si el sujeto tiene al menos tantos niveles negativos como Dados de Golpe, muere. Cada nivel negativo penaliza al personaje del siguiente modo: Un penalizador de -1 en las tiradas de ataque, tiradas de salvación, pruebas de habilidad, pruebas de característica, pérdida de 5 puntos de golpe y un -1 en su nivel efectivo (para determinar el poder, la duración, la CD y otros detalles de los conjuros o aptitudes que use). Además, un lanzador de conjuros pierde un conjuro o espacio de conjuro del nivel más alto que pueda lanzar.</p>\n<p>&nbsp;</p>"
 		},
 		"Entangled": {
-			"name": "Entangled",
-			"description": "<p>The character is ensnared. Being entangled impedes movement, but does not entirely prevent it unless the bonds are anchored to an immobile object or tethered by an opposing force. An entangled creature moves at half speed, cannot run or charge, and takes a -2 penalty on all attack rolls and a -4 penalty to Dexterity. An entangled character who attempts to cast a spell must make a Concentration check (DC 15 + the spell&rsquo;s level) or lose the spell.</p>\n<p>&nbsp;</p>"
+			"name": "Enmarañado",
+			"description": "<p>El personaje está enredado. Estar enmarañado dificulta el movimiento, pero no lo impide por completo a menos que las ataduras estén sujetas a un objeto inmóvil o aferradas por una fuerza opuesta. Una criatura enmarañada se mueve a la mitad de su velocidad, no puede correr ni cargar, y recibe un penalizdor de -2 en todas las tiradas de ataque y uno de -4 a su Destreza. Un personaje enmarañado que intente lanzar un conjuro debe realizar una prueba de Concentración (CD 15 + el nivel del conjuro) o perderá el sortilegio.</p>\n<p>&nbsp;</p>"
 		},
 		"Exhausted": {
-			"name": "Exhausted",
-			"description": "<p>An exhausted character moves at half speed and takes a -6 penalty to Strength and Dexterity. After 1 hour of complete rest, an exhausted character becomes fatigued. A fatigued character becomes exhausted by doing something else that would normally cause fatigue.</p>\n<p>&nbsp;</p>"
+			"name": "Exhausto",
+			"description": "<p>Un personaje exhausto se mueve a la mitad de velocidad y sufre un penalizador de -6 a Fuerza y Destreza. Después de 1 hora de descanso completo, un personaje exhausto se fatiga. Un personaje fatigado se vuelve exhausto al hacer cualquier cosa que normalmente causaría el estado fatigado.</p>\n<p>&nbsp;</p>"
 		},
 		"Fascinated": {
 			"name": "Fascinated",
