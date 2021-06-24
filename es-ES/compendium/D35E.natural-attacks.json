@@ -1,61 +1,61 @@
 {
-	"label": "Natural Attacks",
+	"label": "Ataques naturales",
 	"entries": {
 		"Bite": {
-			"name": "Bite",
-			"description": "<p>The creature attacks with its mouth, dealing piercing, slashing, and bludgeoning damage.</p>"
+			"name": "Mordisco",
+			"description": "<p>La criatura ataca intentando clavar sus dientes a sus enemigos, lo que inflige un daño penetrante, cortante y contundente.</p>"
 		},
 		"Breath Weapon (Cone)": {
-			"name": "Breath Weapon (Cone)",
-			"description": "<p>A creature attacking with a breath weapon is actually expelling something from its mouth (rather than conjuring it by means of a spell or some other magical effect). A breath weapon attack usually deals damage and is often based on some type of energy.</p>\n<p>Such breath weapons allow a Reflex save for half damage (DC&nbsp;10&nbsp;+&nbsp;1/2&nbsp;breathing creature&rsquo;s racial HD + breathing creature&rsquo;s Con modifier; the exact DC is given in the creature&rsquo;s descriptive text). Some breath weapons allow a Fortitude save or a Will save instead of a Reflex save. Most creatures with breath weapons are limited to a number of uses per day or by a minimum length of time that must pass between uses. Such creatures are usually smart enough to save their breath weapon until they really need it.</p>\n<ul>\n<li>Using a breath weapon is typically a standard action.</li>\n<li>No attack roll is necessary. The breath simply fills its stated area.</li>\n<li>Any character caught in the area must make the appropriate saving throw or suffer the breath weapon&rsquo;s full effect. In many cases, a character who succeeds on his saving throw still takes half damage or some other reduced effect.</li>\n<li>Breath weapons are supernatural abilities except where noted.</li>\n<li>Creatures are immune to their own breath weapons unless otherwise noted.</li>\n<li>Creatures unable to breathe can still use breath weapons. (The term is something of a misnomer.)</li>\n</ul>"
+			"name": "Arma de aliento (cono)",
+			"description": "<p>Una criatura que ataca con un arma de aliento en realidad está expulsando algo de su boca (no se trata de una conjuración o evocación mágica). Un ataque con arma de aliento generalmente causa daño y a menudo se basa en algún tipo de energía.</p>\n<p>Estas armas de aliento normalmente permiten una salvación de Reflejos para la mitad del daño (CD10 + 1/2 de los DG de la criatura que usa el arma de aliento + el modificador de Constitución de la criatura que usa el arma de aliento, la CD exacta se adjunta en la descripción de la criatura). Algunas armas de aliento permiten una salvación de Fortaleza o una salvación de Voluntad en lugar de una salvación de Reflejos. La mayoría de las criaturas con armas de aliento están limitadas a un número de usos por día o deben esperar un período mínimo de tiempo entre sus usos. Estas criaturas suelen ser lo suficientemente inteligentes como para guardar su arma de aliento hasta que realmente la necesiten.</p>\n<ul>\n<li>El uso de un arma de aliento suele ser una acción estándar.</li>\n<li>No es necesaria una tirada de ataque. La criatura exhala y simplemente llena el área indicada en la descripción.</li>\n<li>Cualquier personaje atrapado en el área debe realizar la tirada de salvación adecuada o sufrir el efecto completo del aliento. En muchos casos, un personaje que tiene éxito en su tirada de salvación recibe la mitad de daño o algún otro efecto reducido.</li>\n<li>Las armas de aliento son aptitudes sobrenaturales (Sb) a no ser que se indique lo contrario en su descripción.</li>\n<li>Las criaturas son inmunes a sus propias armas de aliento a menos que se indique lo contrario.</li>\n<li>Las criaturas que no pueden o no necesitan respirar siguen pudiendo usar armas de aliento, pese a que el nombre de la aptitud pueda llevar a una conclusión contraria.</li>\n</ul>"
 		},
 		"Breath Weapon (Ray)": {
-			"name": "Breath Weapon (Ray)",
-			"description": "<p>A creature attacking with a breath weapon is actually expelling something from its mouth (rather than conjuring it by means of a spell or some other magical effect). A breath weapon attack usually deals damage and is often based on some type of energy.</p>\n<p>Such breath weapons allow a Reflex save for half damage (DC 10 + 1/2 breathing creature&rsquo;s racial HD + breathing creature&rsquo;s Con modifier; the exact DC is given in the creature&rsquo;s descriptive text). Some breath weapons allow a Fortitude save or a Will save instead of a Reflex save. Most creatures with breath weapons are limited to a number of uses per day or by a minimum length of time that must pass between uses. Such creatures are usually smart enough to save their breath weapon until they really need it.</p>\n<ul>\n<li>Using a breath weapon is typically a standard action.</li>\n<li>No attack roll is necessary. The breath simply fills its stated area.</li>\n<li>Any character caught in the area must make the appropriate saving throw or suffer the breath weapon&rsquo;s full effect. In many cases, a character who succeeds on his saving throw still takes half damage or some other reduced effect.</li>\n<li>Breath weapons are supernatural abilities except where noted.</li>\n<li>Creatures are immune to their own breath weapons unless otherwise noted.</li>\n<li>Creatures unable to breathe can still use breath weapons. (The term is something of a misnomer.)</li>\n</ul>"
+			"name": "Arma de aliento (línea)",
+			"description": "<p>Una criatura que ataca con un arma de aliento en realidad está expulsando algo de su boca (no se trata de una conjuración o evocación mágica). Un ataque con arma de aliento generalmente causa daño y a menudo se basa en algún tipo de energía.</p>\n<p>Estas armas de aliento normalmente permiten una salvación de Reflejos para la mitad del daño (CD10 + 1/2 de los DG de la criatura que usa el arma de aliento + el modificador de Constitución de la criatura que usa el arma de aliento, la CD exacta se adjunta en la descripción de la criatura). Algunas armas de aliento permiten una salvación de Fortaleza o una salvación de Voluntad en lugar de una salvación de Reflejos. La mayoría de las criaturas con armas de aliento están limitadas a un número de usos por día o deben esperar un período mínimo de tiempo entre sus usos. Estas criaturas suelen ser lo suficientemente inteligentes como para guardar su arma de aliento hasta que realmente la necesiten.</p>\n<ul>\n<li>El uso de un arma de aliento suele ser una acción estándar.</li>\n<li>No es necesaria una tirada de ataque. La criatura exhala y simplemente llena el área indicada en la descripción.</li>\n<li>Cualquier personaje atrapado en el área debe realizar la tirada de salvación adecuada o sufrir el efecto completo del aliento. En muchos casos, un personaje que tiene éxito en su tirada de salvación recibe la mitad de daño o algún otro efecto reducido.</li>\n<li>Las armas de aliento son aptitudes sobrenaturales (Sb) a no ser que se indique lo contrario en su descripción.</li>\n<li>Las criaturas son inmunes a sus propias armas de aliento a menos que se indique lo contrario.</li>\n<li>Las criaturas que no pueden o no necesitan respirar siguen pudiendo usar armas de aliento, pese a que el nombre de la aptitud pueda llevar a una conclusión contraria.</li>\n</ul>"
 		},
 		"Claw": {
-			"name": "Claw",
-			"description": "<p>The creature rips with a sharp appendage, dealing piercing and slashing damage.</p>"
+			"name": "Garra",
+			"description": "<p>La criatura desgarra con un apéndice afilado, lo que inflige daño perforante y cortante.</p>"
 		},
 		"Gore": {
-			"name": "Gore",
-			"description": "<p>The creature spears the opponent with an antler, horn, or similar appendage, dealing piercing damage.</p>"
+			"name": "Cornada",
+			"description": "<p>La criatura clava al oponente un asta, cuerno o apéndice similar, lo que inflige daño perforante.</p>"
 		},
 		"Hoof": {
-			"name": "Hoof",
-			"description": "<p>The creature attacks with its hoof, dealing bludgeoning damage.</p>"
+			"name": "Pezuña",
+			"description": "<p>La criatura ataca golpeando con su pezuña, lo que inflige un daño contundente.</p>"
 		},
 		"Incorporeal Touch": {
-			"name": "Incorporeal Touch",
+			"name": "Toque incorporal",
 			"description": ""
 		},
 		"Slam": {
-			"name": "Slam",
-			"description": "<p>The creature batters opponents with an appendage, dealing bludgeoning damage.</p>"
+			"name": "Golpetazo",
+			"description": "<p>La criatura golpea a los oponentes con una parte de su cuerpo, causando daño contundente.</p>"
 		},
 		"Slap": {
-			"name": "Slap",
-			"description": "<p>The creature batters opponents with an appendage, dealing bludgeoning damage.</p>"
+			"name": "Golpe",
+			"description": "<p>La criatura golpea a los oponentes con una parte de su cuerpo, causando daño contundente.</p>"
 		},
 		"Sting": {
-			"name": "Sting",
-			"description": "<p>The creature stabs with a stinger, dealing piercing damage. Sting attacks usually deal damage from poison in addition to hit point damage.</p>\n<p>&nbsp;</p>"
+			"name": "Aguijón",
+			"description": "<p>La criatura clava una parte de su cuerpo terminada en una afilada aguja, lo que inflige daño perforante. Los ataques de aguijón a veces inoculan un veneno además de causar daño a los puntos de golpe.</p>\n<p>&nbsp;</p>"
 		},
 		"Tail": {
-			"name": "Tail",
-			"description": "<p>The creature attacks with its tail, dealing bludgeoning damage.</p>"
+			"name": "Coletazo",
+			"description": "<p>La criatura ataca con su cola e inflige daño contundente.</p>"
 		},
 		"Talon": {
-			"name": "Talon",
-			"description": "<p>The creature rips with a sharp appendage, dealing piercing and slashing damage.</p>"
+			"name": "Espolón",
+			"description": "<p>La criatura desgarra con un apéndice afilado, lo que inflige daño perforante y cortante.</p>"
 		},
 		"Tentacle": {
-			"name": "Tentacle",
+			"name": "Tentáculo",
 			"description": ""
 		},
 		"Wing": {
-			"name": "Wing",
-			"description": "<p>The creature attacks with its wings, dealing bludgeoning damage.</p>"
+			"name": "Alas",
+			"description": "<p>La criatura golpea con sus alas e inflige daño contundente.</p>"
 		}
 	}
 }
