@@ -2,7 +2,7 @@
   "name": "translation-D35E-compendium-es",
   "title": "Translation: Spanish [D&D 3.5] Compendiums",
   "description": "Add Spanish language translations to D35E compendiums for FoundryVTT.",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "minimumCoreVersion" : "0.7.9",
   "compatibleCoreVersion": "0.8.7",
 
