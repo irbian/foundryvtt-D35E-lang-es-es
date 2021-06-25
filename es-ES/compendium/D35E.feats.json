@@ -944,7 +944,7 @@
 			"description": "<i><p>Puedes disparar múltiples flechas a un único objetivo.</p></i><h4><b>Prerrequisitos</b></h4><p>Destreza 17, Disparo a bocajarro, Disparo rápido, ataque base +6.</p><h4><b>Beneficio:</b></h4><p>Cuando hagas una acción de ataque completo con un arco, tu primer ataque dispara dos flechas. Si el ataque impacta, ambas flechas impactan. Aplica el daño basado en precisión (como el ataque furtivo) y el daño crítico sólo una vez en cada ataque.</p><p>Los bonificadores de daño por usar un arco compuesto con bonificador por</p><p>Fuerza elevada se aplican a cada flecha, así como otros bonificadores de daño, como el bonificador por enemigo predilecto del explorador.</p>"
 		},
 		"Martial Weapon Proficiency (All)": {
-			"name": "Martial Weapon Proficiency (All)",
+			"name": "Competencia con armas marciales (todas)",
 			"description": "\n\n\n<p>Choose a type of martial weapon. You understand how to use that type of martial weapon in combat.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>You make attack rolls with the selected weapon normally.\n</p>\n<h3><span class=\"mw-headline\" id=\"Normal\">Normal</span></h3>\n<p>When using a weapon with which you are not proficient, you take a –4 penalty on attack rolls.\n</p>\n<h3><span class=\"mw-headline\" id=\"Special\">Special</span></h3>\n<p>Barbarians, fighters, paladins, and rangers are proficient with all martial weapons. They need not select this feat.\n</p><p>You can gain Martial Weapon Proficiency multiple times. Each time you take the feat, it applies to a new type of weapon.\n</p><p>A cleric who chooses the War domain automatically gains the Martial Weapon Proficiency feat related to his deity’s favored weapon as a bonus feat, if the weapon is a martial one. He need not select it.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Master Staff": {
@@ -1340,7 +1340,7 @@
 			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Prerequisites\">Prerequisites</span></h3>\n<p>Wis 19, ability to turn or rebuke undead.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>The character’s attacks deal damage normally against incorporeal creatures.\n</p>\n<h3><span class=\"mw-headline\" id=\"Normal\">Normal</span></h3>\n<p>Without this feat, even attacks that can damage an incorporeal creature have a 50% chance to deal no damage.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Speed of Thought": {
-			"name": "Speed of Thought",
+			"name": "Velocidad del pensamiento",
 			"description": "\n\n\n<p>The energy of your mind energizes the alacrity of your body.\n</p>\n<h3><span class=\"mw-headline\" id=\"Prerequisite\">Prerequisite</span></h3>\n<p>Wis 13.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>As long as you are psionically focused and not wearing heavy armor, you gain an insight bonus to your speed of 10 feet.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Spell Focus (No School Set)": {
@@ -1544,8 +1544,8 @@
 			"description": "<i><p>Puedes lanzar tus conjuros de forma que ocupen un espacio mayor.</p></i><h4><b>Beneficio:</b></h4><p>Puedes alterar un conjuro de explosión, emanación, línea o expansión para ampliar su área. Cualquier valor numérico de las medidas del</p><p>área de conjuro aumentan en un 100%. Un conjuro ensanchado usa un espacio de conjuro tres niveles superior al nivel real del conjuro.</p><p>Los conjuros que no tienen un área de uno de esos tipos no se ven afectados por esta dote.</p>"
 		},
 		"Wild Talent": {
-			"name": "Wild Talent",
-			"description": "\n\n\n<p>Your mind wakes to a previously unrealized talent for psionics.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>Your latent power of psionics flares to life, conferring upon you the designation of a psionic character. As a psionic character, you gain a reserve of 2 power points and can take psionic feats, metapsionic feats, and psionic Item Creation feats. You do not, however, gain the ability to manifest powers simply by virtue of having this feat.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
+			"name": "Talento innato",
+			"description": "<p>El personaje obtiene la dote Talento innato como dote adicional.</p>"
 		},
 		"Wingover": {
 			"name": "Viraje Brusco",
