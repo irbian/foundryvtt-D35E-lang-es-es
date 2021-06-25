@@ -36,7 +36,7 @@
 			"description": "\n<p>El receptor del conjuro se vuelve más fuerte, obteniendo un bono de mejora de +4 a su puntuación de Fuerza. Este bono\n    modifica los beneficios actuales en las tiradas de ataque y daño, además de incrementar la capacidad de carga.</p>\n<p><i>Componente material arcano:</i> Unos cuantos cabellos o una pizca de estiércol de toro.</p>\n"
 		},
 		"Burst": {
-			"name": "Burst",
+			"name": "Estallido",
 			"description": "<p>Increase your speed by 10 feet, plus 10 feet per four character levels beyond 1st, to a maximum increase of 30 feet at 9th character level and higher. These bursts of speed are considered a competence bonus to the&nbsp;your base speed. A burst of speed lasts 3 rounds.</p>"
 		},
 		"Cat's Grace": {
@@ -44,7 +44,7 @@
 			"description": "\n<p>La criatura objetivo adquiere una mayor gracia, agilidad y coordinación. Este conjuro otorga un bono de mejora de +4\n    a la puntuación de Destreza de la criatura. Esto modifica la CA, TS de Reflejos y cualquier otra cuestión\n    relacionada con la DES.</p>\n<p><i>Componente material:</i> Un poco de pelo de gato</p>\n"
 		},
 		"Defensive Stance": {
-			"name": "Defensive Stance",
+			"name": "Posición defensiva",
 			"description": "<p>He gains +2 to Strength, +4 to Constitution, a +2 resistance bonus on all saves, and a +4 dodge bonus to AC. The increase in Constitution increases the defender’s hit points by 2 points per level, but these hit points go away at the end of the defensive stance when the Constitution score drops back 4 points. These extra hit points are not lost first the way temporary hit points are. While in a defensive stance, a defender cannot use skills or abilities that would require him to shift his position. A defensive stance lasts for a number of rounds equal to 3 + the character’s (newly improved) Constitution modifier. A defender may end his defensive stance voluntarily prior to this limit. At the end of the defensive stance, the defender is winded and takes a -2 penalty to Strength for the duration of that encounter.&nbsp;</p>"
 		},
 		"Defensive Stance Winded": {
@@ -116,8 +116,8 @@
 			"description": "\n<p>Un campo de fuerza invisible pero tangible rodea al receptor del conjuro, concediéndole un bono de armadura a la CA\n    de +4. Este campo de fuerza no interfiere con los movimientos del lanzador, por lo que no tiene penalizador a su\n    Destreza ni porcentaje de fallo de conjuros ni reduce su velocidad.</p>\n<p>Al estar hecha de fuerza, las criaturas incorporales no pueden atravesar la <i>Armadura de mago</i> como hacen con\n    las armaduras normales.</p>\n<p><i>Foco:</i> Un fragmento de cuero curado.</p>\n"
 		},
 		"Outburst": {
-			"name": "Outburst",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Once per day, for up to 4 rounds, a maenad can subjugate her mentality to gain a boost of raw physical power. When she does so, she takes a &ndash;2 penalty to Intelligence and Wisdom but gains a +2 bonus to Strength.</span></p>"
+			"name": "Estallido de ira",
+			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Una vez al día, y durante 4 asaltos, un ménade puede subyugar su mentalidad para obtener un aumento de poder físico en bruto. Cuando lo hace, sufre una penalización de -2 a Inteligencia y Sabiduría, pero obtiene una bonificación +2 a su Fuerza.</span></p>"
 		},
 		"Owl's Wisdom": {
 			"name": "Sabiduría de búho",
