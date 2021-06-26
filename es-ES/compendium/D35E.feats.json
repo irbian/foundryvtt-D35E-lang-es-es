@@ -13,7 +13,7 @@
 		},
 		"Acrobatic": {
 			"name": "Acrobático",
-			"description": "<i><p>Eres un experto en saltar, brincar y volar.</p></i><h4><b>Beneficio:</b></h4><p>Obtienes un bonificador de +2 en todas las pruebas de Acrobacias y Volar. Si tienes 10 o más rangos en una de estas habilidades, el bonificador se incrementa a +4 en esa habilidad.</p>"
+			"description": "<i>Tienes una percepción corporal y una coordinación excelentes.</i> <h4><b>Beneficio:</b></h4><p>Obtienes un bonificador +2 en todas las pruebas de Piruetas y Saltar.</p>"
 		},
 		"Additional Magic Item Space": {
 			"name": "Espacio adicional de objetos mágicos",
@@ -21,11 +21,11 @@
 		},
 		"Agile": {
 			"name": "Agil",
-			"description": "<i><p>Eres especialmente flexible y tienes un buen equilibrio.</p</i>\n<h3><span id=\"Benefit\" class=\"mw-headline\">Beneficio</span></h3>\n<p>Obtienes un bono +2 en todas las pruebas de Equilibrio y Escapismo.</p>\n<p>&nbsp;</p>"
+			"description": "<i>Eres especialmente flexible y tienes un buen equilibrio.</i> <h4><b>Beneficio:</b></h4><p>Obtienes un bonificador +2 en todas las pruebas de Equilibrio y Escapismo.</p>"
 		},
 		"Alertness": {
 			"name": "Alerta",
-			"description": "<i><p>A menudo te das cuenta de cosas que los demás pasan por alto.</p></i><h4><b>Beneficio:</b></h4><p>Obtienes un bonificador de +2 a la Percepción y Averiguar</p><p>Intenciones. Si tienes 10 o más rangos en una de esas habilidades, el bonificador se incrementa a +4 en esa habilidad.</p>"
+			"description": "<i>Posees unos sentidos muy agudos.</i> <h4><b>Beneficio:</b></h4><p>Obtienes un +2 en las pruebas de Avistar y Escuchar.</p>\n <h4><b>Especial:</b></h4><p>El amo de un familiar obtendrá los beneficios de la dote Alerta siempre que tenga al familiar al alcance de la mano.</p>"
 		},
 		"Aligned Attack": {
 			"name": "Ataque Alineado",
@@ -33,7 +33,7 @@
 		},
 		"Animal Affinity": {
 			"name": "Afinidad Animal",
-			"description": "<i><p>Eres hábil trabajando con animales y monturas.</p></i><h4><b>Beneficio:</b></h4><p>Obtienes un bonificador +2 a todas las pruebas de Trato con Animales y Montar. Si tienes 10 o más rangos en una de esas habilidades, el bonificador se incrementa a +4 en esa habilidad.</p>"
+			"description": "<i>Eres bueno con los animales.</i> <h4><b>Beneficio:</b></h4><p>Obtienes un bonificador +2 a todas las pruebas de Montar y Trato con animales.</p>"
 		},
 		"Antipsionic Magic": {
 			"name": "Magia Antipsiónica",
@@ -57,11 +57,11 @@
 		},
 		"Athletic": {
 			"name": "Atlético",
-			"description": "<i><p>Posees una destreza física inherente.</p></i><h4><b>Beneficio:</b></h4><p>Consigues un bonificador +2 a las pruebas de habilidad de Trepar y Nadar. Si tienes 10 o más rangos en una de esas habilidades, el bonificador se incrementa a +4 en esa habilidad.</p>"
+			"description": "<i>Eres un experto en deportes al aire libre.</i> <h4><b>Beneficio:</b></h4><p>Obtienes un bonificador +2 en todas las pruebas de Trepar y Nadar.</p>"
 		},
 		"Augment Summoning": {
-			"name": "Aumentar Convocación",
-			"description": "<i><p>Tus criaturas convocadas son más poderosas y robustas.</p></i><h4><b>Prerrequisitos</b></h4><p>Soltura con escuela de magia (conjuración).</p><h4><b>Beneficio:</b></h4><p>Cada criatura que conjures con un conjuro de convocar gana un bonificador de mejora de +4 a la Fuerza y Constitución durante la duración del conjuro por el que lo has convocado.</p>"
+			"name": "Aumentar convocación",
+			"description": "<i>Las criaturas que convoques son más poderosas de lo normal.</i> <h4><b>Prerrequisitos</b></h4><p>Soltura con una escuela de magia (conjuración).</p>\n <h4><b>Beneficio:</b></h4><p>Cada criatura que convoques con cualquier conjuro de convocar recibe un bonificados +4 de mejora a su Fuerza y Constitución durante la duración del conjuro que la convocó.</p>"
 		},
 		"Augmented Alchemy": {
 			"name": "Augmented Alchemy",
@@ -116,8 +116,8 @@
 			"description": "\n\n\n<p>Your astral constructs have more abilities.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>When you create an astral construct, you can give it one additional special ability from any menu that the construct currently has an ability from.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Brew Potion": {
-			"name": "Elaborar Poción",
-			"description": "<i><p>Puedes crear pociones mágicas.</p></i><h4><b>Prerrequisitos</b></h4><p>Nivel de lanzador 3 o superior.</p><h4><b>Beneficio:</b></h4><p>Puedes crear una poción de cualquier conjuro de nivel 3 o inferior que conozcas y cuyos objetivos sean una o más criaturas.</p><p>Elaborar una poción lleva dos horas si el precio base es de 250 monedas de oro o inferior, de lo contrario elaborar una poción ocupa un día por cada 1000 mo de su precio base.</p><p>Cuando creas una poción, estableces el nivel de lanzador, que debe ser suficiente para lanzar el conjuro en cuestión y no mayor que su propio nivel.</p><p>Para elaborar una poción, debes usar materias primas que cuestan la mitad de su precio base.</p><p>Cuando creas una poción, puedes hacer cualquier elección de las que podrías hacer normalmente cuando lanzas el hechizo. Quien bebe la poción es el objetivo del conjuro.</p>"
+			"name": "Elaborar poción",
+			"description": "<i>Puedes crear pociones portadoras de conjuros.</i> <h4><b>Prerrequisitos</b></h4><p>Nivel de lanzador 3 o superior.</p>\n <h4><b>Beneficio:</b></h4><p>Puedes crear una poción portadora de cualquier conjuro de nivel 3 o inferior que conozcas y que tenga como objetivo a una o varias criaturas. Elaborar una poción requiere un día de trabajo y tú determinas el nivel de lanzador (que debe ser suficiente como para poder ejecutar el sortilegio y no superior a tu propio nivel). El precio base de una poción es su nivel de conjuro x su nivel de lanzador x 50 po, para elaborar una poción debes gastar tantos PX como 1/25 de su precio base y emplear materias primas por valor de la mitad del precio base.</p>\n<p>Al crear una poción debes tomar aquellas decisiones que tomarías al lanzar el conjuro. La criatura que beba la poción será el objetivo del sortilegio.</p>\n<p>Toda poción que requiera el uso de un componente material caro o un coste en PX conllevará un coste adicional acorde con la inversión. Al crear un objeto mágico de ese tipo deberás emplear el componente material o pagar los PX, además de correr con los costes derivados del precio base.</p>"
 		},
 		"Bulwark of Defense": {
 			"name": "Bulwark of Defense",
@@ -160,8 +160,8 @@
 			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Prerequisites\">Prerequisites</span></h3>\n<p>Dodge, Mobility, Point Blank Shot.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>The character does not incur any attacks of opportunity for firing a bow when threatened.\n</p>\n<h3><span class=\"mw-headline\" id=\"Normal\">Normal</span></h3>\n<p>Without this feat, a character incurs an attack of opportunity from all opponents who threaten him or her whenever he or she uses a bow.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Combat Casting": {
-			"name": "Conjurar En Combate",
-			"description": "<i><p>Eres experto en el lanzamiento de conjuros cuando estás amenazado o distraído.</p></i><h4><b>Beneficio:</b></h4><p>Obtienes un bonificador de +4 a las pruebas de concentración al lanzar conjuros o usar aptitudes sortílegas cuando conjures a la defensiva o mientras esté apresado.</p>"
+			"name": "Conjurar en combate",
+			"description": "<i>Eres experto ejecutando sortilegios en medio del combate.</i> <h4><b>Beneficio:</b></h4><p>Obtienes un bonificador +4 en las pruebas de Concentración que realices al lanzar un conjuro o usar una aptitud sortílega a la defensiva o mientras estás participando en una presa o sujeto.</p>"
 		},
 		"Combat Expertise": {
 			"name": "Pericia En Combate",
@@ -264,8 +264,8 @@
 			"description": "\n\n\n<p>You can strike your foe with a melee weapon as if making a touch attack.\n</p>\n<h3><span class=\"mw-headline\" id=\"Prerequisite\">Prerequisite</span></h3>\n<p>Str 13, Psionic Weapon, base attack bonus +5.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>To use this feat, you must expend your psionic focus. You can resolve your attack with a melee weapon as a touch attack. You must decide whether or not to use this feat prior to making an attack. If your attack misses, you still expend your psionic focus.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Deflect Arrows": {
-			"name": "Desviar Flechas",
-			"description": "<i><p>Puedes desviar flechas y otros proyectiles de su curso impidiendo que te impacten.</p></i><h4><b>Prerrequisitos</b></h4><p>Destreza 13, Ataque sin armas mejorado.</p><h4><b>Beneficio:</b></h4><p>Debes tener al menos una mano libre (que no lleve nada) para usar esta dote. Una vez por asalto cuando serías normalmente golpeado con un ataque de un arma a distancia, puedes desviarlo para no recibir daño de ese impacto. Debes ser consciente del ataque y no estar desprevenido. El intento de desviar un ataque a distancia no cuenta como una acción.</p><p>Armas a distancia inusualmente grandes, como pedruscos o virotes de balista y los ataques a distancia generados por ataques naturales o efectos mágicos no puedes ser desviados.</p>"
+			"name": "Desviar flechas",
+			"description": "<i>Puedes desviar las flechas que se te aproximen, al igual que los virotes de ballesta, las lanzas y demás armas arrojadizas o de proyectil.</i> <h4><b>Prerrequisitos</b></h4><p>Des 13+, Impacto sin arma mejorado.</p>\n <h4><b>Beneficio:</b></h4><p>Para usar esta dote debes tener libre una mano como mínimo (es decir, no estar sujetando nada con ella). Una vez por asalto, cuando en circunstancias normales serias golpeado por un arma de ataque a distancia, puedes desviar el ataque para no recibir ningún daño de él. Para poder hacerlo debes ser consciente del ataque y no estar desprevenido. Intentar desviar un arma de ataque a distancia no cuenta como acción. Las armas de ataque a distancia excepcionalmente grandes, como las rocas arrojadas por los gigantes, no pueden ser desviadas, ni tampoco los ataques a distancia generados por efectos de conjuros, como una <i>flecha ácida de Melf</i>.</p>\n <h4><b>Especial:</b></h4><p>Un monje puede elegir Desviar flechas como dote adicional a 2º nivel, aunque no cumpla el prerrequisito de la puntuación de Destreza.</p>"
 		},
 		"Deft Hands": {
 			"name": "Manos Hábiles",
@@ -276,8 +276,8 @@
 			"description": "\n\n\n<p>You can manifest powers that go off up to 5 rounds later.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>To use this feat, you must expend your psionic focus. You can manifest a power as a delayed power. A delayed power doesn’t activate immediately. When you manifest the power, you choose one of three trigger mechanisms: (1) The power activates when you take a standard action to activate it; (2) It activates when a creature enters the area that the power will affect (only powers that affect areas can use this trigger condition); or (3) It activates on your turn after 5 rounds pass. If you choose one of the first two triggers and the conditions are not met within 5 rounds, the power activates automatically on the fifth round.\n</p><p>Only area and personal powers can be delayed.\n</p><p>Any decisions you would make about the delayed power, including attack rolls, designating targets, or determining or shaping an area, are decided when the power is manifested. Any effects resolved by those affected by the power, including saving throws, are decided when the delay period ends.\n</p><p>A delayed power can be dispelled normally during the delay, and can be detected normally in the area or on the target by the use of powers that can detect psionic effects.\n</p><p>Using this feat increases the power point cost of the power by 2. The power’s total cost cannot exceed your manifester level.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Devastating Critical": {
-			"name": "Crítico Devastador",
-			"description": "<i><p>Elige un arma de cuerpo a cuerpo, como una garra o el mordisco. Con esa arma eres capaz de matar a cualquier criatura de un solo golpe.</p></i><h4><b>Prerrequisitos</b></h4><p>Fue 25, Hendedura, Gran Hendedura, Crítico mejorado (arma que va a ser elegida), Crítico arrollador (arma que va a ser elegida), Ataque poderoso, Soltura con un arma (arma que va a ser elegida).</p><h4><b>Beneficio:</b></h4><p>Cuando utilices el arma que has seleccionado, cada vez que logres un impacto crítico, el objetivo debe realizar un TS de Fortaleza (CD 10 + ½ tus DG + modificador de Fuerza) o morir instantáneamente. Las criaturas inmunes a los impactos críticos no podrán ser afectadas por esta dote.</p><h4><b>Especial:</b></h4><p>Puedes adquirir esta dote varias veces. Sus efectos no se acumulan. Cada vez que adquieres esta dote, se aplica a un tipo distinto de arma.</p>"
+			"name": "Crítico devastador",
+			"description": "<i>Elige un arma de cuerpo a cuerpo, como una garra o el mordisco. Con esa arma eres capaz de matar a cualquier criatura de un solo golpe.</i> <h4><b>Prerrequisitos</b></h4><p>Fue 25, Hendedura, Gran Hendedura, Crítico mejorado (arma que va a ser elegida), Crítico arrollador (arma que va a ser elegida), Ataque poderoso, Soltura con un arma (arma que va a ser elegida).</p>\n <h4><b>Beneficio:</b></h4><p>Cuando utilices el arma que has seleccionado, cada vez que logres un impacto crítico, el objetivo debe realizar un TS de Fortaleza (CD 10 + ½ tus DG + modificador de Fuerza) o morir instantáneamente. Las criaturas inmunes a los impactos críticos no podrán ser afectadas por esta dote.</p>\n <h4><b>Especial:</b></h4><p>Puedes adquirir esta dote varias veces. Sus efectos no se acumulan. Cada vez que adquieres esta dote, se aplica a un tipo distinto de arma.</p>"
 		},
 		"Dexterous Fortitude": {
 			"name": "Dexterous Fortitude",
@@ -288,24 +288,24 @@
 			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Prerequisites\">Prerequisites</span></h3>\n<p>Dex 25, slippery mind class feature.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>Once per round, when targeted by an effect that requires a Will saving throw, the character may make a Reflex save instead to avoid the effect (evasion is not applicable).\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Diehard": {
-			"name": "Duro De Pelar",
-			"description": "<i><p>Eres especialmente difícil de matar. No sólo tus heridas se estabilizan de manera automática cuando eres herido gravemente, además puedes permanecer consciente y continuar actuando incluso cuando estás a las puertas de la muerte.</p></i><h4><b>Prerrequisitos</b></h4><p>Aguante.</p><h4><b>Beneficio:</b></h4><p>Cuando tus puntos de golpe totales están por debajo de cero, pero no estás muerto, te estabilizas automáticamente. No necesitas hacer una tirada de Constitución cada asalto para evitar perder puntos de golpe adicionales. Puedes elegir actuar como si estuvieras incapacitado en vez de moribundo. Debes tomar esta decisión tan pronto como eres reducido a puntos de golpe negativos (aunque no sea tu turno). Si no escoges actuar como si estuvieras incapacitado, automáticamente caes inconsciente.</p><p>Mientras usas esta dote, estás grogui. Puedes hacer una acción de movimiento sin hacerte daño, pero si realizas cualquier acción normal (o cualquier otra acción que se considere extenuante, incluyendo alguna acción rápida, como lanzar un conjuro apresurado) recibes 1 punto de daño tras completar la acción. Si tus puntos de golpe negativos son iguales o mayores que tu puntuación de Constitución, mueres inmediatamente.</p><h4><b>Normal:</b></h4><p>Un personaje sin esta dote que es reducido a puntos de golpe negativos está inconsciente y moribundo.</p>"
+			"name": "Duro de pelar",
+			"description": "<i>Puedes permanecer consciente tras ataques que harían caer a otros.</i> <h4><b>Prerrequisitos</b></h4><p>Aguante.</p>\n <h4><b>Beneficio:</b></h4><p>Cuando seas reducido a cualquier valor entre -1 y -9 puntos de golpe, te estabilizas de manera automática. No tienes que tirar un d% para ver si pierdes 1 punto de golpe cada asalto.</p>\n<p>Cuando seas reducido a puntos de golpe negativos puedes decidir actuar como si estuvieses incapacitado en lugar de moribundo. Debes tomar esta decisión en cuanto seas reducido a puntos de golpe negativos (incluso aunque no sea tu turno). Si no eliges permanecer como si estuvieses incapacitado, quedas inconsciente inmediatamente.</p>\n<p>Cuando utilices esta dote, puedes realizar un único movimiento o una acción estándar cada asalto, pero no ambas, y no puedes llevar a cabo una acción de asalto completo. Puedes realizar una acción de movimiento sin causarte más daño, pero si realizas cualquier tipo de acción estándar (o cualquier otra acción que el DM considere agotadora, incluyendo algunas acciones gratuitas, como lanzar un conjuro apresurado) sufres 1 punto de daño después de completar la tarea. Si alcanzas los -10 puntos de golpe, mueres inmediatamente.</p>\n <h4><b>Normal:</b></h4><p>Un personaje sin esta dote que sea reducido a cualquier valor entre -1 y -9 puntos de golpe está inconsciente y moribundo.</p>"
 		},
 		"Diligent": {
 			"name": "Aplicado",
-			"description": "<i><p>Tu actitud meticulosa te permite analizar los detalles más pequeños que otros pasan por alto.</p></i><h4><b>Beneficio:</b></h4><p>Obtienes un bonificador +2 en todas las pruebas de Descifrar escritura y Tasación.</p>"
+			"description": "<i>Tu actitud meticulosa te permite analizar los detalles más pequeños que otros pasan por alto.</i> <h4><b>Beneficio:</b></h4><p>Obtienes un bonificador +2 en todas las pruebas de Descifrar escritura y Tasación.</p>"
 		},
 		"Diminutive Wild Shape": {
 			"name": "Diminutive Wild Shape",
 			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Prerequisite\">Prerequisite</span></h3>\n<p>Ability to wild shape into a Huge animal.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>The character can use wild shape to take the shape of a Diminutive animal.\n</p>\n<h3><span class=\"mw-headline\" id=\"Normal\">Normal</span></h3>\n<p>Without this feat, a character cannot wild shape into an animal of smaller than Tiny size.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Dire Charge": {
-			"name": "Carga Terrible",
-			"description": "<i><p>Puedes realizar un ataque completo como parte de una carga</p></i><h4><b>Prerrequisitos</b></h4><p>Iniciativa mejorada</p><h4><b>Beneficio:</b></h4><p>Si cargas contra un enemigo durante el primer asalto de combate (o el asalto de sorpresa, si puedes atacar en él), puedes hacer un ataque completo contra el objetivo de tu carga.</p><h4><b>Normal:</b></h4><p>Sin esta dote, sólo puedes realizar un ataque como parte de una carga.</p>"
+			"name": "Carga terrible",
+			"description": "<i>Puedes realizar un ataque completo como parte de una carga</i> <h4><b>Prerrequisitos</b></h4><p>Iniciativa mejorada</p>\n <h4><b>Beneficio:</b></h4><p>Si cargas contra un enemigo durante el primer asalto de combate (o el asalto de sorpresa, si puedes atacar en él), puedes hacer un ataque completo contra el objetivo de tu carga.</p>\n <h4><b>Normal:</b></h4><p>Sin esta dote, sólo puedes realizar un ataque como parte de una carga.</p>"
 		},
 		"Disguise Spell": {
-			"name": "Conjuro Camuflado",
-			"description": "<i><p>Puedes lanzar conjuros sin que los que te observan se den cuenta de ello.</p></i><h4><b>Prerrequisitos</b></h4><p>Interpretar (cualquiera) 9 rangos, música de bardo.</p><h4><b>Beneficio:</b></h4><p>Puedes lanzar conjuros de manera discreta, mezclando los componentes verbales y somáticos con tus actuaciones. Para camuflar un conjuro, realiza una prueba de Interpretar como parte de la acción utilizada para lanzar éste. Los espectadores deben igualar o superar el resultado de tu prueba con una de Avistar para percibir que estás lanzando un conjuro (tu interpretación es obvia para cualquiera que se halle cerca, pero que estás lanzando un conjuro, no). A menos que éste proceda directamente de ti de manera visible o los espectadores tengan algún otro medio de determinar su origen, no saben de dónde viene el efecto.</p><p>Un conjuro camuflado no puede ser identificado con una prueba de</p><p>Conocimiento de conjuros, incluso por alguien que se dé cuenta de que estás lanzándolo. El lanzamiento provoca ataques de oportunidad de la forma habitual.</p>"
+			"name": "Conjuro camuflado",
+			"description": "<i>Puedes lanzar conjuros sin que los que te observan se den cuenta de ello.</i> <h4><b>Prerrequisitos</b></h4><p>Interpretar (cualquiera) 9 rangos, música de bardo.</p>\n <h4><b>Beneficio:</b></h4><p>Puedes lanzar conjuros de manera discreta, mezclando los componentes verbales y somáticos con tus actuaciones. Para camuflar un conjuro, realiza una prueba de Interpretar como parte de la acción utilizada para lanzar éste. Los espectadores deben igualar o superar el resultado de tu prueba con una de Avistar para percibir que estás lanzando un conjuro (tu interpretación es obvia para cualquiera que se halle cerca, pero que estás lanzando un conjuro, no). A menos que éste proceda directamente de ti de manera visible o los espectadores tengan algún otro medio de determinar su origen, no saben de dónde viene el efecto.</p>\n<p>Un conjuro camuflado no puede ser identificado con una prueba de Conocimiento de conjuros, incluso por alguien que se dé cuenta de que estás lanzándolo. El lanzamiento provoca ataques de oportunidad de la forma habitual.</p>"
 		},
 		"Distant Shot": {
 			"name": "Distant Shot",
@@ -345,7 +345,7 @@
 		},
 		"Endurance": {
 			"name": "Aguante",
-			"description": "<i><p>Las condiciones duras o ejercicios prolongados no te cansan fácilmente.</p></i><h4><b>Beneficio:</b></h4><p>Ganas un bonificador +4 en las siguientes pruebas y salvaciones: pruebas de Nadar para resistir el daño no letal de la extenuación; pruebas de Constitución para continuar corriendo; pruebas de Constitución para evitar el daño no letal de una marcha forzada; pruebas de Constitución para aguantar la respiración; pruebas de Constitución para evitar el daño no letal del hambre o la sed; TS de Fortaleza para evitar el daño no letal de ambientes calientes o fríos; y TS de Fortaleza para resistir el daño de la asfixia.</p><p>Puedes dormir con armadura ligera o intermedia sin quedar fatigado.</p><h4><b>Normal:</b></h4><p>Un personaje sin esta dote que duerma con armadura intermedia o más pesada estará fatigado al día siguiente</p>"
+			"description": "<i>Eres capaz de realizar grandes proezas de resistencia.</i> <h4><b>Beneficio:</b></h4><p>Obtienes un bonificador +4 a las siguientes pruebas y salvaciones: Pruebas de Nadar realizadas para resistir daño no letal, pruebas de Constitución realizadas para seguir corriendo, pruebas de Constitución para evitar daño no letal debido a una marcha forzada, pruebas de Constitución para aguantar la respiración, pruebas de Constitución para evitar daño no letal debido a la sed y la inanición, Salvaciones de Fortaleza para evitar daño no letal de entornos fríos o cálidos y salvaciones de Fortaleza para resistir daño por asfixia. Además, puedes dormir con armadura ligera o intermedia sin quedar fatigado.</p>\n <h4><b>Normal:</b></h4><p>Un personaje sin esta dote que duerma con, una armadura intermedia o pesada está fatigado de manera automática durante el siguiente día.</p>\n <h4><b>Especial:</b></h4><p>Un explorador obtiene automáticamente Aguante como dote adicional a 3º nivel, por lo que no necesita elegirla.</p>"
 		},
 		"Energy Resistance": {
 			"name": "Energy Resistance",
@@ -364,8 +364,8 @@
 			"description": "\n\n\n<p>You can manifest powers farther than normal.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>To use this feat, you must expend your psionic focus. You can alter a power with a range of close, medium, or long to increase its range by 100%. An enlarged power with a range of close has a range of 50 feet + 5 feet per level, a medium-range power has a range of 200 feet + 20 feet per level, and a long-range power has a range of 800 feet + 80 feet per level.\n</p><p>Powers whose ranges are not defined by distance, as well as powers whose ranges are not close, medium, or long, are not affected.\n</p><p>Using this feat does not increase the power point cost of the power.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Enlarge Spell": {
-			"name": "Ampliar Conjuro",
-			"description": "<i><p>Puedes aumentar el alcance de tus conjuros.</p></i><h4><b>Beneficio:</b></h4><p>Puedes alterar un conjuro con alcance corto, intermedio o largo incrementando su alcance un 100%. Un conjuro ampliado con un alcance corto ahora tiene un alcance de 50 pies + 5pies/nivel; mientras que los conjuros de alcance intermedio tienen un alcance de 200 pies + 20 pies/nivel y los conjuros de largo alcance tienen un alcance de 800 pies + 80 pies/nivel. Un conjuro ampliado usa un espacio de conjuro un nivel mayor que el nivel real del conjuro.</p>"
+			"name": "Ampliar conjuro",
+			"description": "<i>Puedes lanzar conjuros con un alcance superior al normal.</i> <h4><b>Beneficio:</b></h4><p>Puedes alterar un conjuro con un alcance corto, intermedio o, largo para aumentar ese alcance hasta el doble. Un conjuro con un alcance corto tendrá ahora un alcance de 50’ + 5’/nivel, mientras que uno de alcance intermedio llegará a los 200’ + 20’/nivel y uno de largo alcance llegará hasta los 800’ + 80’/nivel. Un sortilegio ampliado ocupa un espacio de conjuro un nivel superior al de su nivel real.</p>\n<p>Los conjuros que no tengan su alcance definido por una distancia, así como los conjuros que tengan un alcance diferente a corto, intermedio o largo, no podrán ver ampliado su alcance.</p>"
 		},
 		"Epic Dodge": {
 			"name": "Epic Dodge",
@@ -448,16 +448,16 @@
 			"description": "<i><p>Tienes una tremenda fuerza de voluntad.</p></i><h4><b>Beneficio:</b></h4><p>Ganas un bonificador +4 a todos los TS de Voluntad.</p>"
 		},
 		"Eschew Materials": {
-			"name": "Abstención De Materiales",
-			"description": "<i><p>Puedes lanzar muchos conjuros sin necesitar de usar componentes materiales poco importantes.</p></i><h4><b>Beneficio:</b></h4><p>Puedes lanzar cualquier conjuro con un costo en componentes materiales de una moneda de oro o menos sin necesidad de dicho componente.</p><p>Lanzar el conjuro sigue provocando ataques de oportunidad de manera habitual. Si el conjuro requiere un componente material cuyo costo sea mayor de 1 mo, debes poseer el componente material a mano para lanzarlo, de la manera normal.</p>"
+			"name": "Abstención de materiales",
+			"description": "<i>Puedes lanzar conjuros sin depender de componentes materiales.</i> <h4><b>Beneficio:</b></h4><p>Puedes lanzar cualquier conjuro que tenga un componente material que cueste 1 po o menos sin precisar ese componente, aunque lanzar el conjuro sigue provocando un ataque de oportunidad de forma normal. Si el conjuro requiere un componente material que cueste más de 1 po debes disponer de él para lanzar el conjuro, de la manera normal.</p>"
 		},
 		"Exceptional Deflection": {
 			"name": "Exceptional Deflection",
 			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Prerequisites\">Prerequisites</span></h3>\n<p>Dex 21, Wis 19, Deflect Arrows, Improved Unarmed Strike.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>The character can deflect any ranged attacks (including spells that require ranged touch attacks) as if they were arrows.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Exotic Weapon Proficiency": {
-			"name": "Competencia Con Arma Exótica",
-			"description": "<i><p>Escoge un tipo de arma exótica, como la cadena armada o el látigo. Comprendes cómo usar ese tipo de arma exótica en combate y puedes usar cualquier truco o cualidades especiales que permita el arma exótica.</p></i><h4><b>Prerrequisitos</b></h4><p>Ataque base +1.</p><h4><b>Beneficio:</b></h4><p>Puedes hacer tiradas de ataque con el arma normalmente.</p><h4><b>Normal:</b></h4><p>Un personaje que use un arma con la que no tenga competencia recibe un penalizador -4 a las tiradas de ataque.</p><h4><b>Especial:</b></h4><p>Puedes seleccionar Competencia con arma exótica varias veces. Cada vez que escojas esta dote se aplica a un nuevo tipo de arma exótica.</p>"
+			"name": "Competencia con arma exótica",
+			"description": "<i>Elige un tipo de arma exótica, como mangual doble o shuriken. Sabes cómo usar ese tipo de arma exótica en combate.</i> <h4><b>Prerrequisitos</b></h4><p>Ataque base +l (además de Fue 13 para la espada bastarda o el hacha de guerra enana).</p>\n <h4><b>Beneficio:</b></h4><p>Haces tus tiradas de ataque con éste arma de la manera normal</p>\n <h4><b>Normal:</b></h4><p>Un personaje que use un arma sin ser competente con ella sufrirá un penalizador -4 en sus tiradas de ataque.</p>\n <h4><b>Especial:</b></h4><p>Puedes adquirir esta dote varias veces. Cada vez que lo hagas, el beneficio se aplicará a un arma exótica diferente. La competencia con la espada bastarda o el hacha de guerra enana tienen un prerrequisito adicional de Fue 13.</p>"
 		},
 		"Expanded Knowledge": {
 			"name": "Expanded Knowledge",
@@ -492,12 +492,12 @@
 			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Prerequisite\">Prerequisite</span></h3>\n<p>Int 25 (if the character’s spellcasting is controlled by Intelligence) or Cha 25 (if the character’s spellcasting is controlled by Charisma).\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>Choose one arcane spell the character knows of 8th level or lower. The character’s familiar can now use this spell once per day as a spell-like ability, at a caster level equal to the character’s caster level. A character cannot bestow a spell to his or her familiar if the spell normally has a material component cost of more than 1 gp or an XP cost.\n</p>\n<h3><span class=\"mw-headline\" id=\"Special\">Special</span></h3>\n<p>A character can gain this feat multiple times. Each time the character takes the feat, he or she can give his or her familiar a different spell-like ability or another daily use of the same spell-like ability.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Far Shot": {
-			"name": "Disparo A Larga Distancia",
-			"description": "<i><p>Eres más preciso en distancias largas.</p></i><h4><b>Prerrequisitos</b></h4><p>Disparo a bocajarro.</p><h4><b>Beneficio:</b></h4><p>Sólo sufres un penalizador de -1 por cada incremento de distancia entre tú y tu objetivo cuando uses armas a distancia.</p><h4><b>Normal:</b></h4><p>Sufres un penalizador de -2 por cada incremento de distancia entre tú y tu objetivo.</p>"
+			"name": "Disparo a larga distancia",
+			"description": "<i>Puedes llegar más lejos con un arma de ataque a distancia.</i> <h4><b>Prerrequisitos</b></h4><p>Disparo a bocajarro.</p>\n <h4><b>Beneficio:</b></h4><p>Cuando uses un arma de proyectil, como un arco, su alcance se incrementa en un 50% (multiplícalo por 1'5). Cuando utilices un arma arrojadiza, su alcance se duplica.</p>"
 		},
 		"Fast Healing": {
-			"name": "Curación Rápida",
-			"description": "<i><p>Curas tus heridas muy rápidamente</p></i><h4><b>Prerrequisitos</b></h4><p>Con 25</p><h4><b>Beneficio:</b></h4><p>Ganas curación rápida 3, o la curación rápida que ya poseas se incrementa en 3. Esta dote no se apila con curación rápida otorgada por objetos mágicos o efectos mágicos temporales.</p><h4><b>Especial:</b></h4><p>Esta dote se puede escoger varias veces. Sus efectos se apilan.</p>"
+			"name": "Curación rápida",
+			"description": "<i>Curas tus heridas muy rápidamente</i> <h4><b>Prerrequisitos</b></h4><p>Con 25</p>\n <h4><b>Beneficio:</b></h4><p>Ganas curación rápida 3, o la curación rápida que ya poseas se incrementa en 3. Esta dote no se apila con curación rápida otorgada por objetos mágicos o efectos mágicos temporales.</p>\n <h4><b>Especial:</b></h4><p>Esta dote se puede escoger varias veces. Sus efectos se apilan.</p>"
 		},
 		"Fell Shot": {
 			"name": "Fell Shot",
@@ -512,8 +512,8 @@
 			"description": "<i><p>Eres extraordinariamente veloz.</p></i><h4><b>Prerrequisitos</b></h4><p>Elfo (el bosque Alto, el bosque de Lezhyr o Wéldaz), humano (el Sheír o Zhindol) o semielfo (el bosque Alto o las tierras de los Valles).</p><h4><b>Beneficio:</b></h4><p>Tu velocidad terrestre es más rápida de lo normal para tu raza en 10'. Este beneficio sólo se aplica cuando no llevar armadura o llevas armadura ligera y no transportes una carga pesada. Aplica este bonificador antes de modificar tu velocidad por cualquier carga transportada.</p><h4><b>Especial:</b></h4><p>Si tu clase de personaje tiene un rasgo que también mejora tu velocidad terrestre, este aumento se apila con el proporcionado por Pies ligeros. Sólo puedes elegir esta dote como personaje de nivel 1. No puedes tener más de una dote regional.</p>"
 		},
 		"Flyby Attack": {
-			"name": "Ataque En Vuelo",
-			"description": "<i><p>La criatura puede hacer un ataque antes y después de su movimiento mientras vuela.</p></i><h4><b>Prerrequisitos</b></h4><p>Velocidad de vuelo.</p><h4><b>Beneficio:</b></h4><p>Cuando vuela, la criatura puede hacer una acción de movimiento y otra acción estándar en cualquier punto durante su movimiento. La criatura no puede hacer una segunda acción de movimiento durante un asalto en el que hace un ataque en vuelo.</p><h4><b>Normal:</b></h4><p>Sin esta dote, la criatura hace una acción estándar antes o después de su movimiento.</p>"
+			"name": "Ataque en vuelo",
+			"description": "<i>La criatura puede atacar mientras vuela.</i> <h4><b>Prerrequisitos</b></h4><p>Velocidad de vuelo</p>\n <h4><b>Beneficio:</b></h4><p>Cuando vuela, la criatura puede realizar una acción de movimiento (incluyendo un ataque en picado) y otra acción estándar en cualquier punto del movimiento. La criatura no podrá llevar a cabo una segunda acción de movimiento durante un asalto en que esté realizando un ataque en vuelo.</p>\n <h4><b>Normal:</b></h4><p>Sin esta dote, la criatura llevaría a cabo una acción estándar bien antes o bien después de su movimiento.</p>"
 		},
 		"Focused Sunder": {
 			"name": "Focused Sunder",
@@ -580,8 +580,8 @@
 			"description": "\n\n\n<p>You are skilled at firing many arrows at once, even at different opponents.\n</p>\n<h3><span class=\"mw-headline\" id=\"Prerequisites\">Prerequisites</span></h3>\n<p>Dex 17, Manyshot, Point Blank Shot, Rapid Shot, base attack bonus +6.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>When you use the Manyshot feat, you can fire each arrow at a different target instead of firing all of them at the same target. You make a separate attack roll for each arrow, regardless of whether you fire them at separate targets or the same target. Your precision-based damage applies to each arrow fired, and, if you score a critical hit with more than one of the arrows, each critical hit deals critical damage.\n</p>\n<h3><span class=\"mw-headline\" id=\"Special\">Special</span></h3>\n<p>A fighter may select this feat as one of his fighter bonus feats.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Greater Multiweapon Fighting": {
-			"name": "Combate Con Múltiples Armas Mayor",
-			"description": "<i><p>Una criatura con tres o más brazos puede luchar con un arma en cada mano. La criatura puede realizar hasta tres ataques por asalto con cada arma adicional.</p></i><h4><b>Prerrequisitos</b></h4><p>Des 19, tres brazos o más, ataque base +15, Combate con múltiples armas mejorado, Combate con múltiples armas, Multidextrismo.</p><h4><b>Beneficio:</b></h4><p>Puedes hacer hasta tres ataques con cada arma que empuñes en una mano torpe, aunque con un penalizador -10 en el tercer ataque con cada una de estas armas.</p><h4><b>Especial:</b></h4><p>Esta dote reemplaza la de Combate con dos armas mayor para las criaturas con más de dos brazos.</p>"
+			"name": "Combate con múltiples armas mayor",
+			"description": "<i>Una criatura con tres o más brazos puede luchar con un arma en cada mano. La criatura puede realizar hasta tres ataques por asalto con cada arma adicional.</i> <h4><b>Prerrequisitos</b></h4><p>Des 19, tres brazos o más, ataque base +15, Combate con múltiples armas mejorado, Combate con múltiples armas, Multidextrismo.</p>\n <h4><b>Beneficio:</b></h4><p>Puedes hacer hasta tres ataques con cada arma que empuñes en una mano torpe, aunque con un penalizador -10 en el tercer ataque con cada una de estas armas.</p>\n <h4><b>Especial:</b></h4><p>Esta dote reemplaza la de Combate con dos armas mayor para las criaturas con más de dos brazos.</p>"
 		},
 		"Greater Power Penetration": {
 			"name": "Greater Power Penetration",
@@ -612,8 +612,8 @@
 			"description": "<p>Choose a school of magic to which you already have applied the Spell Focus feat.</p>\n<h3><span id=\"Benefit\">Benefit</span></h3>\n<p>Add +1 to the Difficulty Class for all saving throws against spells from the school of magic you select. This bonus stacks with the bonus from Spell Focus.</p>\n<h3><span id=\"Special\">Special</span></h3>\n<p>You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new school of magic to which you already have applied the Spell Focus feat.</p>\n<p>&nbsp;</p>"
 		},
 		"Greater Spell Penetration": {
-			"name": "Conjuros Penetrantes Mayores",
-			"description": "<i><p>Tus conjuros se abren paso a través de la Resistencia a Conjuros mucho más fácilmente que la mayoría.</p></i><h4><b>Prerrequisitos</b></h4><p>Conjuros penetrantes.</p><h4><b>Beneficio:</b></h4><p>Ganas un bonificador +2 a las pruebas de nivel de lanzador (1d20 + nivel de lanzador) para superar la Resistencia a Conjuros de una criatura. Este bonificador se apila con el dado por Conjuros Penetrantes.</p>"
+			"name": "Conjuros penetrantes mayores",
+			"description": "<i>Tus sortilegios son especialmente potentes, salvando la RC con mayor facilidad de la habitual.</i> <h4><b>Prerrequisitos</b></h4><p>Conjuros penetrantes.</p>\n <h4><b>Beneficio:</b></h4><p>Obtienes un bonificador +2 en las pruebas de nivel de lanzador (1d20 + nivel de lanzador) para superar la RC de una criatura. Este bonificador se apila con el de Conjuros penetrantes (ver arriba).</p>"
 		},
 		"Greater Two-Weapon Fighting": {
 			"name": "Combate Con Dos Armas Mayor",
@@ -692,8 +692,8 @@
 			"description": "<h3><span id=\"Prerequisites\" class=\"mw-headline\">Prerequisites</span></h3>\n<p>Dex 21, Combat Reflexes.</p>\n<h3><span id=\"Benefit\" class=\"mw-headline\">Benefit</span></h3>\n<p>There is no limit to the number of attacks of opportunity the character can make in one round. (The character still can’t make more than one attack of opportunity for a given opportunity.)</p>\n<p>&nbsp;</p>"
 		},
 		"Improved Counterspell": {
-			"name": "Contraconjuro Mejorado",
-			"description": "<i><p>Eres experto en contrarrestar los conjuros de los demás usando conjuros similares.</p></i><h4><b>Beneficio:</b></h4><p>Cuando contraconjures, puedes usar un conjuro de la misma escuela que sea uno o más niveles superior que el conjuro objetivo.</p><h4><b>Normal:</b></h4><p>Sin esta dote, sólo puedes contraconjurar con el mismo conjuro o con uno específicamente diseñado para contrarrestar al conjuro objetivo.</p>"
+			"name": "Contraconjuro mejorado",
+			"description": "<i>Entiendes los matices de la magia hasta tal punto que puedes contrarrestar con gran eficacia los conjuros de tus oponentes.</i> <h4><b>Beneficio:</b></h4><p>Al realizar un contraconjuro, puedes utilizar cualquier sortilegio de la misma escuela, siempre que sea uno o mas niveles superior al conjuro objetivo.</p>\n <h4><b>Normal:</b></h4><p>Sin esta dote, sólo puedes contrarrestar un conjuro con el mismo conjuro o con un conjuro especialmente diseñado para contraconjurar ese sortilegio.</p>"
 		},
 		"Improved Critical (No Weapon Set)": {
 			"name": "Improved Critical (No Weapon Set)",
@@ -708,8 +708,8 @@
 			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Prerequisites\">Prerequisites</span></h3>\n<p>Death attack class feature, sneak attack +5d6.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>Add +2 to the DC of the character’s death attack.\n</p>\n<h3><span class=\"mw-headline\" id=\"Special\">Special</span></h3>\n<p>This feat may be taken multiple times. Its effects stack.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Improved Disarm": {
-			"name": "Desarme Mejorado",
-			"description": "<i><p>Eres experto en arrancar las armas de las manos de tus enemigos.</p></i><h4><b>Prerrequisitos</b></h4><p>Inteligencia 13, Pericia en combate.</p><h4><b>Beneficio:</b></h4><p>No provocas ataque de oportunidad cuando realizas una maniobra de combate de desarme. Además, recibes un bonificador +2 a las pruebas para desarmar un enemigo. También recibes un bonificador +2 a tu</p><p>Defensa contra Maniobras de Combate cada vez que un oponente intente desarmarte.</p><h4><b>Normal:</b></h4><p>Provocas un ataque de oportunidad cuando realizas una maniobra de combate de desarme.</p>"
+			"name": "Desarme mejorado",
+			"description": "<i>Sabes cómo desarmar a tus oponentes en combate cuerpo a cuerpo.</i> <h4><b>Prerrequisitos</b></h4><p>Int. 13, Pericia en combate.</p>\n <h4><b>Beneficio:</b></h4><p>No provocas ataque de oportunidad atando intentas desarmar a un oponente, ni éste tendrá oportunidad de desarmarte a ti Además, obtienes un bonificador +4 en la tirada de ataque enfrentada para desarmar a tu oponente.</p>\n <h4><b>Normal:</b></h4><p>Consulta las reglas normales de desarme.</p>\n <h4><b>Especial:</b></h4><p>Un monje puede elegir Desarme mejorado como dote adicional a 6º nivel, incluso aunque no reúna los prerrequisitos.</p>"
 		},
 		"Improved Elemental Wild Shape": {
 			"name": "Improved Elemental Wild Shape",
@@ -728,8 +728,8 @@
 			"description": "<i><p>Eres experto en engañar a tus oponentes en combate.</p></i><h4><b>Prerrequisitos</b></h4><p>Inteligencia 13, Pericia en combate.</p><h4><b>Beneficio:</b></h4><p>Puedes hacer una prueba de engañar para fintar en combarte como acción de movimiento.</p><h4><b>Normal:</b></h4><p>Fintar en combate es una acción estándar.</p>"
 		},
 		"Improved Flyby Attack": {
-			"name": "Ataque En Vuelo Mejorado",
-			"description": "<i><p>Puedes atacar mientras vuelas con una mejor movilidad.</p></i><h4><b>Prerrequisitos</b></h4><p>Velocidad de vuelo, Esquiva, Ataque en vuelo, Movilidad.</p><h4><b>Beneficio:</b></h4><p>Cuando vuelas puedes emprender una acción de movimiento (incluido el picado) y otra acción parcial en cualquier punto del desplazamiento. Si esta acción parcial es un ataque, no sufres ataques de oportunidad al moverte por áreas amenazadas por tu objetivo. No puedes emprender una segunda acción de movimiento durante un asalto mientras realizas un ataque en vuelo.</p><h4><b>Normal:</b></h4><p>Sin esta dote sólo puedes emprender una acción parcial antes o después de tu movimiento. Incluso con la dote de Ataque en vuelo, sufres ataques de oportunidad moviéndote a través de áreas amenazadas por el objetivo de tu ataque en vuelo.</p>"
+			"name": "Ataque en vuelo mejorado",
+			"description": "<i>Puedes atacar mientras vuelas con una mejor movilidad.</i> <h4><b>Prerrequisitos</b></h4><p>Velocidad de vuelo, Esquiva, Ataque en vuelo, Movilidad.</p>\n <h4><b>Beneficio:</b></h4><p>Cuando vuelas puedes emprender una acción de movimiento (incluido el picado) y otra acción parcial en cualquier punto del desplazamiento. Si esta acción parcial es un ataque, no sufres ataques de oportunidad al moverte por áreas amenazadas por tu objetivo. No puedes emprender una segunda acción de movimiento durante un asalto mientras realizas un ataque en vuelo.</p>\n <h4><b>Normal:</b></h4><p>Sin esta dote sólo puedes emprender una acción parcial antes o después de tu movimiento. Incluso con la dote de Ataque en vuelo, sufres ataques de oportunidad moviéndote a través de áreas amenazadas por el objetivo de tu ataque en vuelo.</p>"
 		},
 		"Improved Grapple": {
 			"name": "Presa Mejorada",
@@ -768,28 +768,28 @@
 			"description": "\n\n\n<p>You can manifest powers using metapsionic feats more easily than normal.\n</p>\n<h3><span class=\"mw-headline\" id=\"Prerequisites\">Prerequisites</span></h3>\n<p>Character level 21st, four psionic feats, Psicraft 30 ranks.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>Metapsionic powers you manifest cost 2 power points less than normal (to a minimum of 1 power point).\n</p><p>This feat has no effect on metapsionic powers that inflate the cost by only 2 power points.\n</p>\n<h3><span class=\"mw-headline\" id=\"Special\">Special</span></h3>\n<p>You can gain this feat multiple times. The effects stack, though you can’t lower the cost of any metapsionic power to less than 1 power point.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Improved Multiattack": {
-			"name": "Ataque Múltiple Mejorado",
-			"description": "<i><p>Eres especialmente hábil utilizando todas tus armas naturales a la vez.</p></i><h4><b>Prerrequisitos</b></h4><p>Tres o más armas naturales, Ataque múltiple.</p><h4><b>Beneficio:</b></h4><p>Tus ataques secundarios con armas naturales no tienen penalización al ataque. Todavía sólo puedes añadir ½ de tu bonificador de Fue, si lo hay, al daño.</p><h4><b>Normal:</b></h4><p>Sin esta dote, tus ataques secundarios se realizan con una penalización de -5 (o de -2 si posees la dote Ataque múltiple).</p>"
+			"name": "Ataque múltiple mejorado",
+			"description": "<i>Eres especialmente hábil utilizando todas tus armas naturales a la vez.</i> <h4><b>Prerrequisitos</b></h4><p>Tres o más armas naturales, Ataque múltiple.</p>\n <h4><b>Beneficio:</b></h4><p>Tus ataques secundarios con armas naturales no tienen penalización al ataque. Todavía sólo puedes añadir ½ de tu bonificador de Fue, si lo hay, al daño.</p>\n <h4><b>Normal:</b></h4><p>Sin esta dote, tus ataques secundarios se realizan con una penalización de -5 (o de -2 si posees la dote Ataque múltiple).</p>"
 		},
 		"Improved Multiweapon Fighting": {
-			"name": "Combate Con Múltiples Armas Mejorado",
-			"description": "<i><p>Eres experto en la lucha con un arma en cada una de tus tres o más manos.</p></i><h4><b>Prerrequisitos</b></h4><p>Des 15, tres brazos o más, bonificador al ataque base +9, Multidextrismo, Combate con múltiples armas.</p><h4><b>Beneficio:</b></h4><p>Además del único ataque adicional que consigues cada asalto por cada arma empuñada en una mano torpe del Combate con múltiples armas, consigues un segundo ataque adicional con cada una de estas armas, aunque con un penalizador -5.</p><h4><b>Normal:</b></h4><p>Con sólo Combate con múltiples armas, consigues un único ataque con cada arma empuñada con las manos torpes.</p><h4><b>Especial:</b></h4><p>Esta dote sustituye a la de Combate con dos armas mejorado para las criaturas con más de dos brazos.</p>"
+			"name": "Combate con múltiples armas mejorado",
+			"description": "<i>Eres experto en la lucha con un arma en cada una de tus tres o más manos. Puedes realizar hasta dos ataques por asalto con cada arma empuñada en una mano torpe.</i> <h4><b>Prerrequisitos</b></h4><p>Des 15, tres brazos o más, bonificador al ataque base +9, Multidextrismo, Combate con múltiples armas.</p>\n <h4><b>Beneficio:</b></h4><p>Además del único ataque adicional que consigues cada asalto por cada arma empuñada en una mano torpe del Combate con múltiples armas, consigues un segundo ataque adicional con cada una de estas armas, aunque con un penalizador -5.</p>\n <h4><b>Normal:</b></h4><p>Con sólo Combate con múltiples armas, consigues un único ataque con cada arma empuñada con las manos torpes.</p>\n <h4><b>Especial:</b></h4><p>Esta dote sustituye a la de Combate con dos armas mejorado para las criaturas con más de dos brazos.</p>"
 		},
 		"Improved Natural Armor": {
-			"name": "Armadura Natural Mejorada",
-			"description": "<i><p>La piel de la criatura es más dura que la de la mayoría.</p></i><h4><b>Prerrequisitos</b></h4><p>Armadura natural, Con 13.</p><h4><b>Beneficio:</b></h4><p>El bonificador de armadura natural de la criatura aumenta en +1.</p><h4><b>Especial:</b></h4><p>Una criatura puede obtener esta dote múltiples veces. Cada vez que la criatura elige la dote, su bonificador de armadura natural aumenta en otro punto.</p>"
+			"name": "Armadura natural mejorada",
+			"description": "<i>La armadura natural de la criatura es más gruesa y más dura que la de otras de su misma especie.</i> <h4><b>Prerrequisitos</b></h4><p>Armadura natural, Con 13</p>\n <h4><b>Beneficio:</b></h4><p>La armadura natural de la criatura se incrementa en 1</p>\n <h4><b>Especial:</b></h4><p>Una criatura puede obtener esta dote varias veces. Cada vez que la criatura adquiera la dote, su bonificador de armadura natural se incrementará en otro punto.</p>"
 		},
 		"Improved Natural Attack (No Weapon Set)": {
 			"name": "Improved Natural Attack (No Weapon Set)",
 			"description": "<h3><span id=\"Prerequisite\">Prerequisite</span></h3>\n<p>Natural weapon, base attack bonus +4.</p>\n<h3><span id=\"Benefit\">Benefit</span></h3>\n<p>Choose one of the creature&rsquo;s natural attack forms. The damage for this natural weapon increases by one step, as if the creature&rsquo;s size had increased by one category.</p>\n<h3><span id=\"Special\">Special</span></h3>\n<p>You can take this feat multiple times, but each time it applies to a different natural attack.</p>\n<p>&nbsp;</p>\n<h3><span id=\"Table:_Improved_Natural_Attack_Damage_Increase\">Table: Improved Natural Attack Damage Increase</span></h3>\n<table cellspacing=\"0\" cellpadding=\"0\"><caption>\n<p>&nbsp;</p>\n</caption>\n<tbody>\n<tr>\n<td>1d2</td>\n<td>1d3</td>\n<td>1d4</td>\n<td>1d6</td>\n<td>1d8</td>\n<td>2d6</td>\n<td>3d6</td>\n<td>4d6</td>\n<td>6d6</td>\n<td>8d6</td>\n<td>12d6</td>\n</tr>\n<tr>\n<td>&mdash;</td>\n<td>&mdash;</td>\n<td>&mdash;</td>\n<td>&mdash;</td>\n<td>2d4</td>\n<td>2d6</td>\n<td>3d6</td>\n<td>4d6</td>\n<td>6d6</td>\n<td>8d6</td>\n<td>12d6</td>\n</tr>\n<tr>\n<td>&mdash;</td>\n<td>&mdash;</td>\n<td>&mdash;</td>\n<td>&mdash;</td>\n<td>&mdash;</td>\n<td>1d12</td>\n<td>3d6</td>\n<td>4d6</td>\n<td>6d6</td>\n<td>8d6</td>\n<td>12d6</td>\n</tr>\n<tr>\n<td>&mdash;</td>\n<td>&mdash;</td>\n<td>&mdash;</td>\n<td>1d10</td>\n<td>2d8</td>\n<td>3d8</td>\n<td>4d8</td>\n<td>6d8</td>\n<td>8d8</td>\n<td>12d8</td>\n<td>16d8</td>\n</tr>\n<tr>\n<td>&mdash;</td>\n<td>&mdash;</td>\n<td>&mdash;</td>\n<td>&mdash;</td>\n<td>&mdash;</td>\n<td>2d10</td>\n<td>4d8</td>\n<td>6d8</td>\n<td>8d8</td>\n<td>12d8</td>\n<td>16d8</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr />"
 		},
 		"Improved Overrun": {
-			"name": "Arrollar Mejorado",
-			"description": "<i><p>Eres experto en pasar por encima a tus enemigos.</p></i><h4><b>Prerrequisitos</b></h4><p>Fuerza 13, Ataque poderoso, ataque base +1.</p><h4><b>Beneficio:</b></h4><p>No provocas un ataque de oportunidad cuando realizas una maniobra de combate de arrollar. Además, recibes un bonificador +2 a las pruebas para arrollar a un enemigo. También recibes un bonificador +2 a t efensa contra Maniobras de Combate cada vez que un oponente intente arrollarte. Los objetivos de tu intento de arrollar no pueden elegir evitarte.</p><h4><b>Normal:</b></h4><p>Provocas un ataque de oportunidad cuando realizas una maniobra de combate de arrollar.</p>"
+			"name": "Embestida mejorada",
+			"description": "<i>Sabes cómo empujar a tus oponentes.</i> <h4><b>Prerrequisitos</b></h4><p>Ataque poderoso, Fue 13.</p>\n <h4><b>Beneficio:</b></h4><p>Cuando realizas una embestida no provocas un ataque de oportunidad por parte del defensor. Además, recibes un bonificador +4 a la prueba enfrentada de Fuerza para hacer retroceder a tu oponente.</p>"
 		},
 		"Improved Precise Shot": {
-			"name": "Disparo Preciso Mejorado",
-			"description": "<i><p>Tus ataques a distancia ignoran todo excepto la ocultación y la cobertura totales.</p></i><h4><b>Prerrequisitos</b></h4><p>Destreza 19, Disparo a bocajarro, Disparo preciso, ataque base +11.</p><h4><b>Beneficio:</b></h4><p>Tus ataques a distancia ignoran los bonificadores a CA dados a los objetivos por cualquier cosa inferior a una cobertura total, y la posibilidad de fallo concedida a los objetivos por cualquier cosa inferior a ocultación total. La cobertura total y la ocultación total otorgan sus beneficios normales contra tus ataques a distancia.</p><h4><b>Normal:</b></h4><p>Ver las reglas habituales de los efectos de la cobertura y ocultación.</p>"
+			"name": "Disparo preciso mejorado",
+			"description": "<i>Tus ataques a distancia pueden ignorar los efectos de la cobertura o la ocultación.</i> <h4><b>Prerrequisitos</b></h4><p>Ataque base +11, Des 19, Disparo a bocajarro, Disparo preciso.</p>\n <h4><b>Beneficio:</b></h4><p>Tus ataques a distancia ignoran el bonificador a la CA que tenga cualquier objetivo debido a cobertura (siempre que no tenga cobertura total), y la posibilidad de fallo debido a ocultación (siempre que no tenga ocultación total). La cobertura total y la ocultación total proporcionan los beneficios normales contra tus ataques a distancia.</p>\n<p>Además, cuando disparas o lanzas armas con alcance a oponentes enzarzados en una presa, golpeas automáticamente al oponente que elijas.</p>\n <h4><b>Normal:</b></h4><p>Consulta las reglas sobre los efectos de la cobertura y la ocultación en combate. Sin esta dote, un personaje que dispare o lance un arma a distancia a un objetivo enzarzado en una presa debe determinar aleatoriamente a cuál de los combatientes de la presa golpea</p>\n<p><b>Especial: s</b>e considera que un explorador de 11º nivel que haya elegido el estilo de combate tiro con arco posee la dote Disparo preciso mejorado, incluso aunque no tenga los prerrequisitos para ella. No obstante, sus efectos sólo se aplican cuando lleva armadura ligera o no lleva armadura.</p>"
 		},
 		"Improved Psicrystal": {
 			"name": "Improved Psicrystal",
@@ -804,8 +804,8 @@
 			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Prerequisite\">Prerequisite</span></h3>\n<p>Sneak attack +8d6.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>Add +1d6 to the character’s sneak attack damage.\n</p>\n<h3><span class=\"mw-headline\" id=\"Special\">Special</span></h3>\n<p>This feat may be taken multiple times. Its effects stack.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Improved Spell Capacity": {
-			"name": "Capacidad De Conjuros Mejorada",
-			"description": "<i><p>Puedes preparar conjuros que sobrepasan los límites normales del lanzamiento de conjuros.</p></i><h4><b>Prerrequisitos</b></h4><p>Capacidad para lanzar conjuros del máximo nivel en al menos una clase lanzadora de conjuros.</p><h4><b>Beneficio:</b></h4><p>Cuando seleccionas esta dote, ganas un espacio de conjuro por día de cualquier nivel, hasta un nivel mayor que el nivel más alto que puedas lanzar en una clase lanzadora de conjuros en particular. Por ejemplo, si seleccionas esta dote a 21º nivel de mago, puedes ganar un espacio de conjuro de mago de cualquier nivel hasta el 10º</p><p>Todavía debes poseer la puntuación de característica requerida (10 + nivel del conjuro) para poder lanzar cualquier conjuro almacenado en ese espacio. Si tienes un modificador por característica lo suficientemente alto para ganar uno o más conjuros adicionales para este nivel de conjuro, ganas también el conjuro adicional para este nivel de conjuro.</p><p>Debes usar el espacio de conjuro como miembro de la clase de la que ya puedes lanzar conjuros de nivel máximo. Por ejemplo, un explorador de 5º nivel/hechicero de 22º nivel no podría añadir un espacio de conjuro para explorador, ya que no puede lanzar conjuros del nivel máximo para el explorador. Debe añadir el espacio de conjuro a sus conjuros de hechicero.</p><h4><b>Especial:</b></h4><p>Puedes adquirir esta dote varias veces.</p>"
+			"name": "Capacidad de conjuros mejorada",
+			"description": "<i>Puedes preparar conjuros que sobrepasan los límites normales del lanzamiento de conjuros.</i> <h4><b>Prerrequisitos</b></h4><p>Capacidad para lanzar conjuros del máximo nivel en al menos una clase lanzadora de conjuros.</p>\n <h4><b>Beneficio:</b></h4><p>Cuando seleccionas esta dote, ganas un espacio de conjuro por día de cualquier nivel, hasta un nivel mayor que el nivel más alto que puedas lanzar en una clase lanzadora de conjuros en particular. Por ejemplo, si seleccionas esta dote a 21º nivel de mago, puedes ganar un espacio de conjuro de mago de cualquier nivel hasta el 10º</p>\n<p>Todavía debes poseer la puntuación de característica requerida (10 + nivel del conjuro) para poder lanzar cualquier conjuro almacenado en ese espacio. Si tienes un modificador por característica lo suficientemente alto para ganar uno o más conjuros adicionales para este nivel de conjuro, ganas también el conjuro adicional para este nivel de conjuro.</p>\n<p>Debes usar el espacio de conjuro como miembro de la clase de la que ya puedes lanzar conjuros de nivel máximo. Por ejemplo, un explorador de 5º nivel/hechicero de 22º nivel no podría añadir un espacio de conjuro para explorador, ya que no puede lanzar conjuros del nivel máximo para el explorador. Debe añadir el espacio de conjuro a sus conjuros de hechicero.</p>\n <h4><b>Especial:</b></h4><p>Puedes adquirir esta dote varias veces.</p>"
 		},
 		"Improved Spell Resistance": {
 			"name": "Improved Spell Resistance",
@@ -820,8 +820,8 @@
 			"description": "<i><p>Eres experto en dañar las armas y armaduras de tus enemigos.</p></i><h4><b>Prerrequisitos</b></h4><p>Fuerza 13, Ataque poderoso, ataque base +1.</p><h4><b>Beneficio:</b></h4><p>No provocas un ataque de oportunidad cuando realizas una maniobra de combate de romper arma. Además, recibes un bonificador +2 a las tiradas para romper un objeto. También recibes un bonificador +2 a tu</p><p>Defensa contra Maniobras de Combate cada vez que un oponente intente dañar tu equipo.</p><h4><b>Normal:</b></h4><p>Provocas un ataque de oportunidad cuando realizas una maniobra de combate de romper arma.</p>"
 		},
 		"Improved Trip": {
-			"name": "Derribo Mejorado",
-			"description": "<i><p>Eres experto en enviar a tus enemigos al suelo.</p></i><h4><b>Prerrequisitos</b></h4><p>Inteligencia 13, Pericia en combate.</p><h4><b>Beneficio:</b></h4><p>No provocas un ataque de oportunidad cuando realizas una maniobra de combate de derribo. Además, recibes un bonificador +2 a las pruebas para derribar un enemigo. También recibes un bonificador +2 a tu</p><p>Defensa contra Maniobras de Combate cada vez que un oponente intente derribarte.</p><h4><b>Normal:</b></h4><p>Provocas un ataque de oportunidad cuando realizas una maniobra de combate de derribo.</p>"
+			"name": "Derribo mejorado",
+			"description": "<i>No sólo estás entrenado para derribar a tus oponentes de modo seguro, sino también para atacarles inmediatamente después.</i> <h4><b>Prerrequisitos</b></h4><p>Int 13, Pericia en combate.</p>\n <h4><b>Beneficio:</b></h4><p>No provocas un ataque de oportunidad cuando intentas derribar a un oponente estando desarmado. Además, obtienes un bonificador +4 en tu prueba de Fuerza para derribar a un oponente.</p>\n<p>Si logras derribar a un oponente en combate cuerpo a cuerpo, obtendrás inmediatamente un nuevo ataque de cuerpo a cuerpo contra él como si no hubieras empleado tu ataque para derribarlo. Por ejemplo: Tordek dispone a nivel 11º de 3 ataques por asalto, con ataques base de +11, +6 y +1. Durante un asalto de combate, intenta derribar a su oponente. Su primer intento resulta fallido (consumiendo, por tanto, su primer ataque). Su segundo intento tiene éxito, e inmediatamente realiza un ataque de cuerpo a cuerpo contra su enemigo con un bonificador de +6. Finalmente, Tordek realiza su último ataque con +1.</p>\n <h4><b>Normal:</b></h4><p>Sin esta dote, provocas un ataque de oportunidad cuando intentas derribar a un oponente estando desarmado.</p>\n <h4><b>Especial:</b></h4><p>Al alcanzar el 6º nivel, un monje puede elegir Derribo mejorado como dote adicional, aunque no posea los prerrequisitos.</p>"
 		},
 		"Improved Turning": {
 			"name": "Expulsión Mejorada",
@@ -940,12 +940,12 @@
 			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Prerequisites\">Prerequisites</span></h3>\n<p>Wis 25, Knowledge (nature) 27 ranks, wild shape 6/day.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>The character can use his or her normal wild shape ability to take the form of a magical beast. The size limitation is the same as the character’s limitation on animal size. The character gains all supernatural abilities of the magical beast whose form he or she takes.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Manyshot": {
-			"name": "Disparos Múltiples",
-			"description": "<i><p>Puedes disparar múltiples flechas a un único objetivo.</p></i><h4><b>Prerrequisitos</b></h4><p>Destreza 17, Disparo a bocajarro, Disparo rápido, ataque base +6.</p><h4><b>Beneficio:</b></h4><p>Cuando hagas una acción de ataque completo con un arco, tu primer ataque dispara dos flechas. Si el ataque impacta, ambas flechas impactan. Aplica el daño basado en precisión (como el ataque furtivo) y el daño crítico sólo una vez en cada ataque.</p><p>Los bonificadores de daño por usar un arco compuesto con bonificador por</p><p>Fuerza elevada se aplican a cada flecha, así como otros bonificadores de daño, como el bonificador por enemigo predilecto del explorador.</p>"
+			"name": "Disparos múltiples",
+			"description": "<i>Puedes disparar varias flechas como un único ataque contra un objetivo cercano.</i> <h4><b>Prerrequisitos</b></h4><p>Ataque base +6, Des 17, Disparo a bocajarro, Disparo rápido.</p>\n <h4><b>Beneficio:</b></h4><p>Como acción estándar, puedes disparar dos flechas a un único oponente que no esté a más de 30'. Ambas flechas utilizan la misma tirada de ataque (con un penalizador de -4) para determinar el éxito, e infligen daño de la manera normal (pero consulta 'Especial').</p>\n<p>Por cada cinco puntos de ataque base que tengas por encima de +6 puedes añadir una flecha adicional a este ataque, hasta un máximo de cuatro flechas con un ataque base de +16, No obstante, cada flecha más allá de la segunda suma un penalizador -2 acumulativo a la tirada de ataque (para un penalizador total de -6 con tres flechas y -8 con cuatro).</p>\n<p>La reducción de daño y otras resistencias se aplican para cada una de las flechas disparadas por separado.</p>\n <h4><b>Especial:</b></h4><p>Sin importar el número de flechas que dispares, sólo aplicas el daño que dependa de la precisión (como el daño por ataque furtivo) una vez. Si logras un impacto crítico, sólo la primera flecha disparada inflige daño crítico; todas las demás causan daño normal.</p>\n<p>Se considera que un explorador de 6º nivel que haya elegido el estilo de combate tiro con arco posee la dote Disparos múltiples, incluso aunque no tenga los prerrequisitos para ella. No obstante, sus efectos sólo se aplican cuando lleva armadura ligera o no lleva armadura.</p>"
 		},
 		"Martial Weapon Proficiency (All)": {
 			"name": "Competencia con armas marciales (todas)",
-			"description": "\n\n\n<p>Choose a type of martial weapon. You understand how to use that type of martial weapon in combat.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>You make attack rolls with the selected weapon normally.\n</p>\n<h3><span class=\"mw-headline\" id=\"Normal\">Normal</span></h3>\n<p>When using a weapon with which you are not proficient, you take a –4 penalty on attack rolls.\n</p>\n<h3><span class=\"mw-headline\" id=\"Special\">Special</span></h3>\n<p>Barbarians, fighters, paladins, and rangers are proficient with all martial weapons. They need not select this feat.\n</p><p>You can gain Martial Weapon Proficiency multiple times. Each time you take the feat, it applies to a new type of weapon.\n</p><p>A cleric who chooses the War domain automatically gains the Martial Weapon Proficiency feat related to his deity’s favored weapon as a bonus feat, if the weapon is a martial one. He need not select it.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
+			"description": "<p>Choose a type of martial weapon. You understand how to use that type of martial weapon in combat.<p>\n<p><p>\n<h3>Benefit</h3><p>You make attack rolls with the selected weapon normally.<p>\n<p><p>\n<h3>Normal</h3><p>When using a weapon with which you are not proficient, you take a –4 penalty on attack rolls.<p>\n<p><p>\n<h3>Special</h3><p>Barbarians, fighters, paladins, and rangers are proficient with all martial weapons. They need not select this feat.<p>\n<p><p>\n<p>You can gain Martial Weapon Proficiency multiple times. Each time you take the feat, it applies to a new type of weapon.<p>\n<p><p>\n<p>A cleric who chooses the War domain automatically gains the Martial Weapon Proficiency feat related to his deity’s favored weapon as a bonus feat, if the weapon is a martial one. He need not select it.<p>\n<p><p>\n<p><p>\n<p><p>"
 		},
 		"Master Staff": {
 			"name": "Master Staff",
@@ -992,24 +992,24 @@
 			"description": "<i><p>Puedes moverte fácilmente a través de combates cuerpo a cuerpo peligrosos.</p></i><h4><b>Prerrequisitos</b></h4><p>Destreza 13, Esquiva.</p><h4><b>Beneficio:</b></h4><p>Obtienes un bonificador +4 de esquiva a la Clase de Armadura contra ataques de oportunidad causados cuando te mueves saliendo o entrando en un área amenazada. Una condición que te haga perder el bonificador de</p><p>Destreza a la Clase de Armadura (si existe) también te hace perder los bonificadores de esquiva.</p><p>Los bonificadores de esquiva se apilan con cualquier otro, a diferencia de la mayoría de otros bonificadores.</p>"
 		},
 		"Mounted Archery": {
-			"name": "Disparar Desde Una Montura",
-			"description": "<i><p>Eres experto en hacer ataques a distancia mientras montas.</p></i><h4><b>Prerrequisitos</b></h4><p>Montar 1 rango, Combatir desde una montura.</p><h4><b>Beneficio:</b></h4><p>El penalizador que recibes cuando usas un arma a distancia mientras montas es la mitad: -2 en lugar de -4 si tu montura está realizando un movimiento doble, y un -4 en lugar de -8 si tu montura está corriendo.</p>"
+			"name": "Disparar desde una montura",
+			"description": "<i>Eres hábil en el uso de armas de ataque a distancia a lomos de una montura.</i> <h4><b>Prerrequisitos</b></h4><p>Combatir desde una montura, Montar 1 rango.</p>\n <h4><b>Beneficio:</b></h4><p>La penalización que sufres por usar un arma de ataque a distancia a lomos de una montura se reduce a la mitad: -2 en lugar de -4 si tu montura está llevando a cabo un movimiento doble, y -4 en lugar de -8 si lo que hace es correr.</p>"
 		},
 		"Mounted Combat": {
-			"name": "Combatir Desde Una Montura",
-			"description": "<i><p>Eres experto en guiar a tu montura a través del combate.</p></i><h4><b>Prerrequisitos</b></h4><p>Montar 1 rango.</p><h4><b>Beneficio:</b></h4><p>Una vez por asalto cuando tu montura es golpeada en combate, puedes hacer una prueba de Montar (como una acción instantánea) para anular el golpe. El golpe es anulado si tu prueba de Montar resulta mayor que la tirada de ataque del oponente.</p>"
+			"name": "Combatir desde una montura",
+			"description": "<i>Eres hábil combatiendo desde una montura.</i> <h4><b>Prerrequisitos</b></h4><p>Montar 1 rango.</p>\n <h4><b>Beneficio:</b></h4><p>Una vez por asalto, podrás realizar una prueba de Montar (como reacción) para anular un golpe recibido por tu montura en combate. El golpe quedará anulado siempre y cuando tu prueba de Montar sea superior a la tirada de ataque (básicamente, la prueba de Montar se convertirá en la CA de la montura en caso de ser superior a la CA normal de ésta).</p>"
 		},
 		"Multiattack": {
-			"name": "Ataque Múltiple",
-			"description": "<i><p>Esta criatura es particularmente hábil haciendo ataques con sus armas naturales. </p></i><h4><b>Prerrequisitos</b></h4><p>Tres o más ataques naturales.</p><h4><b>Beneficio:</b></h4><p>Los ataques secundarios de la criatura con armas naturales sólo tienen un penalizador -2.</p><h4><b>Normal:</b></h4><p>Sin esta dote, los ataques naturales de la criatura tienen un penalizador -5.</p>"
+			"name": "Ataque múltiple",
+			"description": "<i>La criatura es experta en utilizar todas sus armas naturales a la vez.</i> <h4><b>Prerrequisitos</b></h4><p>Tres armas naturales o más</p>\n <h4><b>Beneficio:</b></h4><p>Los ataques secundarios que efectúe la criatura con sus armas naturales sufrirán solamente un penalizador -2.</p>\n <h4><b>Normal:</b></h4><p>Sin esta dote, los ataques secundarios de la criatura sufren un penalizador -5.</p>"
 		},
 		"Multispell": {
 			"name": "Multispell",
 			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Prerequisites\">Prerequisites</span></h3>\n<p>Quicken Spell, ability to cast 9th-level arcane or divine spells.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>The character may cast one additional quickened spell in a round.\n</p>\n<h3><span class=\"mw-headline\" id=\"Special\">Special</span></h3>\n<p>A character can gain this feat multiple times. Its effects stack.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Multiweapon Fighting": {
-			"name": "Combate Con Múltiples Armas",
-			"description": "<i><p>Esta criatura con múltiples brazos está entrenada para hacer ataques con varias armas.</p></i><h4><b>Prerrequisitos</b></h4><p>Des 13, tres o más manos.</p><h4><b>Beneficio:</b></h4><p>Los penalizadores por luchar con múltiples armas se reducen en - 2 con la mano principal y -6 con las manos torpes.</p><h4><b>Normal:</b></h4><p>Una criatura sin esta dote recibe un penalizador -6 a los ataques hechos con su mano principal y un penalizador -10 a los ataques hechos con todas sus manos torpes (tiene una mano principal y todas las demás son manos torpes).</p><h4><b>Especial:</b></h4><p>Esta dote reemplaza la dote de Combate con dos armas para criaturas con más de dos brazos.</p>"
+			"name": "Combate con múltiples armas",
+			"description": "<i>Una criatura con tres manos o más puede combatir con un arma en cada una. La criatura podrá realizar un ataque adicional por asalto con cada arma adicional.</i> <h4><b>Prerrequisitos</b></h4><p>Des 13, tres o más manos</p>\n <h4><b>Beneficio:</b></h4><p>Las penalizaciones por combatir con múltiples armas se ven reducidas en 2 en la mano hábil y en 6 en las manos torpes.</p>\n <h4><b>Normal:</b></h4><p>Una criatura sin esta dote sufrirá un penalizador -6 en los ataques que realice con la mano hábil y un penalizador -10 en los que efectúe con las manos torpes (tendrá una mano hábil y todas las demás se considerarán torpes).</p>\n <h4><b>Especial:</b></h4><p>Esta dote sustituye a la de Combate con dos armas para las criaturas con más de dos brazos.</p>"
 		},
 		"Multiweapon Rend": {
 			"name": "Multiweapon Rend",
@@ -1024,8 +1024,8 @@
 			"description": "\n\n\n<p>Your ability to concentrate is as keen as an arrowhead, allowing you to gain your psionic focus even in the most turbulent situations.\n</p>\n<h3><span class=\"mw-headline\" id=\"Prerequisite\">Prerequisite</span></h3>\n<p>Wis 13.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>You gain a +4 bonus on Concentration checks you make to become psionically focused.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Natural Spell": {
-			"name": "Conjuros Naturales",
-			"description": "<i><p>Puedes lanzar conjuros incluso en una forma que normalmente no puede lanzar conjuros.</p></i><h4><b>Prerrequisitos</b></h4><p>Sabiduría 13, Forma salvaje como rasgo de clase.</p><h4><b>Beneficio:</b></h4><p>Puedes completar los componentes verbales y somáticos de conjuros mientras uses Forma salvaje. Sustituyes con varios ruidos y gestos los habituales componentes verbales y somáticos de un conjuro.</p><p>También puedes usar cualquier componente material o foco que poseas, incluso si estos artículos se encuentran fusionados en tu forma actual. Esta dote no te permite usar objetos mágicos mientras estés en una forma que normalmente no podría usarlos, y tampoco ganas la capacidad de hablar mientras uses la forma salvaje.</p>"
+			"name": "Conjuros naturales",
+			"description": "<i>Puedes lanzar conjuros estando en una forma salvaje.</i> <h4><b>Prerrequisitos</b></h4><p>Aptitud para utilizar forma salvaje, Sab 13.</p>\n <h4><b>Beneficio:</b></h4><p>Puedes realizar los componentes verbales y somáticos de un conjuro estando en una forma salvaje. Por ejemplo, en forma de halcón puedes utilizar chirridos y gestos de tus garras como sustitutos de los componentes verbales y somáticos normales de un conjuro. También puedes utilizar cualquier componente material o foco que poseas, incluso si estos objetos se han fundido en la forma. Esta dote no permite el uso de objetos mágicos mientras estés en una forma que normalmente no permitiría su uso, y tampoco te proporciona la aptitud de hablar mientras estés en forma salvaje.</p>"
 		},
 		"Negative Energy Burst": {
 			"name": "Negative Energy Burst",
@@ -1036,8 +1036,8 @@
 			"description": "<i><p>Eres bueno en calibrar y cambiar las actitudes de la gente.</p></i><h4><b>Beneficio:</b></h4><p>Recibes un tonificador +2 en todas las pruebas de Averiguar intenciones y Diplomacia.</p>"
 		},
 		"Nimble Fingers": {
-			"name": "Dedos Ágiles",
-			"description": "<i><p>Eres un experto en manipular objetos pequeños y delicados.</p></i><h4><b>Beneficio:</b></h4><p>Recibes un bonificador +2 en todas las pruebas de Abrir cerraduras e Inutilizar mecanismo.</p>"
+			"name": "Dedos ágiles",
+			"description": "<i>Eres un experto en manipular objetos pequeños y delicados.</i> <h4><b>Beneficio:</b></h4><p>Recibes un bonificador +2 en todas las pruebas de Abrir cerraduras e Inutilizar mecanismo.</p>"
 		},
 		"Open Minded": {
 			"name": "Mente Abierta",
@@ -1052,8 +1052,8 @@
 			"description": "\n\n\n<p>You burn your life force to strengthen your powers.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>While manifesting a power, you can increase your effective manifester level by one, but in so doing you take 1d8 points of damage. At 8th level, you can choose to increase your effective manifester level by two, but you take 3d8 points of damage. At 15th level, you can increase your effective manifester level by three, but you take 5d8 points of damage.\n</p><p>The effective increase in manifester level increases the number of power points you can expend on a single power manifestation, as well as increasing all manifester level-dependent effects, such as range, duration, and overcoming power resistance.\n</p>\n<h3><span class=\"mw-headline\" id=\"Normal\">Normal</span></h3>\n<p>Your manifester level is equal to your total levels in classes that manifest powers.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Overwhelming Critical": {
-			"name": "Crítico Arrollador",
-			"description": "<i><p>Elige un tipo de arma cuerpo a cuerpo, como una garra o mordisco. Con esa arma realizas más daño en un impacto crítico.</p></i><h4><b>Prerrequisitos</b></h4><p>Fue 25, Hendedura, Gran Hendedura, Crítico mejorado (con el arma elegida), Ataque poderoso, Soltura con un arma (con el arma elegida).</p><h4><b>Beneficio:</b></h4><p>Cuando utilizas el arma que has seleccionado, realizas +1d6 puntos de daño bonificado en un impacto crítico que tenga éxito. Si el multiplicador por crítico del arma es x3, añade en su lugar +2d6 de daño bonificador, y si el multiplicador por crítico del arma es x4, añade en su lugar +3d6 puntos de daño bonificado.</p><h4><b>Especial:</b></h4><p>Las criaturas inmunes a los impactos críticos son inmunes a esta dote. Puedes obtener esta dote varias veces. Sus efectos no se acumulan, se aplican a un arma diferente cada vez.</p>"
+			"name": "Crítico arrollador",
+			"description": "<i>Elige un tipo de arma cuerpo a cuerpo, como una garra o mordisco. Con esa arma realizas más daño en un impacto crítico.</i> <h4><b>Prerrequisitos</b></h4><p>Fue 25, Hendedura, Gran Hendedura, Crítico mejorado (con el arma elegida), Ataque poderoso, Soltura con un arma (con el arma elegida).</p>\n <h4><b>Beneficio:</b></h4><p>Cuando utilizas el arma que has seleccionado, realizas +1d6 puntos de daño bonificado en un impacto crítico que tenga éxito. Si el multiplicador por crítico del arma es x3, añade en su lugar +2d6 de daño bonificador, y si el multiplicador por crítico del arma es x4, añade en su lugar +3d6 puntos de daño bonificado.</p>\n <h4><b>Especial:</b></h4><p>Las criaturas inmunes a los impactos críticos son inmunes a esta dote.</p>\n<p>Puedes obtener esta dote varias veces. Sus efectos no se acumulan, se aplican a un arma diferente cada vez.</p>"
 		},
 		"Penetrate Damage Reduction": {
 			"name": "Penetrate Damage Reduction",
@@ -1076,8 +1076,8 @@
 			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Prerequisites\">Prerequisites</span></h3>\n<p>Spellcraft 25 ranks, ability to cast the spell to be made permanent.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>Designate any one of the character’s spells whose area is an emanation from the character. This spell’s effect is permanent (though the character can dismiss or restart it as a free action). Effects that would normally dispel this spell instead suppress it for 2d4 rounds.\n</p>\n<h3><span class=\"mw-headline\" id=\"Special\">Special</span></h3>\n<p>This feat may be taken multiple times. Each time, select a different spell to become permanent.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Persistent Spell": {
-			"name": "Conjuro Insistente",
-			"description": "<i><p>Puedes modificar un conjuro para que se vuelva más tenaz cuando su objetivo resiste sus efectos.</p></i><h4><b>Beneficio:</b></h4><p>Cuando una criatura es el objetivo de un conjuro insistente o está dentro de su área de efecto y tiene éxito en su tiro de salvación contra el conjuro, debe hacer otro tiro de salvación contra el efecto. Si la criatura falla su segundo tiro de salvación, sufre los efectos completos del conjuro, como si hubiera fallado el primer tiro de salvación.</p><p>Un conjuro insistente utiliza un espacio de conjuro dos niveles mayor del nivel real del conjuro.</p><p>Los conjuros que no requieren un tiro de salvación para resistir o reducir sus efectos no pueden beneficiarse de esta dote.</p>"
+			"name": "Conjuro persistente",
+			"description": "<i>Puedes hacer que un conjuro dure todo el día.</i> <h4><b>Prerrequisitos</b></h4><p>Longar conjuro.</p>\n <h4><b>Beneficio:</b></h4><p>Puedes incrementar la duración de los conjuros con alcance fijo o personal hasta 24 horas. Los sortilegios de duración instantánea no pueden ser afectados por esta dote, y tampoco aquellos cuyos efectos se descargan. No necesitas mantener la concentración para los conjuros de <i>detectar</i> persistentes (como <i>detectar magia</i> o <i>detectar pensamientos</i>) para ser consciente de la mera presencia o ausencia del sujeto a detectar, pero obtener información adicional requiere concentrarse normalmente.</p>\n<p>Un sortilegio persistente usa un espacio de conjuros seis veces superior al nivel normal.</p>"
 		},
 		"Persuasive": {
 			"name": "Persuasivo",
@@ -1100,8 +1100,8 @@
 			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Prerequisites\">Prerequisites</span></h3>\n<p>Knowledge (nature) 24 ranks, wild shape 4/day.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>The character can use his or her normal wild shape ability to take the form of a plant. The size limitation is the same as the character’s limitation on animal size.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Point Blank Shot": {
-			"name": "Disparo A Bocajarro",
-			"description": "<i><p>Sabes realizar disparos certeros con armas de ataque a distancia cuando te encuentras cerca de tu blanco.</p></i><h4><b>Beneficio:</b></h4><p>Obtienes un bonificador +1 en las tiradas de ataque y daño con armas de ataque a distancia cuando disparas estando a un máximo de 30’ de tu blanco.</p>"
+			"name": "Disparo a bocajarro",
+			"description": "<i>Sabes realizar disparos certeros con armas de ataque a distancia cuando te encuentras cerca de tu blanco.</i> <h4><b>Beneficio:</b></h4><p>Obtienes un bonificador +1 en las tiradas de ataque y daño con armas de ataque a distancia cuando disparas estando a un máximo de 30’ de tu blanco.</p>"
 		},
 		"Polyglot": {
 			"name": "Polyglot",
@@ -1112,12 +1112,12 @@
 			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Prerequisites\">Prerequisites</span></h3>\n<p>Cha 25, ability to turn undead, ability to cast <i>dispel evil.</i>\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>Every undead creature that comes within 15 feet of the character is automatically affected as if the character had turned it. This doesn’t cost a turning attempt, and the character doesn’t have to roll turning damage (it automatically affects all undead in a 15-foot burst), but it only turns undead with Hit Dice equal to or less than the character’s effective cleric level minus 10 (and automatically destroys undead with Hit Dice equal to or less than the character’s effective cleric level minus 20). Just as with normal turning, the character can’t affect undead that have total cover relative to him or her.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Power Attack": {
-			"name": "Ataque Poderoso",
-			"description": "<i><p>Puedes hacer ataques cuerpo a cuerpo excepcionalmente mortíferos sacrificando precisión por fuerza.</p></i><h4><b>Prerrequisitos</b></h4><p>Fuerza 13, ataque base +1.</p><h4><b>Beneficio:</b></h4><p>Puedes escoger recibir un penalizador -1 a todas las tiradas de ataque cuerpo a cuerpo y maniobras de combate para ganar un bonificador +2 a todas las tiradas de daño cuerpo a cuerpo. Este bonificador al daño se incrementa la mitad (+ 50%) si estás atacando con un arma a dos manos, un arma a una mano usando las dos manos, o un arma natural primaria que añade una vez y media tu modificador de Fuerza a las tiradas de daño. Este bonificador al daño se reduce a la mitad (-50%) si estás atacando con la mano torpe o un arma natural secundaria.</p><p>Cuando tu ataque base llegue a +4, y cada 4 puntos a partir de entonces, el penalizador aumenta en -1 y el bonificador aumenta en +2. Debes elegir si usas esta dote antes de hacer una tirada de ataque, y sus efectos duran hasta tu próximo turno. Este bonificador al daño no se aplica a ataques de toque o efectos no relacionados con daño a los puntos de vida.</p>"
+			"name": "Ataque poderoso",
+			"description": "<i>Puedes llevar a cabo ataques de cuerpo a cuerpo excepcionalmente potentes.</i> <h4><b>Prerrequisitos</b></h4><p>Fue 13</p>\n <h4><b>Beneficio:</b></h4><p>En tu acción, antes de realizar las tiradas de ataque del asalto en curso, puedes elegir restar una cantidad a todas tus tiradas de ataque cuerpo a cuerpo y añadir esa misma cantidad a todas las tiradas de daño en cuerpo a cuerpo. El número elegido no puede superar tu ataque base.</p>\n<p>La penalización a los ataques y los bonificadores al daño se aplicarán hasta tu siguiente acción.</p>\n <h4><b>Especial:</b></h4><p>Si atacas con un arma a dos manos, o con un arma a una mano esgrimida con ambas manos, suma al daño el doble de la cantidad restada a las tiradas de ataque. No puedes sumar el bonificador al daño por Ataque poderoso al daño infligido con un arma ligera (salvo los impactos sin arma o los ataques con armas naturales), aunque el penalizador a las tiradas de ataque seguirá aplicándose. Ten en cuenta que normalmente un arma doble se considera como un arma a una mano y un arma ligera; no obstante, puedes elegir utilizarla como un arma a dos manos, utilizando sólo un extremo en cada asalto).</p>"
 		},
 		"Power Critical": {
-			"name": "Crítico Potenciado",
-			"description": "<i><p>Elige un arma, como espada larga o gran hacha. Con esa arma sabes cómo golpear donde duele.</p></i><h4><b>Prerrequisitos</b></h4><p>Soltura con un arma (con el arma), ataque base +4.</p><h4><b>Beneficio:</b></h4><p>Cuando uses el arma que has elegido obtienes un bonificador +4 en la tirada para confirmar una amenaza.</p><h4><b>Especial:</b></h4><p>Puedes elegir esta dote varias veces. Cada vez que cojas la dote, puede ser con un arma diferente o con la misma. Si la coges con la misma, los efectos de las dotes se apilan.</p>"
+			"name": "Crítico potenciado",
+			"description": "<i>Elige un arma, como espada larga o gran hacha. Con esa arma sabes cómo golpear donde duele.</i> <h4><b>Prerrequisitos</b></h4><p>Soltura con un arma (con el arma), ataque base +4.</p>\n <h4><b>Beneficio:</b></h4><p>Cuando uses el arma que has elegido obtienes un bonificador +4 en la tirada para confirmar una amenaza.</p>\n <h4><b>Especial:</b></h4><p>Puedes elegir esta dote varias veces. Cada vez que cojas la dote, puede ser con un arma diferente o con la misma. Si la coges con la misma, los efectos de las dotes se apilan.</p>"
 		},
 		"Power Knowledge": {
 			"name": "Power Knowledge",
@@ -1132,8 +1132,8 @@
 			"description": "\n\n\n<p>You deal more damage with your powers.\n</p>\n<h3><span class=\"mw-headline\" id=\"Prerequisites\">Prerequisites</span></h3>\n<p>Weapon Focus (ray), manifester level 4th.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>With rays and ranged touch attack powers that deal damage, you deal an extra 2 points of damage. If you expend your psionic focus when you manifest a ray or a ranged touch attack power that deals damage, you add your key ability bonus to the damage (instead of adding 2).\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Precise Shot": {
-			"name": "Disparo Preciso",
-			"description": "<i><p>Eres experto en disparar a distancia dentro de combates cuerpo a cuerpo.</p></i><h4><b>Prerrequisitos</b></h4><p>Disparo a bocajarro.</p><h4><b>Beneficio:</b></h4><p>Puedes disparar o lanzar armas a distancia contra un oponente enzarzado en cuerpo a cuerpo sin sufrir el penalizador -4 estándar a tu tirada de ataque.</p>"
+			"name": "Disparo preciso",
+			"description": "<i>Eres muy hábil apuntando y calculando cuando realizas un ataque a distancia.</i> <h4><b>Prerrequisitos</b></h4><p>Disparo a bocajarro.</p>\n <h4><b>Beneficio:</b></h4><p>Puedes disparar o lanzar armas de ataque a distancia contra un oponente enzarzado en combate cuerpo a cuerpo sin sufrir el penalizador -4 normal en tu tirada de ataque.</p>"
 		},
 		"Psicrystal Affinity": {
 			"name": "Psicrystal Affinity",
@@ -1192,16 +1192,16 @@
 			"description": "\n\n\n<p>You can charge your melee weapon with additional damage potential.\n</p>\n<h3><span class=\"mw-headline\" id=\"Prerequisite\">Prerequisite</span></h3>\n<p>Str 13.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>To use this feat, you must expend your psionic focus.\n</p><p>Your attack with a melee weapon deals an extra 2d6 points of damage. You must decide whether or not to use this feat prior to making an attack. If your attack misses, you still expend your psionic focus.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Quick Draw": {
-			"name": "Desenvainado Rápido",
-			"description": "<i><p>Puedes desenvainar armas más rápido que la mayoría.</p></i><h4><b>Prerrequisitos</b></h4><p>Ataque base +1.</p><h4><b>Beneficio:</b></h4><p>Puedes desenvainar un arma como acción gratuita en lugar de como acción de movimiento. Puedes sacar un arma oculta (ver la habilidad de</p><p>Juego de Manos) como acción de movimiento.</p><p>Un personaje que seleccione esta dote puede usar armas arrojadizas a su tasa normal de ataque (de modo similar a un personaje con un arco).</p><p>Los objetos alquímicos, pociones, pergaminos y varitas no pueden sacarse más rápidamente usando esta dote.</p><h4><b>Normal:</b></h4><p>Sin esta dote, puedes desenvainar un arma como acción de movimiento o (si tu ataque base es +1 o mayor) como acción gratuita parte del movimiento. Sin esta dote, puedes desenvainar un arma oculta como acción estándar.</p>"
+			"name": "Desenvainado rapido",
+			"description": "<i>Eres capaz de desenvainar armas con tina rapidez asombrosa.</i> <h4><b>Prerrequisitos</b></h4><p>Ataque base +1 o superior.</p>\n <h4><b>Beneficio:</b></h4><p>Puedes sacar un arma como acción gratuita en lugar de cómo acción equivalente a movimiento. Puedes desenvainar un arma oculta como acción de movimiento.</p>\n<p>Un personaje que haya elegido esta dote puede lanzar armas arrojadizas con su ataque completo normal (de un modo parecido a como hace un personaje con un arco).</p>\n <h4><b>Normal:</b></h4><p>Sin esta dote puedes desenvainar un arma como acción de movimiento, o (si tu ataque base es +1 o superior) como acción gratuita parte del movimiento. Sin esta dote, puedes desenvainar un arma oculta con una acción estándar.</p>"
 		},
 		"Quicken Power": {
 			"name": "Quicken Power",
 			"description": "\n\n\n<p>You can manifest a power with a moment’s thought.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>To use this feat, you must expend your psionic focus. You can quicken a power. You can perform another action, even manifest another power, in the same round that you manifest a quickened power. You can manifest only one quickened power per round. A power whose manifesting time is longer than 1 round cannot be quickened.\n</p><p>Using this feat increases the power point cost of the power by 6. The power’s total cost cannot exceed your manifester level.\n</p><p>Manifesting a quickened power does not provoke attacks of opportunity.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Quicken Spell": {
-			"name": "Apresurar Conjuro",
-			"description": "<i><p>Puedes lanzar conjuros en una fracción del tiempo habitual.</p></i><h4><b>Beneficio:</b></h4><p>Lanzar un conjuro apresurado es una acción rápida. Puedes hacer otras acciones, incluso lanzar otros conjuros, en el mismo asalto en el que lanzas un conjuro apresurado. Un conjuro cuyo tiempo de lanzamiento sea mayor que una acción de asalto completo no puede ser apresurado.</p><p>Un conjuro apresurado usa un espacio de conjuro cuatro niveles mayor al nivel real del conjuro. Lanzar un conjuro apresurado no provoca un ataque de oportunidad.</p><h4><b>Especial:</b></h4><p>Puedes aplicar los efectos de esta dote a un conjuro lanzado espontáneamente, siempre y cuando su tiempo de lanzamiento no sea ayor que una acción de asalto completo, sin aumentar el tiempo de lanzamiento del conjuro.</p>"
+			"name": "Apresurar conjuro",
+			"description": "<i>Eres capaz de lanzar conjuros en un instante.</i> <h4><b>Beneficio:</b></h4><p>Lanzar un conjuro apresurado se considera una acción gratuita; por tanto, podrás llevar a cabo otra acción (incluido ejecutar otro sortilegio) en el mismo asalto en que lances un conjuro apresurado. Sólo puedes ejecutar un sortilegio apresurado por asalto y no podrás apresurar un conjuro cuyo tiempo de lanzamiento sea superior a una acción de asalto completo. Los sortilegios apresurados ocupan un espacio de conjuro cuatro niveles superior al de su nivel real. Lanzar un conjuro apresurado no provoca un ataque de oportunidad.</p>\n <h4><b>Especial:</b></h4><p>Esta dote no puede aplicarse a ningún conjuro lanzado espontáneamente (incluidos conjuros de hechicero, conjuros de bardo y conjuros, de clérigo o druida lanzados espontáneamente), ya que aplicar una dote metamágica a un conjuro lanzado de forma espontánea aumenta automáticamente su tiempo de lanzamiento a una acción de asalto completo.</p>"
 		},
 		"Quicken Spell-Like Ability": {
 			"name": "Apresurar Aptitud Sortílega",
@@ -1224,12 +1224,12 @@
 			"description": "\n\n\n<p>Choose a type of crossbow (hand, light, or heavy).\n</p>\n<h3><span class=\"mw-headline\" id=\"Prerequisite\">Prerequisite</span></h3>\n<p>Weapon Proficiency (crossbow type chosen).\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>The time required for you to reload your chosen type of crossbow is reduced to a free action (for a hand or light crossbow) or a move action (for a heavy crossbow). Reloading a crossbow still provokes an attack of opportunity.\n</p><p>If you have selected this feat for hand crossbow or light crossbow, you may fire that weapon as many times in a full attack action as you could attack if you were using a bow.\n</p>\n<h3><span class=\"mw-headline\" id=\"Normal\">Normal</span></h3>\n<p>A character without this feat needs a move action to reload a hand or light crossbow, or a full-round action to reload a heavy crossbow.\n</p>\n<h3><span class=\"mw-headline\" id=\"Special\">Special</span></h3>\n<p>You can gain Rapid Reload multiple times. Each time you take the feat, it applies to a new type of crossbow.\n</p><p>A fighter may select Rapid Reload as one of his fighter bonus feats.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Rapid Shot": {
-			"name": "Disparo Rápido",
-			"description": "<i><p>Puedes hacer un ataque a distancia adicional.</p></i><h4><b>Prerrequisitos</b></h4><p>Destreza 13, Disparo a bocajarro.</p><h4><b>Beneficio:</b></h4><p>Cuando uses una acción de ataque completo con un arma a distancia, puedes disparar una vez más en ese asalto. Todas tus tiradas de ataque reciben un penalizador de -2 cuando usas Disparo rápido.</p>"
+			"name": "Disparo rápido",
+			"description": "<i>Sabes utilizar armas de ataque a distancia con asombrosa rapidez.</i> <h4><b>Prerrequisitos</b></h4><p>Des 13, Disparo a bocajarro.</p>\n <h4><b>Beneficio:</b></h4><p>Puedes efectuar un ataque adicional por asalto con un arma de ataque a distancia. Para ello, usarás el mayor de tus ataques base; sin embargo todos los ataques que efectúes al usar esta dote (tanto el adicional como los normales) sufrirán un penalizador -2. Para poder utilizar esta dote, tendrás que llevar a cabo una acción de ataque completo.</p>\n <h4><b>Especial:</b></h4><p>Se considera que un explorador de 2º nivel que haya elegido el estilo de combate tiro con arco posee la dote Disparo rápido, incluso aunque no tenga los prerrequisitos para ella. No obstante, sus efectos sólo se aplican cuando lleva armadura ligera o no lleva armadura.</p>"
 		},
 		"Reach Spell": {
-			"name": "Conjuro Con Alcance",
-			"description": "<i><p>Tus conjuros llegan más lejos de lo normal.</p></i><h4><b>Beneficio:</b></h4><p>Puedes alterar un conjuro con alcance de toque, corto o intermedio para aumentar su alcance hasta una categoría de alcance superior, usando el siguiente orden: toque, corto, intermedio y largo. Un conjuro con alcance utiliza un espacio de conjuro de un nivel superior al nivel real del conjuro por cada incremento en la categoría de alcance. Por ejemplo, un conjuro con alcance de toque aumentado a alcance largo usará un espacio de conjuro tres niveles superior Los conjuros modificados por esta dote que requieran ataques de toque cuerpo a cuerpo, en su lugar requerirán ataques de toque a distancia.</p><p>Los conjuros que no tengan un alcance de toque, corto o intermedio no pueden beneficiarse de esta dote.</p>"
+			"name": "Conjuro con alcance",
+			"description": "<i>Puedes lanzar conjuros de toque sin tocar al receptor del conjuro</i> <h4><b>Beneficio:</b></h4><p>Puedes lanzar un conjuro que de forma normal tiene alcance de toque a cualquier distancia de hasta 30 pies. El conjuro se convierte de forma efectiva en un rayo, de modo que debes tener éxito en un ataque de toque a distancia para conferir el conjuro al receptor. Un conjuro con alcance utiliza un espacio de conjuro dos niveles más alto que el nivel actual del conjuro.</p>"
 		},
 		"Reactive Countersong": {
 			"name": "Reactive Countersong",
@@ -1244,16 +1244,16 @@
 			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Prerequisites\">Prerequisites</span></h3>\n<p>Dex 25, Deflect Arrows, Improved Unarmed Strike.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>When the character deflects an arrow or other ranged attack, the attack is reflected back upon the attacker at the character’s base ranged attack bonus.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Repeat Spell": {
-			"name": "Conjuros Repetidos",
-			"description": "<i><p>Puedes lanzar un conjuro que se repite en el siguiente asalto.</p></i><h4><b>Prerrequisitos</b></h4><p>Cualquier dote metamágica.</p><h4><b>Beneficio:</b></h4><p>Un conjuro repetido se lanza automáticamente al inicio de tu turno en el siguiente asalto. No importa que te hayas movido en el asalto anterior, el segundo conjuro se origina desde el mismo lugar y afecta la misma</p><p>área que el original. Si el primer sortilegio designaba a un objetivo a distancia, el repetido afecta al mismo objetivo si se encuentra en un radio de 30´ de su posición original; de otro modo, el segundo conjuro falla. Los conjuros de toque a distancia no pueden ser afectados por esta dote.</p><p>Un conjuro repetido usa un espacio de conjuros tres niveles superior al normal.</p>"
+			"name": "Conjuros repetidos",
+			"description": "<i>Puedes lanzar un conjuro que se repite en el siguiente asalto.</i> <h4><b>Prerrequisitos</b></h4><p>Cualquier dote metamágica.</p>\n <h4><b>Beneficio:</b></h4><p>Un conjuro repetido se lanza automáticamente al inicio de tu turno en el siguiente asalto. No importa que te hayas movido en el asalto anterior, el segundo conjuro se origina desde el mismo lugar y afecta la misma área que el original. Si el primer sortilegio designaba a un objetivo a distancia, el repetido afecta al mismo objetivo si se encuentra en un radio de 30´ de su posición original; de otro modo, el segundo conjuro falla. Los conjuros de toque a distancia no pueden ser afectados por esta dote.</p>\n<p>Un conjuro repetido usa un espacio de conjuros tres niveles superior al normal.</p>"
 		},
 		"Return Shot": {
 			"name": "Return Shot",
 			"description": "\n\n\n<p>You can return incoming arrows, as well as crossbow bolts, spears, and other projectile or thrown weapons.\n</p>\n<h3><span class=\"mw-headline\" id=\"Prerequisite\">Prerequisite</span></h3>\n<p>Point Blank Shot, Psionic Shot, Fell Shot, base attack bonus +3.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>To use this feat, you must expend your psionic focus and have at least one hand free. Once per round when you would normally be hit by a projectile or a thrown weapon no more than one size category larger than your size, you can deflect the attack so that you take no damage from it. The attack is deflected back at your attacker, using the attack bonus of the original attack on you. You must be aware of the attack and not flat-footed. Attempting to return a shot is a free action.\n</p>\n<h3><span class=\"mw-headline\" id=\"Special\">Special</span></h3>\n<p>If you also have the Deflect Arrows feat, the deflected attack is made with the original attack bonus plus your Dexterity bonus.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Ride-By Attack": {
-			"name": "Ataque Al Galope",
-			"description": "<i><p>Mientras montas y cargas, puedes mover, atacar un enemigo, y después continuar moviéndote.</p></i><h4><b>Prerrequisitos</b></h4><p>Montar 1 rango, Combatir desde una montura.</p><h4><b>Beneficio:</b></h4><p>Cuando estás montado y realizas una acción de carga, puedes moverte y atacar como si fuera una carga estándar y tras ello volver a moverte (continuando la línea recta de la carga). Tu movimiento total en el asalto no puede ser mayor que el doble de la velocidad de tu montura. Ni tú ni tu montura no provocáis un ataque de oportunidad del oponente al que atacas.</p>"
+			"name": "Ataque al galope",
+			"description": "<i>Eres muy hábil atacando al galope desde una montura.</i> <h4><b>Prerrequisitos</b></h4><p>Combatir desde una montura, Montar 1 rango.</p>\n <h4><b>Beneficio:</b></h4><p>Cuando vayas sobre otra montura y uses la acción de carga, podrás mover y atacar como si se tratase de una carga estándar y volver a moverte a continuación (siguiendo la línea recta de la carga). Tu movimiento total durante ese asalto no podrá exceder el doble de la velocidad de tu montura. Además, ni tu montura ni tú os veréis expuestos a un ataque de oportunidad por parte del oponente al que ataques.</p>"
 		},
 		"Righteous Strike": {
 			"name": "Righteous Strike",
@@ -1265,7 +1265,7 @@
 		},
 		"Run": {
 			"name": "Correr",
-			"description": "<i><p>Eres rápido de pies.</p></i><h4><b>Beneficio:</b></h4><p>Cuando corres, te mueves cinco veces tu velocidad normal (si llevas armadura intermedia, ligera o sin armadura y no transportas más que una carga media) o cuatro veces tu velocidad (si llevas una armadura pesada o una carga pesada). Si haces un salto tras comenzar a correr (ver la descripción de la habilidad de Acrobacias) ganas un bonificador +4 a tu pruebas de Acrobacias.</p><p>Mientras corres, puedes mantener tu bonificador de Destreza a tu Clase de Armadura.</p><h4><b>Normal:</b></h4><p>Te mueves cuatro veces tu velocidad mientras corres (si llevas armadura intermedia, ligera o sin armadura y no transportas más que una carga intermedia) o tres veces tu velocidad (si llevas armadura pesada o una carga pesada) y pierdes tu bonificador de Destreza a la CA.</p>"
+			"description": "<i>Eres muy veloz.</i> <h4><b>Beneficio:</b></h4><p>Al correr, te mueves 5 veces más rápido de lo normal en lugar de 4 (si no llevas armadura o llevas armadura ligera y no transportas más de una carga ligera) o a 4 veces tu velocidad (si llevas armadura intermedia o pesada o transportas una carga mediana o pesada.). Si realiza, un salto después de una carrera, obtienes un bonificador +4 en tu prueba de Saltar. Mientras corres conservas tu bonificador de Des a la CA.</p>\n <h4><b>Normal:</b></h4><p>Cuando corres te mueves a 4 veces tu velocidad (si no llevas armadura o llevas armadura ligera y no transportas más de una carga ligera o a 3 veces tu velocidad (si llevas armadura intermedia o pesada o transportas una carga mediana o pesada), y pierdes tu bonificador de Des a la CA.</p>"
 		},
 		"Sacred Spell": {
 			"name": "Sacred Spell",
@@ -1300,8 +1300,8 @@
 			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Prerequisites\">Prerequisites</span></h3>\n<p>Epic Weapon Focus (unarmed strike), Weapon Focus (unarmed strike), Concentration 25 ranks, <i>ki</i> strike (adamantine).\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>When using an unarmed strike to attempt to break an object with sudden force (rather than by dealing normal damage), make a Concentration check rather than a Strength check. The break DC remains the same. Using Shattering Strike is a full-round action that incurs attacks of opportunity. The character can’t use Shattering Strike to escape bonds (unless he or she is so bound as to allow the character to make an unarmed strike against his or her bindings).\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Shield Proficiency": {
-			"name": "Competencia Con Escudo",
-			"description": "<i><p>Estás entrenado en la forma de usar correctamente un escudo.</p></i><h4><b>Beneficio:</b></h4><p>Cuando usas un escudo (excepto un escudo pavés), el penalizador de armadura del escudo sólo se aplica a las habilidades basadas en Fuerza o Destreza.</p><h4><b>Normal:</b></h4><p>Cuando utilizas un escudo con el que no eres competente, recibes el penalizador de armadura del escudo a las tiradas de ataque y a las pruebas de habilidad que impliquen movimiento.</p><h4><b>Especial:</b></h4><p>Bárbaros, bardos, clérigos, druidas, exploradores, guerreros y paladines y reciben automáticamente Competencia con escudo como dote adicional. No necesitan seleccionarla.</p>"
+			"name": "Competencia con escudo",
+			"description": "<i>Eres competente con los broqueles, los escudos ligeros y los escudos pesados.</i> <h4><b>Beneficio:</b></h4><p>Puedes usar escudo y sufrir solamente las penalizaciones normales.</p>\n <h4><b>Normal:</b></h4><p>Los personajes que utilizan un escudo en cuyo uso no son competentes sufren el correspondiente penalizador de armadura en las tiradas de ataque y en todas las pruebas de habilidad que impliquen movimiento, incluidas las de Montar.</p>\n <h4><b>Especial:</b></h4><p>Los bárbaros, bardos, clérigos, druidas, exploradores, guerreros y paladines obtienen esta dote de forma gratuita, por lo que no necesitan elegirla.</p>"
 		},
 		"Shot on the Run": {
 			"name": "Disparo A La Carrera",
@@ -1312,12 +1312,12 @@
 			"description": "\n\n\n<p>You are skilled at dodging past charging opponents and taking advantage when they miss.\n</p>\n<h3><span class=\"mw-headline\" id=\"Prerequisite\">Prerequisite</span></h3>\n<p>Dex 13, Dodge.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>You get a +4 dodge bonus to Armor Class against charge attacks. If a charging opponent fails to make a successful attack against you, you gain an immediate attack of opportunity. This feat does not grant you more attacks of opportunity than you are normally allowed in a round. If you are flat-footed or otherwise denied your Dexterity bonus to Armor Class, you do not gain the benefit of this feat.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Silent Spell": {
-			"name": "Conjurar En Silencio",
-			"description": "<i><p>Puedes lanzar tus conjuros sin emitir ningún sonido.</p></i><h4><b>Beneficio:</b></h4><p>Un conjuro silencioso puede lanzarse sin componentes verbales.</p><p>Los conjuros sin componentes verbales no se ven afectados. Un conjuro silencioso usa un espacio de conjuro de un nivel mayor que el nivel real del conjuro.</p><h4><b>Especial:</b></h4><p>Los conjuros de bardo no pueden mejorarse con esta dote.</p>"
+			"name": "Conjurar en silencio",
+			"description": "<i>Puedes lanzar conjuros en silencio.</i> <h4><b>Beneficio:</b></h4><p>Un conjuro silencioso puede ser ejecutado sin componentes verbales. Los conjuros que carezcan de componente verbal no resultan afectados por esta dote. Los sortilegios silenciosos ocupan un espacio de conjuro un nivel superior al de su nivel real.</p>\n <h4><b>Especial:</b></h4><p>Los conjuros de bardo no pueden recibir las ventajas de esta dote metamágica.</p>"
 		},
 		"Simple Weapon Proficiency": {
-			"name": "Competencia Con Armas Sencillas",
-			"description": "<i><p>Estás entrenado en el uso de armas básicas.</p></i><h4><b>Beneficio:</b></h4><p>Haces las tiradas de ataque con armas sencillas sin penalizador.</p><h4><b>Normal:</b></h4><p>Cuando usas un arma con la que no tienes competencia, recibes un penalizador -4 a las tiradas de ataque.</p><h4><b>Especial:</b></h4><p>Todos los personajes excepto los druidas, monjes y magos son automáticamente competentes con todas las armas sencillas. No necesitan seleccionar esta dote.</p>"
+			"name": "Competencia con arma sencilla",
+			"description": "<i>Sabes cómo usar en combate todo tipo de armas sencillas.</i> <h4><b>Beneficio:</b></h4><p>Realizas tus tiradas de ataque con éste arma del modo normal.</p>\n <h4><b>Normal:</b></h4><p>Cuando usas un arma sin ser competente con ella sufres un penalizador -4 en tus tiradas de ataque.</p>\n <h4><b>Especial:</b></h4><p>Todos los personajes, a excepción de los druidas, magos, monjes y pícaros, son competentes automáticamente con todas las armas sencillas.</p>\n<p>Todo mago o hechicero que lance sobre sí mismo el conjuro <i>transformación de Tenser</i> obtiene competencia con todas las armas sencillas mientras dure el sortilegio.</p>"
 		},
 		"Skill Focus": {
 			"name": "Soltura Con Una Habilidad",
@@ -1328,8 +1328,8 @@
 			"description": "<i><p>La criatura puede atrapar a otras criaturas con facilidad.</p></i><h4><b>Prerrequisitos</b></h4><p>Tamaño Enorme o mayor.</p><h4><b>Beneficio:</b></h4><p>La criatura puede comenzar una presa cuando golpea con un ataque de garra o mordisco, como si tuviera la aptitud de agarrón mejorado. Si apresa a una criatura tres o más categorías de tamaño inferior, la constriñe cada asalto causando daño automático de mordisco o garra con una prueba de presa con éxito.</p><p>Un oponente sujeto en la boca de la criatura no tiene derecho a una tirada de salvación de Reflejos contra el arma de aliento de la criatura, si tiene una.</p><p>La criatura puede soltar a la criatura que tiene apresada como acción gratuita o usar una acción estándar para lanzarla a un lado. Una criatura lanzada viaja 1d6 x 10 pies y recibe 1d6 puntos de daño por cada 10 pies que se desplace. Si la criatura lanza a una víctima apresada mientras vuela, el oponente recibe esta cantidad o el daño de caída, lo que sea mayor.</p>"
 		},
 		"Snatch Arrows": {
-			"name": "Atrapar Flechas",
-			"description": "<i><p>En lugar de golpear una flecha o ataque a distancia, puedes atraparlo en mitad del vuelo.</p></i><h4><b>Prerrequisitos</b></h4><p>Des 15, Desviar flechas, Impacto sin armas mejorado.</p><h4><b>Beneficio:</b></h4><p>Cuando usas la dote de Desviar flechas, puedes elegir atrapar el arma en lugar de simplemente desviarla. Las armas arrojadizas pueden devolverse inmediatamente contra el lanzador original (aunque no sea tu turno) o retenerlas para un uso posterior. Debes tener al menos una mano libre (sin sujetar nada) para usar esta dote.</p>"
+			"name": "Atrapar flechas",
+			"description": "<i>Eres un experto en atrapar flechas que vayan hacia ti, así como virotes de ballesta, lanzas y otros proyectiles o armas arrojadizas.</i> <h4><b>Prerrequisitos</b></h4><p>Des 15, Desviar flechas, Impacto sin arma mejorado.</p>\n <h4><b>Beneficio:</b></h4><p>Cuando utilices la dote Desviar flechas, puedes atrapar el arma en lugar de simplemente desviarla. Las armas arrojadizas, como las lanzas o hachas pueden ser devueltas inmediatamente al atacante original (incluso aunque no sea tu turno), o puedes guardarlas para usarlas más tarde.</p>\n<p>Debes tener al menos una mano libre (que no esté sujetando nada) para utilizar esta dote.</p>"
 		},
 		"Sneak Attack of Opportunity": {
 			"name": "Sneak Attack of Opportunity",
@@ -1360,20 +1360,20 @@
 			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Prerequisites\">Prerequisites</span></h3>\n<p>Combat Casting, Combat Reflexes, Quicken Spell, Spellcraft 25 ranks.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>Whenever the character is allowed an attack of opportunity, he or she may cast (and attack with) a touch spell as the character’s attack of opportunity. This incurs attacks of opportunity just as if the character had cast the spell normally.\n</p>\n<h3><span class=\"mw-headline\" id=\"Normal\">Normal</span></h3>\n<p>Without this feat, a character can only make a melee attack as an attack of opportunity.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Spell Penetration": {
-			"name": "Conjuros Penetrantes",
-			"description": "<i><p>Tus conjuros traspasan la resistencia a conjuros con más facilidad que la mayoría.</p></i><h4><b>Beneficio:</b></h4><p>Recibes un bonificador +2 en las pruebas de nivel de lanzador (1d20 + nivel de lanzador) para superar la Resistencia a Conjuros de una criatura.</p>"
+			"name": "Conjuros penetrantes",
+			"description": "<i>Tus sortilegios son especialmente poderosos y pueden atravesar la RC con mayor facilidad.</i> <h4><b>Beneficio:</b></h4><p>Obtienes un +2 en las pruebas de nivel de lanzador (1d20 + nivel de lanzador) para intentar superar la RC de una criatura.</p>"
 		},
 		"Spell Stowaway (No Spell Set)": {
 			"name": "Spell Stowaway (No Spell Set)",
 			"description": "<h3><span id=\"Prerequisites\">Prerequisites</span></h3>\n<p>Spellcraft 24 ranks, caster level 12th.</p>\n<h3><span id=\"Benefit\">Benefit</span></h3>\n<p>Choose a spell-like ability the character knows, or a spell the character can cast. The character is attuned to the magic he or she chooses. If another spellcaster within 300&nbsp;feet of the character uses this magic, the character also immediately gains the magic&rsquo;s effect as if it had been used on the character by the same caster. The character must have direct line of effect to the spellcaster in order to gain the benefit of the attuned magic (though the character does not have to know the spellcaster is present, and he or she can be flat-footed). The magic&rsquo;s duration, effect, and other specifics are determined by its original caster&rsquo;s level.</p>\n<h3><span id=\"Special\">Special</span></h3>\n<p>A character can gain this feat multiple times. Each time he or she takes the feat, it applies to a different spell or spell-like ability.</p>"
 		},
 		"Spellcasting Harrier": {
-			"name": "Acosador De Sortílegos",
-			"description": "<i><p>Los lanzadores de conjuros que amenazas encuentran muy difícil conjurar a la defensiva.</p></i><h4><b>Prerrequisitos</b></h4><p>Reflejos de combate.</p><h4><b>Beneficio:</b></h4><p>Cualquier lanzador de conjuros que amenaces en cuerpo a cuerpo, tiene una penalización a las pruebas de Concentración cuando conjure a la defensiva igual a la mitad de tu nivel.</p>"
+			"name": "Acosador de sortílegos",
+			"description": "<i>Los lanzadores de conjuros que amenazas encuentran muy difícil conjurar a la defensiva.</i> <h4><b>Prerrequisitos</b></h4><p>Reflejos de combate.</p>\n <h4><b>Beneficio:</b></h4><p>Cualquier lanzador de conjuros que amenaces en cuerpo a cuerpo, tiene una penalización a las pruebas de Concentración cuando conjure a la defensiva igual a la mitad de tu nivel.</p>"
 		},
 		"Spirited Charge": {
-			"name": "Carga Impetuosa",
-			"description": "<i><p>Tus ataques de carga montado causan una tremenda cantidad de daño.</p></i><h4><b>Prerrequisitos</b></h4><p>Montar 1 rango, Combatir desde una montura, ataque al galope.</p><h4><b>Beneficio:</b></h4><p>Cuando estás montado y usas una acción de carga, causas doble daño con un arma cuerpo a cuerpo (o el triple con una lanza de caballería).</p>"
+			"name": "Carga impetuosa",
+			"description": "<i>Has sido entrenado para realizar cargas devastadoras a lomos de una montura.</i> <h4><b>Prerrequisitos</b></h4><p>Ataque al galope, Combatir desde una montura, Montar 1 rango.</p>\n <h4><b>Beneficio:</b></h4><p>Si usas la acción de carga yendo montado, infligirás el doble de daño con un arma cuerpo a cuerpo (o el triple con una lanza de caballería).</p>"
 		},
 		"Split Psionic Ray": {
 			"name": "Split Psionic Ray",
@@ -1388,8 +1388,8 @@
 			"description": "\n\n\n<h3><span class=\"mw-headline\" id=\"Prerequisite\">Prerequisite</span></h3>\n<p>Spellcraft 25 ranks, ability to cast the maximum normal spell level of at least one spell-casting class.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>Select a spell the character can cast. The character may spontaneously convert any prepared spell of the selected spell’s level into the selected spell, just as a cleric channels energy to convert spells into <i>cure</i> spells.\n</p>\n<h3><span class=\"mw-headline\" id=\"Special\">Special</span></h3>\n<p>A character can gain this feat multiple times. Each time he or she takes the feat, it applies to a different spell.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Spring Attack": {
-			"name": "Ataque Elástico",
-			"description": "<i><p>Sabes moverte hábilmente hasta un enemigo, golpear y retirarte antes de que pueda reaccionar.</p></i><h4><b>Prerrequisitos</b></h4><p>Des 13, Esquiva, Movilidad, ataque base +4.</p><h4><b>Beneficio:</b></h4><p>Puedes moverte hasta el máximo de tu velocidad y hacer un</p><p>único ataque cuerpo a cuerpo sin provocar ataques de oportunidad del objetivo al que estás atacando. Puedes moverte tanto antes como después del ataque, pero debes moverte al menos 10 pies antes del ataque y la distancia total no puede superar tu velocidad. No puedes usar esta aptitud para atacar a un enemigo que esté adyacente a ti al comienzo de tu turno.</p><h4><b>Normal:</b></h4><p>No puedes moverte antes y después de un ataque.</p>"
+			"name": "Ataque elástico",
+			"description": "<i>Sabes llevar a cabo rápidos ataques de cuerpo a cuerpo y juegos de pies.</i> <h4><b>Prerrequisitos</b></h4><p>Ataque base +4 o superior, Des 13, Esquiva, Movilidad</p>\n <h4><b>Beneficio:</b></h4><p>Al usar la acción de ataque con tu arma de cuerpo a cuerpo, puedes moverte tanto antes como después del ataque, siempre y cuando la distancia total a mover no sea mayor que tu velocidad. Al desplazarte de este modo no te verás expuesto a un ataque de oportunidad por parte del defensor aunque eso puede provocar ataques de oportunidad de otras criaturas, cuando sea apropiado. No podrás usar esta dote si llevas puesta armadura pesada.</p>\n<p>Debes moverte al menos 5’ tanto antes como después de realizar tu ataque para poder utilizar los beneficios de un Ataque elástico.</p>"
 		},
 		"Stand Still": {
 			"name": "Detener",
@@ -1400,8 +1400,8 @@
 			"description": "<i><p>Eres bueno evitando la atención indeseada y escurriéndote de ataduras.</p></i><h4><b>Beneficio:</b></h4><p>Recibes un bonificador +2 a todas las pruebas de Escapismo y</p><p>Sigilo. Si tienes 10 o más rangos en alguna de esas habilidades, el bonificador aumenta a +4 para esa habilidad.</p>"
 		},
 		"Still Spell": {
-			"name": "Conjurar Sin Moverse",
-			"description": "<i><p>Puede lanzar conjuros sin moverte.</p></i><h4><b>Beneficio:</b></h4><p>Un conjuro sin moverse puede lanzarse sin componentes somáticos.</p><p>Los conjuros sin componentes somáticos no se ven afectados. Un conjuro sin moverse utiliza un espacio de conjuro mayor que el nivel real del conjuro.</p>"
+			"name": "Conjurar sin moverse",
+			"description": "<i>Puedes lanzar conjuros sin hacer gestos.</i> <h4><b>Beneficio:</b></h4><p>Un conjuro inmóvil puede ejecutarse sin componentes somáticos; uno que carezca de componente somático no se ve afectado. Los sortilegios inmóviles ocupan un espacio de conjuro un nivel superior al de su nivel real.</p>"
 		},
 		"Storm of Throws": {
 			"name": "Storm of Throws",
@@ -1445,11 +1445,11 @@
 		},
 		"Toughness": {
 			"name": "Dureza",
-			"description": "<i><p>Tienes una resistencia física mejorada.</p></i><h4><b>Beneficio:</b></h4><p>Ganas +3 puntos de golpe. Por cada Dado de golpe que poseas más allá de 3, recibes +1 punto de golpe adicional. Si tienes más de 3 Dados de</p><p>Golpe, recibes +1 punto de golpe cada vez que recibas un nuevo Dado de</p><p>Golpe (como al obtener un nivel).</p>"
+			"description": "<i>Eres más duro de lo normal.</i> <h4><b>Beneficio:</b></h4><p>Obtienes 3 puntos de golpe adicionales.</p>\n <h4><b>Especial:</b></h4><p>Todo personaje puede adquirir esta dote varias veces; sus efectos se apilan.</p>"
 		},
 		"Tower Shield Proficiency": {
-			"name": "Competencia Con Escudo Pavés",
-			"description": "<i><p>Estás entrenado para el uso correcto del escudo pavés.</p></i><h4><b>Prerrequisitos</b></h4><p>Competencia con escudo.</p><h4><b>Beneficio:</b></h4><p>Cuando utilizas un escudo pavés, el penalizador de armadura del escudo sólo se aplica a las pruebas de habilidad basadas en Fuerza o Destreza.</p><h4><b>Normal:</b></h4><p>Un personaje utilizando un escudo con el que no es competente aplica el penalizador por armadura del escudo a las tiradas de ataque y a todas las pruebas de habilidad que impliquen movimiento, incluyendo Montar.</p><h4><b>Especial:</b></h4><p>Los guerreros obtienen automáticamente la Competencia con escudo pavés como dote adicional. No necesitan seleccionarla.</p>"
+			"name": "Competencia con escudo pavés",
+			"description": "<i>Eres competente con los escudos paveses.</i> <h4><b>Prerrequisitos</b></h4><p>Competencia con escudo.</p>\n <h4><b>Beneficio:</b></h4><p>Puedes tasar un escudo pavés y sufrir solamente las penalizaciones normales.</p>\n <h4><b>Normal:</b></h4><p>Los personajes que utilizan un escudo en cuyo uso no son competentes sufren el correspondiente penalizador de armadura en las tiradas de ataque y en todas las pruebas de habilidad que impliquen movimiento, incluidas las de Montar.</p>\n <h4><b>Especial:</b></h4><p>Los guerreros obtienen automáticamente esta dote de forma gratuita, por lo que no necesitan elegirla.</p>"
 		},
 		"Track": {
 			"name": "Rastrear",
@@ -1517,15 +1517,15 @@
 		},
 		"Weapon Proficiency (No Weapon Set)": {
 			"name": "Weapon Proficiency (No Weapon Set)",
-			"description": "\n\n\n<p>Choose a type of martial weapon. You understand how to use that type of martial weapon in combat.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>You make attack rolls with the selected weapon normally.\n</p>\n<h3><span class=\"mw-headline\" id=\"Normal\">Normal</span></h3>\n<p>When using a weapon with which you are not proficient, you take a –4 penalty on attack rolls.\n</p>\n<h3><span class=\"mw-headline\" id=\"Special\">Special</span></h3>\n<p>Barbarians, fighters, paladins, and rangers are proficient with all martial weapons. They need not select this feat.\n</p><p>You can gain Martial Weapon Proficiency multiple times. Each time you take the feat, it applies to a new type of weapon.\n</p><p>A cleric who chooses the War domain automatically gains the Martial Weapon Proficiency feat related to his deity’s favored weapon as a bonus feat, if the weapon is a martial one. He need not select it.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
+			"description": "<p>Choose a type of martial weapon. You understand how to use that type of martial weapon in combat.<p>\n<p><p>\n<h3>Benefit</h3><p>You make attack rolls with the selected weapon normally.<p>\n<p><p>\n<h3>Normal</h3><p>When using a weapon with which you are not proficient, you take a –4 penalty on attack rolls.<p>\n<p><p>\n<h3>Special</h3><p>Barbarians, fighters, paladins, and rangers are proficient with all martial weapons. They need not select this feat.<p>\n<p><p>\n<p>You can gain Martial Weapon Proficiency multiple times. Each time you take the feat, it applies to a new type of weapon.<p>\n<p><p>\n<p>A cleric who chooses the War domain automatically gains the Martial Weapon Proficiency feat related to his deity’s favored weapon as a bonus feat, if the weapon is a martial one. He need not select it.<p>\n<p><p>\n<p><p>\n<p><p>"
 		},
 		"Weapon Specialization (No Weapon Set)": {
 			"name": "Weapon Specialization (No Weapon Set)",
 			"description": "\n\n\n<p>Choose one type of weapon for which you have already selected the Weapon Focus feat. You can also choose unarmed strike or grapple as your weapon for purposes of this feat. You deal extra damage when using this weapon.\n</p>\n<h3><span class=\"mw-headline\" id=\"Prerequisites\">Prerequisites</span></h3>\n<p>Proficiency with selected weapon, Weapon Focus with selected weapon, fighter level 4th.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Benefit</span></h3>\n<p>You gain a +2 bonus on all damage rolls you make using the selected weapon.\n</p>\n<h3><span class=\"mw-headline\" id=\"Special\">Special</span></h3>\n<p>You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of weapon.\n</p><p>A fighter may select Weapon Specialization as one of his fighter bonus feats bonus feats.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Whirlwind Attack": {
-			"name": "Ataque De Torbellino",
-			"description": "<i><p>Puedes golpear a todos los oponentes a tu alcance.</p></i><h4><b>Prerrequisitos</b></h4><p>Des 13, Int 13, Pericia en combate, Esquiva, Movilidad, Ataque elástico, Ataque base +4.</p><h4><b>Beneficio:</b></h4><p>Cuando usas una acción de ataque completo, puedes renunciar a tus ataques normales y, en su lugar, hacer un ataque cuerpo a cuerpo con tu ataque base más alto contra todos los oponentes dentro de tu alcance. Debes hacer una tirada de ataque separada contra cada oponente.</p><p>Cuando usas la dote Ataque de torbellino también pierdes cualquier ataque adicional proporcionado por otras dotes, conjuros o aptitudes.</p>"
+			"name": "Ataque de torbellino",
+			"description": "<i>Puedes golpear a los oponentes cercanos con un asombroso ataque giratorio.</i> <h4><b>Prerrequisitos</b></h4><p>Ataque base +4, Ataque elástico, Des 13, Esquiva, Int 13, Movilidad, Pericia en combate.</p>\n <h4><b>Beneficio:</b></h4><p>Al optar por la acción de ataque completo, puedes renunciar a tus ataques normales y, en su lugar, asestar un golpe de cuerpo a cuerpo con tu ataque base completo a todos los oponentes dentro de tu alcance. Cuando usas la dote Ataque de torbellino pierdes cualquier ataque adicional proporcionado por otras dotes o aptitudes (como la dote Hendedura o el conjuro <i>acelerar</i>).</p>"
 		},
 		"Widen Aura of Courage": {
 			"name": "Widen Aura of Courage",
