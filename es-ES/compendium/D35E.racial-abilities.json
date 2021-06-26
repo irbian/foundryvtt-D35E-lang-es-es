@@ -79,7 +79,7 @@
 		},
 		"Illusionist": {
 			"name": "Ilusionista",
-			"description": "<p>Obtienes los siguientes beneficios:</p>\n<ul style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">\n<li style=\"box-sizing: border-box; user-select: text; align-items: center;\">Un bono racial de +2 a todas las Ts contra conjuros y efectos de ilusión.</li>\n<li style=\"box-sizing: border-box; user-select: text; align-items: center;\">Aumenta en 1 la Cd para todas las Ts contra conjuros de ilusión que lances. Esta aptitud se apila con otros efectos similares, como la dote Soltura con una escuela de magia (ilusión)</li>\n</ul>"
+			"description": "<p>Obtienes los siguientes beneficios:</p>\n<ul style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">\n<li style=\"box-sizing: border-box; user-select: text; align-items: center;\">Un bono racial de +2 a todas las TS contra conjuros y efectos de ilusión.</li>\n<li style=\"box-sizing: border-box; user-select: text; align-items: center;\">Aumenta en 1 la CD para todas las TS contra conjuros de ilusión que lances. Esta aptitud se apila con otros efectos similares, como la dote Soltura con una escuela de magia (ilusión)</li>\n</ul>"
 		},
 		"Innate Resistance": {
 			"name": "Resistencia innata",
