@@ -47,7 +47,7 @@
 		},
 		"Elven Blood": {
 			"name": "Sangre élfica",
-			"description": "<p>Inmunidad a los efectos mágicos que causen sueño y un bonificador de +2 a la tirada de salvación contra conjuros o efectos de encantamiento.</p>"
+			"description": "<p>Inmunidad a los efectos mágicos que causen sueño y un bonificador de +2 a las tiradas de salvación contra conjuros o efectos de encantamiento.</p>"
 		},
 		"Fear Aura": {
 			"name": "Aura de miedo",
