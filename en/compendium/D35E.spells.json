@@ -1,11 +1,15 @@
 {
 	"label": "Spells",
 	"mapping": {
-        "name": {
-            "path": "name",
-            "converter": "nameWithOriginal"
-        }
-    },
+		"name": {
+			"path": "name",
+			"converter": "nameWithOriginal"
+		},
+		"class": {
+			"path": "data.learnedAt.class",
+			"converter": "classNamesArray"
+		}
+	},
 	"entries": {
 		"Acid Arrow": {
 			"name": "Acid Arrow",
