@@ -4,6 +4,14 @@
 		"name": {
 			"path": "name",
 			"converter": "nameWithOriginal"
+		},
+		"classes": {
+			"path": "data.associations.classes",
+			"converter": "classNamesArray"
+		},
+		"class": {
+			"path": "data.learnedAt.class",
+			"converter": "classNamesArray"
 		}
 	},
 	"entries": {
