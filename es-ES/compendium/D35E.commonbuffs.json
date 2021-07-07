@@ -2,7 +2,7 @@
 	"label": "Potenciadores comunes (Common Buffs)",
 	"mapping": {
 		"name": {
-			"path": "nombre",
+			"path": "name",
 			"converter": "nameWithOriginal"
 		}
 	},

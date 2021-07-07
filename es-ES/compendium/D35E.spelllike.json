@@ -1,10 +1,10 @@
 {
 	"label": "Habilidades sortilégicas (Spell-Like Abilities)",
 	"mapping": {
-        "class": {
-            "path": "data.learnedAt.class",
-            "converter": "classNamesArray"
-        }
+		"class": {
+			"path": "data.learnedAt.class",
+			"converter": "classNamesArray"
+		}
 	},
 	"entries": {
 		"Aid": {
