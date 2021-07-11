@@ -12,8 +12,8 @@
 			"description": "\n<p>Este conjuro llena de valor a tus aliados, los cuales obtienen un +1 de moral en sus tiradas de ataque y en sus TS\n    contra efectos de miedo. <i>Bendecir</i>contrarresta y disipa el conjuro <i>Perdición.</i></p>\n"
 		},
 		"Augmented Summon": {
-			"name": "Augmented Summon",
-			"description": "<p>Summoned creature gains a +4 enhancement bonus to Strength and Constitution for the duration of the spell that summoned it.</p>"
+			"name": "Convocación aumentada",
+			"description": "<p>La criatura invocada obtiene un bonificador de mejora +4 a la fuerza y la constitución mientras dure el hechizo que la convocó.</p>"
 		},
 		"Bane": {
 			"name": "Perdición",
@@ -37,7 +37,7 @@
 		},
 		"Burst": {
 			"name": "Estallido",
-			"description": "<p>Increase your speed by 10 feet, plus 10 feet per four character levels beyond 1st, to a maximum increase of 30 feet at 9th character level and higher. These bursts of speed are considered a competence bonus to the&nbsp;your base speed. A burst of speed lasts 3 rounds.</p>"
+			"description": "<p>Aumenta tu velocidad en 10 pies, más 10 pies por cada cuatro niveles de personaje más allá del primero, hasta un aumento máximo de 30 pies en el noveno nivel de personaje y superior. Estas ráfagas de velocidad se consideran una bonificación de competencia a su velocidad base. Una ráfaga de velocidad dura 3 asaltos.</p>"
 		},
 		"Cat's Grace": {
 			"name": "Gracia felina",
@@ -45,11 +45,11 @@
 		},
 		"Defensive Stance": {
 			"name": "Posición defensiva",
-			"description": "<p>He gains +2 to Strength, +4 to Constitution, a +2 resistance bonus on all saves, and a +4 dodge bonus to AC. The increase in Constitution increases the defender’s hit points by 2 points per level, but these hit points go away at the end of the defensive stance when the Constitution score drops back 4 points. These extra hit points are not lost first the way temporary hit points are. While in a defensive stance, a defender cannot use skills or abilities that would require him to shift his position. A defensive stance lasts for a number of rounds equal to 3 + the character’s (newly improved) Constitution modifier. A defender may end his defensive stance voluntarily prior to this limit. At the end of the defensive stance, the defender is winded and takes a -2 penalty to Strength for the duration of that encounter.&nbsp;</p>"
+			"description": "<p>Obtiene +2 de Fuerza, +4 de Constitución, un bonificador de resistencia de +2 en todas las salvaciones y un bonificador de esquiva de +4 a la CA. El aumento de Constitución aumenta los puntos de golpe del defensor en 2 puntos por nivel, pero estos puntos de golpe desaparecen al final de la posición defensiva cuando la puntuación de Constitución baja 4 puntos. Estos puntos de golpe adicionales no se pierden primero como se pierden los puntos de golpe temporales. Mientras está en una posición defensiva, un defensor no puede usar habilidades o habilidades que requieran que cambie de posición. Una postura defensiva dura un número de asaltos igual a 3 + el modificador de Constitución (recientemente mejorado) del personaje. Un defensor puede finalizar su posición defensiva voluntariamente antes de este límite. Al final de la posición defensiva, el defensor se queda sin aliento y aplica un penalizador de -2 a la Fuerza durante la duración de ese encuentro.</p>"
 		},
 		"Defensive Stance Winded": {
-			"name": "Defensive Stance Winded",
-			"description": ""
+			"name": "Posición defensiva (sin aliento)",
+			"description": "Al finalizar la posición defensiva, el aventurero queda sin aliento y luchará con un penalizador de -2 a la fuerza durante el resto del encuentro."
 		},
 		"Divine Favor": {
 			"name": "Favor divino",
@@ -60,8 +60,8 @@
 			"description": "\n<p>La criatura afectada por este conjuro ve como su elocuencia, su magnetismo y su personalidad se vuelven más firmes.\n    Obtiene un bono de mejora de +4 a su puntuación de CAR. Todas las habilidades y aptitudes dependientes de la CAR se\n    beneficiaran de este aumento. Sin embargo, no obtendrá conjuros adicionales de una clase que dependa de la CAR por\n    tener una CAR alta, aunque la CD de los conjuros sí que aumentara.</p>\n"
 		},
 		"Enraged": {
-			"name": "Enraged",
-			"description": "<p>A barbarian can fly into a rage a certain number of times per day. In a rage, a barbarian temporarily gains a +4 bonus to Strength, a +4 bonus to Constitution, and a +2 morale bonus on Will saves, but he takes a -2 penalty to Armor Class. The increase in Constitution increases the barbarian&rsquo;s hit points by 2 points per level, but these hit points go away at the end of the rage when his Constitution score drops back to normal. (These extra hit points are not lost first the way temporary hit points are.) While raging, a barbarian cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except for Balance, Escape Artist, Intimidate, and Ride), the Concentration skill, or any abilities that require patience or concentration, nor can he cast spells or activate magic items that require a command word, a spell trigger (such as a wand), or spell completion (such as a scroll) to function. He can use any feat he has except Combat Expertise, item creation feats, and metamagic feats. A fit of rage lasts for a number of rounds equal to 3 + the character&rsquo;s (newly improved) Constitution modifier.</p>\n<p>&nbsp;</p>\n<p><strong>Usage: </strong>Set the buff's level to the 1 for Standard Rage, 2 for Greater Rage and 3 for Mghty Rage</p>"
+			"name": "Furioso",
+			"description": "<p>Un bárbaro puede enfurecerse un cierto número de veces al día. En una furia bárbara, un bárbaro obtiene temporalmente un bonificador +4 a la Fuerza, un bonificador +4 a la Constitución y un bonificador +2 de moral a las salvaciones de Voluntad, pero sufre un penalizador -2 a la Clase de Armadura. El aumento de Constitución aumenta los&rsquo;s en 2 puntos por nivel, pero estos puntos de golpe desaparecen al final de la rabia cuando su puntuación de Constitución vuelve a la normalidad. (Estos puntos de golpe adicionales no se pierden primero de la misma manera que los puntos de golpe temporales). Mientras está furioso, un bárbaro no puede usar ninguna habilidad basada en Carisma, Destreza o Inteligencia (excepto Equilibrio, Artista del escape, Intimidar y Montar), la habilidad de Concentración, o cualquier habilidad que requiera paciencia o concentración, ni puede lanzar hechizos o activar elementos mágicos que requieran una palabra de comando, un disparador de hechizo (como una varita) o completar un hechizo (como un pergamino) para funcionar. Puede usar cualquier dote que tenga excepto Pericia en combate, dotes de creación de objetos y dotes metamágicas. Un ataque de ira dura un número de rondas igual a 3 + el&rsquo;s (recientemente mejorado) del personaje.</p>\n<p>&nbsp;</p>\n<p><strong>Uso: </strong>Establece el nivel del beneficio en 1 para Furia estándar, 2 para Furia superior y 3 para Furia intensa</p>"
 		},
 		"Fatigue": {
 			"name": "Fatigue",
