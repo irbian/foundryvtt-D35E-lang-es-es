@@ -48,8 +48,8 @@
 			"description": "<p>Obtiene +2 de Fuerza, +4 de Constitución, un bonificador de resistencia de +2 en todas las salvaciones y un bonificador de esquiva de +4 a la CA. El aumento de Constitución aumenta los puntos de golpe del defensor en 2 puntos por nivel, pero estos puntos de golpe desaparecen al final de la posición defensiva cuando la puntuación de Constitución baja 4 puntos. Estos puntos de golpe adicionales no se pierden primero como se pierden los puntos de golpe temporales. Mientras está en una posición defensiva, un defensor no puede usar habilidades o habilidades que requieran que cambie de posición. Una postura defensiva dura un número de asaltos igual a 3 + el modificador de Constitución (recientemente mejorado) del personaje. Un defensor puede finalizar su posición defensiva voluntariamente antes de este límite. Al final de la posición defensiva, el defensor se queda sin aliento y aplica un penalizador de -2 a la Fuerza durante la duración de ese encuentro.</p>"
 		},
 		"Defensive Stance Winded": {
-			"name": "Posición defensiva sin aliento",
-			"description": ""
+			"name": "Posición defensiva (sin aliento)",
+			"description": "Al finalizar la posición defensiva, el aventurero queda sin aliento y luchará con un penalizador de -2 a la fuerza durante el resto del encuentro."
 		},
 		"Divine Favor": {
 			"name": "Favor divino",
