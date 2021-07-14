@@ -1,3 +1,1 @@
-Readonly files, generated with babele
-
-Current version: 0.93.1
+Readonly files, generated with babele from D35E version 0.93.1 
