@@ -2,7 +2,7 @@
   "name": "translation-d35e-compendium-es",
   "title": "3.5e SRD translation - Spanish",
   "description": "Add Spanish language translations to D35E system compendiums for FoundryVTT.",
-  "version": "0.16.0",
+  "version": "0.16.1",
   "minimumCoreVersion" : "0.7.9",
   "compatibleCoreVersion": "0.8.8",
 
