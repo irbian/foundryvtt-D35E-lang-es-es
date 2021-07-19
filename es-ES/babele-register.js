@@ -7,7 +7,9 @@ Hooks.on('init', async () => {
         const classEntries = await fetch("./modules/translation-d35e-compendium-es/compendium/D35E.classes.json")
             .then(response => response.json())
             .then(json => json.entries);
-        const classTransformation = _.mapValues(classEntries, 'name');
+        const classTransformation = Object.fromEntries(
+            Object.entries(classEntries).map(([key, { name }]) => [key, name])
+        ); // equivalent to _.mapValues(classEntries, 'name');
 
         Babele.get().register({
             module: 'translation-d35e-compendium-es',
