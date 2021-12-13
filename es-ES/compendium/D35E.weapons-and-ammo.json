@@ -108,7 +108,7 @@
 			"description": "<p>Una gran clava es una versión a dos manos de una clava normal. A menudo está tachonada de clavos o púas o rodeado por bandas de hierro.</p>"
 		},
 		"Greatsword": {
-			"name": "Gran espada",
+			"name": "Espadón",
 			"description": "<p>Los aventureros reconocen la gran espada como una de las mejores armas cuerpo a cuerpo disponibles. Es confiable y poderosa.</p>"
 		},
 		"Guisarme": {
@@ -184,7 +184,7 @@
 			"description": "<p>La ballesta de repetición (ya sea pesada o liviana) tiene 5 virotes de ballesta. Mientras tenga virotes, puede recargarse tirando de la palanca de recarga (una acción gratuita). Cargar una nueva caja de 5 virotes es una acción de asalto completo que provoca ataques de oportunidad. Puede disparar una ballesta de repetición con una mano o disparar una ballesta de repetición en cada mano de la misma manera que lo haría con una ballesta normal del mismo tamaño. Sin embargo, debes disparar el arma con las dos manos para poder usar la palanca de recarga, y debes usar las dos manos para cargar una nueva caja de virotes.</p>"
 		},
 		"Longbow": {
-			"name": "Arco",
+			"name": "Arco largo",
 			"description": "<p>Necesitas al menos dos manos para usar un arco, independientemente de su tamaño. Un arco largo es demasiado difícil de manejar mientras estás montado. Si tienes una penalización por poca Fuerza, aplícala a las tiradas de daño cuando uses un arco largo. Si tienes una bonificación por alta Fuerza, puedes aplicarla a las tiradas de daño cuando usas un arco largo compuesto (ver más abajo) pero no un arco largo normal.</p>"
 		},
 		"Longspear": {

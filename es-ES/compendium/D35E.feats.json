@@ -1397,7 +1397,7 @@
 		},
 		"Stealthy": {
 			"name": "Sigiloso",
-			"description": "<i><p>Eres bueno evitando la atención indeseada y escurriéndote de ataduras.</p></i><h4><b>Beneficio:</b></h4><p>Recibes un bonificador +2 a todas las pruebas de Escapismo y</p><p>Sigilo. Si tienes 10 o más rangos en alguna de esas habilidades, el bonificador aumenta a +4 para esa habilidad.</p>"
+			"description": "<i><p>Eres especialmente bueno evitando la atención indeseada.</p></i><h4><b>Beneficio:</b></h4><p>Recibes un bonificador +2 a todas las pruebas de Esconderse y</p><p>Moverse sigilosamente.</p>"
 		},
 		"Still Spell": {
 			"name": "Conjurar sin moverse",

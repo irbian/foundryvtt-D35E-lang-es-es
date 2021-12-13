@@ -68,7 +68,7 @@
 			"description": "<p>Una pequeña campana de latón</p>"
 		},
 		"Bit and bridle": {
-			"name": "Boca y bridas",
+			"name": "Bocado y brida",
 			"description": "<p>El equipo facial de un caballo para ayudar al jinete a controlar la montura</p>"
 		},
 		"Blanket, winter": {
@@ -520,7 +520,7 @@
 			"description": "<p>Este dispositivo grande y voluminoso da la hora con una precisión de media hora por día desde que se configuró por última vez. Requiere una fuente de agua y debe mantenerse quieto porque marca el tiempo por el flujo regulado de gotas de agua. Es principalmente una diversión para los ricos y una herramienta para el estudiante de la tradición arcana. La mayoría de las personas no tienen forma de saber la hora exacta, y no tiene mucho sentido saber que son las 2:30 pm si nadie más lo sabe.</p>"
 		},
 		"Waterskin": {
-			"name": "Cantimplora",
+			"name": "Odre",
 			"description": "<p>Un odre de agua o de vino tiene capacidad para 2 litros (1/2 galón) de líquido y pesa 2 kilos (4 libras) cuando está lleno.</p>"
 		},
 		"Whetstone": {
