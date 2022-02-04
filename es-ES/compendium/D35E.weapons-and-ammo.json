@@ -65,10 +65,10 @@
 		},
 		"Dire Flail": {
 			"name": "Mayal temible",
-			"description": "<p>Un mayal terrible es un arma doble. Puedes luchar con él como si estuvieras luchando con dos armas, pero si lo haces, incurres en todas las penalizaciones de ataque normales asociadas con luchar con dos armas, como si estuvieras usando un arma de una mano y un arma ligera (ver Dos- Weapon Fighting, página 160). Una criatura que empuñe un mayal terrible en una mano no puede usarlo como arma doble; solo se puede usar un extremo del arma en una ronda determinada. Cuando usas un mayal terrible, obtienes un bonificador +2 a las tiradas de ataque opuestas realizadas para desarmar a un enemigo (incluida la tirada de ataque opuesto para evitar ser desarmado si tal intento falla). También puedes usar esta arma para hacer ataques de derribo. Si se tropieza durante tu propio intento de derribo, puede soltar el mayal para evitar que te derriben.</p>"
+			"description": "<p>Un mangual doble es un arma doble. Puedes luchar con él como si estuvieras luchando con dos armas, pero si lo haces, incurres en todas las penalizaciones de ataque normales asociadas con luchar con dos armas, como si estuvieras usando un arma de una mano y un arma ligera (ver Dos- Weapon Fighting, página 160). Una criatura que empuñe un mangual doble en una mano no puede usarlo como arma doble; solo se puede usar un extremo del arma en una ronda determinada. Cuando usas un mangual doble, obtienes un bonificador +2 a las tiradas de ataque opuestas realizadas para desarmar a un enemigo (incluida la tirada de ataque opuesto para evitar ser desarmado si tal intento falla). También puedes usar esta arma para hacer ataques de derribo. Si tratan de derribarte durante tu propio intento de derribo, puedes soltar el mangual doble para evitar que te derriben.</p>"
 		},
 		"Dwarven Urgrosh": {
-			"name": "Enano Urgrosh",
+			"name": "Urgrosh enano",
 			"description": "<p>Un urgrosh enano es un arma doble. Puedes luchar con ella como si estuvieras luchando con dos armas, pero si lo haces, incurres en todas las penalizaciones de ataque normales asociadas con luchar con dos armas, como si estuvieras usando un arma de una mano y un arma ligera (ver Dos- Weapon Fighting, página 160). La cabeza del hacha del urgrosh es un arma cortante que inflige 1d8 puntos de daño. Su punta de lanza es un arma perforadora que inflige 1d6 puntos de daño. Puedes usar cualquiera de las cabezas como arma principal. El otro es el arma de la mano izquierda. Una criatura que empuñe un urgrosh enano en una mano no puede usarlo como arma doble; solo se puede usar un extremo del arma en una ronda determinada. Si usas una acción preparada para establecer un urgrosh contra una carga, infliges el doble de daño si logras un golpe contra un personaje que carga. Si usas un urgrosh contra un personaje que carga, la punta de lanza es la parte del arma que inflige daño. Un urgrosh también se llama hacha de lanza. Los enanos tratan a los urgroshes enanos como armas marciales.</p>"
 		},
 		"Dwarven Waraxe": {
@@ -81,19 +81,19 @@
 		},
 		"Flail": {
 			"name": "Mayal",
-			"description": "<p>Con un mayal, obtienes un bonificador +2 a las tiradas de ataque opuestas realizadas para desarmar a un enemigo (incluida la tirada para evitar ser desarmado si tal intento falla). También puedes usar esta arma para hacer ataques de derribo. Si te derriban durante su propio intento de derribo, puede soltar el mayal para evitar ser derribado.</p>"
+			"description": "<p>Con un mangual, obtienes un bonificador +2 a las tiradas de ataque opuestas realizadas para desarmar a un enemigo (incluida la tirada para evitar ser desarmado si tal intento falla). También puedes usar esta arma para hacer ataques de derribo. Si te derriban durante su propio intento de derribo, puedes soltar el mangual para evitar ser derribado.</p>"
 		},
 		"Gauntlet": {
 			"name": "Guantelete",
-			"description": "<p>Este guante de metal protege tus manos y te permite infligir daño letal en lugar de daño no letal con golpes desarmados. Un golpe con un guantelete se considera un ataque desarmado. El costo y el peso indicados son para un solo guante. Las armaduras medianas y pesadas (excepto el peto) vienen con guanteletes.</p>"
+			"description": "<p>Este guante de metal protege tus manos y te permite infligir daño letal en lugar de daño no letal con un impacto sin arma. Por lo demás, un golpe con un guantelete se considera un impacto sin arma. El costo y el peso indicados son para un solo guante. Las armaduras medianas y pesadas (excepto el peto) vienen con guanteletes.</p>"
 		},
 		"Glaive": {
 			"name": "Guja",
 			"description": "<p>Una guja tiene alcance. Puedes golpear a tus oponentes a 10 pies de distancia con él, pero no puedes usarlo contra un enemigo adyacente.</p>"
 		},
 		"Gnome Hooked Hammer": {
-			"name": "Martilo de gnomo con gancho",
-			"description": "<p>Un martillo de gnomo con gancho es un arma doble. Puedes luchar con él como si estuvieras luchando con dos armas, pero si lo haces, incurres en todas las penalizaciones de ataque normales asociadas con luchar con dos armas, como si estuvieras usando un arma de una mano y un arma ligera (ver Dos- Weapon Fighting, página 160). La cabeza roma del martillo es un arma contundente que inflige 1d6 puntos de daño (crítico × 3). Su gancho es un arma perforadora que inflige 1d4 puntos de daño (crítico × 4). Puedes usar cualquiera de las cabezas como arma principal. La otra cabeza es el arma torpe. Una criatura que empuñe un martillo con gancho de gnomo en una mano no puede usarlo como arma doble; solo se puede usar un extremo del arma en una ronda determinada. Puedes usar un martillo de gnomo con gancho para hacer ataques de derribo. Si te derriban durante tu propio intento de derribo, puedes soltar el martillo de gnomo con gancho para evitarlo. Los gnomos tratan a los martillos con ganchos de gnomos como armas marciales.</p>"
+			"name": "Martillo ganchudo gnomo",
+			"description": "<p>Un martillo ganchudo gnomo es un arma doble. Puedes luchar con él como si estuvieras luchando con dos armas, pero si lo haces, incurres en todas las penalizaciones de ataque normales asociadas con luchar con dos armas, como si estuvieras usando un arma de una mano y un arma ligera (ver Dos- Weapon Fighting, página 160). La cabeza roma del martillo es un arma contundente que inflige 1d6 puntos de daño (crítico × 3). Su gancho es un arma perforadora que inflige 1d4 puntos de daño (crítico × 4). Puedes usar cualquiera de las cabezas como arma principal. La otra cabeza es el arma torpe. Una criatura que empuñe un martillo ganchudo gnomo en una mano no puede usarlo como arma doble; solo se puede usar un extremo del arma en una ronda determinada. Puedes usar un martillo ganchudo gnomo para hacer ataques de derribo. Si te derriban durante tu propio intento de derribo, puedes soltar el martillo ganchudo gnomo para evitarlo. Los gnomos tratan a los martillos ganchudos gnomos como armas marciales.</p>"
 		},
 		"Grappling Hook": {
 			"name": "Gancho",
@@ -132,8 +132,8 @@
 			"description": "<p>Una ballesta pesada se carga girando un pequeño cabrestante hacia atrás. Cargar una ballesta pesada es una acción de asalto completo que provoca ataques de oportunidad. Normalmente, operar una ballesta pesada requiere dos manos. Sin embargo, puedes disparar, pero no cargar, una ballesta pesada con una mano con una penalización de -4 en las tiradas de ataque. Puedes disparar una ballesta pesada con cada mano, pero recibes una penalización en las tiradas de ataque como si atacases con dos armas de una mano (consulta la Tabla &nbsp; 8-10: Penalizaciones por peleas con dos armas, página 160). Esta penalización es acumulativa con la penalización por disparar con una mano.</p>\n<p>&nbsp;</p>"
 		},
 		"Heavy Flail": {
-			"name": "Mayal pesado",
-			"description": "<p>Con un mayal, obtienes un bonificador +2 a las tiradas de ataque opuestas realizadas para desarmar a un enemigo (incluida la tirada para evitar ser desarmado si tal intento falla). También puedes usar este arma para hacer ataques de derribo. Si te derriban durante su propio intento de viaje, puede soltar el mayal para evitar que te derriben.</p>"
+			"name": "Mangual pesado",
+			"description": "<p>Con un mangual, obtienes un bonificador +2 a las tiradas de ataque opuestas realizadas para desarmar a un enemigo (incluida la tirada para evitar ser desarmado si tal intento falla). También puedes usar este arma para hacer ataques de derribo. Si te derriban durante su propio intento de derribo, puedes soltar el mangual para evitar que te derriben.</p>"
 		},
 		"Heavy Mace": {
 			"name": "Maza pesada",
@@ -161,7 +161,7 @@
 		},
 		"Lance": {
 			"name": "lanza",
-			"description": "<p>Una lanza inflige el doble de daño cuando se usa desde la parte trasera de una montura de carga. Tiene alcance, por lo que puedes golpear a tus oponentes a 10 pies de distancia con él, pero no puedes usarlo contra un enemigo adyacente. Mientras está montado, puede empuñar una lanza con una mano.</p>"
+			"description": "<p>Una lanza de caballería inflige el doble de daño cuando se usa a lomos de una montura a la carga. Tiene alcance, por lo que puedes golpear a tus oponentes a 10 pies de distancia con ella, pero no puedes usarla contra un enemigo adyacente. Mientras estés montado, puedes empuñar una lanza de caballería con una mano.</p>"
 		},
 		"Light Crossbow": {
 			"name": "Ballesta ligera",
@@ -196,8 +196,8 @@
 			"description": "<p>Esta clásica hoja recta es el arma de valerosos caballeros. Es un arma favorita de muchos paladines.</p>"
 		},
 		"Morningstar": {
-			"name": "Estrella de la mañana",
-			"description": "<p>Una estrella de la mañana inflige un daño tanto penetrante como contundente.</p>"
+			"name": "Maza de armas",
+			"description": "<p>Una maza de armas inflige un daño tanto perforante como contundente.</p>"
 		},
 		"Net": {
 			"name": "Red",
@@ -313,7 +313,7 @@
 		},
 		"Unarmed Strike": {
 			"name": "Golpe desarmado",
-			"description": "<p>Un personaje Medio inflige 1d3 puntos de daño no letal con un golpe desarmado, que puede ser un puñetazo, una patada, un cabezazo u otro tipo de ataque. Un personaje pequeño inflige 1d2 puntos de daño no letal. Un monje o cualquier personaje con la dote Golpe desarmado mejorado puede infligir daño letal o no letal con golpes desarmados, a su elección. El daño de un golpe sin armas se considera daño de arma a los efectos de los efectos que te dan una bonificación en las tiradas de daño de arma. Un golpe sin armas siempre se considera un arma ligera. Por lo tanto, puedes usar la dote de sutileza con armas (página 102) para aplicar tu modificador de Destreza en lugar de tu modificador de Fuerza a las tiradas de ataque con un golpe sin armas.</p>"
+			"description": "<p>Un personaje Medio inflige 1d3 puntos de daño no letal con un impacto sin arma, que puede ser un puñetazo, una patada, un cabezazo u otro tipo de ataque. Un personaje pequeño inflige 1d2 puntos de daño no letal. Un monje o cualquier personaje con la dote Golpe desarmado mejorado puede infligir daño letal o no letal con un impacto sin arma, a su elección. El daño de un impacto sin arma se considera daño con arma al aplicar los efectos que te dan una bonificación en las tiradas de daño con arma. Un impacto sin arma siempre se considera un arma ligera. Por lo tanto, puedes usar la dote de sutileza con armas (página 102) para aplicar tu modificador de Destreza en lugar de tu modificador de Fuerza a las tiradas de ataque con un impacto sin arma.</p>"
 		},
 		"Warhammer": {
 			"name": "Martillo de guerra",
