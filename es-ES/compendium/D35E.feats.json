@@ -32,7 +32,7 @@
 			"description": "\n\n\n<p>Tu ataque cuerpo a cuerpo o a distancia supera la reducción de daño basado en el alineamiento del oponente e inflige daño adicional.\n</p>\n<h3><span class=\"mw-headline\" id=\"Prerequisite\">Prerrequisito</span></h3>\n<p>Bono de Ataque Base +6.\n</p>\n<h3><span class=\"mw-headline\" id=\"Benefit\">Beneficios</span></h3>\n<p>Cuando tome esta función, elegir entre el caos, el bien, el mal o la ley. (Su elección debe coincidir con uno de sus componentes de alineación. Una vez que haya hecho esta opción de alineación, no se puede cambiar.\n</p><p>Para usar esta función, debe añadir su enfoque psiónico. Cuando hagas un ataque cuerpo a cuerpo o a distancia exitoso, infliges un 1d6 puntos de daño extra y tu ataque es tratado como un ataque bien, ataque malvado, caótico o legal (dependiendo de su elección original) con el propósito de superar la reducción de daño.\n</p><p>Debes decidir si usar o no esta dote antes de hacer un ataque. Si el ataque no se produce, todavía se emplea el enfoque psiónico.\n</p><p><br/>\n</p>\n<hr/>\n\n\n"
 		},
 		"Animal Affinity": {
-			"name": "Afinidad Animal",
+			"name": "Afinidad con los animales",
 			"description": "<i>Eres bueno con los animales.</i> <h4><b>Beneficio:</b></h4><p>Obtienes un bonificador +2 a todas las pruebas de Montar y Trato con animales.</p>"
 		},
 		"Antipsionic Magic": {
