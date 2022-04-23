@@ -160,7 +160,7 @@
 			"description": "<p>Este cuchillo curvo y pesado tiene su borde afilado en el interior de la curva.</p>"
 		},
 		"Lance": {
-			"name": "lanza",
+			"name": "Lanza",
 			"description": "<p>Una lanza de caballería inflige el doble de daño cuando se usa a lomos de una montura a la carga. Tiene alcance, por lo que puedes golpear a tus oponentes a 10 pies de distancia con ella, pero no puedes usarla contra un enemigo adyacente. Mientras estés montado, puedes empuñar una lanza de caballería con una mano.</p>"
 		},
 		"Light Crossbow": {
