@@ -12,7 +12,7 @@
 	},
 	"entries": {
 		"Acid Arrow": {
-			"name": "Flecha ácida de Melf",
+			"name": "Flecha ácida",
 			"description": "<p>Conjuración (Creación) [ácido]</p>\n<p><b>Nivel:</b> F. Ocaso 2, Hech. / Mago 2, M. Guerra 2</p>\n<p><b>Componentes:</b> V, S, M, F</p>\n<p><b>Tiempo de lanzamiento:</b> 1 acción estándar</p>\n<p><b>Alcance:</b> Largo</p>\n<p><b>Efecto:</b> Una flecha de ácido</p>\n<p><b>Duración:</b> 1 asalto + 1 asalto / 3 NL</p>\n<p><b>Tirada de Salvación:</b> No</p>\n<p><b>Resistencia a Conjuros:</b> No</p>\n<section>\n<p>Una flecha mágica hecha de ácido sale de tu mano y se dirige rápidamente hacia el objetivo que tú elijas. Deberás\n    tener éxito en un ataque de toque a distancia contra el objetivo, y si logras impactarle sufrirá 2d4 puntos de daño\n    por ácido. El ácido permanecerá en el cuerpo de la criatura (a no ser que pueda ser retirado) durante 1 asalto por\n    cada 3 NL que tengas, infligiendo en cada asalto 2d4 puntos de daño por ácido.</p>\n<p><i>Foco:</i> Un dardo.</p>\n</section>"
 		},
 		"Acid Fog": {
