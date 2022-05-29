@@ -65,7 +65,7 @@
 		},
 		"Fatigue": {
 			"name": "Fatigue",
-			"description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">A fatigued character can neither run nor charge and takes a -2 penalty to Strength and Dexterity. Doing anything that would normally cause fatigue causes the fatigued character to become exhausted. After 8 hours of complete rest, fatigued characters are no longer fatigued.</p>\n<p>&nbsp;</p>"
+			"description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813;\">Un personaje fatigado no puede correr ni cargar y sufre un penalizador de -2 a Fuerza y Destreza. Hacer cualquier cosa que normalmente causaría el estado fatigado, hace que un personaje ya fatigado quede exhausto. Tras 8 horas de descanso completo, los personajes fatigados se recuperan.</p>\n<p>&nbsp;</p>"
 		},
 		"Fox's Cunning": {
 			"name": "Astucia de zorro",
@@ -92,7 +92,7 @@
 			"description": "\n<p>Este conjuro imbuye con un gran valor y ansias de batalla al receptor, otorgándole un bono de +2 de moral en sus\n    tiradas de ataque, TS y pruebas de habilidad.</p>\n"
 		},
 		"Inertial Armor": {
-			"name": "Inertial Armor",
+			"name": "Armadura inercial",
 			"description": "<p>Your mind generates a tangible field of force that provides a +4 armor bonus to Armor Class. Unlike mundane armor,&nbsp;<em>inertial armor&nbsp;</em>entails no armor check penalty or speed reduction. Because&nbsp;<em>inertial armor&nbsp;</em>is composed of psychokinetic force, incorporeal creatures can&rsquo;t bypass it the way they do normal armor.</p>\n<p>Your&nbsp;<em>inertial armor&nbsp;</em>can be invisible or can appear as a colored glow, at your option.</p>\n<p>The armor bonus provided by&nbsp;<em>inertial armor&nbsp;</em>does not stack with the armor bonus provided by regular armor.</p>"
 		},
 		"Inspire Courage": {
@@ -104,7 +104,7 @@
 			"description": "<p>A bard of 9th level or higher with 12 or more ranks in a Perform skill can use music or poetics to inspire greatness in himself or a single willing ally within 30 feet, granting him or her extra fighting capability. For every three levels a bard attains beyond 9th, he can target one additional ally with a single use of this ability (two at 12th level, three at 15th, four at 18th). To inspire greatness, a bard must sing and an ally must hear him sing. The effect lasts for as long as the ally hears the bard sing and for 5 rounds thereafter. A creature inspired with greatness gains 2 bonus Hit Dice (d10s), the commensurate number of temporary hit points (apply the target’s Constitution modifier, if any, to these bonus Hit Dice), a +2 competence bonus on attack rolls, and a +1 competence bonus on Fortitude saves. The bonus Hit Dice count as regular Hit Dice for determining the effect of spells that are Hit Dice dependant. Inspire greatness is a mind-affecting ability.</p>"
 		},
 		"Inspire Heroics": {
-			"name": "Inspire Heroics",
+			"name": "Infundir heroismo",
 			"description": "<p>A bard of 15th level or higher with 18 or more ranks in a Perform skill can use music or poetics to inspire tremendous heroism in himself or a single willing ally within 30 feet. For every three bard levels the character attains beyond 15th, he can inspire heroics in one additional creature. To inspire heroics, a bard must sing and an ally must hear the bard sing for a full round. A creature so inspired gains a +4 morale bonus on saving throws and a +4 dodge bonus to AC. The effect lasts for as long as the ally hears the bard sing and for up to 5 rounds thereafter. Inspire heroics is a mind-affecting ability.</p>"
 		},
 		"Lullaby": {
