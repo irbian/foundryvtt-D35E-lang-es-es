@@ -9,7 +9,7 @@
 	"entries": {
 		"Abjuration Spell School": {
 			"name": "Escuela de hechizos de abjuración",
-			"description": "<p>Las abjuraciones son hechizos protectores. Crean barreras físicas o mágicas, niegan habilidades mágicas o físicas, dañan a los intrusos o incluso desterran al sujeto del hechizo a otro plano de existencia. </p> \n <p> Si un hechizo de abjuración está activo a 10 pies (3 metros) de otro durante 24 horas o más, los campos mágicos interfieren entre sí y crean fluctuaciones de energía apenas visibles. La CD para encontrar tales hechizos con la habilidad de Búsqueda se reduce en 4. </p> \n <p> Si una abjuración crea una barrera que mantiene a raya a ciertos tipos de criaturas, esa barrera no se puede usar para alejar a esas criaturas. Si fuerza la barrera contra una criatura así, siente una presión perceptible contra la barrera. Si continúa aplicando presión, finaliza el hechizo.</p>"
+			"description": "<p>Las abjuraciones son hechizos protectores. Crean barreras físicas o mágicas, niegan habilidades mágicas o físicas, dañan a los intrusos o incluso desterran al sujeto del hechizo a otro plano de existencia. </p> \n <p> Si un hechizo de abjuración está activo a 10 pies de otro durante 24 horas o más, los campos mágicos interfieren entre sí y crean fluctuaciones de energía apenas visibles. La CD para encontrar tales hechizos con la habilidad de Búsqueda se reduce en 4. </p> \n <p> Si una abjuración crea una barrera que mantiene a raya a ciertos tipos de criaturas, esa barrera no se puede usar para alejar a esas criaturas. Si fuerza la barrera contra una criatura así, siente una presión perceptible contra la barrera. Si continúa aplicando presión, finaliza el hechizo.</p>"
 		},
 		"Air Domain": {
 			"name": "Dominio de aire",
