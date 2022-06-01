@@ -49,7 +49,7 @@
 		},
 		"Defensive Stance Winded": {
 			"name": "Posición defensiva (sin aliento)",
-			"description": "Al finalizar la posición defensiva, el aventurero queda sin aliento y luchará con un penalizador de -2 a la fuerza durante el resto del encuentro."
+			"description": ""
 		},
 		"Divine Favor": {
 			"name": "Favor divino",
