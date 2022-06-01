@@ -4,6 +4,10 @@
 		"Camouflaged Pit Trap": {
 			"name": "Trampa de foso camuflada",
 			"description": ""
+		},
+		"Basic Arrow Trap": {
+			"name": "Basic Arrow Trap",
+			"description": ""
 		}
 	}
 }
